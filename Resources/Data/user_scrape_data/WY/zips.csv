@@ -1,0 +1,180 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+82001,41.095,-104.93265,Cheyenne,WY,Wyoming,True,,36944.0,258.8,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82005,41.14631,-104.86787,Fe Warren Afb,WY,Wyoming,True,,646.0,96.3,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82007,41.06231,-104.75591,Cheyenne,WY,Wyoming,True,,21642.0,43.1,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82009,41.38431,-104.85415,Cheyenne,WY,Wyoming,True,,34666.0,10.5,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82050,41.43517,-104.21477,Albin,WY,Wyoming,True,,323.0,0.9,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82051,41.60053,-105.64743,Bosler,WY,Wyoming,True,,24.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82052,41.12399,-105.34802,Buford,WY,Wyoming,True,,0.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82053,41.24392,-104.348,Burns,WY,Wyoming,True,,1268.0,2.3,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82054,41.0647,-104.35899,Carpenter,WY,Wyoming,True,,1243.0,2.6,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82055,41.3483,-106.18191,Centennial,WY,Wyoming,True,,292.0,1.9,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82058,42.13817,-105.63358,Garrett,WY,Wyoming,True,,6.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82059,41.05681,-105.17714,Granite Canon,WY,Wyoming,True,,186.0,0.8,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82060,41.22526,-104.51505,Hillsdale,WY,Wyoming,True,,281.0,2.6,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82061,41.43791,-105.15495,Horse Creek,WY,Wyoming,True,,0.0,0.0,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82063,40.87554,-105.9889,Jelm,WY,Wyoming,True,,109.0,0.1,8069,Larimer,"{""08069"": 79.7, ""56001"": 20.3}",Larimer|Albany,08069|56001,False,False,America/Denver
+82070,41.21404,-105.85037,Laramie,WY,Wyoming,True,,20489.0,7.8,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82072,41.42557,-105.55849,Laramie,WY,Wyoming,True,,17318.0,35.4,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82073,41.16408,-105.43228,Laramie,WY,Wyoming,True,,,,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82081,41.52319,-104.40653,Meriden,WY,Wyoming,True,,70.0,0.3,56021,Laramie,"{""56021"": 100}",Laramie,56021,False,False,America/Denver
+82082,41.2632,-104.09359,Pine Bluffs,WY,Wyoming,True,,2017.0,2.4,56021,Laramie,"{""56021"": 70.63, ""31007"": 16.91, ""31105"": 10.66, ""08123"": 1.8}",Laramie|Banner|Kimball|Weld,56021|31007|31105|08123,False,False,America/Denver
+82083,41.72291,-105.99118,Rock River,WY,Wyoming,True,,338.0,0.5,56001,Albany,"{""56001"": 65.37, ""56007"": 34.63}",Albany|Carbon,56001|56007,False,False,America/Denver
+82084,41.04764,-105.52494,Tie Siding,WY,Wyoming,True,,6.0,0.0,56001,Albany,"{""56001"": 100}",Albany,56001,False,False,America/Denver
+82190,44.57439,-110.51807,Yellowstone National Park,WY,Wyoming,True,,1183.0,0.2,56029,Park,"{""56029"": 55.76, ""56039"": 44.24}",Park|Teton,56029|56039,False,False,America/Denver
+82201,42.01049,-105.11328,Wheatland,WY,Wyoming,True,,6830.0,1.6,56031,Platte,"{""56031"": 71.69, ""56001"": 28.31}",Platte|Albany,56031|56001,False,False,America/Denver
+82210,41.73214,-104.77981,Chugwater,WY,Wyoming,True,,243.0,0.3,56031,Platte,"{""56031"": 74.31, ""56015"": 25.69}",Platte|Goshen,56031|56015,False,False,America/Denver
+82212,42.26126,-104.51995,Fort Laramie,WY,Wyoming,True,,577.0,0.6,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82213,42.50216,-105.00672,Glendo,WY,Wyoming,True,,349.0,0.3,56031,Platte,"{""56031"": 100}",Platte,56031,False,False,America/Denver
+82214,42.26421,-104.75104,Guernsey,WY,Wyoming,True,,1179.0,6.1,56031,Platte,"{""56031"": 100}",Platte,56031,False,False,America/Denver
+82215,42.39738,-104.71507,Hartville,WY,Wyoming,True,,119.0,0.8,56031,Platte,"{""56031"": 100}",Platte,56031,False,False,America/Denver
+82217,41.76223,-104.17504,Hawk Springs,WY,Wyoming,True,,27.0,0.1,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82218,41.93623,-104.14004,Huntley,WY,Wyoming,True,,,,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82219,42.4973,-104.50627,Jay Em,WY,Wyoming,True,,28.0,0.1,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82221,41.63816,-104.34264,Lagrange,WY,Wyoming,True,,502.0,0.6,56015,Goshen,"{""56015"": 97.92, ""56021"": 2.08}",Goshen|Laramie,56015|56021,False,False,America/Denver
+82222,43.16311,-104.64988,Lance Creek,WY,Wyoming,True,,129.0,0.2,56027,Niobrara,"{""56027"": 100}",Niobrara,56027,False,False,America/Denver
+82223,42.12035,-104.38503,Lingle,WY,Wyoming,True,,850.0,2.7,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82224,42.93677,-104.88811,Lost Springs,WY,Wyoming,True,,10.0,0.0,56009,Converse,"{""56009"": 51.82, ""56027"": 48.18}",Converse|Niobrara,56009|56027,False,False,America/Denver
+82225,42.95428,-104.31385,Lusk,WY,Wyoming,True,,1887.0,0.7,56027,Niobrara,"{""56027"": 94.36, ""56015"": 5.64}",Niobrara|Goshen,56027|56015,False,False,America/Denver
+82227,42.72083,-104.72875,Manville,WY,Wyoming,True,,211.0,0.3,56027,Niobrara,"{""56027"": 100}",Niobrara,56027,False,False,America/Denver
+82229,42.85613,-104.9863,Shawnee,WY,Wyoming,True,,1.0,0.0,56009,Converse,"{""56009"": 100}",Converse,56009,False,False,America/Denver
+82240,42.23064,-104.17824,Torrington,WY,Wyoming,True,,10680.0,6.2,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82242,42.67694,-104.13886,Van Tassell,WY,Wyoming,True,,23.0,0.1,56027,Niobrara,"{""56027"": 87.39, ""56015"": 12.61}",Niobrara|Goshen,56027|56015,False,False,America/Denver
+82243,41.99442,-104.41451,Veteran,WY,Wyoming,True,,44.0,0.3,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82244,41.87602,-104.44228,Yoder,WY,Wyoming,True,,540.0,0.7,56015,Goshen,"{""56015"": 100}",Goshen,56015,False,False,America/Denver
+82301,41.98163,-107.47745,Rawlins,WY,Wyoming,True,,8815.0,3.6,56007,Carbon,"{""56007"": 64.33, ""56037"": 35.67}",Carbon|Sweetwater,56007|56037,False,False,America/Denver
+82310,42.44566,-107.8775,Jeffrey City,WY,Wyoming,True,,,,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82321,41.15921,-107.69697,Baggs,WY,Wyoming,True,,684.0,1.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82322,42.24643,-107.54816,Bairoil,WY,Wyoming,True,,209.0,15.3,56037,Sweetwater,"{""56037"": 99.79, ""56013"": 0.21}",Sweetwater|Fremont,56037|56013,False,False,America/Denver
+82323,41.0308,-107.52201,Dixon,WY,Wyoming,True,,267.0,6.7,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82324,41.64509,-106.43721,Elk Mountain,WY,Wyoming,True,,236.0,0.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82325,41.1628,-106.7919,Encampment,WY,Wyoming,True,,883.0,0.8,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82327,42.17354,-106.69289,Hanna,WY,Wyoming,True,,989.0,1.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82329,42.09073,-106.09959,Medicine Bow,WY,Wyoming,True,,313.0,0.4,56007,Carbon,"{""56007"": 57.83, ""56001"": 42.17}",Carbon|Albany,56007|56001,False,False,America/Denver
+82331,41.38607,-106.82252,Saratoga,WY,Wyoming,True,,2173.0,1.6,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82332,41.06314,-107.3016,Savery,WY,Wyoming,True,,94.0,0.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82334,41.92837,-106.9679,Sinclair,WY,Wyoming,True,,491.0,1.2,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82335,41.76174,-106.82553,Walcott,WY,Wyoming,True,,45.0,1.4,56007,Carbon,"{""56007"": 100}",Carbon,56007,False,False,America/Denver
+82336,41.71046,-108.16368,Wamsutter,WY,Wyoming,True,,214.0,0.2,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82401,44.00089,-108.1677,Worland,WY,Wyoming,True,,7268.0,5.0,56043,Washakie,"{""56043"": 83.29, ""56017"": 14.14, ""56003"": 2.57}",Washakie|Hot Springs|Big Horn,56043|56017|56003,False,False,America/Denver
+82410,44.37297,-108.15093,Basin,WY,Wyoming,True,,2181.0,5.4,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82411,44.44995,-108.47663,Burlington,WY,Wyoming,True,,569.0,1.6,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82412,44.79014,-108.55286,Byron,WY,Wyoming,True,,515.0,14.9,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82414,44.45727,-109.59671,Cody,WY,Wyoming,True,,15383.0,2.2,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver
+82420,44.92254,-108.46149,Cowley,WY,Wyoming,True,,733.0,5.3,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82421,44.88399,-108.60497,Deaver,WY,Wyoming,True,,221.0,1.1,56003,Big Horn,"{""56003"": 50.0, ""56029"": 50.0}",Big Horn|Park,56003|56029,False,False,America/Denver
+82422,44.49768,-108.37943,Emblem,WY,Wyoming,True,,23.0,0.8,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82423,44.98029,-108.58432,Frannie,WY,Wyoming,True,,256.0,8.0,56003,Big Horn,"{""56003"": 90.1, ""56029"": 9.9}",Big Horn|Park,56003|56029,False,False,America/Denver
+82426,44.51595,-108.02938,Greybull,WY,Wyoming,True,,3161.0,4.4,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82428,44.29866,-107.59032,Hyattville,WY,Wyoming,True,,166.0,0.6,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82430,43.80433,-108.17898,Kirby,WY,Wyoming,True,,77.0,7.9,56017,Hot Springs,"{""56017"": 100}",Hot Springs,56017,False,False,America/Denver
+82431,44.87059,-108.16218,Lovell,WY,Wyoming,True,,3339.0,2.7,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82432,44.23641,-107.88175,Manderson,WY,Wyoming,True,,246.0,0.7,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82433,44.0616,-109.12558,Meeteetse,WY,Wyoming,True,,1248.0,0.6,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver
+82434,44.34726,-108.30767,Otto,WY,Wyoming,True,,101.0,0.8,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82435,44.82409,-109.0348,Powell,WY,Wyoming,True,,11971.0,6.0,56029,Park,"{""56029"": 95.53, ""56003"": 4.47}",Park|Big Horn,56029|56003,False,False,America/Denver
+82440,44.71743,-108.86781,Ralston,WY,Wyoming,True,,220.0,133.6,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver
+82441,44.58025,-107.60799,Shell,WY,Wyoming,True,,184.0,0.2,56003,Big Horn,"{""56003"": 100}",Big Horn,56003,False,False,America/Denver
+82442,43.92096,-107.31087,Ten Sleep,WY,Wyoming,True,,776.0,0.5,56043,Washakie,"{""56043"": 100}",Washakie,56043,False,False,America/Denver
+82443,43.71794,-108.48023,Thermopolis,WY,Wyoming,True,,4473.0,1.6,56017,Hot Springs,"{""56017"": 100}",Hot Springs,56017,False,False,America/Denver
+82450,44.50398,-109.43379,Wapiti,WY,Wyoming,True,,150.0,1.7,56029,Park,"{""56029"": 100}",Park,56029,False,False,America/Denver
+82501,43.03325,-108.24936,Riverton,WY,Wyoming,True,,19660.0,10.9,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82510,42.99294,-108.6055,Arapahoe,WY,Wyoming,True,,349.0,2.1,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82512,43.1639,-109.24974,Crowheart,WY,Wyoming,True,,179.0,0.1,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82513,43.59737,-109.61913,Dubois,WY,Wyoming,True,,1549.0,0.4,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82514,43.01997,-109.01,Fort Washakie,WY,Wyoming,True,,1674.0,4.0,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82515,42.89717,-108.56688,Hudson,WY,Wyoming,True,,446.0,19.6,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82516,43.21485,-108.83195,Kinnear,WY,Wyoming,True,,434.0,0.6,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82520,42.65919,-108.63282,Lander,WY,Wyoming,True,,13250.0,3.4,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82523,43.41253,-108.85636,Pavillion,WY,Wyoming,True,,1048.0,0.8,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82601,43.0655,-106.34618,Casper,WY,Wyoming,True,,26854.0,21.7,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82604,42.91751,-106.7084,Casper,WY,Wyoming,True,,28470.0,10.5,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82609,42.77773,-106.18937,Casper,WY,Wyoming,True,,18664.0,110.5,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82620,42.52434,-107.08132,Alcova,WY,Wyoming,True,,218.0,0.2,56025,Natrona,"{""56025"": 92.34, ""56007"": 7.66}",Natrona|Carbon,56025|56007,False,False,America/Denver
+82630,43.33432,-107.25595,Arminto,WY,Wyoming,True,,0.0,0.0,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82633,42.99525,-105.39874,Douglas,WY,Wyoming,True,,9705.0,1.5,56009,Converse,"{""56009"": 98.96, ""56027"": 1.04}",Converse|Niobrara,56009|56027,False,False,America/Denver
+82635,43.4218,-106.21834,Edgerton,WY,Wyoming,True,,118.0,6.5,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82636,42.83473,-106.14286,Evansville,WY,Wyoming,True,,3701.0,10.7,56025,Natrona,"{""56025"": 97.6, ""56009"": 2.4}",Natrona|Converse,56025|56009,False,False,America/Denver
+82637,42.76679,-105.88228,Glenrock,WY,Wyoming,True,,4143.0,2.5,56009,Converse,"{""56009"": 100}",Converse,56009,False,False,America/Denver
+82638,43.0667,-107.25585,Hiland,WY,Wyoming,True,,113.0,0.6,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82639,43.73555,-106.6978,Kaycee,WY,Wyoming,True,,762.0,0.3,56019,Johnson,"{""56019"": 94.35, ""56025"": 5.65}",Johnson|Natrona,56019|56025,False,False,America/Denver
+82640,43.55214,-106.11811,Linch,WY,Wyoming,True,,208.0,3.1,56019,Johnson,"{""56019"": 99.8, ""56005"": 0.2}",Johnson|Campbell,56019|56005,False,False,America/Denver
+82642,43.2799,-107.65797,Lysite,WY,Wyoming,True,,48.0,0.1,56013,Fremont,"{""56013"": 86.66, ""56025"": 13.34}",Fremont|Natrona,56013|56025,False,False,America/Denver
+82643,43.43973,-106.27359,Midwest,WY,Wyoming,True,,250.0,6.7,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82644,42.84303,-106.37437,Mills,WY,Wyoming,True,,1626.0,772.6,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82646,42.96297,-106.79617,Natrona,WY,Wyoming,True,,0.0,0.0,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82648,43.14749,-107.04194,Powder River,WY,Wyoming,True,,91.0,0.2,56025,Natrona,"{""56025"": 100}",Natrona,56025,False,False,America/Denver
+82649,43.27229,-108.04155,Shoshoni,WY,Wyoming,True,,1074.0,0.7,56013,Fremont,"{""56013"": 100}",Fremont,56013,False,False,America/Denver
+82701,43.71185,-104.4451,Newcastle,WY,Wyoming,True,,5164.0,1.1,56045,Weston,"{""56045"": 76.6, ""56027"": 9.34, ""56005"": 6.18, ""46033"": 4.38, ""46103"": 3.5}",Weston|Niobrara|Campbell|Custer|Pennington,56045|56027|56005|46033|46103,False,False,America/Denver
+82710,44.71488,-104.28465,Aladdin,WY,Wyoming,True,,127.0,0.2,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82711,44.71157,-104.48062,Alva,WY,Wyoming,True,,80.0,0.3,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82712,44.52594,-104.12372,Beulah,WY,Wyoming,True,,337.0,1.7,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82714,44.5519,-104.68009,Devils Tower,WY,Wyoming,True,,66.0,1.1,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82716,44.54033,-105.64601,Gillette,WY,Wyoming,True,,17526.0,5.7,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver
+82718,43.91777,-105.61603,Gillette,WY,Wyoming,True,,25380.0,6.1,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver
+82720,44.79324,-104.67241,Hulett,WY,Wyoming,True,,643.0,0.4,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82721,44.46199,-104.89808,Moorcroft,WY,Wyoming,True,,3433.0,1.9,56011,Crook,"{""56011"": 100}",Crook,56011,False,False,America/Denver
+82723,43.98898,-104.42397,Osage,WY,Wyoming,True,,111.0,0.3,56045,Weston,"{""56045"": 100}",Weston,56045,False,False,America/Denver
+82725,44.87752,-105.70974,Recluse,WY,Wyoming,True,,170.0,0.3,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver
+82727,44.33595,-105.19426,Rozet,WY,Wyoming,True,,1568.0,1.4,56005,Campbell,"{""56005"": 94.97, ""56011"": 5.03}",Campbell|Crook,56005|56011,False,False,America/Denver
+82729,44.36384,-104.38734,Sundance,WY,Wyoming,True,,2734.0,2.0,56011,Crook,"{""56011"": 93.81, ""56045"": 6.19}",Crook|Weston,56011|56045,False,False,America/Denver
+82730,44.04378,-104.70031,Upton,WY,Wyoming,True,,1846.0,1.2,56045,Weston,"{""56045"": 90.03, ""56011"": 9.97}",Weston|Crook,56045|56011,False,False,America/Denver
+82731,44.80203,-105.23982,Weston,WY,Wyoming,True,,175.0,0.2,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver
+82732,43.725,-105.57871,Wright,WY,Wyoming,True,,1947.0,9.8,56005,Campbell,"{""56005"": 100}",Campbell,56005,False,False,America/Denver
+82801,44.83618,-106.89258,Sheridan,WY,Wyoming,True,,25124.0,18.4,56033,Sheridan,"{""56033"": 97.44, ""30003"": 2.56}",Sheridan|Big Horn,56033|30003,False,False,America/Denver
+82831,44.66424,-106.0669,Arvada,WY,Wyoming,True,,427.0,0.3,56005,Campbell,"{""56005"": 34.46, ""56033"": 33.59, ""56019"": 31.96}",Campbell|Sheridan|Johnson,56005|56033|56019,False,False,America/Denver
+82832,44.59442,-106.75233,Banner,WY,Wyoming,True,,970.0,2.8,56033,Sheridan,"{""56033"": 79.4, ""56019"": 20.6}",Sheridan|Johnson,56033|56019,False,False,America/Denver
+82833,44.61601,-107.12966,Big Horn,WY,Wyoming,True,,112.0,0.4,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82834,44.25386,-106.74481,Buffalo,WY,Wyoming,True,,7344.0,1.7,56019,Johnson,"{""56019"": 100}",Johnson,56019,False,False,America/Denver
+82835,44.75856,-106.36918,Clearmont,WY,Wyoming,True,,410.0,0.3,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82836,44.83701,-107.57589,Dayton,WY,Wyoming,True,,1073.0,1.1,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82837,44.72549,-106.28169,Leiter,WY,Wyoming,True,,33.0,0.9,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82838,44.93793,-107.4839,Parkman,WY,Wyoming,True,,526.0,1.4,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82839,44.92887,-107.15762,Ranchester,WY,Wyoming,True,,1293.0,4.5,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82842,44.57143,-106.93956,Story,WY,Wyoming,True,,805.0,34.5,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82844,44.80405,-107.19965,Wolf,WY,Wyoming,True,,20.0,0.3,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82845,44.76416,-106.70382,Wyarno,WY,Wyoming,True,,0.0,0.0,56033,Sheridan,"{""56033"": 100}",Sheridan,56033,False,False,America/Denver
+82901,41.38121,-109.02469,Rock Springs,WY,Wyoming,True,,28794.0,10.3,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82922,43.13507,-110.43426,Bondurant,WY,Wyoming,True,,302.0,0.4,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver
+82923,42.61609,-109.40099,Boulder,WY,Wyoming,True,,671.0,0.3,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver
+82925,43.23123,-109.89386,Cora,WY,Wyoming,True,,438.0,0.2,56035,Sublette,"{""56035"": 94.89, ""56039"": 5.11}",Sublette|Teton,56035|56039,False,False,America/Denver
+82929,41.54765,-109.87134,Little America,WY,Wyoming,True,,74.0,9.1,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82930,40.98028,-110.5964,Evanston,WY,Wyoming,True,,14872.0,6.0,49043,Summit,"{""49043"": 70.29, ""56041"": 29.71}",Summit|Uinta,49043|56041,False,False,America/Denver
+82932,42.1219,-109.38993,Farson,WY,Wyoming,True,,343.0,0.8,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82933,41.2686,-110.45446,Fort Bridger,WY,Wyoming,True,,428.0,2.1,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver
+82934,41.61247,-109.99564,Granger,WY,Wyoming,True,,142.0,7.7,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82935,41.67746,-109.66001,Green River,WY,Wyoming,True,,12703.0,36.5,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82936,41.05725,-110.18239,Lonetree,WY,Wyoming,True,,10.0,0.0,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver
+82937,41.3491,-110.2634,Lyman,WY,Wyoming,True,,3198.0,13.9,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver
+82938,41.09622,-109.73764,McKinnon,WY,Wyoming,True,,380.0,1.0,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82939,41.22068,-110.32357,Mountain View,WY,Wyoming,True,,1342.0,6.6,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver
+82941,42.99919,-109.90869,Pinedale,WY,Wyoming,True,,4981.0,2.9,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver
+82942,41.70234,-108.77539,Point Of Rocks,WY,Wyoming,True,,58.0,2.3,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82943,41.70197,-109.18399,Reliance,WY,Wyoming,True,,166.0,1.6,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+82944,41.12199,-110.49746,Robertson,WY,Wyoming,True,,627.0,2.0,56041,Uinta,"{""56041"": 100}",Uinta,56041,False,False,America/Denver
+82945,41.72007,-108.9389,Superior,WY,Wyoming,True,,194.0,1.1,56037,Sweetwater,"{""56037"": 100}",Sweetwater,56037,False,False,America/Denver
+83001,43.4094,-110.60884,Jackson,WY,Wyoming,True,,17867.0,14.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83011,43.58837,-110.43192,Kelly,WY,Wyoming,True,,194.0,0.2,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83012,43.7073,-110.75036,Moose,WY,Wyoming,True,,31.0,0.1,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83013,43.95666,-110.45191,Moran,WY,Wyoming,True,,187.0,0.1,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83014,43.458,-110.93746,Wilson,WY,Wyoming,True,,2885.0,5.2,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83025,43.59371,-110.82814,Teton Village,WY,Wyoming,True,,946.0,26.3,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver
+83101,41.97455,-110.5468,Kemmerer,WY,Wyoming,True,,3043.0,2.2,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83110,42.72421,-110.90108,Afton,WY,Wyoming,True,,5325.0,13.6,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83111,42.819,-111.01143,Auburn,WY,Wyoming,True,,807.0,20.7,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83112,42.88191,-110.8833,Bedford,WY,Wyoming,True,,642.0,4.3,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83113,42.55189,-110.25204,Big Piney,WY,Wyoming,True,,2556.0,1.0,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver
+83114,42.09736,-110.956,Cokeville,WY,Wyoming,True,,796.0,0.9,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83115,42.92003,-110.24036,Daniel,WY,Wyoming,True,,917.0,1.0,56035,Sublette,"{""56035"": 100}",Sublette,56035,False,False,America/Denver
+83116,41.76333,-110.54415,Diamondville,WY,Wyoming,True,,723.0,97.1,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83118,43.06638,-110.9246,Etna,WY,Wyoming,True,,622.0,2.6,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83119,42.64394,-110.98828,Fairview,WY,Wyoming,True,,188.0,5.5,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83120,43.06595,-111.13529,Freedom,WY,Wyoming,True,,356.0,1.0,16019,Bonneville,"{""16019"": 71.13, ""16029"": 18.82, ""56023"": 10.05}",Bonneville|Caribou|Lincoln,16019|16029|56023,False,False,America/Boise
+83121,41.84982,-110.54023,Frontier,WY,Wyoming,True,,0.0,0.0,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83122,42.82175,-110.95843,Grover,WY,Wyoming,True,,875.0,45.5,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83123,42.23985,-110.25947,La Barge,WY,Wyoming,True,,699.0,5.9,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83124,41.75002,-110.20865,Opal,WY,Wyoming,True,,142.0,1.7,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83126,42.58697,-110.90916,Smoot,WY,Wyoming,True,,417.0,14.0,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83127,42.91815,-110.99756,Thayne,WY,Wyoming,True,,4060.0,6.8,56023,Lincoln,"{""56023"": 52.21, ""16029"": 47.79}",Lincoln|Caribou,56023|16029,False,False,America/Denver
+83128,43.14762,-110.7918,Alpine,WY,Wyoming,True,,1081.0,1.1,56023,Lincoln,"{""56023"": 100}",Lincoln,56023,False,False,America/Denver
+83414,43.88847,-110.94924,Alta,WY,Wyoming,True,,367.0,0.4,56039,Teton,"{""56039"": 100}",Teton,56039,False,False,America/Denver

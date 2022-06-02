@@ -1,0 +1,82 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+02802,41.95221,-71.4559,Albion,RI,Rhode Island,True,,501.0,1000.3,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02804,41.43546,-71.77196,Ashaway,RI,Rhode Island,True,,2005.0,65.7,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02806,41.7443,-71.31453,Barrington,RI,Rhode Island,True,,16106.0,759.8,44001,Bristol,"{""44001"": 100}",Bristol,44001,False,False,America/New_York
+02807,41.17762,-71.57854,Block Island,RI,Rhode Island,True,,871.0,37.0,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02808,41.40606,-71.74802,Bradford,RI,Rhode Island,True,,2466.0,125.5,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02809,41.68266,-71.26938,Bristol,RI,Rhode Island,True,,22095.0,871.5,44001,Bristol,"{""44001"": 100}",Bristol,44001,False,False,America/New_York
+02812,41.47625,-71.66094,Carolina,RI,Rhode Island,True,,1300.0,125.7,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02813,41.3971,-71.67003,Charlestown,RI,Rhode Island,True,,7832.0,82.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02814,41.89959,-71.69888,Chepachet,RI,Rhode Island,True,,8033.0,71.5,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02815,41.77723,-71.66177,Clayville,RI,Rhode Island,True,,150.0,21.3,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02816,41.69035,-71.61954,Coventry,RI,Rhode Island,True,,32683.0,341.6,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02817,41.6291,-71.66711,West Greenwich,RI,Rhode Island,True,,6297.0,48.3,44003,Kent,"{""44003"": 99.86, ""44009"": 0.14}",Kent|Washington,44003|44009,False,False,America/New_York
+02818,41.64214,-71.49307,East Greenwich,RI,Rhode Island,True,,18790.0,341.8,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02822,41.56736,-71.63348,Exeter,RI,Rhode Island,True,,6018.0,42.8,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02823,41.73328,-71.54479,Fiskeville,RI,Rhode Island,True,,,,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02824,41.99934,-71.56322,Forestdale,RI,Rhode Island,True,,,,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02825,41.78212,-71.72596,Foster,RI,Rhode Island,True,,5964.0,41.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02826,41.98248,-71.64539,Glendale,RI,Rhode Island,True,,382.0,60.6,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02827,41.69792,-71.73847,Greene,RI,Rhode Island,True,,2194.0,39.5,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02828,41.87672,-71.56065,Greenville,RI,Rhode Island,True,,7528.0,668.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02829,41.89377,-71.59129,Harmony,RI,Rhode Island,True,,,,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02830,41.98016,-71.6484,Harrisville,RI,Rhode Island,True,,5624.0,106.4,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02831,41.74461,-71.58442,Hope,RI,Rhode Island,True,,3725.0,133.8,44007,Providence,"{""44007"": 93.77, ""44003"": 6.23}",Providence|Kent,44007|44003,False,False,America/New_York
+02832,41.50469,-71.72807,Hope Valley,RI,Rhode Island,True,,4713.0,73.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02833,41.48117,-71.77787,Hopkinton,RI,Rhode Island,True,,932.0,102.8,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02835,41.51479,-71.37742,Jamestown,RI,Rhode Island,True,,5494.0,226.4,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02836,41.45145,-71.62027,Kenyon,RI,Rhode Island,True,,165.0,226.1,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02837,41.51524,-71.16455,Little Compton,RI,Rhode Island,True,,3496.0,65.7,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02838,41.96552,-71.47628,Manville,RI,Rhode Island,True,,3521.0,973.2,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02839,41.9433,-71.64581,Mapleville,RI,Rhode Island,True,,2100.0,188.1,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02840,41.47838,-71.31993,Newport,RI,Rhode Island,True,,22976.0,1218.9,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02841,41.51261,-71.32522,Newport,RI,Rhode Island,True,,1792.0,2008.3,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02842,41.51739,-71.27667,Middletown,RI,Rhode Island,True,,15931.0,490.6,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02852,41.58809,-71.46094,North Kingstown,RI,Rhode Island,True,,21653.0,271.2,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02857,41.82705,-71.63083,North Scituate,RI,Rhode Island,True,,7969.0,71.3,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02858,41.96354,-71.64893,Oakland,RI,Rhode Island,True,,613.0,382.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02859,41.9665,-71.7464,Pascoag,RI,Rhode Island,True,,7992.0,111.7,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02860,41.87036,-71.38855,Pawtucket,RI,Rhode Island,True,,47175.0,3412.5,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02861,41.87863,-71.35228,Pawtucket,RI,Rhode Island,True,,24764.0,2677.0,44007,Providence,"{""44007"": 99.45, ""25005"": 0.55}",Providence|Bristol,44007|25005,False,False,America/New_York
+02863,41.89005,-71.39336,Central Falls,RI,Rhode Island,True,,19437.0,6285.9,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02864,41.97025,-71.41978,Cumberland,RI,Rhode Island,True,,34936.0,509.6,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02865,41.91251,-71.44822,Lincoln,RI,Rhode Island,True,,17876.0,419.0,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02871,41.58384,-71.2564,Portsmouth,RI,Rhode Island,True,,17108.0,387.0,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02872,41.61718,-71.32886,Prudence Island,RI,Rhode Island,True,,204.0,13.2,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02873,41.5257,-71.77734,Rockville,RI,Rhode Island,True,,130.0,13.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02874,41.51543,-71.46985,Saunderstown,RI,Rhode Island,True,,6620.0,164.2,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02875,41.46052,-71.63848,Shannock,RI,Rhode Island,True,,439.0,95.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02876,41.99801,-71.58301,Slatersville,RI,Rhode Island,True,,577.0,1118.3,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02878,41.60905,-71.17413,Tiverton,RI,Rhode Island,True,,15730.0,209.0,44005,Newport,"{""44005"": 100}",Newport,44005,False,False,America/New_York
+02879,41.42865,-71.53837,Wakefield,RI,Rhode Island,True,,20851.0,203.8,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02881,41.4825,-71.52694,Kingston,RI,Rhode Island,True,,7593.0,870.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02882,41.4253,-71.46816,Narragansett,RI,Rhode Island,True,,14204.0,427.1,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02885,41.72821,-71.26287,Warren,RI,Rhode Island,True,,10451.0,655.2,44001,Bristol,"{""44001"": 100}",Bristol,44001,False,False,America/New_York
+02886,41.70493,-71.45892,Warwick,RI,Rhode Island,True,,29443.0,719.7,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02888,41.74909,-71.41123,Warwick,RI,Rhode Island,True,,17901.0,1172.1,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02889,41.70602,-71.39106,Warwick,RI,Rhode Island,True,,27531.0,1257.1,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02891,41.36043,-71.79429,Westerly,RI,Rhode Island,True,,21196.0,311.4,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02892,41.50226,-71.60174,West Kingston,RI,Rhode Island,True,,5502.0,78.1,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02893,41.69856,-71.51566,West Warwick,RI,Rhode Island,True,,29283.0,1443.5,44003,Kent,"{""44003"": 100}",Kent,44003,False,False,America/New_York
+02894,41.44761,-71.69759,Wood River Junction,RI,Rhode Island,True,,512.0,47.0,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02895,42.00103,-71.49923,Woonsocket,RI,Rhode Island,True,,41616.0,2069.6,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02896,41.97285,-71.55027,North Smithfield,RI,Rhode Island,True,,11901.0,199.6,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02898,41.52184,-71.67166,Wyoming,RI,Rhode Island,True,,1137.0,36.9,44009,Washington,"{""44009"": 100}",Washington,44009,False,False,America/New_York
+02903,41.81902,-71.41003,Providence,RI,Rhode Island,True,,11443.0,2632.9,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02904,41.86058,-71.43539,Providence,RI,Rhode Island,True,,29881.0,2228.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02905,41.78769,-71.39886,Providence,RI,Rhode Island,True,,26020.0,2683.0,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02906,41.83964,-71.38963,Providence,RI,Rhode Island,True,,28254.0,3519.9,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02907,41.79867,-71.42581,Providence,RI,Rhode Island,True,,31277.0,5470.0,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02908,41.83877,-71.43926,Providence,RI,Rhode Island,True,,37792.0,4289.0,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02909,41.81825,-71.45078,Providence,RI,Rhode Island,True,,40286.0,4969.1,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02910,41.77552,-71.43564,Cranston,RI,Rhode Island,True,,21746.0,2445.6,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02911,41.85467,-71.47325,North Providence,RI,Rhode Island,True,,15627.0,2413.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02912,41.82783,-71.39959,Providence,RI,Rhode Island,True,,1279.0,2494.4,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02914,41.81326,-71.36608,East Providence,RI,Rhode Island,True,,21720.0,1709.0,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02915,41.77725,-71.34906,Riverside,RI,Rhode Island,True,,16423.0,1150.4,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02916,41.84438,-71.35258,Rumford,RI,Rhode Island,True,,9292.0,1352.2,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02917,41.90615,-71.52365,Smithfield,RI,Rhode Island,True,,14260.0,256.8,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02918,41.84386,-71.43499,Providence,RI,Rhode Island,True,,,,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02919,41.82733,-71.52002,Johnston,RI,Rhode Island,True,,29312.0,481.4,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02920,41.76719,-71.4655,Cranston,RI,Rhode Island,True,,36695.0,1583.4,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York
+02921,41.76292,-71.51571,Cranston,RI,Rhode Island,True,,12463.0,369.5,44007,Providence,"{""44007"": 100}",Providence,44007,False,False,America/New_York

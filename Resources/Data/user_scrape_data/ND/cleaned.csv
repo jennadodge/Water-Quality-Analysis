@@ -1,0 +1,224 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+ND,58001,Barney City of,52,2778,38077
+ND,58001,Christine City of,156,2754,38077
+ND,58001,Colfax City of,121,2716,38077
+ND,58001,Fairmount City of,367,561,38077
+ND,58001,Hankinson City of,919,2717,38077
+ND,58001,Lidgerwood City of,652,2975,38077
+ND,58001,Mantador City of,64,2560,38077
+ND,58001,Mooreton City of,197,2658,38077
+ND,58001,Wahpeton City of,7766,42,38077
+ND,58001,Walcott City of,235,2652,38077
+ND,58001,Wyndmere City of,429,2947,38077
+ND,58002,Amenia City of,94,2070,38017
+ND,58002,Argusville City of,475,287,38017
+ND,58002,Arthur City of,337,1593,38017
+ND,58002,Brooktree Wells Inc.,45,950,38017
+ND,58002,Buffalo City of,188,1431,38017
+ND,58002,Casselton City of,2513,1163,38017
+ND,58002,City of Fargo,120762,732,38017
+ND,58002,City of West Fargo,34858,1091,38017
+ND,58002,Country Acres Water Company,50,759,38017
+ND,58002,Davenport City of,252,331,38017
+ND,58002,Fradets Orchard Water System,56,27,38017
+ND,58002,Gardner City of,74,1670,38017
+ND,58002,Grandin City of,173,137,38017
+ND,58002,Harwood City of,718,1274,38017
+ND,58002,Horace City of,1378,1343,38017
+ND,58002,Horseshoe Bend,110,46,38017
+ND,58002,Hunter City of,261,2043,38017
+ND,58002,Kindred City of,692,988,38017
+ND,58002,Mapleton City of,762,374,38017
+ND,58002,Oxbow City of,305,55,38017
+ND,58002,Page City of,232,1221,38017
+ND,58002,Riverdale Subdivision,88,313,38017
+ND,58002,Sleepy Hollow Water Company,100,653,38017
+ND,58002,Tower City City of,253,152,38017
+ND,58009,Galesburg City of,108,1799,38097
+ND,58009,Hatton City of,777,75,38097
+ND,58009,Hillsboro City of,1603,1559,38097
+ND,58009,Mayville City of,1858,914,38097
+ND,58009,Portland City of,606,80,38097
+ND,58013,Forman City of,504,297,38081
+ND,58013,Gwinner City of,753,50,38081
+ND,58013,Milnor City of,653,2718,38081
+ND,58013,Rutland City of,163,2750,38081
+ND,58013,Sundale Hutterian Association,110,62,38081
+ND,58016,Finley City of,445,2464,38097
+ND,58016,Hope City of,258,2696,38097
+ND,58016,Sharon City of,96,792,38097
+ND,58027,Valley City City of,6585,483,38073
+ND,58027,Barnes Rural Water District,4938,118,38073
+ND,58030,Breckenridge,3340,123,38077
+ND,58030,Browns Valley,567,386,38077
+ND,58030,Campbell,159,24,38077
+ND,58030,Dumont,71,1093,38077
+ND,58030,Rothsay,493,1197,38077
+ND,58030,Tintah,68,1,38077
+ND,58030,Wheaton,1424,1245,38077
+ND,58033,Berlin City of,34,1285,38073
+ND,58033,Edgeley City of,563,1713,38073
+ND,58033,Enderlin City of,886,948,38073
+ND,58033,Fairview Colony,100,47,38073
+ND,58033,Jud City of,72,1565,38073
+ND,58033,Kulm City of,354,1541,38073
+ND,58033,Lamoure City of,889,74,38073
+ND,58033,Lisbon City of,2154,1003,38073
+ND,58033,Sheldon City of,116,1162,38073
+ND,58033,Southeast Wud (central-lisbon),1675,3020,38073
+ND,58033,Verona City of,85,93,38073
+ND,58033,Willowbank Colony,95,74,38073
+ND,58040,Ellendale City of,1394,1502,38081
+ND,58040,Fullerton City of,54,1062,38081
+ND,58040,Monango City of,36,1570,38081
+ND,58040,Oakes City of,1856,967,38081
+ND,58043,Amherst Water Company,35,78,38081
+ND,58043,Britton,1241,259,38081
+ND,58046,Litchville City of,172,109,38091
+ND,58046,Nome City of,62,159,38091
+ND,58046,Oriska City of,118,90,38091
+ND,58046,Sanborn City of,192,132,38091
+ND,58046,Wimbledon City of,216,183,38091
+ND,58056,Binford City of,183,2539,38003
+ND,58056,Cooperstown City of,984,1800,38003
+ND,58056,Dakota Rural Water District North,1070,2712,38003
+ND,58056,Hannaford City of,131,357,38003
+ND,58201,Agassiz Water Users District,3438,883,38035
+ND,58201,Emerado City of,414,101,38035
+ND,58201,Forest River Colony,100,1627,38035
+ND,58201,East Central Regional Wd-gf,5995,85,38035
+ND,58201,Larimore City of,1346,1368,38035
+ND,58201,Northwood City of,945,78,38035
+ND,58210,Grafton City of,4284,1068,38099
+ND,58212,Michigan City of,294,12,38063
+ND,58212,Pekin City of,70,1274,38063
+ND,58212,Tolna City of,166,1123,38063
+ND,58216,Cavalier City of,1302,765,38067
+ND,58216,Drayton City of,824,1114,38067
+ND,58216,Neche City of,371,776,38067
+ND,58216,Northeast Regional Water District- North Valley Branch,3422,675,38067
+ND,58216,Pembina City of,592,804,38067
+ND,58216,Walhalla City of,996,697,38067
+ND,58220,Osnabrock City of,134,816,38067
+ND,58225,Hallock,927,1363,38067
+ND,58225,Karlstad,753,99,38067
+ND,58225,Kennedy,165,1141,38067
+ND,58225,Lake Bronson,216,1178,38067
+ND,58229,Devils Lake City of,7141,1760,38099
+ND,58229,Edmore City of,182,384,38099
+ND,58229,Greater Ramsey Water District,5280,2160,38099
+ND,58301,Leeds City of,427,609,38071
+ND,58301,Maddock City of,382,375,38071
+ND,58301,Minnewaukan City of,224,1130,38071
+ND,58310,Rolette City of,594,2189,38079
+ND,58310,Rolla City of,1280,607,38079
+ND,58310,St. John City of,341,587,38079
+ND,58313,Rugby City of,2876,1557,38069
+ND,58317,Cando City of,1115,789,38095
+ND,58318,All Seasons Wd-system I,890,2313,38009
+ND,58318,Lansford City of,245,738,38009
+ND,58318,Maxbass City of,84,1870,38009
+ND,58318,Souris City of,58,1118,38009
+ND,58318,Westhope City of,429,687,38009
+ND,58341,Bowdon City of,131,390,38103
+ND,58341,Goodrich City of,98,951,38103
+ND,58341,Harvey City of,1783,517,38103
+ND,58341,Sykeston City of,117,452,38103
+ND,58356,Carrington City of,2065,1728,38027
+ND,58356,Glenfield City of,91,1071,38027
+ND,58356,New Rockford City of,1391,1902,38027
+ND,58356,Sheyenne City of,204,558,38027
+ND,58384,Drake City of,275,701,38009
+ND,58384,Granville City of,241,869,38009
+ND,58384,Karlsruhe City of,82,1198,38009
+ND,58384,Upham City of,130,517,38009
+ND,58384,Velva City of,1084,1266,38009
+ND,58401,City of Jamestown,15427,1364,38093
+ND,58401,Cleveland City of,83,1122,38093
+ND,58401,Medina City of,308,824,38093
+ND,58401,Montpelier City of,87,28,38093
+ND,58401,Streeter City of,170,1114,38093
+ND,58401,Woodworth City of,50,1642,38093
+ND,58413,Ashley City of,749,753,38051
+ND,58413,Lehr City of,80,550,38051
+ND,58413,Wishek City of,952,28,38051
+ND,58413,Zeeland City of,86,791,38051
+ND,58418,Robinson City of,37,297,38103
+ND,58418,Steele City of,715,153,38103
+ND,58418,Tuttle City of,80,882,38103
+ND,58436,Aberdeen,26091,667,38021
+ND,58436,Claremont,127,0,38021
+ND,58436,Green Acres Association,75,647,38021
+ND,58436,Groton,1458,635,38021
+ND,58436,Hutterville Hutterian Brethren,130,1,38021
+ND,58436,Jobee Acres,75,571,38021
+ND,58436,Long Lake Colony,95,0,38021
+ND,58436,Prairiewood Property Owners,288,637,38021
+ND,58436,Richmond Heights Homeowners Association,63,612,38021
+ND,58439,Leola,457,614,38021
+ND,58440,Gackle City of,310,1551,38047
+ND,58477,City of Bismarck,72417,1016,38015
+ND,58477,Country Club Co-op,162,707,38015
+ND,58477,Dakota Adventist Academy,80,750,38015
+ND,58477,South Central Regional Water District,4455,2704,38015
+ND,58495,Hazelton City of,235,237,38051
+ND,58495,State Line Water Coop Inc.,405,365,38051
+ND,58520,Almont City of,122,326,38059
+ND,58520,Carson City of,293,316,38059
+ND,58520,City of Mandan,21769,1178,38059
+ND,58520,Elgin City of,642,334,38059
+ND,58520,Flasher City of,232,890,38059
+ND,58520,Glen Ullin City of,807,303,38059
+ND,58520,Hebron City of,747,310,38059
+ND,58520,Missouri West Water System,4303,794,38059
+ND,58520,New Salem City of,946,373,38059
+ND,58520,Riverview Heights,200,814,38059
+ND,58520,Southwest Wa-crown Butte(missouri West),34,818,38059
+ND,58523,Beulah City of,3304,519,38057
+ND,58523,Center City Of,588,469,38057
+ND,58523,Golden Valley City of,182,365,38057
+ND,58523,Pick City City of,123,1415,38057
+ND,58523,Omnd Water Treatment Plant,4168,455,38057
+ND,58523,Zap City of,237,510,38057
+ND,58528,Solen City of,83,689,38085
+ND,58531,Coleharbor City of,79,710,38055
+ND,58531,Garrison Rural Water District,1805,1167,38055
+ND,58531,Garrison City of,1453,1071,38055
+ND,58531,Max City of,334,194,38055
+ND,58531,Riverdale City of,205,1243,38055
+ND,58531,Turtle Lake City of,581,1094,38055
+ND,58531,Washburn City of,1246,1226,38055
+ND,58562,Mott City of,721,301,38037
+ND,58562,Regent City of,160,347,38037
+ND,58568,Mclaughlin,663,64,38085
+ND,58568,Morristown,55,530,38085
+ND,58601,Belfield City of,1013,288,38089
+ND,58601,Dunn Center City of,146,410,38089
+ND,58601,Gladstone City of,239,334,38089
+ND,58601,Killdeer City of,1173,495,38089
+ND,58601,Manning Water Board,55,378,38089
+ND,58601,New Hradec Waterworks,60,332,38089
+ND,58601,Richardton City of,529,287,38089
+ND,58601,South Heart City of,301,328,38089
+ND,58620,Marmarth City of,136,414,38087
+ND,58621,Beach City of,1019,262,38033
+ND,58621,Golva City of,61,320,38033
+ND,58621,Sentinel Butte City of,56,310,38033
+ND,58621,Wibaux Town of,550,0,38033
+ND,58622,Medora City of,112,343,38007
+ND,58623,Buffalo,330,224,38011
+ND,58623,Rhame City of,169,562,38011
+ND,58634,Badlands Development Long X Tc,52,248,38053
+ND,58634,Mckenzie County Rw-system 2,526,583,38053
+ND,58634,Watford City City of,6390,414,38053
+ND,58639,Bison,333,228,38001
+ND,58639,Hettinger City of,1226,291,38001
+ND,58639,Lemmon,1227,241,38001
+ND,58701,Northwestern Area Water Supply,0,1780,38101
+ND,58701,Sawyer City of,357,694,38101
+ND,58701,Upper Souris Wua-system I,1296,1978,38101
+ND,58701,West River Water and Sewer,450,744,38101
+ND,58718,Glenburn City of,380,833,38101
+ND,58718,Mohall City of,783,815,38101
+ND,58718,Ross City of,97,557,38101
+ND,58718,Sherwood City of,242,790,38101

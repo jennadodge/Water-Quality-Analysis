@@ -1,0 +1,705 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+66002,39.5488,-95.13881,Atchison,KS,Kansas,True,,13113.0,26.7,20005,Atchison,"{""20005"": 73.65, ""20043"": 17.47, ""20087"": 4.81, ""20103"": 4.07}",Atchison|Doniphan|Jefferson|Leavenworth,20005|20043|20087|20103,False,False,America/Chicago
+66006,38.79433,-95.23936,Baldwin City,KS,Kansas,True,,7859.0,27.9,20045,Douglas,"{""20045"": 94.6, ""20059"": 5.4}",Douglas|Franklin,20045|20059,False,False,America/Chicago
+66007,39.1405,-94.94548,Basehor,KS,Kansas,True,,7175.0,88.3,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66008,39.71283,-95.17564,Bendena,KS,Kansas,True,,185.0,2.5,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago
+66010,38.09231,-94.98853,Blue Mound,KS,Kansas,True,,684.0,3.0,20107,Linn,"{""20107"": 93.66, ""20011"": 6.34}",Linn|Bourbon,20107|20011,False,False,America/Chicago
+66012,39.06091,-94.91658,Bonner Springs,KS,Kansas,True,,12330.0,119.9,20103,Leavenworth,"{""20103"": 55.31, ""20209"": 44.69}",Leavenworth|Wyandotte,20103|20209,False,False,America/Chicago
+66013,38.73428,-94.68948,Bucyrus,KS,Kansas,True,,1804.0,15.5,20121,Miami,"{""20121"": 58.2, ""20091"": 41.8}",Miami|Johnson,20121|20091,False,False,America/Chicago
+66014,38.22305,-94.98371,Centerville,KS,Kansas,True,,540.0,3.1,20107,Linn,"{""20107"": 96.28, ""20003"": 3.72}",Linn|Anderson,20107|20003,False,False,America/Chicago
+66015,38.06786,-95.40395,Colony,KS,Kansas,True,,729.0,3.0,20003,Anderson,"{""20003"": 76.9, ""20001"": 23.1}",Anderson|Allen,20003|20001,False,False,America/Chicago
+66016,39.47038,-95.23158,Cummings,KS,Kansas,True,,636.0,7.8,20005,Atchison,"{""20005"": 100}",Atchison,20005,False,False,America/Chicago
+66017,39.70599,-95.27591,Denton,KS,Kansas,True,,396.0,3.7,20043,Doniphan,"{""20043"": 93.33, ""20013"": 6.67}",Doniphan|Brown,20043|20013,False,False,America/Chicago
+66018,38.96524,-94.97232,De Soto,KS,Kansas,True,,6380.0,106.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66020,39.34142,-95.10779,Easton,KS,Kansas,True,,1660.0,10.1,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66021,38.75939,-95.00692,Edgerton,KS,Kansas,True,,2954.0,22.3,20091,Johnson,"{""20091"": 60.08, ""20121"": 31.16, ""20045"": 8.76}",Johnson|Miami|Douglas,20091|20121|20045,False,False,America/Chicago
+66023,39.51375,-95.40005,Effingham,KS,Kansas,True,,904.0,4.8,20005,Atchison,"{""20005"": 100}",Atchison,20005,False,False,America/Chicago
+66024,39.76211,-94.87719,Elwood,KS,Kansas,True,,673.0,183.1,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago
+66025,38.89824,-95.07863,Eudora,KS,Kansas,True,,7847.0,40.7,20045,Douglas,"{""20045"": 69.36, ""20091"": 30.64}",Douglas|Johnson,20045|20091,False,False,America/Chicago
+66026,38.39047,-94.86056,Fontana,KS,Kansas,True,,976.0,7.8,20121,Miami,"{""20121"": 50.01, ""20107"": 49.99}",Miami|Linn,20121|20107,False,False,America/Chicago
+66027,39.36454,-94.91708,Fort Leavenworth,KS,Kansas,True,,6535.0,271.5,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66030,38.81519,-94.94114,Gardner,KS,Kansas,True,,24088.0,200.4,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66031,38.82975,-94.89142,New Century,KS,Kansas,True,,628.0,74.3,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66032,38.2806,-95.27237,Garnett,KS,Kansas,True,,4942.0,9.0,20003,Anderson,"{""20003"": 100}",Anderson,20003,False,False,America/Chicago
+66033,38.35855,-95.12842,Greeley,KS,Kansas,True,,738.0,5.5,20003,Anderson,"{""20003"": 78.24, ""20059"": 14.94, ""20107"": 6.82}",Anderson|Franklin|Linn,20003|20059|20107,False,False,America/Chicago
+66035,39.87693,-95.26054,Highland,KS,Kansas,True,,1323.0,11.5,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago
+66039,38.0987,-95.17011,Kincaid,KS,Kansas,True,,570.0,2.1,20003,Anderson,"{""20003"": 93.22, ""20001"": 6.78}",Anderson|Allen,20003|20001,False,False,America/Chicago
+66040,38.35396,-94.73949,La Cygne,KS,Kansas,True,,3312.0,9.5,20107,Linn,"{""20107"": 71.27, ""20121"": 28.73}",Linn|Miami,20107|20121,False,False,America/Chicago
+66041,39.59618,-95.30623,Lancaster,KS,Kansas,True,,843.0,6.1,20005,Atchison,"{""20005"": 86.87, ""20043"": 9.25, ""20013"": 3.88}",Atchison|Doniphan|Brown,20005|20043|20013,False,False,America/Chicago
+66042,38.43368,-95.08032,Lane,KS,Kansas,True,,555.0,7.2,20059,Franklin,"{""20059"": 62.16, ""20121"": 37.84}",Franklin|Miami,20059|20121,False,False,America/Chicago
+66043,39.24967,-94.90193,Lansing,KS,Kansas,True,,11378.0,608.8,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66044,39.03187,-95.20991,Lawrence,KS,Kansas,True,,28867.0,173.7,20045,Douglas,"{""20045"": 38.6, ""20087"": 32.71, ""20103"": 28.69}",Douglas|Jefferson|Leavenworth,20045|20087|20103,False,False,America/Chicago
+66045,38.95408,-95.26078,Lawrence,KS,Kansas,True,,2284.0,790.4,20045,Douglas,"{""20045"": 100}",Douglas,20045,False,False,America/Chicago
+66046,38.909,-95.21061,Lawrence,KS,Kansas,True,,19564.0,185.0,20045,Douglas,"{""20045"": 100}",Douglas,20045,False,False,America/Chicago
+66047,38.88484,-95.35096,Lawrence,KS,Kansas,True,,20954.0,139.1,20045,Douglas,"{""20045"": 100}",Douglas,20045,False,False,America/Chicago
+66048,39.27891,-94.98527,Leavenworth,KS,Kansas,True,,35952.0,102.5,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66049,38.97773,-95.34729,Lawrence,KS,Kansas,True,,31820.0,271.9,20045,Douglas,"{""20045"": 100}",Douglas,20045,False,False,America/Chicago
+66050,39.01961,-95.43697,Lecompton,KS,Kansas,True,,2181.0,20.8,20045,Douglas,"{""20045"": 99.21, ""20177"": 0.79}",Douglas|Shawnee,20045|20177,False,False,America/Chicago
+66052,39.00998,-95.04678,Linwood,KS,Kansas,True,,2104.0,19.9,20103,Leavenworth,"{""20103"": 100}",Leavenworth,20103,False,False,America/Chicago
+66053,38.57753,-94.67029,Louisburg,KS,Kansas,True,,6967.0,25.9,20121,Miami,"{""20121"": 100}",Miami,20121,False,False,America/Chicago
+66054,39.2055,-95.19518,McLouth,KS,Kansas,True,,2877.0,14.3,20087,Jefferson,"{""20087"": 63.76, ""20103"": 36.24}",Jefferson|Leavenworth,20087|20103,False,False,America/Chicago
+66056,38.1509,-94.84705,Mound City,KS,Kansas,True,,1335.0,5.7,20107,Linn,"{""20107"": 100}",Linn,20107,False,False,America/Chicago
+66058,39.54018,-95.51894,Muscotah,KS,Kansas,True,,244.0,2.8,20005,Atchison,"{""20005"": 100}",Atchison,20005,False,False,America/Chicago
+66060,39.41866,-95.3325,Nortonville,KS,Kansas,True,,1364.0,8.8,20087,Jefferson,"{""20087"": 51.58, ""20005"": 48.42}",Jefferson|Atchison,20087|20005,False,False,America/Chicago
+66061,38.89633,-94.88029,Olathe,KS,Kansas,True,,65730.0,401.0,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66062,38.83677,-94.78455,Olathe,KS,Kansas,True,,82591.0,758.0,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66064,38.47829,-94.98688,Osawatomie,KS,Kansas,True,,6026.0,31.5,20121,Miami,"{""20121"": 96.52, ""20059"": 3.48}",Miami|Franklin,20121|20059,False,False,America/Chicago
+66066,39.20359,-95.33142,Oskaloosa,KS,Kansas,True,,2518.0,12.6,20087,Jefferson,"{""20087"": 100}",Jefferson,20087,False,False,America/Chicago
+66067,38.61877,-95.27566,Ottawa,KS,Kansas,True,,15518.0,36.5,20059,Franklin,"{""20059"": 100}",Franklin,20059,False,False,America/Chicago
+66070,39.21135,-95.45132,Ozawkie,KS,Kansas,True,,2389.0,30.1,20087,Jefferson,"{""20087"": 100}",Jefferson,20087,False,False,America/Chicago
+66071,38.57367,-94.86575,Paola,KS,Kansas,True,,12675.0,21.3,20121,Miami,"{""20121"": 100}",Miami,20121,False,False,America/Chicago
+66072,38.31772,-94.9741,Parker,KS,Kansas,True,,1357.0,6.9,20107,Linn,"{""20107"": 96.6, ""20121"": 3.4}",Linn|Miami,20107|20121,False,False,America/Chicago
+66073,39.09208,-95.38144,Perry,KS,Kansas,True,,2926.0,17.4,20087,Jefferson,"{""20087"": 100}",Jefferson,20087,False,False,America/Chicago
+66075,38.20362,-94.69272,Pleasanton,KS,Kansas,True,,2212.0,8.2,20107,Linn,"{""20107"": 100}",Linn,20107,False,False,America/Chicago
+66076,38.62811,-95.43917,Pomona,KS,Kansas,True,,2388.0,10.0,20059,Franklin,"{""20059"": 100}",Franklin,20059,False,False,America/Chicago
+66078,38.48321,-95.2621,Princeton,KS,Kansas,True,,1086.0,6.5,20059,Franklin,"{""20059"": 100}",Franklin,20059,False,False,America/Chicago
+66079,38.53828,-95.11371,Rantoul,KS,Kansas,True,,762.0,7.7,20059,Franklin,"{""20059"": 100}",Franklin,20059,False,False,America/Chicago
+66080,38.4053,-95.25646,Richmond,KS,Kansas,True,,859.0,5.6,20059,Franklin,"{""20059"": 67.52, ""20003"": 32.48}",Franklin|Anderson,20059|20003,False,False,America/Chicago
+66083,38.73518,-94.83397,Spring Hill,KS,Kansas,True,,11369.0,70.7,20121,Miami,"{""20121"": 57.64, ""20091"": 42.36}",Miami|Johnson,20121|20091,False,False,America/Chicago
+66085,38.80069,-94.64729,Stilwell,KS,Kansas,True,,9780.0,156.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66086,39.11578,-95.08043,Tonganoxie,KS,Kansas,True,,10801.0,43.8,20103,Leavenworth,"{""20103"": 98.91, ""20087"": 1.09}",Leavenworth|Jefferson,20103|20087,False,False,America/Chicago
+66087,39.80641,-95.1378,Troy,KS,Kansas,True,,1925.0,6.2,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago
+66088,39.3416,-95.4563,Valley Falls,KS,Kansas,True,,2783.0,9.0,20087,Jefferson,"{""20087"": 97.05, ""20005"": 2.95}",Jefferson|Atchison,20087|20005,False,False,America/Chicago
+66090,39.78391,-94.97041,Wathena,KS,Kansas,True,,2624.0,12.4,20043,Doniphan,"{""20043"": 100}",Doniphan,20043,False,False,America/Chicago
+66091,38.16952,-95.32701,Welda,KS,Kansas,True,,437.0,2.8,20003,Anderson,"{""20003"": 100}",Anderson,20003,False,False,America/Chicago
+66092,38.69305,-95.10548,Wellsville,KS,Kansas,True,,4116.0,18.0,20059,Franklin,"{""20059"": 64.92, ""20121"": 20.49, ""20045"": 14.59}",Franklin|Miami|Douglas,20059|20121|20045,False,False,America/Chicago
+66093,38.21003,-95.49771,Westphalia,KS,Kansas,True,,724.0,2.5,20003,Anderson,"{""20003"": 60.39, ""20031"": 39.61}",Anderson|Coffey,20003|20031,False,False,America/Chicago
+66094,39.95912,-95.34298,White Cloud,KS,Kansas,True,,325.0,2.6,20013,Brown,"{""20013"": 52.28, ""20043"": 47.72}",Brown|Doniphan,20013|20043,False,False,America/Chicago
+66095,38.44631,-95.43015,Williamsburg,KS,Kansas,True,,944.0,5.1,20059,Franklin,"{""20059"": 92.99, ""20003"": 7.01}",Franklin|Anderson,20059|20003,False,False,America/Chicago
+66097,39.32966,-95.23992,Winchester,KS,Kansas,True,,1177.0,9.1,20087,Jefferson,"{""20087"": 95.97, ""20103"": 4.03}",Jefferson|Leavenworth,20087|20103,False,False,America/Chicago
+66101,39.11871,-94.62592,Kansas City,KS,Kansas,True,,12966.0,1546.9,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66102,39.11246,-94.68842,Kansas City,KS,Kansas,True,,31503.0,1059.2,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66103,39.06045,-94.62707,Kansas City,KS,Kansas,True,,12923.0,1069.2,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66104,39.15043,-94.68861,Kansas City,KS,Kansas,True,,26351.0,629.6,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66105,39.08593,-94.63646,Kansas City,KS,Kansas,True,,2372.0,304.9,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66106,39.06631,-94.70384,Kansas City,KS,Kansas,True,,23212.0,473.1,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66109,39.16367,-94.8283,Kansas City,KS,Kansas,True,,25402.0,213.9,20209,Wyandotte,"{""20209"": 93.33, ""20103"": 6.67}",Wyandotte|Leavenworth,20209|20103,False,False,America/Chicago
+66111,39.08529,-94.79621,Kansas City,KS,Kansas,True,,10295.0,171.5,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66112,39.11494,-94.7701,Kansas City,KS,Kansas,True,,12521.0,880.3,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66115,39.14402,-94.61104,Kansas City,KS,Kansas,True,,0.0,0.0,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66118,39.09946,-94.61348,Kansas City,KS,Kansas,True,,0.0,0.0,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66160,39.05576,-94.60963,Kansas City,KS,Kansas,True,,,,20209,Wyandotte,"{""20209"": 100}",Wyandotte,20209,False,False,America/Chicago
+66202,39.02392,-94.66909,Mission,KS,Kansas,True,,16894.0,1239.4,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66203,39.0216,-94.70558,Shawnee,KS,Kansas,True,,18759.0,1156.2,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66204,38.99282,-94.67741,Overland Park,KS,Kansas,True,,18327.0,1429.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66205,39.03122,-94.6307,Mission,KS,Kansas,True,,13723.0,1419.4,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66206,38.95851,-94.61923,Leawood,KS,Kansas,True,,11430.0,1093.4,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66207,38.95625,-94.64439,Overland Park,KS,Kansas,True,,14907.0,1259.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66208,38.99936,-94.62998,Prairie Village,KS,Kansas,True,,21031.0,1249.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66209,38.89874,-94.63778,Leawood,KS,Kansas,True,,20387.0,1220.0,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66210,38.92372,-94.70483,Overland Park,KS,Kansas,True,,19237.0,1227.2,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66211,38.92422,-94.6363,Leawood,KS,Kansas,True,,5153.0,462.8,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66212,38.9563,-94.68154,Overland Park,KS,Kansas,True,,34347.0,1745.0,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66213,38.89885,-94.70517,Overland Park,KS,Kansas,True,,28655.0,1415.5,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66214,38.96356,-94.71397,Overland Park,KS,Kansas,True,,11795.0,1181.7,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66215,38.95649,-94.74304,Lenexa,KS,Kansas,True,,25098.0,1192.4,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66216,39.01405,-94.74136,Shawnee,KS,Kansas,True,,24477.0,1197.0,20091,Johnson,"{""20091"": 99.73, ""20209"": 0.27}",Johnson|Wyandotte,20091|20209,False,False,America/Chicago
+66217,39.01148,-94.77741,Shawnee,KS,Kansas,True,,6001.0,307.6,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66218,39.01239,-94.81647,Shawnee,KS,Kansas,True,,7416.0,273.2,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66219,38.95124,-94.77807,Lenexa,KS,Kansas,True,,13629.0,635.5,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66220,38.96187,-94.8218,Lenexa,KS,Kansas,True,,7577.0,458.6,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66221,38.84786,-94.71437,Overland Park,KS,Kansas,True,,17601.0,560.0,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66223,38.86176,-94.66831,Overland Park,KS,Kansas,True,,26639.0,1647.1,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66224,38.86213,-94.62866,Overland Park,KS,Kansas,True,,12659.0,733.2,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66226,39.03039,-94.8603,Shawnee,KS,Kansas,True,,15341.0,513.9,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66227,38.97248,-94.87446,Lenexa,KS,Kansas,True,,7327.0,212.3,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66251,38.91712,-94.65891,Overland Park,KS,Kansas,True,,,,20091,Johnson,"{""20091"": 100}",Johnson,20091,False,False,America/Chicago
+66401,38.96894,-96.30539,Alma,KS,Kansas,True,,1644.0,2.6,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago
+66402,38.91782,-95.84926,Auburn,KS,Kansas,True,,3008.0,25.9,20177,Shawnee,"{""20177"": 97.28, ""20139"": 2.72}",Shawnee|Osage,20177|20139,False,False,America/Chicago
+66403,39.89424,-96.27166,Axtell,KS,Kansas,True,,931.0,4.1,20117,Marshall,"{""20117"": 75.25, ""20131"": 24.75}",Marshall|Nemaha,20117|20131,False,False,America/Chicago
+66404,39.86786,-96.17804,Baileyville,KS,Kansas,True,,481.0,3.0,20131,Nemaha,"{""20131"": 98.09, ""20117"": 1.91}",Nemaha|Marshall,20131|20117,False,False,America/Chicago
+66406,39.8927,-96.42014,Beattie,KS,Kansas,True,,424.0,2.7,20117,Marshall,"{""20117"": 100}",Marshall,20117,False,False,America/Chicago
+66407,39.22517,-96.19218,Belvue,KS,Kansas,True,,244.0,1.7,20149,Pottawatomie,"{""20149"": 59.05, ""20197"": 40.95}",Pottawatomie|Wabaunsee,20149|20197,False,False,America/Chicago
+66408,39.95306,-95.97607,Bern,KS,Kansas,True,,396.0,2.8,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66409,38.92508,-95.55589,Berryton,KS,Kansas,True,,3339.0,18.6,20177,Shawnee,"{""20177"": 73.56, ""20045"": 24.19, ""20139"": 2.25}",Shawnee|Douglas|Osage,20177|20045|20139,False,False,America/Chicago
+66411,39.64083,-96.63948,Blue Rapids,KS,Kansas,True,,1280.0,4.3,20117,Marshall,"{""20117"": 83.89, ""20161"": 16.11}",Marshall|Riley,20117|20161,False,False,America/Chicago
+66412,39.90837,-96.77794,Bremen,KS,Kansas,True,,142.0,1.1,20117,Marshall,"{""20117"": 83.61, ""20201"": 16.39}",Marshall|Washington,20117|20201,False,False,America/Chicago
+66413,38.77375,-95.88305,Burlingame,KS,Kansas,True,,1792.0,6.8,20139,Osage,"{""20139"": 88.38, ""20111"": 8.05, ""20197"": 3.57}",Osage|Lyon|Wabaunsee,20139|20111|20197,False,False,America/Chicago
+66414,38.82631,-95.68563,Carbondale,KS,Kansas,True,,2742.0,17.0,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago
+66415,39.69193,-96.14381,Centralia,KS,Kansas,True,,829.0,3.5,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66416,39.52944,-95.86353,Circleville,KS,Kansas,True,,497.0,5.5,20085,Jackson,"{""20085"": 90.73, ""20131"": 9.27}",Jackson|Nemaha,20085|20131,False,False,America/Chicago
+66417,39.65524,-96.03824,Corning,KS,Kansas,True,,375.0,3.5,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66418,39.28861,-95.93528,Delia,KS,Kansas,True,,494.0,2.6,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago
+66419,39.35643,-95.59908,Denison,KS,Kansas,True,,291.0,5.6,20085,Jackson,"{""20085"": 69.69, ""20087"": 30.31}",Jackson|Jefferson,20085|20087,False,False,America/Chicago
+66422,39.33317,-96.08496,Emmett,KS,Kansas,True,,1031.0,7.1,20149,Pottawatomie,"{""20149"": 77.2, ""20085"": 22.8}",Pottawatomie|Jackson,20149|20085,False,False,America/Chicago
+66423,38.8492,-96.12934,Eskridge,KS,Kansas,True,,1061.0,2.7,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago
+66424,39.67789,-95.40072,Everest,KS,Kansas,True,,481.0,3.5,20013,Brown,"{""20013"": 68.14, ""20005"": 31.86}",Brown|Atchison,20013|20005,False,False,America/Chicago
+66425,39.81099,-95.72225,Fairview,KS,Kansas,True,,437.0,3.9,20013,Brown,"{""20013"": 100}",Brown,20013,False,False,America/Chicago
+66427,39.66261,-96.449,Frankfort,KS,Kansas,True,,1051.0,1.9,20117,Marshall,"{""20117"": 89.85, ""20149"": 10.15}",Marshall|Pottawatomie,20117|20149,False,False,America/Chicago
+66428,39.67687,-95.92504,Goff,KS,Kansas,True,,232.0,1.1,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66429,39.0989,-95.53725,Grantville,KS,Kansas,True,,465.0,14.0,20087,Jefferson,"{""20087"": 100}",Jefferson,20087,False,False,America/Chicago
+66431,38.80851,-96.00241,Harveyville,KS,Kansas,True,,536.0,3.4,20197,Wabaunsee,"{""20197"": 91.65, ""20177"": 8.35}",Wabaunsee|Shawnee,20197|20177,False,False,America/Chicago
+66432,39.48768,-96.07348,Havensville,KS,Kansas,True,,305.0,1.7,20149,Pottawatomie,"{""20149"": 76.9, ""20085"": 11.84, ""20131"": 11.26}",Pottawatomie|Jackson|Nemaha,20149|20085|20131,False,False,America/Chicago
+66434,39.86731,-95.54679,Hiawatha,KS,Kansas,True,,4594.0,8.1,20013,Brown,"{""20013"": 100}",Brown,20013,False,False,America/Chicago
+66436,39.4655,-95.70278,Holton,KS,Kansas,True,,6158.0,12.9,20085,Jackson,"{""20085"": 84.87, ""20005"": 13.76, ""20087"": 1.37}",Jackson|Atchison|Jefferson,20085|20005|20087,False,False,America/Chicago
+66438,39.83335,-96.50165,Home,KS,Kansas,True,,129.0,1.4,20117,Marshall,"{""20117"": 100}",Marshall,20117,False,False,America/Chicago
+66439,39.65518,-95.54327,Horton,KS,Kansas,True,,2685.0,11.9,20013,Brown,"{""20013"": 57.77, ""20005"": 38.5, ""20085"": 3.73}",Brown|Atchison|Jackson,20013|20005|20085,False,False,America/Chicago
+66440,39.26326,-95.68168,Hoyt,KS,Kansas,True,,1730.0,14.0,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago
+66441,38.98199,-96.80289,Junction City,KS,Kansas,True,,25532.0,42.5,20061,Geary,"{""20061"": 93.84, ""20041"": 4.73, ""20161"": 1.43}",Geary|Dickinson|Riley,20061|20041|20161,False,False,America/Chicago
+66442,39.09302,-96.78963,Fort Riley,KS,Kansas,True,,14629.0,166.2,20161,Riley,"{""20161"": 60.53, ""20061"": 39.47}",Riley|Geary,20161|20061,False,False,America/Chicago
+66449,39.38833,-96.86007,Leonardville,KS,Kansas,True,,1150.0,6.7,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66451,38.60841,-95.67236,Lyndon,KS,Kansas,True,,1656.0,8.2,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago
+66501,39.05279,-96.23688,McFarland,KS,Kansas,True,,363.0,402.5,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago
+66502,39.14146,-96.52906,Manhattan,KS,Kansas,True,,44036.0,76.7,20161,Riley,"{""20161"": 60.13, ""20149"": 20.73, ""20061"": 15.37, ""20197"": 3.77}",Riley|Pottawatomie|Geary|Wabaunsee,20161|20149|20061|20197,False,False,America/Chicago
+66503,39.26287,-96.68663,Manhattan,KS,Kansas,True,,16840.0,78.2,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66506,39.19596,-96.58148,Manhattan,KS,Kansas,True,,3521.0,1921.4,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66507,39.04712,-96.03942,Maple Hill,KS,Kansas,True,,1205.0,5.0,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago
+66508,39.85803,-96.64287,Marysville,KS,Kansas,True,,4314.0,9.4,20117,Marshall,"{""20117"": 100}",Marshall,20117,False,False,America/Chicago
+66509,39.33239,-95.78097,Mayetta,KS,Kansas,True,,2758.0,8.4,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago
+66510,38.49297,-95.6104,Melvern,KS,Kansas,True,,710.0,4.6,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago
+66512,39.20255,-95.54701,Meriden,KS,Kansas,True,,2735.0,15.8,20087,Jefferson,"{""20087"": 84.11, ""20085"": 11.12, ""20177"": 4.77}",Jefferson|Jackson|Shawnee,20087|20085|20177,False,False,America/Chicago
+66514,39.12635,-96.87826,Milford,KS,Kansas,True,,1435.0,33.0,20061,Geary,"{""20061"": 100}",Geary,20061,False,False,America/Chicago
+66515,39.94181,-95.70681,Morrill,KS,Kansas,True,,452.0,5.0,20013,Brown,"{""20013"": 100}",Brown,20013,False,False,America/Chicago
+66516,39.62193,-95.7195,Netawaka,KS,Kansas,True,,292.0,2.3,20085,Jackson,"{""20085"": 70.37, ""20013"": 29.63}",Jackson|Brown,20085|20013,False,False,America/Chicago
+66517,39.11253,-96.70465,Ogden,KS,Kansas,True,,1475.0,311.0,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66518,39.97008,-96.55533,Oketo,KS,Kansas,True,,167.0,1.6,20117,Marshall,"{""20117"": 100}",Marshall,20117,False,False,America/Chicago
+66520,39.40963,-96.61617,Olsburg,KS,Kansas,True,,649.0,2.4,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago
+66521,39.47668,-96.22128,Onaga,KS,Kansas,True,,1609.0,3.5,20149,Pottawatomie,"{""20149"": 91.59, ""20131"": 8.41}",Pottawatomie|Nemaha,20149|20131,False,False,America/Chicago
+66522,39.86609,-95.93826,Oneida,KS,Kansas,True,,222.0,663.2,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66523,38.60993,-95.83791,Osage City,KS,Kansas,True,,3664.0,9.2,20139,Osage,"{""20139"": 96.27, ""20111"": 3.73}",Osage|Lyon,20139|20111,False,False,America/Chicago
+66524,38.78948,-95.50695,Overbrook,KS,Kansas,True,,2070.0,6.1,20139,Osage,"{""20139"": 50.48, ""20045"": 44.18, ""20177"": 3.05, ""20059"": 2.29}",Osage|Douglas|Shawnee|Franklin,20139|20045|20177|20059,False,False,America/Chicago
+66526,39.06349,-96.15567,Paxico,KS,Kansas,True,,818.0,4.5,20197,Wabaunsee,"{""20197"": 100}",Wabaunsee,20197,False,False,America/Chicago
+66527,39.74499,-95.67744,Powhattan,KS,Kansas,True,,271.0,2.7,20013,Brown,"{""20013"": 100}",Brown,20013,False,False,America/Chicago
+66528,38.59711,-95.5344,Quenemo,KS,Kansas,True,,733.0,4.2,20139,Osage,"{""20139"": 82.01, ""20059"": 17.99}",Osage|Franklin,20139|20059,False,False,America/Chicago
+66531,39.31146,-96.83416,Riley,KS,Kansas,True,,1862.0,20.4,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66532,39.82656,-95.37597,Robinson,KS,Kansas,True,,740.0,3.3,20013,Brown,"{""20013"": 78.6, ""20043"": 21.4}",Brown|Doniphan,20013|20043,False,False,America/Chicago
+66533,39.16097,-95.95045,Rossville,KS,Kansas,True,,1610.0,11.6,20177,Shawnee,"{""20177"": 96.2, ""20085"": 3.8}",Shawnee|Jackson,20177|20085,False,False,America/Chicago
+66534,39.87782,-95.83635,Sabetha,KS,Kansas,True,,3912.0,10.3,20131,Nemaha,"{""20131"": 80.0, ""20013"": 20.0}",Nemaha|Brown,20131|20013,False,False,America/Chicago
+66535,39.26169,-96.43896,Saint George,KS,Kansas,True,,2933.0,27.1,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago
+66536,39.2247,-96.07396,Saint Marys,KS,Kansas,True,,4276.0,25.2,20149,Pottawatomie,"{""20149"": 74.11, ""20177"": 10.36, ""20085"": 8.26, ""20197"": 7.27}",Pottawatomie|Shawnee|Jackson|Wabaunsee,20149|20177|20085|20197,False,False,America/Chicago
+66537,38.75118,-95.72255,Scranton,KS,Kansas,True,,1307.0,9.5,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago
+66538,39.84942,-96.04591,Seneca,KS,Kansas,True,,3096.0,8.7,20131,Nemaha,"{""20131"": 100}",Nemaha,20131,False,False,America/Chicago
+66539,39.14937,-95.84707,Silver Lake,KS,Kansas,True,,2535.0,23.6,20177,Shawnee,"{""20177"": 96.39, ""20085"": 3.61}",Shawnee|Jackson,20177|20085,False,False,America/Chicago
+66540,39.48484,-95.97332,Soldier,KS,Kansas,True,,567.0,2.5,20085,Jackson,"{""20085"": 86.8, ""20131"": 12.64, ""20149"": 0.56}",Jackson|Nemaha|Pottawatomie,20085|20131|20149,False,False,America/Chicago
+66541,39.97891,-96.34781,Summerfield,KS,Kansas,True,,178.0,1.4,20117,Marshall,"{""20117"": 71.72, ""31133"": 28.28}",Marshall|Pawnee,20117|31133,False,False,America/Chicago
+66542,39.01273,-95.54442,Tecumseh,KS,Kansas,True,,3024.0,36.0,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66543,38.64175,-95.60029,Vassar,KS,Kansas,True,,1133.0,49.3,20139,Osage,"{""20139"": 100}",Osage,20139,False,False,America/Chicago
+66544,39.68807,-96.27783,Vermillion,KS,Kansas,True,,351.0,1.5,20117,Marshall,"{""20117"": 84.03, ""20131"": 15.97}",Marshall|Nemaha,20117|20131,False,False,America/Chicago
+66546,38.8941,-95.72589,Wakarusa,KS,Kansas,True,,1019.0,10.3,20177,Shawnee,"{""20177"": 91.41, ""20139"": 8.59}",Shawnee|Osage,20177|20139,False,False,America/Chicago
+66547,39.23469,-96.30384,Wamego,KS,Kansas,True,,8794.0,25.5,20149,Pottawatomie,"{""20149"": 77.06, ""20197"": 22.94}",Pottawatomie|Wabaunsee,20149|20197,False,False,America/Chicago
+66548,39.67551,-96.76146,Waterville,KS,Kansas,True,,876.0,4.2,20117,Marshall,"{""20117"": 95.17, ""20201"": 2.49, ""20161"": 2.34}",Marshall|Washington|Riley,20117|20201|20161,False,False,America/Chicago
+66549,39.42978,-96.43045,Westmoreland,KS,Kansas,True,,1697.0,3.6,20149,Pottawatomie,"{""20149"": 100}",Pottawatomie,20149,False,False,America/Chicago
+66550,39.65537,-95.82113,Wetmore,KS,Kansas,True,,594.0,3.4,20131,Nemaha,"{""20131"": 78.75, ""20085"": 10.93, ""20013"": 10.32}",Nemaha|Jackson|Brown,20131|20085|20013,False,False,America/Chicago
+66552,39.58736,-95.621,Whiting,KS,Kansas,True,,419.0,3.4,20085,Jackson,"{""20085"": 100}",Jackson,20085,False,False,America/Chicago
+66554,39.48899,-96.78445,Randolph,KS,Kansas,True,,613.0,2.3,20161,Riley,"{""20161"": 100}",Riley,20161,False,False,America/Chicago
+66603,39.05742,-95.67539,Topeka,KS,Kansas,True,,1294.0,558.7,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66604,39.03875,-95.72623,Topeka,KS,Kansas,True,,21985.0,1255.9,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66605,39.01167,-95.63283,Topeka,KS,Kansas,True,,20447.0,789.3,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66606,39.06191,-95.72296,Topeka,KS,Kansas,True,,10178.0,682.0,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66607,39.0422,-95.63502,Topeka,KS,Kansas,True,,10099.0,558.3,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66608,39.07984,-95.66708,Topeka,KS,Kansas,True,,5168.0,459.0,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66609,38.98193,-95.66974,Topeka,KS,Kansas,True,,6606.0,203.4,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66610,38.97277,-95.84718,Topeka,KS,Kansas,True,,11154.0,97.7,20177,Shawnee,"{""20177"": 92.35, ""20197"": 7.65}",Shawnee|Wabaunsee,20177|20197,False,False,America/Chicago
+66611,39.01526,-95.69601,Topeka,KS,Kansas,True,,10411.0,1215.9,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66612,39.04026,-95.68037,Topeka,KS,Kansas,True,,1880.0,681.7,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66614,39.01362,-95.84115,Topeka,KS,Kansas,True,,32386.0,519.6,20177,Shawnee,"{""20177"": 83.86, ""20197"": 16.14}",Shawnee|Wabaunsee,20177|20197,False,False,America/Chicago
+66615,39.05214,-95.89491,Topeka,KS,Kansas,True,,3051.0,26.2,20177,Shawnee,"{""20177"": 77.98, ""20197"": 22.02}",Shawnee|Wabaunsee,20177|20197,False,False,America/Chicago
+66616,39.06845,-95.62388,Topeka,KS,Kansas,True,,5567.0,351.4,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66617,39.13876,-95.625,Topeka,KS,Kansas,True,,8880.0,79.1,20177,Shawnee,"{""20177"": 81.73, ""20087"": 17.09, ""20085"": 1.18}",Shawnee|Jefferson|Jackson,20177|20087|20085,False,False,America/Chicago
+66618,39.14188,-95.74997,Topeka,KS,Kansas,True,,10278.0,54.5,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66619,38.94661,-95.68993,Topeka,KS,Kansas,True,,3112.0,141.8,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66621,39.03313,-95.70237,Topeka,KS,Kansas,True,,653.0,1249.2,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66622,39.02631,-95.72231,Topeka,KS,Kansas,True,,102.0,321.7,20177,Shawnee,"{""20177"": 100}",Shawnee,20177,False,False,America/Chicago
+66701,37.82862,-94.75999,Fort Scott,KS,Kansas,True,,11967.0,16.2,20011,Bourbon,"{""20011"": 97.78, ""20037"": 2.22}",Bourbon|Crawford,20011|20037,False,False,America/Chicago
+66710,37.55301,-95.63104,Altoona,KS,Kansas,True,,505.0,3.2,20205,Wilson,"{""20205"": 100}",Wilson,20205,False,False,America/Chicago
+66711,37.63974,-94.691,Arcadia,KS,Kansas,True,,564.0,4.1,20037,Crawford,"{""20037"": 88.56, ""20011"": 11.44}",Crawford|Bourbon,20037|20011,False,False,America/Chicago
+66712,37.5636,-94.71657,Arma,KS,Kansas,True,,1763.0,30.6,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66713,37.03323,-94.78637,Baxter Springs,KS,Kansas,True,,5398.0,35.3,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66714,37.63369,-95.70484,Benedict,KS,Kansas,True,,222.0,2.6,20205,Wilson,"{""20205"": 100}",Wilson,20205,False,False,America/Chicago
+66716,37.93923,-95.04001,Bronson,KS,Kansas,True,,435.0,2.0,20011,Bourbon,"{""20011"": 83.33, ""20001"": 16.67}",Bourbon|Allen,20011|20001,False,False,America/Chicago
+66717,37.69671,-95.68672,Buffalo,KS,Kansas,True,,611.0,5.4,20205,Wilson,"{""20205"": 99.39, ""20207"": 0.61}",Wilson|Woodson,20205|20207,False,False,America/Chicago
+66720,37.64631,-95.459,Chanute,KS,Kansas,True,,11174.0,21.7,20133,Neosho,"{""20133"": 71.57, ""20205"": 24.14, ""20001"": 3.04, ""20207"": 1.25}",Neosho|Wilson|Allen|Woodson,20133|20205|20001|20207,False,False,America/Chicago
+66724,37.34891,-94.86333,Cherokee,KS,Kansas,True,,916.0,10.1,20037,Crawford,"{""20037"": 63.1, ""20021"": 36.9}",Crawford|Cherokee,20037|20021,False,False,America/Chicago
+66725,37.15906,-94.88892,Columbus,KS,Kansas,True,,5803.0,9.8,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66732,37.80097,-95.1947,Elsmore,KS,Kansas,True,,271.0,2.5,20001,Allen,"{""20001"": 100}",Allen,20001,False,False,America/Chicago
+66733,37.59014,-95.25282,Erie,KS,Kansas,True,,2292.0,6.4,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago
+66734,37.61534,-94.82172,Farlington,KS,Kansas,True,,165.0,2.0,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66735,37.52091,-94.71313,Franklin,KS,Kansas,True,,617.0,51.8,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66736,37.55335,-95.86381,Fredonia,KS,Kansas,True,,3670.0,5.2,20205,Wilson,"{""20205"": 88.16, ""20049"": 9.95, ""20207"": 0.82, ""20073"": 0.54, ""20125"": 0.53}",Wilson|Elk|Woodson|Greenwood|Montgomery,20205|20049|20207|20073|20125,False,False,America/Chicago
+66738,38.01473,-94.7162,Fulton,KS,Kansas,True,,269.0,2.5,20011,Bourbon,"{""20011"": 85.93, ""20107"": 14.07}",Bourbon|Linn,20011|20107,False,False,America/Chicago
+66739,37.12084,-94.66595,Galena,KS,Kansas,True,,5365.0,29.5,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66740,37.4621,-95.36641,Galesburg,KS,Kansas,True,,317.0,3.3,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago
+66741,37.71745,-94.66467,Garland,KS,Kansas,True,,152.0,2.7,20011,Bourbon,"{""20011"": 100}",Bourbon,20011,False,False,America/Chicago
+66742,37.92023,-95.34755,Gas,KS,Kansas,True,,,,20001,Allen,"{""20001"": 100}",Allen,20001,False,False,America/Chicago
+66743,37.50551,-94.88786,Girard,KS,Kansas,True,,4420.0,11.8,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66746,37.6708,-94.95317,Hepler,KS,Kansas,True,,196.0,1.4,20037,Crawford,"{""20037"": 57.07, ""20011"": 42.93}",Crawford|Bourbon,20037|20011,False,False,America/Chicago
+66748,37.79882,-95.43577,Humboldt,KS,Kansas,True,,3057.0,10.3,20001,Allen,"{""20001"": 81.48, ""20207"": 15.59, ""20133"": 2.93}",Allen|Woodson|Neosho,20001|20207|20133,False,False,America/Chicago
+66749,37.93597,-95.41069,Iola,KS,Kansas,True,,7272.0,25.7,20001,Allen,"{""20001"": 100}",Allen,20001,False,False,America/Chicago
+66751,37.93421,-95.28466,La Harpe,KS,Kansas,True,,612.0,4.8,20001,Allen,"{""20001"": 100}",Allen,20001,False,False,America/Chicago
+66753,37.36529,-95.01444,McCune,KS,Kansas,True,,1203.0,3.4,20037,Crawford,"{""20037"": 54.24, ""20021"": 35.38, ""20099"": 7.83, ""20133"": 2.55}",Crawford|Cherokee|Labette|Neosho,20037|20021|20099|20133,False,False,America/Chicago
+66754,38.00377,-94.88848,Mapleton,KS,Kansas,True,,456.0,3.7,20011,Bourbon,"{""20011"": 92.53, ""20107"": 7.47}",Bourbon|Linn,20011|20107,False,False,America/Chicago
+66755,37.91211,-95.16727,Moran,KS,Kansas,True,,854.0,2.6,20001,Allen,"{""20001"": 93.63, ""20011"": 6.37}",Allen|Bourbon,20001|20011,False,False,America/Chicago
+66756,37.53928,-94.64869,Mulberry,KS,Kansas,True,,1089.0,20.2,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66757,37.41602,-95.69874,Neodesha,KS,Kansas,True,,3162.0,10.7,20205,Wilson,"{""20205"": 75.94, ""20125"": 24.06}",Wilson|Montgomery,20205|20125,False,False,America/Chicago
+66758,38.01862,-95.59602,Neosho Falls,KS,Kansas,True,,221.0,1.6,20207,Woodson,"{""20207"": 71.34, ""20031"": 16.42, ""20003"": 6.39, ""20001"": 5.85}",Woodson|Coffey|Anderson|Allen,20207|20031|20003|20001,False,False,America/Chicago
+66760,37.34487,-94.6245,Opolis,KS,Kansas,True,,0.0,0.0,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66761,37.91469,-95.56694,Piqua,KS,Kansas,True,,265.0,2.4,20207,Woodson,"{""20207"": 100}",Woodson,20207,False,False,America/Chicago
+66762,37.39443,-94.71092,Pittsburg,KS,Kansas,True,,24498.0,70.6,20037,Crawford,"{""20037"": 82.73, ""20021"": 17.27}",Crawford|Cherokee,20037|20021,False,False,America/Chicago
+66763,37.46063,-94.6965,Frontenac,KS,Kansas,True,,3398.0,209.4,20037,Crawford,"{""20037"": 100}",Crawford,20037,False,False,America/Chicago
+66767,38.07741,-94.71159,Prescott,KS,Kansas,True,,475.0,4.0,20107,Linn,"{""20107"": 100}",Linn,20107,False,False,America/Chicago
+66769,37.85317,-94.89379,Redfield,KS,Kansas,True,,595.0,4.6,20011,Bourbon,"{""20011"": 100}",Bourbon,20011,False,False,America/Chicago
+66770,37.08014,-94.71601,Riverton,KS,Kansas,True,,1069.0,58.4,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66771,37.49211,-95.14883,Saint Paul,KS,Kansas,True,,1056.0,6.6,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago
+66772,37.74559,-95.18813,Savonburg,KS,Kansas,True,,155.0,1.2,20001,Allen,"{""20001"": 67.43, ""20011"": 17.3, ""20133"": 15.27}",Allen|Bourbon|Neosho,20001|20011|20133,False,False,America/Chicago
+66773,37.26599,-94.81262,Scammon,KS,Kansas,True,,635.0,7.3,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66775,37.69957,-95.14855,Stark,KS,Kansas,True,,162.0,3.0,20133,Neosho,"{""20133"": 100}",Neosho,20133,False,False,America/Chicago
+66776,37.46848,-95.48893,Thayer,KS,Kansas,True,,1461.0,5.1,20133,Neosho,"{""20133"": 68.73, ""20205"": 27.52, ""20099"": 2.84, ""20125"": 0.91}",Neosho|Wilson|Labette|Montgomery,20133|20205|20099|20125,False,False,America/Chicago
+66777,37.79087,-95.9684,Toronto,KS,Kansas,True,,468.0,1.4,20073,Greenwood,"{""20073"": 49.97, ""20207"": 44.06, ""20205"": 5.97}",Greenwood|Woodson|Wilson,20073|20207|20205,False,False,America/Chicago
+66778,37.00048,-94.839,Treece,KS,Kansas,True,,0.0,0.0,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66779,37.83751,-94.97867,Uniontown,KS,Kansas,True,,674.0,3.5,20011,Bourbon,"{""20011"": 100}",Bourbon,20011,False,False,America/Chicago
+66780,37.60895,-95.05881,Walnut,KS,Kansas,True,,513.0,1.9,20037,Crawford,"{""20037"": 62.91, ""20133"": 27.24, ""20011"": 9.85}",Crawford|Neosho|Bourbon,20037|20133|20011,False,False,America/Chicago
+66781,37.29114,-94.72806,Weir,KS,Kansas,True,,1155.0,9.8,20021,Cherokee,"{""20021"": 94.51, ""20037"": 5.49}",Cherokee|Crawford,20021|20037,False,False,America/Chicago
+66782,37.28493,-94.92609,West Mineral,KS,Kansas,True,,130.0,164.9,20021,Cherokee,"{""20021"": 100}",Cherokee,20021,False,False,America/Chicago
+66783,37.87682,-95.73322,Yates Center,KS,Kansas,True,,2225.0,3.0,20207,Woodson,"{""20207"": 100}",Woodson,20207,False,False,America/Chicago
+66801,38.41105,-96.2221,Emporia,KS,Kansas,True,,28450.0,36.5,20111,Lyon,"{""20111"": 84.61, ""20017"": 15.39}",Lyon|Chase,20111|20017,False,False,America/Chicago
+66830,38.59733,-96.08755,Admire,KS,Kansas,True,,209.0,2.8,20111,Lyon,"{""20111"": 100}",Lyon,20111,False,False,America/Chicago
+66833,38.67694,-96.18374,Allen,KS,Kansas,True,,465.0,1.3,20111,Lyon,"{""20111"": 100}",Lyon,20111,False,False,America/Chicago
+66834,38.86528,-96.44822,Alta Vista,KS,Kansas,True,,874.0,2.0,20197,Wabaunsee,"{""20197"": 56.03, ""20061"": 23.87, ""20127"": 20.1}",Wabaunsee|Geary|Morris,20197|20061|20127,False,False,America/Chicago
+66835,38.53458,-96.26266,Americus,KS,Kansas,True,,1206.0,8.0,20111,Lyon,"{""20111"": 98.91, ""20127"": 1.09}",Lyon|Morris,20111|20127,False,False,America/Chicago
+66838,38.56207,-96.79665,Burdick,KS,Kansas,True,,141.0,0.9,20127,Morris,"{""20127"": 94.38, ""20115"": 3.23, ""20017"": 2.39}",Morris|Marion|Chase,20127|20115|20017,False,False,America/Chicago
+66839,38.21655,-95.75371,Burlington,KS,Kansas,True,,3650.0,9.8,20031,Coffey,"{""20031"": 100}",Coffey,20031,False,False,America/Chicago
+66840,38.07283,-96.8719,Burns,KS,Kansas,True,,576.0,1.3,20015,Butler,"{""20015"": 53.59, ""20115"": 25.26, ""20017"": 21.15}",Butler|Marion|Chase,20015|20115|20017,False,False,America/Chicago
+66842,38.0236,-96.65836,Cassoday,KS,Kansas,True,,554.0,1.8,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+66843,38.22846,-96.74329,Cedar Point,KS,Kansas,True,,162.0,0.5,20017,Chase,"{""20017"": 97.74, ""20115"": 2.26}",Chase|Marion,20017|20115,False,False,America/Chicago
+66845,38.29546,-96.50762,Cottonwood Falls,KS,Kansas,True,,1139.0,2.9,20017,Chase,"{""20017"": 100}",Chase,20017,False,False,America/Chicago
+66846,38.64383,-96.47187,Council Grove,KS,Kansas,True,,3270.0,4.2,20127,Morris,"{""20127"": 84.07, ""20111"": 10.9, ""20017"": 4.36, ""20197"": 0.67}",Morris|Lyon|Chase|Wabaunsee,20127|20111|20017|20197,False,False,America/Chicago
+66849,38.87427,-96.59789,Dwight,KS,Kansas,True,,479.0,2.9,20127,Morris,"{""20127"": 51.05, ""20061"": 48.95}",Morris|Geary,20127|20061,False,False,America/Chicago
+66850,38.40648,-96.71764,Elmdale,KS,Kansas,True,,292.0,0.9,20017,Chase,"{""20017"": 100}",Chase,20017,False,False,America/Chicago
+66851,38.22463,-96.92084,Florence,KS,Kansas,True,,505.0,2.9,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+66852,38.0716,-95.89874,Gridley,KS,Kansas,True,,629.0,1.6,20031,Coffey,"{""20031"": 58.04, ""20207"": 23.82, ""20073"": 18.14}",Coffey|Woodson|Greenwood,20031|20207|20073,False,False,America/Chicago
+66853,38.00653,-96.24232,Hamilton,KS,Kansas,True,,491.0,1.2,20073,Greenwood,"{""20073"": 100}",Greenwood,20073,False,False,America/Chicago
+66854,38.25872,-95.98735,Hartford,KS,Kansas,True,,627.0,2.5,20111,Lyon,"{""20111"": 70.81, ""20031"": 29.19}",Lyon|Coffey,20111|20031,False,False,America/Chicago
+66856,38.39853,-95.81838,Lebo,KS,Kansas,True,,1760.0,4.8,20031,Coffey,"{""20031"": 66.67, ""20139"": 33.33}",Coffey|Osage,20031|20139,False,False,America/Chicago
+66857,38.10202,-95.63526,Le Roy,KS,Kansas,True,,1023.0,4.8,20031,Coffey,"{""20031"": 100}",Coffey,20031,False,False,America/Chicago
+66858,38.47462,-96.9207,Lincolnville,KS,Kansas,True,,280.0,1.4,20115,Marion,"{""20115"": 92.02, ""20017"": 7.98}",Marion|Chase,20115|20017,False,False,America/Chicago
+66859,38.55653,-96.96315,Lost Springs,KS,Kansas,True,,212.0,2.0,20115,Marion,"{""20115"": 81.05, ""20127"": 18.95}",Marion|Morris,20115|20127,False,False,America/Chicago
+66860,38.12775,-96.1652,Madison,KS,Kansas,True,,1146.0,2.4,20073,Greenwood,"{""20073"": 81.54, ""20111"": 18.46}",Greenwood|Lyon,20073|20111,False,False,America/Chicago
+66861,38.36415,-97.00617,Marion,KS,Kansas,True,,2759.0,5.2,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+66862,38.15532,-96.55403,Matfield Green,KS,Kansas,True,,75.0,0.3,20017,Chase,"{""20017"": 100}",Chase,20017,False,False,America/Chicago
+66863,37.83368,-96.07633,Neal,KS,Kansas,True,,44.0,38.2,20073,Greenwood,"{""20073"": 100}",Greenwood,20073,False,False,America/Chicago
+66864,38.36132,-95.98207,Neosho Rapids,KS,Kansas,True,,456.0,4.7,20111,Lyon,"{""20111"": 69.36, ""20031"": 30.64}",Lyon|Coffey,20111|20031,False,False,America/Chicago
+66865,38.2181,-96.27993,Olpe,KS,Kansas,True,,1242.0,3.2,20111,Lyon,"{""20111"": 66.62, ""20017"": 33.38}",Lyon|Chase,20111|20017,False,False,America/Chicago
+66866,38.17438,-97.10385,Peabody,KS,Kansas,True,,1715.0,4.8,20115,Marion,"{""20115"": 90.64, ""20079"": 9.36}",Marion|Harvey,20115|20079,False,False,America/Chicago
+66868,38.54284,-95.98387,Reading,KS,Kansas,True,,860.0,2.6,20111,Lyon,"{""20111"": 77.85, ""20139"": 20.56, ""20031"": 1.59}",Lyon|Osage|Coffey,20111|20139|20031,False,False,America/Chicago
+66869,38.4548,-96.54444,Strong City,KS,Kansas,True,,671.0,2.4,20017,Chase,"{""20017"": 100}",Chase,20017,False,False,America/Chicago
+66870,37.93809,-95.99316,Virgil,KS,Kansas,True,,153.0,0.6,20073,Greenwood,"{""20073"": 80.05, ""20207"": 19.95}",Greenwood|Woodson,20073|20207,False,False,America/Chicago
+66871,38.35941,-95.61815,Waverly,KS,Kansas,True,,1327.0,3.9,20031,Coffey,"{""20031"": 94.84, ""20139"": 5.16}",Coffey|Osage,20031|20139,False,False,America/Chicago
+66872,38.79878,-96.76147,White City,KS,Kansas,True,,921.0,2.5,20127,Morris,"{""20127"": 94.03, ""20061"": 5.97}",Morris|Geary,20127|20061,False,False,America/Chicago
+66873,38.61747,-96.66774,Wilsey,KS,Kansas,True,,245.0,1.2,20127,Morris,"{""20127"": 100}",Morris,20127,False,False,America/Chicago
+66901,39.55618,-97.64317,Concordia,KS,Kansas,True,,6026.0,9.2,20029,Cloud,"{""20029"": 88.95, ""20157"": 11.05}",Cloud|Republic,20029|20157,False,False,America/Chicago
+66930,39.71137,-97.48553,Agenda,KS,Kansas,True,,248.0,1.5,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66932,39.77925,-98.93227,Athol,KS,Kansas,True,,64.0,0.3,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago
+66933,39.67124,-96.86706,Barnes,KS,Kansas,True,,281.0,1.3,20201,Washington,"{""20201"": 94.99, ""20161"": 5.01}",Washington|Riley,20201|20161,False,False,America/Chicago
+66935,39.82694,-97.63538,Belleville,KS,Kansas,True,,2239.0,7.0,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66936,39.9213,-98.30091,Burr Oak,KS,Kansas,True,,285.0,0.8,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+66937,39.58959,-97.26493,Clifton,KS,Kansas,True,,1013.0,2.8,20201,Washington,"{""20201"": 53.3, ""20027"": 46.7}",Washington|Clay,20201|20027,False,False,America/Chicago
+66938,39.58018,-97.41081,Clyde,KS,Kansas,True,,1204.0,3.7,20029,Cloud,"{""20029"": 67.32, ""20201"": 18.98, ""20157"": 9.01, ""20027"": 4.69}",Cloud|Washington|Republic|Clay,20029|20201|20157|20027,False,False,America/Chicago
+66939,39.85179,-97.89754,Courtland,KS,Kansas,True,,483.0,1.7,20157,Republic,"{""20157"": 82.51, ""20089"": 17.49}",Republic|Jewell,20157|20089,False,False,America/Chicago
+66940,39.80343,-97.45381,Cuba,KS,Kansas,True,,362.0,2.0,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66941,39.83135,-98.44777,Esbon,KS,Kansas,True,,77.0,0.2,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+66942,39.79278,-98.00448,Formoso,KS,Kansas,True,,235.0,1.0,20089,Jewell,"{""20089"": 98.07, ""20157"": 1.93}",Jewell|Republic,20089|20157,False,False,America/Chicago
+66943,39.67209,-96.97313,Greenleaf,KS,Kansas,True,,542.0,2.3,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66944,39.84007,-97.29354,Haddam,KS,Kansas,True,,345.0,1.4,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66945,39.88601,-96.87761,Hanover,KS,Kansas,True,,896.0,3.4,20201,Washington,"{""20201"": 99.04, ""20117"": 0.96}",Washington|Marshall,20201|20117,False,False,America/Chicago
+66946,39.96684,-97.00192,Hollenberg,KS,Kansas,True,,161.0,1.2,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66948,39.59743,-97.85141,Jamestown,KS,Kansas,True,,417.0,1.3,20029,Cloud,"{""20029"": 77.44, ""20157"": 21.77, ""20089"": 0.79}",Cloud|Republic|Jewell,20029|20157|20089,False,False,America/Chicago
+66949,39.646,-98.19755,Jewell,KS,Kansas,True,,602.0,2.0,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+66951,39.86239,-99.03072,Kensington,KS,Kansas,True,,737.0,1.5,20183,Smith,"{""20183"": 73.87, ""20147"": 26.13}",Smith|Phillips,20183|20147,False,False,America/Chicago
+66952,39.84269,-98.60214,Lebanon,KS,Kansas,True,,448.0,0.7,20183,Smith,"{""20183"": 98.67, ""20089"": 1.33}",Smith|Jewell,20183|20089,False,False,America/Chicago
+66953,39.67877,-97.11934,Linn,KS,Kansas,True,,623.0,3.4,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66955,39.97984,-97.31715,Mahaska,KS,Kansas,True,,87.0,0.6,20201,Washington,"{""20201"": 77.84, ""31169"": 22.16}",Washington|Thayer,20201|31169,False,False,America/Chicago
+66956,39.79625,-98.21581,Mankato,KS,Kansas,True,,1118.0,2.2,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+66958,39.88657,-97.1787,Morrowville,KS,Kansas,True,,230.0,1.2,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66959,39.92276,-97.53551,Munden,KS,Kansas,True,,171.0,1.2,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66960,39.93042,-97.42134,Narka,KS,Kansas,True,,132.0,0.8,20157,Republic,"{""20157"": 95.46, ""20201"": 4.54}",Republic|Washington,20157|20201,False,False,America/Chicago
+66961,39.69337,-97.77559,Norway,KS,Kansas,True,,,,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66962,39.59928,-97.12547,Palmer,KS,Kansas,True,,228.0,1.6,20201,Washington,"{""20201"": 78.41, ""20027"": 21.59}",Washington|Clay,20201|20027,False,False,America/Chicago
+66963,39.64133,-98.01064,Randall,KS,Kansas,True,,227.0,1.1,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+66964,39.93465,-97.80004,Republic,KS,Kansas,True,,117.0,0.9,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66966,39.7793,-97.76206,Scandia,KS,Kansas,True,,695.0,2.9,20157,Republic,"{""20157"": 100}",Republic,20157,False,False,America/Chicago
+66967,39.82571,-98.79366,Smith Center,KS,Kansas,True,,1969.0,3.2,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago
+66968,39.8294,-97.06524,Washington,KS,Kansas,True,,1258.0,3.7,20201,Washington,"{""20201"": 100}",Washington,20201,False,False,America/Chicago
+66970,39.94533,-98.02336,Webber,KS,Kansas,True,,71.0,0.8,20089,Jewell,"{""20089"": 100}",Jewell,20089,False,False,America/Chicago
+67001,37.76069,-97.62953,Andale,KS,Kansas,True,,1781.0,29.8,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67002,37.69575,-97.10725,Andover,KS,Kansas,True,,15085.0,155.4,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67003,37.1109,-98.06319,Anthony,KS,Kansas,True,,2377.0,3.8,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago
+67004,37.28317,-97.76401,Argonia,KS,Kansas,True,,740.0,2.7,20191,Sumner,"{""20191"": 71.9, ""20077"": 28.1}",Sumner|Harper,20191|20077,False,False,America/Chicago
+67005,37.06722,-96.99645,Arkansas City,KS,Kansas,True,,15311.0,40.6,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67008,37.47796,-96.76983,Atlanta,KS,Kansas,True,,547.0,1.9,20035,Cowley,"{""20035"": 56.47, ""20015"": 43.53}",Cowley|Butler,20035|20015,False,False,America/Chicago
+67009,37.22153,-98.26369,Attica,KS,Kansas,True,,925.0,2.6,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago
+67010,37.66099,-96.97388,Augusta,KS,Kansas,True,,14447.0,53.7,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67012,37.66175,-96.54701,Beaumont,KS,Kansas,True,,29.0,0.6,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67013,37.37904,-97.27378,Belle Plaine,KS,Kansas,True,,2974.0,15.0,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67016,37.88882,-97.51812,Bentley,KS,Kansas,True,,474.0,303.9,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67017,37.82778,-97.11165,Benton,KS,Kansas,True,,2021.0,12.2,20015,Butler,"{""20015"": 89.51, ""20173"": 10.49}",Butler|Sedgwick,20015|20173,False,False,America/Chicago
+67018,37.07108,-97.85872,Bluff City,KS,Kansas,True,,117.0,0.7,20077,Harper,"{""20077"": 91.98, ""20191"": 8.02}",Harper|Sumner,20077|20191,False,False,America/Chicago
+67019,37.31225,-96.78174,Burden,KS,Kansas,True,,932.0,3.5,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67020,38.00881,-97.66903,Burrton,KS,Kansas,True,,1537.0,4.7,20079,Harvey,"{""20079"": 65.24, ""20155"": 29.07, ""20173"": 5.69}",Harvey|Reno|Sedgwick,20079|20155|20173,False,False,America/Chicago
+67021,37.77615,-98.91045,Byers,KS,Kansas,True,,33.0,0.3,20151,Pratt,"{""20151"": 100}",Pratt,20151,False,False,America/Chicago
+67022,37.07352,-97.63347,Caldwell,KS,Kansas,True,,1506.0,3.2,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67023,37.33467,-96.61288,Cambridge,KS,Kansas,True,,201.0,0.5,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67024,37.11397,-96.49164,Cedar Vale,KS,Kansas,True,,976.0,1.7,20019,Chautauqua,"{""20019"": 62.66, ""20035"": 37.34}",Chautauqua|Cowley,20019|20035,False,False,America/Chicago
+67025,37.64146,-97.78789,Cheney,KS,Kansas,True,,3621.0,12.4,20173,Sedgwick,"{""20173"": 61.44, ""20095"": 36.77, ""20155"": 1.79}",Sedgwick|Kingman|Reno,20173|20095|20155,False,False,America/Chicago
+67026,37.51047,-97.49239,Clearwater,KS,Kansas,True,,4925.0,19.8,20173,Sedgwick,"{""20173"": 72.46, ""20191"": 27.54}",Sedgwick|Sumner,20173|20191,False,False,America/Chicago
+67028,37.47226,-98.96561,Coats,KS,Kansas,True,,311.0,0.6,20097,Kiowa,"{""20097"": 42.17, ""20151"": 38.14, ""20007"": 19.7}",Kiowa|Pratt|Barber,20097|20151|20007,False,False,America/Chicago
+67029,37.16925,-99.28026,Coldwater,KS,Kansas,True,,1065.0,1.0,20033,Comanche,"{""20033"": 97.88, ""20097"": 2.12}",Comanche|Kiowa,20033|20097,False,False,America/Chicago
+67030,37.78548,-97.54661,Colwich,KS,Kansas,True,,2686.0,25.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67031,37.40444,-97.63848,Conway Springs,KS,Kansas,True,,2538.0,8.4,20191,Sumner,"{""20191"": 93.96, ""20173"": 6.04}",Sumner|Sedgwick,20191|20173,False,False,America/Chicago
+67035,37.64845,-98.39338,Cunningham,KS,Kansas,True,,925.0,1.6,20095,Kingman,"{""20095"": 65.68, ""20151"": 25.32, ""20155"": 9.0}",Kingman|Pratt|Reno,20095|20151|20155,False,False,America/Chicago
+67036,37.28987,-97.88262,Danville,KS,Kansas,True,,101.0,1.0,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago
+67037,37.56646,-97.22095,Derby,KS,Kansas,True,,28879.0,208.0,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67038,37.11702,-96.70905,Dexter,KS,Kansas,True,,1098.0,3.0,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67039,37.52163,-96.97322,Douglass,KS,Kansas,True,,3147.0,11.2,20015,Butler,"{""20015"": 95.69, ""20035"": 4.31}",Butler|Cowley,20015|20035,False,False,America/Chicago
+67041,38.05404,-97.12755,Elbing,KS,Kansas,True,,309.0,841.2,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67042,37.84868,-96.79809,El Dorado,KS,Kansas,True,,17457.0,26.1,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67045,37.85131,-96.33863,Eureka,KS,Kansas,True,,3279.0,2.8,20073,Greenwood,"{""20073"": 99.25, ""20015"": 0.75}",Greenwood|Butler,20073|20015,False,False,America/Chicago
+67047,37.63921,-96.05327,Fall River,KS,Kansas,True,,668.0,1.8,20073,Greenwood,"{""20073"": 63.49, ""20049"": 26.47, ""20205"": 10.04}",Greenwood|Elk|Wilson,20073|20049|20205,False,False,America/Chicago
+67049,37.17059,-97.84646,Freeport,KS,Kansas,True,,129.0,1.3,20077,Harper,"{""20077"": 88.86, ""20191"": 11.14}",Harper|Sumner,20077|20191,False,False,America/Chicago
+67050,37.675,-97.6769,Garden Plain,KS,Kansas,True,,2286.0,18.8,20173,Sedgwick,"{""20173"": 97.78, ""20155"": 2.22}",Sedgwick|Reno,20173|20155,False,False,America/Chicago
+67051,37.08932,-97.19399,Geuda Springs,KS,Kansas,True,,335.0,1.7,20191,Sumner,"{""20191"": 88.95, ""20035"": 11.05}",Sumner|Cowley,20191|20035,False,False,America/Chicago
+67052,37.65812,-97.57357,Goddard,KS,Kansas,True,,8548.0,63.7,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67053,38.24728,-97.34545,Goessel,KS,Kansas,True,,687.0,700.7,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+67054,37.57658,-99.31884,Greensburg,KS,Kansas,True,,1220.0,2.1,20097,Kiowa,"{""20097"": 96.38, ""20047"": 3.62}",Kiowa|Edwards,20097|20047,False,False,America/Chicago
+67055,37.78325,-97.2037,Greenwich,KS,Kansas,True,,67.0,203.4,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67056,38.01936,-97.52345,Halstead,KS,Kansas,True,,3145.0,14.3,20079,Harvey,"{""20079"": 100}",Harvey,20079,False,False,America/Chicago
+67057,37.05954,-98.77864,Hardtner,KS,Kansas,True,,260.0,0.7,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67058,37.32006,-98.06493,Harper,KS,Kansas,True,,1908.0,3.6,20077,Harper,"{""20077"": 85.74, ""20095"": 14.26}",Harper|Kingman,20077|20095,False,False,America/Chicago
+67059,37.65102,-99.10046,Haviland,KS,Kansas,True,,925.0,1.4,20097,Kiowa,"{""20097"": 71.5, ""20047"": 15.68, ""20151"": 12.82}",Kiowa|Edwards|Pratt,20097|20047|20151,False,False,America/Chicago
+67060,37.54601,-97.35952,Haysville,KS,Kansas,True,,14580.0,200.8,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67061,37.08593,-98.37673,Hazelton,KS,Kansas,True,,107.0,0.4,20007,Barber,"{""20007"": 66.84, ""20077"": 33.16}",Barber|Harper,20007|20077,False,False,America/Chicago
+67062,38.1431,-97.43296,Hesston,KS,Kansas,True,,4290.0,52.7,20079,Harvey,"{""20079"": 89.85, ""20113"": 7.29, ""20115"": 2.86}",Harvey|McPherson|Marion,20079|20113|20115,False,False,America/Chicago
+67063,38.34244,-97.23019,Hillsboro,KS,Kansas,True,,3643.0,10.5,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+67065,37.48295,-98.52989,Isabel,KS,Kansas,True,,308.0,1.6,20151,Pratt,"{""20151"": 56.47, ""20007"": 40.85, ""20095"": 2.68}",Pratt|Barber|Kingman,20151|20007|20095,False,False,America/Chicago
+67066,37.77374,-98.75798,Iuka,KS,Kansas,True,,314.0,2.5,20151,Pratt,"{""20151"": 100}",Pratt,20151,False,False,America/Chicago
+67067,37.7951,-97.27044,Kechi,KS,Kansas,True,,2013.0,166.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67068,37.61991,-98.11473,Kingman,KS,Kansas,True,,4026.0,5.5,20095,Kingman,"{""20095"": 91.51, ""20155"": 8.49}",Kingman|Reno,20095|20155,False,False,America/Chicago
+67070,37.0696,-98.53204,Kiowa,KS,Kansas,True,,1024.0,3.8,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67071,37.21423,-98.88522,Lake City,KS,Kansas,True,,281.0,0.7,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67072,37.5445,-96.61632,Latham,KS,Kansas,True,,356.0,1.2,20015,Butler,"{""20015"": 90.57, ""20035"": 9.43}",Butler|Cowley,20015|20035,False,False,America/Chicago
+67073,38.39167,-97.32624,Lehigh,KS,Kansas,True,,357.0,4.5,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+67074,37.67038,-96.72945,Leon,KS,Kansas,True,,1148.0,2.6,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67101,37.78489,-97.46356,Maize,KS,Kansas,True,,5228.0,132.9,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67102,37.03857,-96.78839,Maple City,KS,Kansas,True,,,,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67103,37.26439,-97.55977,Mayfield,KS,Kansas,True,,211.0,1.5,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67104,37.27286,-98.65223,Medicine Lodge,KS,Kansas,True,,2040.0,2.4,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67105,37.22001,-97.67825,Milan,KS,Kansas,True,,182.0,1.2,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67106,37.46335,-97.75804,Milton,KS,Kansas,True,,495.0,3.9,20191,Sumner,"{""20191"": 55.77, ""20173"": 41.33, ""20095"": 2.9}",Sumner|Sedgwick|Kingman,20191|20173|20095,False,False,America/Chicago
+67107,38.19496,-97.53911,Moundridge,KS,Kansas,True,,2926.0,9.7,20113,McPherson,"{""20113"": 69.77, ""20079"": 30.23}",McPherson|Harvey,20113|20079,False,False,America/Chicago
+67108,37.81428,-97.68621,Mount Hope,KS,Kansas,True,,1571.0,8.5,20173,Sedgwick,"{""20173"": 61.35, ""20155"": 38.65}",Sedgwick|Reno,20173|20155,False,False,America/Chicago
+67109,37.56448,-99.47914,Mullinville,KS,Kansas,True,,361.0,0.7,20097,Kiowa,"{""20097"": 100}",Kiowa,20097,False,False,America/Chicago
+67110,37.47022,-97.22425,Mulvane,KS,Kansas,True,,8870.0,63.1,20191,Sumner,"{""20191"": 52.83, ""20173"": 44.12, ""20035"": 3.05}",Sumner|Sedgwick|Cowley,20191|20173|20035,False,False,America/Chicago
+67111,37.6151,-97.93453,Murdock,KS,Kansas,True,,195.0,1.2,20095,Kingman,"{""20095"": 100}",Kingman,20095,False,False,America/Chicago
+67112,37.44915,-98.41941,Nashville,KS,Kansas,True,,196.0,1.0,20095,Kingman,"{""20095"": 80.81, ""20007"": 19.19}",Kingman|Barber,20095|20007,False,False,America/Chicago
+67114,38.07034,-97.28359,Newton,KS,Kansas,True,,21054.0,34.3,20079,Harvey,"{""20079"": 71.96, ""20115"": 13.59, ""20015"": 13.08, ""20113"": 1.37}",Harvey|Marion|Butler|McPherson,20079|20115|20015|20113,False,False,America/Chicago
+67117,38.07416,-97.34544,North Newton,KS,Kansas,True,,1990.0,572.2,20079,Harvey,"{""20079"": 100}",Harvey,20079,False,False,America/Chicago
+67118,37.47829,-97.8605,Norwich,KS,Kansas,True,,659.0,2.9,20095,Kingman,"{""20095"": 90.38, ""20173"": 5.55, ""20077"": 2.24, ""20191"": 1.83}",Kingman|Sedgwick|Harper|Sumner,20095|20173|20077|20191,False,False,America/Chicago
+67119,37.24202,-97.18152,Oxford,KS,Kansas,True,,1331.0,6.7,20191,Sumner,"{""20191"": 73.01, ""20035"": 26.99}",Sumner|Cowley,20191|20035,False,False,America/Chicago
+67120,37.46591,-97.37592,Peck,KS,Kansas,True,,751.0,7.5,20191,Sumner,"{""20191"": 61.35, ""20173"": 38.65}",Sumner|Sedgwick,20191|20173,False,False,America/Chicago
+67122,37.62015,-96.42392,Piedmont,KS,Kansas,True,,125.0,0.4,20073,Greenwood,"{""20073"": 57.85, ""20049"": 42.15}",Greenwood|Elk,20073|20049,False,False,America/Chicago
+67123,37.94676,-96.99352,Potwin,KS,Kansas,True,,899.0,6.6,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67124,37.63644,-98.77236,Pratt,KS,Kansas,True,,7801.0,10.9,20151,Pratt,"{""20151"": 100}",Pratt,20151,False,False,America/Chicago
+67127,37.16009,-99.49057,Protection,KS,Kansas,True,,555.0,1.2,20033,Comanche,"{""20033"": 88.44, ""20025"": 11.56}",Comanche|Clark,20033|20025,False,False,America/Chicago
+67131,37.43261,-96.94958,Rock,KS,Kansas,True,,240.0,2.1,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67132,37.8504,-96.58385,Rosalia,KS,Kansas,True,,405.0,1.8,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67133,37.57677,-97.10451,Rose Hill,KS,Kansas,True,,6316.0,58.3,20015,Butler,"{""20015"": 99.4, ""20173"": 0.6}",Butler|Sedgwick,20015|20173,False,False,America/Chicago
+67134,37.48474,-98.6824,Sawyer,KS,Kansas,True,,482.0,2.6,20151,Pratt,"{""20151"": 64.72, ""20007"": 35.28}",Pratt|Barber,20151|20007,False,False,America/Chicago
+67135,37.91362,-97.45942,Sedgwick,KS,Kansas,True,,3598.0,13.4,20079,Harvey,"{""20079"": 51.73, ""20173"": 48.27}",Harvey|Sedgwick,20079|20173,False,False,America/Chicago
+67137,37.63145,-96.22196,Severy,KS,Kansas,True,,386.0,1.9,20073,Greenwood,"{""20073"": 71.45, ""20049"": 28.55}",Greenwood|Elk,20073|20049,False,False,America/Chicago
+67138,37.25996,-98.41858,Sharon,KS,Kansas,True,,410.0,1.6,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67140,37.07992,-97.35748,South Haven,KS,Kansas,True,,1059.0,3.0,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67142,37.45655,-98.1094,Spivey,KS,Kansas,True,,404.0,1.4,20095,Kingman,"{""20095"": 100}",Kingman,20095,False,False,America/Chicago
+67143,37.33284,-98.94434,Sun City,KS,Kansas,True,,35.0,0.1,20007,Barber,"{""20007"": 100}",Barber,20007,False,False,America/Chicago
+67144,37.81673,-97.00539,Towanda,KS,Kansas,True,,2831.0,23.2,20015,Butler,"{""20015"": 100}",Butler,20015,False,False,America/Chicago
+67146,37.39016,-97.10398,Udall,KS,Kansas,True,,2098.0,10.5,20035,Cowley,"{""20035"": 86.13, ""20191"": 13.87}",Cowley|Sumner,20035|20191,False,False,America/Chicago
+67147,37.86062,-97.3058,Valley Center,KS,Kansas,True,,10697.0,39.9,20173,Sedgwick,"{""20173"": 92.34, ""20079"": 7.66}",Sedgwick|Harvey,20173|20079,False,False,America/Chicago
+67149,37.54243,-97.62915,Viola,KS,Kansas,True,,1256.0,8.7,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67150,37.03207,-98.20187,Waldron,KS,Kansas,True,,26.0,0.6,20077,Harper,"{""20077"": 100}",Harper,20077,False,False,America/Chicago
+67151,38.14499,-97.24934,Walton,KS,Kansas,True,,446.0,5.4,20079,Harvey,"{""20079"": 84.63, ""20115"": 15.37}",Harvey|Marion,20079|20115,False,False,America/Chicago
+67152,37.2623,-97.41104,Wellington,KS,Kansas,True,,8918.0,14.7,20191,Sumner,"{""20191"": 100}",Sumner,20191,False,False,America/Chicago
+67154,37.97079,-97.12117,Whitewater,KS,Kansas,True,,2038.0,10.8,20015,Butler,"{""20015"": 69.73, ""20079"": 30.27}",Butler|Harvey,20015|20079,False,False,America/Chicago
+67155,37.28171,-99.13233,Wilmore,KS,Kansas,True,,139.0,0.2,20033,Comanche,"{""20033"": 87.07, ""20097"": 12.93}",Comanche|Kiowa,20033|20097,False,False,America/Chicago
+67156,37.25099,-96.96503,Winfield,KS,Kansas,True,,14634.0,22.6,20035,Cowley,"{""20035"": 100}",Cowley,20035,False,False,America/Chicago
+67159,37.42053,-98.30948,Zenda,KS,Kansas,True,,91.0,0.4,20095,Kingman,"{""20095"": 68.69, ""20077"": 31.31}",Kingman|Harper,20095|20077,False,False,America/Chicago
+67202,37.68668,-97.33521,Wichita,KS,Kansas,True,,1940.0,775.7,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67203,37.70402,-97.36497,Wichita,KS,Kansas,True,,30064.0,1620.7,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67204,37.77167,-97.36341,Wichita,KS,Kansas,True,,21958.0,527.2,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67205,37.75012,-97.42317,Wichita,KS,Kansas,True,,20232.0,463.0,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67206,37.70363,-97.22461,Wichita,KS,Kansas,True,,17393.0,640.2,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67207,37.66567,-97.22923,Wichita,KS,Kansas,True,,27774.0,1029.3,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67208,37.70449,-97.27928,Wichita,KS,Kansas,True,,17624.0,1366.1,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67209,37.6639,-97.43463,Wichita,KS,Kansas,True,,13398.0,420.8,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67210,37.62944,-97.24604,Wichita,KS,Kansas,True,,10001.0,311.6,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67211,37.66708,-97.31706,Wichita,KS,Kansas,True,,19017.0,1448.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67212,37.70247,-97.43658,Wichita,KS,Kansas,True,,44396.0,1368.9,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67213,37.66722,-97.36498,Wichita,KS,Kansas,True,,22287.0,1310.0,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67214,37.70661,-97.31755,Wichita,KS,Kansas,True,,15826.0,1143.1,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67215,37.61637,-97.42707,Wichita,KS,Kansas,True,,5852.0,131.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67216,37.6089,-97.3143,Wichita,KS,Kansas,True,,22221.0,700.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67217,37.61535,-97.36239,Wichita,KS,Kansas,True,,31134.0,833.2,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67218,37.66851,-97.28039,Wichita,KS,Kansas,True,,22775.0,1765.4,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67219,37.76931,-97.31643,Wichita,KS,Kansas,True,,12240.0,326.6,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67220,37.75191,-97.27909,Wichita,KS,Kansas,True,,13004.0,698.3,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67221,37.63544,-97.25819,Mcconnell Afb,KS,Kansas,True,,,,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67223,37.74195,-97.49797,Wichita,KS,Kansas,True,,620.0,65.8,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67226,37.76898,-97.21915,Wichita,KS,Kansas,True,,20926.0,327.5,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67227,37.62693,-97.50109,Wichita,KS,Kansas,True,,211.0,17.0,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67228,37.77749,-97.17274,Wichita,KS,Kansas,True,,2429.0,75.4,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67230,37.68655,-97.17087,Wichita,KS,Kansas,True,,11121.0,439.9,20173,Sedgwick,"{""20173"": 99.4, ""20015"": 0.6}",Sedgwick|Butler,20173|20015,False,False,America/Chicago
+67232,37.6368,-97.16802,Wichita,KS,Kansas,True,,489.0,61.3,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67235,37.68951,-97.49929,Wichita,KS,Kansas,True,,14352.0,513.2,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67260,37.71931,-97.2935,Wichita,KS,Kansas,True,,0.0,0.0,20173,Sedgwick,"{""20173"": 100}",Sedgwick,20173,False,False,America/Chicago
+67301,37.21092,-95.75224,Independence,KS,Kansas,True,,12647.0,22.7,20125,Montgomery,"{""20125"": 100}",Montgomery,20125,False,False,America/Chicago
+67330,37.163,-95.31238,Altamont,KS,Kansas,True,,1331.0,8.4,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago
+67332,37.04345,-95.23281,Bartlett,KS,Kansas,True,,150.0,2.3,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago
+67333,37.04695,-95.87253,Caney,KS,Kansas,True,,2536.0,18.1,20125,Montgomery,"{""20125"": 100}",Montgomery,20125,False,False,America/Chicago
+67334,37.0241,-96.17736,Chautauqua,KS,Kansas,True,,55.0,50.0,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago
+67335,37.28005,-95.53381,Cherryvale,KS,Kansas,True,,3409.0,10.4,20125,Montgomery,"{""20125"": 56.92, ""20099"": 41.03, ""20205"": 2.05}",Montgomery|Labette|Wilson,20125|20099|20205,False,False,America/Chicago
+67336,37.05385,-95.07489,Chetopa,KS,Kansas,True,,1547.0,6.5,20021,Cherokee,"{""20021"": 55.71, ""20099"": 44.29}",Cherokee|Labette,20021|20099,False,False,America/Chicago
+67337,37.05486,-95.5993,Coffeyville,KS,Kansas,True,,11569.0,30.3,20125,Montgomery,"{""20125"": 71.82, ""20099"": 28.18}",Montgomery|Labette,20125|20099,False,False,America/Chicago
+67340,37.05948,-95.71207,Dearing,KS,Kansas,True,,512.0,245.5,20125,Montgomery,"{""20125"": 100}",Montgomery,20125,False,False,America/Chicago
+67341,37.34406,-95.42963,Dennis,KS,Kansas,True,,379.0,7.0,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago
+67342,37.05877,-95.35513,Edna,KS,Kansas,True,,768.0,4.4,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago
+67344,37.28875,-95.9514,Elk City,KS,Kansas,True,,758.0,1.8,20125,Montgomery,"{""20125"": 54.71, ""20019"": 32.72, ""20049"": 12.57}",Montgomery|Chautauqua|Elk,20125|20019|20049,False,False,America/Chicago
+67345,37.37122,-96.20075,Elk Falls,KS,Kansas,True,,124.0,1.1,20049,Elk,"{""20049"": 100}",Elk,20049,False,False,America/Chicago
+67346,37.31774,-96.44511,Grenola,KS,Kansas,True,,340.0,1.1,20049,Elk,"{""20049"": 55.51, ""20019"": 44.49}",Elk|Chautauqua,20049|20019,False,False,America/Chicago
+67347,37.12559,-95.95188,Havana,KS,Kansas,True,,461.0,2.9,20125,Montgomery,"{""20125"": 60.67, ""20019"": 39.33}",Montgomery|Chautauqua,20125|20019,False,False,America/Chicago
+67349,37.48811,-96.28066,Howard,KS,Kansas,True,,876.0,1.4,20049,Elk,"{""20049"": 100}",Elk,20049,False,False,America/Chicago
+67351,37.14066,-95.56698,Liberty,KS,Kansas,True,,277.0,2.5,20125,Montgomery,"{""20125"": 80.18, ""20099"": 19.82}",Montgomery|Labette,20125|20099,False,False,America/Chicago
+67352,37.3574,-96.08154,Longton,KS,Kansas,True,,603.0,2.2,20049,Elk,"{""20049"": 77.98, ""20019"": 22.02}",Elk|Chautauqua,20049|20019,False,False,America/Chicago
+67353,37.31371,-96.31151,Moline,KS,Kansas,True,,497.0,2.3,20049,Elk,"{""20049"": 60.61, ""20019"": 39.39}",Elk|Chautauqua,20049|20019,False,False,America/Chicago
+67354,37.20727,-95.41126,Mound Valley,KS,Kansas,True,,732.0,5.0,20099,Labette,"{""20099"": 100}",Labette,20099,False,False,America/Chicago
+67355,37.03275,-96.00974,Niotaze,KS,Kansas,True,,181.0,3.0,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago
+67356,37.17886,-95.14161,Oswego,KS,Kansas,True,,2897.0,9.2,20099,Labette,"{""20099"": 92.33, ""20021"": 7.67}",Labette|Cherokee,20099|20021,False,False,America/Chicago
+67357,37.33951,-95.25261,Parsons,KS,Kansas,True,,11700.0,22.9,20099,Labette,"{""20099"": 73.44, ""20133"": 26.56}",Labette|Neosho,20099|20133,False,False,America/Chicago
+67360,37.05148,-96.09702,Peru,KS,Kansas,True,,403.0,3.4,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago
+67361,37.13733,-96.21714,Sedan,KS,Kansas,True,,1563.0,2.5,20019,Chautauqua,"{""20019"": 100}",Chautauqua,20019,False,False,America/Chicago
+67363,37.32934,-95.71819,Sycamore,KS,Kansas,True,,162.0,56.5,20125,Montgomery,"{""20125"": 100}",Montgomery,20125,False,False,America/Chicago
+67364,37.03683,-95.82184,Tyro,KS,Kansas,True,,310.0,265.7,20125,Montgomery,"{""20125"": 100}",Montgomery,20125,False,False,America/Chicago
+67401,38.83554,-97.64621,Salina,KS,Kansas,True,,50754.0,77.8,20169,Saline,"{""20169"": 95.54, ""20143"": 4.46}",Saline|Ottawa,20169|20143,False,False,America/Chicago
+67410,38.95632,-97.22104,Abilene,KS,Kansas,True,,10358.0,12.7,20041,Dickinson,"{""20041"": 99.45, ""20027"": 0.55}",Dickinson|Clay,20041|20027,False,False,America/Chicago
+67416,38.66505,-97.5718,Assaria,KS,Kansas,True,,903.0,5.0,20169,Saline,"{""20169"": 87.37, ""20113"": 12.63}",Saline|McPherson,20169|20113,False,False,America/Chicago
+67417,39.43382,-97.55015,Aurora,KS,Kansas,True,,158.0,0.9,20029,Cloud,"{""20029"": 100}",Cloud,20029,False,False,America/Chicago
+67418,39.18692,-98.05214,Barnard,KS,Kansas,True,,218.0,0.7,20105,Lincoln,"{""20105"": 75.37, ""20123"": 24.63}",Lincoln|Mitchell,20105|20123,False,False,America/Chicago
+67420,39.40035,-98.08527,Beloit,KS,Kansas,True,,4190.0,3.8,20123,Mitchell,"{""20123"": 93.49, ""20029"": 5.79, ""20089"": 0.72}",Mitchell|Cloud|Jewell,20123|20029|20089,False,False,America/Chicago
+67422,39.03127,-97.59849,Bennington,KS,Kansas,True,,1425.0,9.5,20143,Ottawa,"{""20143"": 100}",Ottawa,20143,False,False,America/Chicago
+67423,38.97018,-97.98058,Beverly,KS,Kansas,True,,213.0,1.3,20105,Lincoln,"{""20105"": 100}",Lincoln,20105,False,False,America/Chicago
+67425,38.77991,-97.92492,Brookville,KS,Kansas,True,,724.0,1.3,20169,Saline,"{""20169"": 55.19, ""20053"": 44.81}",Saline|Ellsworth,20169|20053,False,False,America/Chicago
+67427,38.50364,-98.39977,Bushton,KS,Kansas,True,,429.0,2.8,20159,Rice,"{""20159"": 68.6, ""20053"": 31.4}",Rice|Ellsworth,20159|20053,False,False,America/Chicago
+67428,38.3832,-97.41405,Canton,KS,Kansas,True,,1422.0,4.8,20113,McPherson,"{""20113"": 86.55, ""20115"": 13.45}",McPherson|Marion,20113|20115,False,False,America/Chicago
+67430,39.57571,-98.44193,Cawker City,KS,Kansas,True,,620.0,2.4,20089,Jewell,"{""20089"": 51.36, ""20123"": 39.73, ""20183"": 6.01, ""20141"": 2.9}",Jewell|Mitchell|Smith|Osborne,20089|20123|20183|20141,False,False,America/Chicago
+67431,38.95833,-97.01179,Chapman,KS,Kansas,True,,1889.0,5.9,20041,Dickinson,"{""20041"": 100}",Dickinson,20041,False,False,America/Chicago
+67432,39.33503,-97.17997,Clay Center,KS,Kansas,True,,5379.0,5.8,20027,Clay,"{""20027"": 90.24, ""20143"": 9.37, ""20161"": 0.39}",Clay|Ottawa|Riley,20027|20143|20161,False,False,America/Chicago
+67436,39.28071,-97.72454,Delphos,KS,Kansas,True,,637.0,2.2,20143,Ottawa,"{""20143"": 75.15, ""20029"": 24.85}",Ottawa|Cloud,20143|20029,False,False,America/Chicago
+67437,39.50705,-98.55857,Downs,KS,Kansas,True,,871.0,2.7,20141,Osborne,"{""20141"": 77.3, ""20183"": 22.7}",Osborne|Smith,20141|20183,False,False,America/Chicago
+67438,38.50366,-97.27861,Durham,KS,Kansas,True,,251.0,1.5,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+67439,38.76169,-98.2201,Ellsworth,KS,Kansas,True,,3314.0,5.6,20053,Ellsworth,"{""20053"": 95.39, ""20105"": 4.61}",Ellsworth|Lincoln,20053|20105,False,False,America/Chicago
+67441,38.87712,-97.10399,Enterprise,KS,Kansas,True,,1115.0,10.9,20041,Dickinson,"{""20041"": 100}",Dickinson,20041,False,False,America/Chicago
+67442,38.64939,-97.78073,Falun,KS,Kansas,True,,201.0,1.7,20169,Saline,"{""20169"": 100}",Saline,20169,False,False,America/Chicago
+67443,38.37801,-97.5208,Galva,KS,Kansas,True,,1599.0,7.0,20113,McPherson,"{""20113"": 100}",McPherson,20113,False,False,America/Chicago
+67444,38.54759,-98.12702,Geneseo,KS,Kansas,True,,549.0,1.3,20053,Ellsworth,"{""20053"": 61.06, ""20159"": 38.94}",Ellsworth|Rice,20053|20159,False,False,America/Chicago
+67445,39.37789,-97.8172,Glasco,KS,Kansas,True,,629.0,2.2,20029,Cloud,"{""20029"": 89.9, ""20143"": 10.1}",Cloud|Ottawa,20029|20143,False,False,America/Chicago
+67446,39.47442,-98.32363,Glen Elder,KS,Kansas,True,,664.0,1.8,20123,Mitchell,"{""20123"": 85.17, ""20089"": 14.83}",Mitchell|Jewell,20123|20089,False,False,America/Chicago
+67447,39.48048,-96.97153,Green,KS,Kansas,True,,338.0,1.7,20027,Clay,"{""20027"": 58.94, ""20161"": 41.06}",Clay|Riley,20027|20161,False,False,America/Chicago
+67448,38.65826,-97.40756,Gypsum,KS,Kansas,True,,1192.0,2.2,20169,Saline,"{""20169"": 45.29, ""20041"": 29.56, ""20113"": 25.15}",Saline|Dickinson|McPherson,20169|20041|20113,False,False,America/Chicago
+67449,38.68214,-96.89569,Herington,KS,Kansas,True,,2846.0,6.8,20127,Morris,"{""20127"": 64.3, ""20041"": 35.7}",Morris|Dickinson,20127|20041,False,False,America/Chicago
+67450,38.62746,-98.45788,Holyrood,KS,Kansas,True,,582.0,4.5,20053,Ellsworth,"{""20053"": 69.87, ""20009"": 30.13}",Ellsworth|Barton,20053|20009,False,False,America/Chicago
+67451,38.70094,-97.13157,Hope,KS,Kansas,True,,1093.0,3.0,20041,Dickinson,"{""20041"": 98.79, ""20115"": 1.21}",Dickinson|Marion,20041|20115,False,False,America/Chicago
+67452,39.23549,-98.36935,Hunter,KS,Kansas,True,,295.0,0.9,20123,Mitchell,"{""20123"": 55.65, ""20105"": 44.35}",Mitchell|Lincoln,20123|20105,False,False,America/Chicago
+67454,38.69808,-98.11308,Kanopolis,KS,Kansas,True,,618.0,6.2,20053,Ellsworth,"{""20053"": 100}",Ellsworth,20053,False,False,America/Chicago
+67455,39.02765,-98.16478,Lincoln,KS,Kansas,True,,1826.0,2.4,20105,Lincoln,"{""20105"": 100}",Lincoln,20105,False,False,America/Chicago
+67456,38.5949,-97.6769,Lindsborg,KS,Kansas,True,,4123.0,11.1,20113,McPherson,"{""20113"": 68.54, ""20169"": 31.46}",McPherson|Saline,20113|20169,False,False,America/Chicago
+67457,38.38746,-97.99143,Little River,KS,Kansas,True,,772.0,3.0,20159,Rice,"{""20159"": 100}",Rice,20159,False,False,America/Chicago
+67458,39.16595,-97.30441,Longford,KS,Kansas,True,,356.0,1.9,20027,Clay,"{""20027"": 76.21, ""20143"": 23.79}",Clay|Ottawa,20027|20143,False,False,America/Chicago
+67459,38.60781,-98.33913,Lorraine,KS,Kansas,True,,402.0,2.1,20053,Ellsworth,"{""20053"": 100}",Ellsworth,20053,False,False,America/Chicago
+67460,38.38431,-97.69719,Mcpherson,KS,Kansas,True,,15454.0,26.3,20113,McPherson,"{""20113"": 100}",McPherson,20113,False,False,America/Chicago
+67464,38.56537,-97.90143,Marquette,KS,Kansas,True,,851.0,2.9,20113,McPherson,"{""20113"": 57.77, ""20053"": 42.23}",McPherson|Ellsworth,20113|20053,False,False,America/Chicago
+67466,39.32787,-97.47905,Miltonvale,KS,Kansas,True,,716.0,1.9,20029,Cloud,"{""20029"": 58.61, ""20143"": 31.64, ""20027"": 9.75}",Cloud|Ottawa|Clay,20029|20143|20027,False,False,America/Chicago
+67467,39.14639,-97.69907,Minneapolis,KS,Kansas,True,,2499.0,3.5,20143,Ottawa,"{""20143"": 99.64, ""20105"": 0.36}",Ottawa|Lincoln,20143|20105,False,False,America/Chicago
+67468,39.45791,-97.25697,Morganville,KS,Kansas,True,,342.0,3.2,20027,Clay,"{""20027"": 100}",Clay,20027,False,False,America/Chicago
+67470,38.91077,-97.49513,New Cambria,KS,Kansas,True,,420.0,3.0,20169,Saline,"{""20169"": 86.24, ""20143"": 13.76}",Saline|Ottawa,20169|20143,False,False,America/Chicago
+67473,39.37567,-98.73356,Osborne,KS,Kansas,True,,1791.0,2.8,20141,Osborne,"{""20141"": 100}",Osborne,20141,False,False,America/Chicago
+67474,39.58523,-98.70771,Portis,KS,Kansas,True,,239.0,0.9,20183,Smith,"{""20183"": 53.94, ""20141"": 46.06}",Smith|Osborne,20183|20141,False,False,America/Chicago
+67475,38.58761,-97.05853,Ramona,KS,Kansas,True,,123.0,1.7,20115,Marion,"{""20115"": 78.05, ""20041"": 21.95}",Marion|Dickinson,20115|20041,False,False,America/Chicago
+67476,38.54867,-97.43047,Roxbury,KS,Kansas,True,,,,20113,McPherson,"{""20113"": 100}",McPherson,20113,False,False,America/Chicago
+67478,39.38572,-97.94988,Simpson,KS,Kansas,True,,76.0,16.4,20123,Mitchell,"{""20123"": 100}",Mitchell,20123,False,False,America/Chicago
+67480,38.97073,-97.40282,Solomon,KS,Kansas,True,,1617.0,3.8,20143,Ottawa,"{""20143"": 47.29, ""20041"": 32.7, ""20169"": 20.01}",Ottawa|Dickinson|Saline,20143|20041|20169,False,False,America/Chicago
+67481,39.01244,-98.38903,Sylvan Grove,KS,Kansas,True,,663.0,1.4,20105,Lincoln,"{""20105"": 97.66, ""20167"": 2.34}",Lincoln|Russell,20105|20167,False,False,America/Chicago
+67482,39.02686,-97.25976,Talmage,KS,Kansas,True,,129.0,507.4,20041,Dickinson,"{""20041"": 100}",Dickinson,20041,False,False,America/Chicago
+67483,38.55322,-97.19856,Tampa,KS,Kansas,True,,655.0,2.9,20115,Marion,"{""20115"": 100}",Marion,20115,False,False,America/Chicago
+67484,38.99603,-97.83617,Tescott,KS,Kansas,True,,1005.0,2.8,20143,Ottawa,"{""20143"": 67.17, ""20169"": 24.1, ""20105"": 8.73}",Ottawa|Saline|Lincoln,20143|20169|20105,False,False,America/Chicago
+67485,39.31474,-98.49492,Tipton,KS,Kansas,True,,358.0,1.2,20141,Osborne,"{""20141"": 51.54, ""20123"": 48.46}",Osborne|Mitchell,20141|20123,False,False,America/Chicago
+67487,39.17628,-97.06653,Wakefield,KS,Kansas,True,,1328.0,5.2,20027,Clay,"{""20027"": 81.25, ""20041"": 12.93, ""20061"": 5.82}",Clay|Dickinson|Geary,20027|20041|20061,False,False,America/Chicago
+67490,38.79223,-98.44722,Wilson,KS,Kansas,True,,852.0,2.2,20053,Ellsworth,"{""20053"": 59.44, ""20167"": 32.44, ""20105"": 8.12}",Ellsworth|Russell|Lincoln,20053|20167|20105,False,False,America/Chicago
+67491,38.38837,-97.90051,Windom,KS,Kansas,True,,380.0,2.1,20113,McPherson,"{""20113"": 78.88, ""20159"": 21.12}",McPherson|Rice,20113|20159,False,False,America/Chicago
+67492,38.81558,-96.96418,Woodbine,KS,Kansas,True,,124.0,1.6,20041,Dickinson,"{""20041"": 100}",Dickinson,20041,False,False,America/Chicago
+67501,37.97989,-97.9309,Hutchinson,KS,Kansas,True,,25295.0,52.0,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67502,38.12146,-97.92673,Hutchinson,KS,Kansas,True,,24051.0,126.6,20155,Reno,"{""20155"": 98.65, ""20159"": 1.35}",Reno|Rice,20155|20159,False,False,America/Chicago
+67505,38.02855,-97.94333,South Hutchinson,KS,Kansas,True,,2651.0,371.5,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67510,37.99839,-98.21127,Abbyville,KS,Kansas,True,,191.0,1.3,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67511,38.43365,-99.05058,Albert,KS,Kansas,True,,216.0,1.2,20165,Rush,"{""20165"": 64.07, ""20009"": 35.93}",Rush|Barton,20165|20009,False,False,America/Chicago
+67512,38.23289,-98.32645,Alden,KS,Kansas,True,,228.0,2.7,20159,Rice,"{""20159"": 96.02, ""20155"": 3.98}",Rice|Reno,20159|20155,False,False,America/Chicago
+67513,38.43892,-99.53846,Alexander,KS,Kansas,True,,69.0,0.5,20165,Rush,"{""20165"": 100}",Rush,20165,False,False,America/Chicago
+67514,37.86278,-98.19714,Arlington,KS,Kansas,True,,963.0,4.6,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67515,38.59935,-100.06518,Arnold,KS,Kansas,True,,45.0,0.8,20135,Ness,"{""20135"": 100}",Ness,20135,False,False,America/Chicago
+67516,38.38768,-99.68486,Bazine,KS,Kansas,True,,422.0,1.0,20135,Ness,"{""20135"": 100}",Ness,20135,False,False,America/Chicago
+67518,38.40403,-100.17343,Beeler,KS,Kansas,True,,31.0,0.1,20135,Ness,"{""20135"": 92.55, ""20101"": 7.45}",Ness|Lane,20135|20101,False,False,America/Chicago
+67519,37.93573,-99.10292,Belpre,KS,Kansas,True,,117.0,0.5,20047,Edwards,"{""20047"": 87.46, ""20145"": 12.54}",Edwards|Pawnee,20047|20145,False,False,America/Chicago
+67520,38.58781,-99.18302,Bison,KS,Kansas,True,,296.0,1.0,20165,Rush,"{""20165"": 100}",Rush,20165,False,False,America/Chicago
+67521,38.62575,-99.72253,Brownell,KS,Kansas,True,,160.0,0.4,20135,Ness,"{""20135"": 78.22, ""20195"": 21.78}",Ness|Trego,20135|20195,False,False,America/Chicago
+67522,38.12294,-97.74608,Buhler,KS,Kansas,True,,1942.0,13.1,20155,Reno,"{""20155"": 78.3, ""20079"": 21.7}",Reno|Harvey,20155|20079,False,False,America/Chicago
+67523,38.19687,-99.55256,Burdett,KS,Kansas,True,,557.0,1.5,20145,Pawnee,"{""20145"": 65.75, ""20083"": 34.25}",Pawnee|Hodgeman,20145|20083,False,False,America/Chicago
+67524,38.37797,-98.37398,Chase,KS,Kansas,True,,585.0,3.7,20159,Rice,"{""20159"": 100}",Rice,20159,False,False,America/Chicago
+67525,38.57205,-98.57111,Claflin,KS,Kansas,True,,970.0,3.0,20009,Barton,"{""20009"": 97.56, ""20159"": 2.44}",Barton|Rice,20009|20159,False,False,America/Chicago
+67526,38.29764,-98.54711,Ellinwood,KS,Kansas,True,,2751.0,4.9,20009,Barton,"{""20009"": 57.12, ""20185"": 36.2, ""20159"": 6.68}",Barton|Stafford|Rice,20009|20185|20159,False,False,America/Chicago
+67529,38.0728,-99.25436,Garfield,KS,Kansas,True,,284.0,1.0,20145,Pawnee,"{""20145"": 100}",Pawnee,20145,False,False,America/Chicago
+67530,38.35149,-98.79678,Great Bend,KS,Kansas,True,,18493.0,30.0,20009,Barton,"{""20009"": 90.91, ""20185"": 9.09}",Barton|Stafford,20009|20185,False,False,America/Chicago
+67543,37.88346,-97.79511,Haven,KS,Kansas,True,,2126.0,9.6,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67544,38.57584,-98.75456,Hoisington,KS,Kansas,True,,3056.0,5.5,20009,Barton,"{""20009"": 100}",Barton,20009,False,False,America/Chicago
+67545,38.17644,-98.6417,Hudson,KS,Kansas,True,,170.0,1.4,20185,Stafford,"{""20185"": 100}",Stafford,20185,False,False,America/Chicago
+67546,38.22811,-97.82116,Inman,KS,Kansas,True,,2398.0,6.7,20113,McPherson,"{""20113"": 79.79, ""20159"": 16.41, ""20155"": 3.11, ""20079"": 0.69}",McPherson|Rice|Reno|Harvey,20113|20159|20155|20079,False,False,America/Chicago
+67547,37.93926,-99.46526,Kinsley,KS,Kansas,True,,1769.0,2.3,20047,Edwards,"{""20047"": 84.53, ""20083"": 15.47}",Edwards|Hodgeman,20047|20083,False,False,America/Chicago
+67548,38.59299,-99.33579,La Crosse,KS,Kansas,True,,1472.0,4.7,20165,Rush,"{""20165"": 100}",Rush,20165,False,False,America/Chicago
+67550,38.18121,-99.12487,Larned,KS,Kansas,True,,5443.0,6.9,20145,Pawnee,"{""20145"": 99.35, ""20185"": 0.65}",Pawnee|Stafford,20145|20185,False,False,America/Chicago
+67552,37.8606,-99.23651,Lewis,KS,Kansas,True,,665.0,1.4,20047,Edwards,"{""20047"": 100}",Edwards,20047,False,False,America/Chicago
+67553,38.65444,-99.32017,Liebenthal,KS,Kansas,True,,134.0,460.7,20165,Rush,"{""20165"": 100}",Rush,20165,False,False,America/Chicago
+67554,38.37489,-98.1858,Lyons,KS,Kansas,True,,3841.0,8.4,20159,Rice,"{""20159"": 100}",Rice,20159,False,False,America/Chicago
+67556,38.60719,-99.52436,McCracken,KS,Kansas,True,,173.0,0.3,20165,Rush,"{""20165"": 64.14, ""20135"": 23.15, ""20051"": 12.71}",Rush|Ness|Ellis,20165|20135|20051,False,False,America/Chicago
+67557,37.91557,-98.96678,Macksville,KS,Kansas,True,,627.0,1.7,20185,Stafford,"{""20185"": 58.42, ""20145"": 18.45, ""20151"": 14.63, ""20047"": 8.5}",Stafford|Pawnee|Pratt|Edwards,20185|20145|20151|20047,False,False,America/Chicago
+67559,38.37645,-99.44966,Nekoma,KS,Kansas,True,,28.0,0.1,20165,Rush,"{""20165"": 65.93, ""20145"": 34.07}",Rush|Pawnee,20165|20145,False,False,America/Chicago
+67560,38.39781,-99.94818,Ness City,KS,Kansas,True,,1686.0,2.0,20135,Ness,"{""20135"": 100}",Ness,20135,False,False,America/Chicago
+67561,38.10427,-98.09921,Nickerson,KS,Kansas,True,,1327.0,7.5,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67563,37.84627,-99.55931,Offerle,KS,Kansas,True,,353.0,1.3,20047,Edwards,"{""20047"": 51.97, ""20057"": 40.4, ""20083"": 7.63}",Edwards|Ford|Hodgeman,20047|20057|20083,False,False,America/Chicago
+67564,38.52855,-98.92845,Olmitz,KS,Kansas,True,,217.0,1.0,20009,Barton,"{""20009"": 100}",Barton,20009,False,False,America/Chicago
+67565,38.60428,-99.04439,Otis,KS,Kansas,True,,450.0,1.7,20165,Rush,"{""20165"": 58.88, ""20009"": 40.12, ""20051"": 1.0}",Rush|Barton|Ellis,20165|20009|20051,False,False,America/Chicago
+67566,37.944,-98.09938,Partridge,KS,Kansas,True,,646.0,4.4,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67567,38.26632,-98.97241,Pawnee Rock,KS,Kansas,True,,654.0,2.7,20145,Pawnee,"{""20145"": 44.9, ""20009"": 39.4, ""20185"": 12.53, ""20165"": 3.18}",Pawnee|Barton|Stafford|Rush,20145|20009|20185|20165,False,False,America/Chicago
+67568,38.01729,-98.30888,Plevna,KS,Kansas,True,,261.0,1.7,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67570,37.78686,-97.968,Pretty Prairie,KS,Kansas,True,,1330.0,3.7,20155,Reno,"{""20155"": 90.32, ""20095"": 9.68}",Reno|Kingman,20155|20095,False,False,America/Chicago
+67572,38.68663,-99.90825,Ransom,KS,Kansas,True,,392.0,0.7,20135,Ness,"{""20135"": 51.86, ""20195"": 48.14}",Ness|Trego,20135|20195,False,False,America/Chicago
+67573,38.26215,-98.41518,Raymond,KS,Kansas,True,,173.0,0.9,20159,Rice,"{""20159"": 100}",Rice,20159,False,False,America/Chicago
+67574,38.22045,-99.39185,Rozel,KS,Kansas,True,,118.0,0.4,20145,Pawnee,"{""20145"": 100}",Pawnee,20145,False,False,America/Chicago
+67575,38.40711,-99.25681,Rush Center,KS,Kansas,True,,415.0,0.9,20165,Rush,"{""20165"": 85.17, ""20145"": 14.83}",Rush|Pawnee,20165|20145,False,False,America/Chicago
+67576,38.03228,-98.79343,St John,KS,Kansas,True,,2067.0,2.5,20185,Stafford,"{""20185"": 99.75, ""20151"": 0.25}",Stafford|Pratt,20185|20151,False,False,America/Chicago
+67578,37.96922,-98.59105,Stafford,KS,Kansas,True,,1106.0,2.1,20185,Stafford,"{""20185"": 100}",Stafford,20185,False,False,America/Chicago
+67579,38.18615,-98.20861,Sterling,KS,Kansas,True,,3252.0,6.1,20159,Rice,"{""20159"": 59.61, ""20155"": 40.39}",Rice|Reno,20159|20155,False,False,America/Chicago
+67581,37.99316,-98.41068,Sylvia,KS,Kansas,True,,292.0,1.0,20155,Reno,"{""20155"": 100}",Reno,20155,False,False,America/Chicago
+67583,37.79997,-98.4714,Turon,KS,Kansas,True,,893.0,1.5,20155,Reno,"{""20155"": 47.26, ""20151"": 43.24, ""20185"": 9.5}",Reno|Pratt|Stafford,20155|20151|20185,False,False,America/Chicago
+67584,38.6847,-100.16072,Utica,KS,Kansas,True,,140.0,0.2,20135,Ness,"{""20135"": 45.4, ""20195"": 25.47, ""20063"": 21.08, ""20101"": 8.05}",Ness|Trego|Gove|Lane,20135|20195|20063|20101,False,False,America/Chicago
+67601,38.873,-99.34032,Hays,KS,Kansas,True,,24020.0,25.8,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67621,39.82866,-99.12891,Agra,KS,Kansas,True,,316.0,1.9,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago
+67622,39.89983,-99.72522,Almena,KS,Kansas,True,,592.0,1.7,20137,Norton,"{""20137"": 96.35, ""20147"": 3.65}",Norton|Phillips,20137|20147,False,False,America/Chicago
+67623,39.45363,-98.95627,Alton,KS,Kansas,True,,161.0,0.4,20141,Osborne,"{""20141"": 95.5, ""20183"": 4.5}",Osborne|Smith,20141|20183,False,False,America/Chicago
+67625,39.39145,-99.68293,Bogue,KS,Kansas,True,,148.0,0.5,20065,Graham,"{""20065"": 100}",Graham,20065,False,False,America/Chicago
+67626,38.88375,-98.70808,Bunker Hill,KS,Kansas,True,,183.0,0.7,20167,Russell,"{""20167"": 100}",Russell,20167,False,False,America/Chicago
+67627,38.92224,-99.21343,Catharine,KS,Kansas,True,,,,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67628,39.62741,-98.99598,Cedar,KS,Kansas,True,,106.0,0.9,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago
+67629,39.70199,-100.18031,Clayton,KS,Kansas,True,,133.0,0.5,20137,Norton,"{""20137"": 53.64, ""20039"": 46.36}",Norton|Decatur,20137|20039,False,False,America/Chicago
+67631,39.00837,-100.08569,Collyer,KS,Kansas,True,,119.0,0.3,20195,Trego,"{""20195"": 85.5, ""20065"": 13.29, ""20179"": 1.21}",Trego|Graham|Sheridan,20195|20065|20179,False,False,America/Chicago
+67632,39.33557,-99.58362,Damar,KS,Kansas,True,,219.0,1.3,20163,Rooks,"{""20163"": 64.58, ""20065"": 35.42}",Rooks|Graham,20163|20065,False,False,America/Chicago
+67634,38.82654,-98.6073,Dorrance,KS,Kansas,True,,211.0,0.8,20167,Russell,"{""20167"": 100}",Russell,20167,False,False,America/Chicago
+67635,39.60025,-100.45484,Dresden,KS,Kansas,True,,156.0,0.6,20039,Decatur,"{""20039"": 69.76, ""20179"": 30.24}",Decatur|Sheridan,20039|20179,False,False,America/Chicago
+67637,38.94008,-99.59197,Ellis,KS,Kansas,True,,2873.0,3.2,20051,Ellis,"{""20051"": 50.23, ""20195"": 48.6, ""20065"": 1.17}",Ellis|Trego|Graham,20051|20195|20065,False,False,America/Chicago
+67638,39.63418,-98.8534,Gaylord,KS,Kansas,True,,235.0,1.3,20183,Smith,"{""20183"": 100}",Smith,20183,False,False,America/Chicago
+67639,39.62649,-99.32133,Glade,KS,Kansas,True,,182.0,1.1,20147,Phillips,"{""20147"": 95.92, ""20163"": 4.08}",Phillips|Rooks,20147|20163,False,False,America/Chicago
+67640,38.89853,-99.04925,Gorham,KS,Kansas,True,,690.0,2.3,20051,Ellis,"{""20051"": 55.27, ""20167"": 44.73}",Ellis|Russell,20051|20167,False,False,America/Chicago
+67642,39.36989,-99.8315,Hill City,KS,Kansas,True,,1940.0,3.0,20065,Graham,"{""20065"": 100}",Graham,20065,False,False,America/Chicago
+67643,39.6406,-100.29135,Jennings,KS,Kansas,True,,204.0,0.4,20039,Decatur,"{""20039"": 75.91, ""20179"": 24.09}",Decatur|Sheridan,20039|20179,False,False,America/Chicago
+67644,39.63104,-99.15993,Kirwin,KS,Kansas,True,,281.0,1.2,20147,Phillips,"{""20147"": 93.85, ""20163"": 6.15}",Phillips|Rooks,20147|20163,False,False,America/Chicago
+67645,39.60144,-99.89604,Lenora,KS,Kansas,True,,612.0,0.8,20137,Norton,"{""20137"": 70.35, ""20065"": 29.65}",Norton|Graham,20137|20065,False,False,America/Chicago
+67646,39.63921,-99.58654,Logan,KS,Kansas,True,,1012.0,2.1,20147,Phillips,"{""20147"": 55.58, ""20137"": 25.81, ""20163"": 12.9, ""20065"": 5.71}",Phillips|Norton|Rooks|Graham,20147|20137|20163|20065,False,False,America/Chicago
+67647,39.93794,-99.53162,Long Island,KS,Kansas,True,,198.0,1.0,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago
+67648,39.07746,-98.57278,Lucas,KS,Kansas,True,,595.0,1.3,20167,Russell,"{""20167"": 67.5, ""20141"": 27.96, ""20105"": 4.54}",Russell|Osborne|Lincoln,20167|20141|20105,False,False,America/Chicago
+67649,39.13404,-98.69232,Luray,KS,Kansas,True,,256.0,1.2,20167,Russell,"{""20167"": 50.62, ""20141"": 49.38}",Russell|Osborne,20167|20141,False,False,America/Chicago
+67650,39.37477,-100.09925,Morland,KS,Kansas,True,,206.0,0.5,20065,Graham,"{""20065"": 100}",Graham,20065,False,False,America/Chicago
+67651,39.20926,-99.03969,Natoma,KS,Kansas,True,,551.0,1.0,20141,Osborne,"{""20141"": 42.2, ""20163"": 40.28, ""20051"": 13.19, ""20167"": 4.33}",Osborne|Rooks|Ellis|Russell,20141|20163|20051|20167,False,False,America/Chicago
+67653,39.90873,-100.20554,Norcatur,KS,Kansas,True,,319.0,0.7,20039,Decatur,"{""20039"": 61.58, ""20137"": 38.42}",Decatur|Norton,20039|20137,False,False,America/Chicago
+67654,39.83067,-99.95573,Norton,KS,Kansas,True,,4118.0,4.6,20137,Norton,"{""20137"": 100}",Norton,20137,False,False,America/Chicago
+67656,38.98565,-99.75549,Ogallah,KS,Kansas,True,,128.0,0.4,20195,Trego,"{""20195"": 88.78, ""20065"": 11.22}",Trego|Graham,20195|20065,False,False,America/Chicago
+67657,39.21126,-99.60811,Palco,KS,Kansas,True,,217.0,0.7,20163,Rooks,"{""20163"": 50.32, ""20065"": 48.57, ""20195"": 1.11}",Rooks|Graham|Trego,20163|20065|20195,False,False,America/Chicago
+67658,39.11524,-98.92786,Paradise,KS,Kansas,True,,73.0,0.3,20167,Russell,"{""20167"": 64.21, ""20141"": 35.79}",Russell|Osborne,20167|20141,False,False,America/Chicago
+67659,39.31804,-100.00496,Penokee,KS,Kansas,True,,72.0,0.3,20065,Graham,"{""20065"": 100}",Graham,20065,False,False,America/Chicago
+67660,38.71752,-99.14806,Pfeifer,KS,Kansas,True,,38.0,0.9,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67661,39.82546,-99.33039,Phillipsburg,KS,Kansas,True,,2980.0,3.1,20147,Phillips,"{""20147"": 100}",Phillips,20147,False,False,America/Chicago
+67663,39.20597,-99.34222,Plainville,KS,Kansas,True,,2521.0,2.9,20163,Rooks,"{""20163"": 76.69, ""20051"": 23.31}",Rooks|Ellis,20163|20051,False,False,America/Chicago
+67664,39.81609,-99.5875,Prairie View,KS,Kansas,True,,258.0,1.1,20147,Phillips,"{""20147"": 69.01, ""20137"": 30.99}",Phillips|Norton,20147|20137,False,False,America/Chicago
+67665,38.847,-98.88022,Russell,KS,Kansas,True,,5023.0,6.0,20167,Russell,"{""20167"": 93.73, ""20009"": 6.27}",Russell|Barton,20167|20009,False,False,America/Chicago
+67667,38.71304,-99.33249,Schoenchen,KS,Kansas,True,,153.0,475.1,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67669,39.45631,-99.34914,Stockton,KS,Kansas,True,,1930.0,2.3,20163,Rooks,"{""20163"": 100}",Rooks,20163,False,False,America/Chicago
+67671,38.87559,-99.14432,Victoria,KS,Kansas,True,,1562.0,4.8,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67672,38.99882,-99.90746,Wakeeney,KS,Kansas,True,,2406.0,3.0,20195,Trego,"{""20195"": 84.32, ""20065"": 15.68}",Trego|Graham,20195|20065,False,False,America/Chicago
+67673,39.14708,-98.80714,Waldo,KS,Kansas,True,,74.0,0.3,20141,Osborne,"{""20141"": 58.5, ""20167"": 41.5}",Osborne|Russell,20141|20167,False,False,America/Chicago
+67674,38.87446,-99.08197,Walker,KS,Kansas,True,,48.0,1.6,20051,Ellis,"{""20051"": 100}",Ellis,20051,False,False,America/Chicago
+67675,39.42612,-99.09994,Woodston,KS,Kansas,True,,189.0,0.7,20163,Rooks,"{""20163"": 96.79, ""20141"": 3.21}",Rooks|Osborne,20163|20141,False,False,America/Chicago
+67701,39.39509,-101.05034,Colby,KS,Kansas,True,,6224.0,5.3,20193,Thomas,"{""20193"": 87.16, ""20153"": 12.84}",Thomas|Rawlins,20193|20153,False,False,America/Chicago
+67730,39.80366,-101.11624,Atwood,KS,Kansas,True,,1712.0,1.7,20153,Rawlins,"{""20153"": 100}",Rawlins,20153,False,False,America/Chicago
+67731,39.76277,-101.53858,Bird City,KS,Kansas,True,,770.0,0.9,20023,Cheyenne,"{""20023"": 99.7, ""20153"": 0.3}",Cheyenne|Rawlins,20023|20153,False,False,America/Chicago
+67732,39.37333,-101.3708,Brewster,KS,Kansas,True,,622.0,0.7,20193,Thomas,"{""20193"": 50.04, ""20181"": 27.32, ""20109"": 12.96, ""20153"": 9.68}",Thomas|Sherman|Logan|Rawlins,20193|20181|20109|20153,False,False,America/Chicago
+67733,39.32998,-101.50653,Edson,KS,Kansas,True,,365.0,0.7,20181,Sherman,"{""20181"": 100}",Sherman,20181,False,False,America/Denver
+67734,39.54241,-100.89298,Gem,KS,Kansas,True,,295.0,1.2,20193,Thomas,"{""20193"": 58.84, ""20153"": 41.16}",Thomas|Rawlins,20193|20153,False,False,America/Chicago
+67735,39.35119,-101.76646,Goodland,KS,Kansas,True,,5039.0,3.0,20181,Sherman,"{""20181"": 98.72, ""20023"": 1.28}",Sherman|Cheyenne,20181|20023,False,False,America/Denver
+67736,38.85492,-100.44715,Gove,KS,Kansas,True,,194.0,0.3,20063,Gove,"{""20063"": 100}",Gove,20063,False,False,America/Chicago
+67737,39.08798,-100.49367,Grainfield,KS,Kansas,True,,471.0,1.0,20063,Gove,"{""20063"": 62.64, ""20179"": 37.36}",Gove|Sheridan,20063|20179,False,False,America/Chicago
+67738,39.0027,-100.65348,Grinnell,KS,Kansas,True,,541.0,0.8,20063,Gove,"{""20063"": 78.41, ""20179"": 21.59}",Gove|Sheridan,20063|20179,False,False,America/Chicago
+67739,39.8848,-100.80581,Herndon,KS,Kansas,True,,199.0,0.6,20153,Rawlins,"{""20153"": 95.81, ""20039"": 4.19}",Rawlins|Decatur,20153|20039,False,False,America/Chicago
+67740,39.35576,-100.36089,Hoxie,KS,Kansas,True,,1668.0,1.5,20179,Sheridan,"{""20179"": 96.94, ""20065"": 3.06}",Sheridan|Graham,20179|20065,False,False,America/Chicago
+67741,39.38269,-102.00822,Kanorado,KS,Kansas,True,,374.0,1.0,20181,Sherman,"{""20181"": 87.58, ""20023"": 12.42}",Sherman|Cheyenne,20181|20023,False,False,America/Denver
+67743,39.38826,-101.24121,Levant,KS,Kansas,True,,163.0,0.4,20193,Thomas,"{""20193"": 90.12, ""20153"": 9.88}",Thomas|Rawlins,20193|20153,False,False,America/Chicago
+67744,39.85952,-100.94095,Ludell,KS,Kansas,True,,105.0,0.3,20153,Rawlins,"{""20153"": 100}",Rawlins,20153,False,False,America/Chicago
+67745,39.8147,-101.34795,McDonald,KS,Kansas,True,,402.0,0.6,20153,Rawlins,"{""20153"": 83.85, ""20023"": 16.15}",Rawlins|Cheyenne,20153|20023,False,False,America/Chicago
+67747,39.04208,-101.06099,Monument,KS,Kansas,True,,135.0,0.4,20109,Logan,"{""20109"": 92.84, ""20193"": 7.16}",Logan|Thomas,20109|20193,False,False,America/Chicago
+67748,39.06507,-100.85643,Oakley,KS,Kansas,True,,2425.0,2.2,20109,Logan,"{""20109"": 41.41, ""20193"": 33.79, ""20063"": 23.12, ""20179"": 1.68}",Logan|Thomas|Gove|Sheridan,20109|20193|20063|20179,False,False,America/Chicago
+67749,39.83214,-100.56728,Oberlin,KS,Kansas,True,,2114.0,1.8,20039,Decatur,"{""20039"": 93.93, ""20153"": 6.07}",Decatur|Rawlins,20039|20153,False,False,America/Chicago
+67751,39.11799,-100.35572,Park,KS,Kansas,True,,231.0,1.0,20063,Gove,"{""20063"": 54.98, ""20179"": 45.02}",Gove|Sheridan,20063|20179,False,False,America/Chicago
+67752,38.9924,-100.23145,Quinter,KS,Kansas,True,,1490.0,2.3,20063,Gove,"{""20063"": 84.71, ""20179"": 15.29}",Gove|Sheridan,20063|20179,False,False,America/Chicago
+67753,39.43164,-100.74805,Rexford,KS,Kansas,True,,467.0,0.7,20193,Thomas,"{""20193"": 52.72, ""20179"": 32.08, ""20153"": 15.2}",Thomas|Sheridan|Rawlins,20193|20179|20153,False,False,America/Chicago
+67756,39.79815,-101.84265,Saint Francis,KS,Kansas,True,,1841.0,1.1,20023,Cheyenne,"{""20023"": 100}",Cheyenne,20023,False,False,America/Chicago
+67757,39.54527,-100.60881,Selden,KS,Kansas,True,,371.0,0.7,20179,Sheridan,"{""20179"": 61.06, ""20039"": 38.94}",Sheridan|Decatur,20179|20039,False,False,America/Chicago
+67758,38.89658,-101.7842,Sharon Springs,KS,Kansas,True,,1255.0,1.1,20199,Wallace,"{""20199"": 100}",Wallace,20199,False,False,America/Denver
+67761,38.95066,-101.52523,Wallace,KS,Kansas,True,,233.0,0.2,20199,Wallace,"{""20199"": 66.35, ""20109"": 33.65}",Wallace|Logan,20199|20109,False,False,America/Denver
+67762,38.84166,-101.98611,Weskan,KS,Kansas,True,,167.0,0.3,20199,Wallace,"{""20199"": 80.96, ""20071"": 19.04}",Wallace|Greeley,20199|20071,False,False,America/Denver
+67764,38.89135,-101.15041,Winona,KS,Kansas,True,,427.0,0.3,20109,Logan,"{""20109"": 94.07, ""20193"": 5.93}",Logan|Thomas,20109|20193,False,False,America/Chicago
+67801,37.72961,-100.05406,Dodge City,KS,Kansas,True,,30562.0,32.1,20057,Ford,"{""20057"": 98.65, ""20083"": 1.35}",Ford|Hodgeman,20057|20083,False,False,America/Chicago
+67831,37.17956,-99.8018,Ashland,KS,Kansas,True,,1004.0,0.9,20025,Clark,"{""20025"": 100}",Clark,20025,False,False,America/Chicago
+67834,37.53174,-99.61886,Bucklin,KS,Kansas,True,,855.0,1.7,20057,Ford,"{""20057"": 66.64, ""20025"": 27.88, ""20097"": 5.48}",Ford|Clark|Kiowa,20057|20025|20097,False,False,America/Chicago
+67835,37.98071,-100.31746,Cimarron,KS,Kansas,True,,2929.0,2.3,20069,Gray,"{""20069"": 49.28, ""20055"": 43.04, ""20083"": 7.68}",Gray|Finney|Hodgeman,20069|20055|20083,False,False,America/Chicago
+67836,38.03977,-101.9942,Coolidge,KS,Kansas,True,,127.0,0.5,20075,Hamilton,"{""20075"": 100}",Hamilton,20075,False,False,America/Denver
+67837,37.55615,-100.66289,Copeland,KS,Kansas,True,,1029.0,1.8,20081,Haskell,"{""20081"": 58.6, ""20069"": 32.63, ""20119"": 8.77}",Haskell|Gray|Meade,20081|20069|20119,False,False,America/Chicago
+67838,38.05641,-101.13086,Deerfield,KS,Kansas,True,,1246.0,6.1,20093,Kearny,"{""20093"": 85.47, ""20055"": 14.53}",Kearny|Finney,20093|20055,False,False,America/Chicago
+67839,38.47911,-100.43961,Dighton,KS,Kansas,True,,1162.0,0.8,20101,Lane,"{""20101"": 92.81, ""20063"": 7.19}",Lane|Gove,20101|20063,False,False,America/Chicago
+67840,37.0736,-100.01097,Englewood,KS,Kansas,True,,92.0,1.1,20025,Clark,"{""20025"": 100}",Clark,20025,False,False,America/Chicago
+67841,37.62997,-100.22878,Ensign,KS,Kansas,True,,313.0,1.1,20069,Gray,"{""20069"": 60.85, ""20057"": 39.15}",Gray|Ford,20069|20057,False,False,America/Chicago
+67842,37.54766,-99.77138,Ford,KS,Kansas,True,,362.0,0.8,20057,Ford,"{""20057"": 75.28, ""20025"": 24.72}",Ford|Clark,20057|20025,False,False,America/Chicago
+67843,37.73027,-99.93728,Fort Dodge,KS,Kansas,True,,179.0,420.4,20057,Ford,"{""20057"": 100}",Ford,20057,False,False,America/Chicago
+67844,37.37798,-100.19562,Fowler,KS,Kansas,True,,744.0,1.2,20119,Meade,"{""20119"": 82.16, ""20057"": 10.02, ""20069"": 7.82}",Meade|Ford|Gray,20119|20057|20069,False,False,America/Chicago
+67846,38.02311,-100.77756,Garden City,KS,Kansas,True,,33098.0,16.3,20055,Finney,"{""20055"": 96.15, ""20069"": 2.32, ""20101"": 1.53}",Finney|Gray|Lane,20055|20069|20101,False,False,America/Chicago
+67849,38.15061,-99.71725,Hanston,KS,Kansas,True,,395.0,1.1,20083,Hodgeman,"{""20083"": 94.82, ""20135"": 5.18}",Hodgeman|Ness,20083|20135,False,False,America/Chicago
+67850,38.6315,-100.63896,Healy,KS,Kansas,True,,385.0,0.8,20101,Lane,"{""20101"": 59.86, ""20063"": 22.22, ""20171"": 17.92}",Lane|Gove|Scott,20101|20063|20171,False,False,America/Chicago
+67851,38.08796,-101.01972,Holcomb,KS,Kansas,True,,2983.0,5.6,20055,Finney,"{""20055"": 96.1, ""20171"": 3.9}",Finney|Scott,20055|20171,False,False,America/Chicago
+67853,37.88416,-100.51616,Ingalls,KS,Kansas,True,,741.0,0.9,20069,Gray,"{""20069"": 83.97, ""20055"": 16.03}",Gray|Finney,20069|20055,False,False,America/Chicago
+67854,38.09034,-100.0023,Jetmore,KS,Kansas,True,,1177.0,0.9,20083,Hodgeman,"{""20083"": 100}",Hodgeman,20083,False,False,America/Chicago
+67855,37.54551,-101.69477,Johnson,KS,Kansas,True,,1677.0,1.3,20187,Stanton,"{""20187"": 89.18, ""20129"": 9.7, ""20067"": 1.12}",Stanton|Morton|Grant,20187|20129|20067,False,False,America/Chicago
+67857,37.99598,-101.55154,Kendall,KS,Kansas,True,,217.0,0.3,20075,Hamilton,"{""20075"": 52.97, ""20093"": 47.03}",Hamilton|Kearny,20075|20093,False,False,America/Denver
+67859,37.23636,-100.77421,Kismet,KS,Kansas,True,,591.0,1.2,20175,Seward,"{""20175"": 100}",Seward,20175,False,False,America/Chicago
+67860,38.0185,-101.29831,Lakin,KS,Kansas,True,,2378.0,1.7,20093,Kearny,"{""20093"": 100}",Kearny,20093,False,False,America/Chicago
+67861,38.46768,-101.38914,Leoti,KS,Kansas,True,,1942.0,1.3,20203,Wichita,"{""20203"": 93.82, ""20109"": 5.92, ""20199"": 0.26}",Wichita|Logan|Wallace,20203|20109|20199,False,False,America/Chicago
+67862,37.47961,-101.95409,Manter,KS,Kansas,True,,369.0,0.5,20187,Stanton,"{""20187"": 74.1, ""20129"": 25.9}",Stanton|Morton,20187|20129,False,False,America/Chicago
+67863,38.56533,-101.20829,Marienthal,KS,Kansas,True,,239.0,0.5,20203,Wichita,"{""20203"": 90.74, ""20171"": 9.26}",Wichita|Scott,20203|20171,False,False,America/Chicago
+67864,37.17178,-100.31807,Meade,KS,Kansas,True,,1702.0,1.4,20119,Meade,"{""20119"": 100}",Meade,20119,False,False,America/Chicago
+67865,37.4368,-99.96506,Minneola,KS,Kansas,True,,980.0,1.4,20025,Clark,"{""20025"": 62.88, ""20057"": 37.12}",Clark|Ford,20025|20057,False,False,America/Chicago
+67867,37.56812,-100.45804,Montezuma,KS,Kansas,True,,1752.0,3.0,20069,Gray,"{""20069"": 84.63, ""20119"": 15.37}",Gray|Meade,20069|20119,False,False,America/Chicago
+67868,37.82028,-100.71029,Pierceville,KS,Kansas,True,,185.0,1.2,20055,Finney,"{""20055"": 100}",Finney,20055,False,False,America/Chicago
+67869,37.24489,-100.57358,Plains,KS,Kansas,True,,1589.0,2.0,20119,Meade,"{""20119"": 83.52, ""20175"": 16.48}",Meade|Seward,20119|20175,False,False,America/Chicago
+67870,37.53255,-101.01829,Satanta,KS,Kansas,True,,1377.0,2.0,20081,Haskell,"{""20081"": 75.45, ""20175"": 13.4, ""20067"": 11.15}",Haskell|Seward|Grant,20081|20175|20067,False,False,America/Chicago
+67871,38.49162,-100.91145,Scott City,KS,Kansas,True,,4939.0,2.5,20171,Scott,"{""20171"": 87.63, ""20063"": 4.93, ""20109"": 3.25, ""20055"": 3.16, ""20203"": 1.03}",Scott|Gove|Logan|Finney|Wichita,20171|20063|20109|20055|20203,False,False,America/Chicago
+67876,37.86154,-99.73654,Spearville,KS,Kansas,True,,1533.0,2.6,20057,Ford,"{""20057"": 68.63, ""20083"": 31.37}",Ford|Hodgeman,20057|20083,False,False,America/Chicago
+67877,37.54887,-100.84342,Sublette,KS,Kansas,True,,2249.0,3.2,20081,Haskell,"{""20081"": 92.86, ""20175"": 7.14}",Haskell|Seward,20081|20175,False,False,America/Chicago
+67878,38.00218,-101.80824,Syracuse,KS,Kansas,True,,2382.0,1.2,20075,Hamilton,"{""20075"": 95.72, ""20187"": 4.28}",Hamilton|Stanton,20075|20187,False,False,America/Denver
+67879,38.47091,-101.79459,Tribune,KS,Kansas,True,,1156.0,0.6,20071,Greeley,"{""20071"": 100}",Greeley,20071,False,False,America/Denver
+67880,37.60489,-101.32384,Ulysses,KS,Kansas,True,,7444.0,4.3,20067,Grant,"{""20067"": 80.43, ""20093"": 18.06, ""20075"": 1.51}",Grant|Kearny|Hamilton,20067|20093|20075,False,False,America/Chicago
+67882,37.8019,-99.88505,Wright,KS,Kansas,True,,222.0,0.8,20057,Ford,"{""20057"": 100}",Ford,20057,False,False,America/Chicago
+67901,37.0943,-100.89864,Liberal,KS,Kansas,True,,21282.0,26.5,20175,Seward,"{""20175"": 93.65, ""20189"": 6.35}",Seward|Stevens,20175|20189,False,False,America/Chicago
+67950,37.06277,-101.86765,Elkhart,KS,Kansas,True,,1844.0,3.9,20129,Morton,"{""20129"": 100}",Morton,20129,False,False,America/Chicago
+67951,37.1639,-101.33486,Hugoton,KS,Kansas,True,,4847.0,3.7,20189,Stevens,"{""20189"": 100}",Stevens,20189,False,False,America/Chicago
+67952,37.29886,-101.13934,Moscow,KS,Kansas,True,,556.0,1.1,20189,Stevens,"{""20189"": 73.04, ""20175"": 26.96}",Stevens|Seward,20189|20175,False,False,America/Chicago
+67953,37.22653,-101.86093,Richfield,KS,Kansas,True,,82.0,0.1,20129,Morton,"{""20129"": 100}",Morton,20129,False,False,America/Chicago
+67954,37.17999,-101.61179,Rolla,KS,Kansas,True,,817.0,1.2,20129,Morton,"{""20129"": 79.08, ""20189"": 20.92}",Morton|Stevens,20129|20189,False,False,America/Chicago

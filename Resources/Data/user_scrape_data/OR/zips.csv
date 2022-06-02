@@ -1,0 +1,428 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+97001,44.93328,-120.64169,Antelope,OR,Oregon,True,,385.0,0.5,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97002,45.23774,-122.8003,Aurora,OR,Oregon,True,,6418.0,59.7,41047,Marion,"{""41047"": 70.77, ""41005"": 29.23}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles
+97003,45.50372,-122.86482,Beaverton,OR,Oregon,True,,,,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97004,45.25068,-122.45399,Beavercreek,OR,Oregon,True,,3964.0,35.4,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97005,45.49144,-122.80397,Beaverton,OR,Oregon,True,,27393.0,2063.6,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97006,45.52598,-122.85591,Beaverton,OR,Oregon,True,,74152.0,3957.4,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97007,45.44282,-122.87112,Beaverton,OR,Oregon,True,,71896.0,1486.6,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97008,45.46044,-122.80252,Beaverton,OR,Oregon,True,,30485.0,2221.5,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97009,45.42409,-122.33962,Boring,OR,Oregon,True,,8198.0,103.1,41005,Clackamas,"{""41005"": 97.14, ""41051"": 2.86}",Clackamas|Multnomah,41005|41051,False,False,America/Los_Angeles
+97011,45.38738,-122.03671,Brightwood,OR,Oregon,True,,813.0,68.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97013,45.21799,-122.67277,Canby,OR,Oregon,True,,24396.0,159.8,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97014,45.61354,-121.87405,Cascade Locks,OR,Oregon,True,,1589.0,4.2,41027,Hood River,"{""41027"": 66.18, ""41051"": 33.82}",Hood River|Multnomah,41027|41051,False,False,America/Los_Angeles
+97015,45.41477,-122.53767,Clackamas,OR,Oregon,True,,24332.0,1063.7,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97016,46.05573,-123.27032,Clatskanie,OR,Oregon,True,,6329.0,10.6,41009,Columbia,"{""41009"": 76.0, ""41007"": 24.0}",Columbia|Clatsop,41009|41007,False,False,America/Los_Angeles
+97017,45.17017,-122.37676,Colton,OR,Oregon,True,,3787.0,32.3,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97018,45.8957,-122.81165,Columbia City,OR,Oregon,True,,1696.0,794.8,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles
+97019,45.494,-122.18885,Corbett,OR,Oregon,True,,3304.0,16.2,41051,Multnomah,"{""41051"": 72.33, ""41005"": 27.67}",Multnomah|Clackamas,41051|41005,False,False,America/Los_Angeles
+97020,45.22267,-122.83887,Donald,OR,Oregon,True,,1197.0,1641.5,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97021,45.39048,-121.13425,Dufur,OR,Oregon,True,,1283.0,1.9,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97022,45.34562,-122.3306,Eagle Creek,OR,Oregon,True,,3918.0,65.0,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97023,45.19147,-122.20501,Estacada,OR,Oregon,True,,10481.0,20.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97024,45.54576,-122.44142,Fairview,OR,Oregon,True,,10014.0,1121.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97026,45.10409,-122.94251,Gervais,OR,Oregon,True,,3926.0,44.9,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97027,45.38697,-122.59271,Gladstone,OR,Oregon,True,,12984.0,1998.3,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97028,45.28225,-121.75274,Government Camp,OR,Oregon,True,,162.0,1.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97029,45.29901,-120.81003,Grass Valley,OR,Oregon,True,,313.0,0.4,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles
+97030,45.50896,-122.43135,Gresham,OR,Oregon,True,,38980.0,2008.9,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97031,45.61193,-121.61094,Hood River,OR,Oregon,True,,18643.0,48.1,41027,Hood River,"{""41027"": 100}",Hood River,41027,False,False,America/Los_Angeles
+97032,45.17949,-122.78559,Hubbard,OR,Oregon,True,,5210.0,112.5,41047,Marion,"{""41047"": 65.21, ""41005"": 34.79}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles
+97033,45.23361,-120.5876,Kent,OR,Oregon,True,,42.0,0.1,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles
+97034,45.4095,-122.68467,Lake Oswego,OR,Oregon,True,,20108.0,1002.8,41005,Clackamas,"{""41005"": 96.63, ""41051"": 3.37}",Clackamas|Multnomah,41005|41051,False,False,America/Los_Angeles
+97035,45.41291,-122.72616,Lake Oswego,OR,Oregon,True,,26721.0,1773.8,41005,Clackamas,"{""41005"": 88.03, ""41051"": 9.91, ""41067"": 2.06}",Clackamas|Multnomah|Washington,41005|41051|41067,False,False,America/Los_Angeles
+97037,45.06567,-121.03141,Maupin,OR,Oregon,True,,805.0,0.6,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97038,45.08575,-122.55288,Molalla,OR,Oregon,True,,15504.0,45.7,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97039,45.47226,-120.62428,Moro,OR,Oregon,True,,494.0,1.7,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles
+97040,45.62648,-121.38476,Mosier,OR,Oregon,True,,1725.0,12.6,41065,Wasco,"{""41065"": 99.78, ""41027"": 0.22}",Wasco|Hood River,41065|41027,False,False,America/Los_Angeles
+97041,45.41655,-121.59617,Mount Hood Parkdale,OR,Oregon,True,,3084.0,7.5,41027,Hood River,"{""41027"": 100}",Hood River,41027,False,False,America/Los_Angeles
+97042,45.20679,-122.53247,Mulino,OR,Oregon,True,,2877.0,46.7,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97045,45.32834,-122.53058,Oregon City,OR,Oregon,True,,56558.0,251.6,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97048,46.03905,-122.99483,Rainier,OR,Oregon,True,,7591.0,30.0,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles
+97049,45.35931,-121.86829,Rhododendron,OR,Oregon,True,,1725.0,4.2,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97050,45.68256,-120.7727,Rufus,OR,Oregon,True,,211.0,9.9,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles
+97051,45.88902,-122.92011,Saint Helens,OR,Oregon,True,,17126.0,114.9,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles
+97053,45.82695,-122.88401,Warren,OR,Oregon,True,,3633.0,109.5,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles
+97054,45.95406,-122.92995,Deer Island,OR,Oregon,True,,1368.0,13.3,41009,Columbia,"{""41009"": 100}",Columbia,41009,False,False,America/Los_Angeles
+97055,45.35975,-122.15396,Sandy,OR,Oregon,True,,18600.0,63.8,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97056,45.78935,-122.96941,Scappoose,OR,Oregon,True,,12161.0,42.4,41009,Columbia,"{""41009"": 85.2, ""41067"": 10.6, ""41051"": 4.2}",Columbia|Washington|Multnomah,41009|41067|41051,False,False,America/Los_Angeles
+97057,45.00422,-120.7516,Shaniko,OR,Oregon,True,,12.0,10.7,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97058,45.54239,-121.15447,The Dalles,OR,Oregon,True,,20627.0,24.5,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97060,45.5342,-122.36989,Troutdale,OR,Oregon,True,,22133.0,488.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97062,45.36821,-122.76169,Tualatin,OR,Oregon,True,,28740.0,781.2,41067,Washington,"{""41067"": 72.62, ""41005"": 27.38}",Washington|Clackamas,41067|41005,False,False,America/Los_Angeles
+97063,45.22319,-121.28306,Tygh Valley,OR,Oregon,True,,727.0,2.0,41065,Wasco,"{""41065"": 100}",Wasco,41065,False,False,America/Los_Angeles
+97064,45.87276,-123.2309,Vernonia,OR,Oregon,True,,3244.0,12.8,41009,Columbia,"{""41009"": 93.11, ""41067"": 6.89}",Columbia|Washington,41009|41067,False,False,America/Los_Angeles
+97065,45.59803,-120.65696,Wasco,OR,Oregon,True,,626.0,1.0,41055,Sherman,"{""41055"": 100}",Sherman,41055,False,False,America/Los_Angeles
+97067,45.31302,-121.97733,Welches,OR,Oregon,True,,2004.0,34.0,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97068,45.35195,-122.66876,West Linn,OR,Oregon,True,,30085.0,518.8,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97070,45.308,-122.77059,Wilsonville,OR,Oregon,True,,25163.0,547.0,41005,Clackamas,"{""41005"": 96.58, ""41067"": 3.42}",Clackamas|Washington,41005|41067,False,False,America/Los_Angeles
+97071,45.13588,-122.82344,Woodburn,OR,Oregon,True,,31034.0,231.9,41047,Marion,"{""41047"": 74.03, ""41005"": 25.97}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles
+97078,45.47628,-122.89088,Beaverton,OR,Oregon,True,,,,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97080,45.47848,-122.39001,Gresham,OR,Oregon,True,,44907.0,801.3,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97086,45.44531,-122.52793,Happy Valley,OR,Oregon,True,,31609.0,1164.9,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97089,45.4256,-122.44342,Damascus,OR,Oregon,True,,13777.0,246.1,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97101,45.09225,-123.21557,Amity,OR,Oregon,True,,4141.0,31.9,41071,Yamhill,"{""41071"": 64.32, ""41053"": 35.68}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles
+97102,45.7934,-123.94793,Arch Cape,OR,Oregon,True,,328.0,15.2,41007,Clatsop,"{""41007"": 61.78, ""41057"": 38.22}",Clatsop|Tillamook,41007|41057,False,False,America/Los_Angeles
+97103,46.13327,-123.69648,Astoria,OR,Oregon,True,,17892.0,42.3,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97106,45.65419,-123.13417,Banks,OR,Oregon,True,,4942.0,43.3,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97107,45.56172,-123.88291,Bay City,OR,Oregon,True,,2302.0,50.3,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97108,45.27423,-123.67544,Beaver,OR,Oregon,True,,518.0,2.0,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97109,45.73777,-123.1946,Buxton,OR,Oregon,True,,736.0,10.5,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97110,45.89186,-123.95128,Cannon Beach,OR,Oregon,True,,1286.0,81.0,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97111,45.29012,-123.19855,Carlton,OR,Oregon,True,,3441.0,34.9,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97112,45.26218,-123.86629,Cloverdale,OR,Oregon,True,,1688.0,5.7,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97113,45.50746,-123.04544,Cornelius,OR,Oregon,True,,14689.0,162.3,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97114,45.18381,-123.07172,Dayton,OR,Oregon,True,,4675.0,30.3,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97115,45.27573,-123.02682,Dundee,OR,Oregon,True,,4021.0,143.3,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97116,45.59054,-123.18876,Forest Grove,OR,Oregon,True,,27349.0,128.7,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97117,45.62189,-123.31132,Gales Creek,OR,Oregon,True,,727.0,7.1,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97118,45.55697,-123.91619,Garibaldi,OR,Oregon,True,,672.0,279.5,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97119,45.4717,-123.20781,Gaston,OR,Oregon,True,,5309.0,21.7,41067,Washington,"{""41067"": 79.2, ""41071"": 20.8}",Washington|Yamhill,41067|41071,False,False,America/Los_Angeles
+97121,46.19347,-123.97141,Hammond,OR,Oregon,True,,1352.0,69.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97122,45.17331,-123.8164,Hebo,OR,Oregon,True,,526.0,7.3,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97123,45.44353,-122.98048,Hillsboro,OR,Oregon,True,,49522.0,343.5,41067,Washington,"{""41067"": 89.49, ""41071"": 10.51}",Washington|Yamhill,41067|41071,False,False,America/Los_Angeles
+97124,45.57088,-122.94584,Hillsboro,OR,Oregon,True,,56101.0,479.8,41067,Washington,"{""41067"": 97.87, ""41051"": 2.13}",Washington|Multnomah,41067|41051,False,False,America/Los_Angeles
+97125,45.66243,-123.21117,Manning,OR,Oregon,True,,141.0,10.6,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97127,45.24629,-123.11159,Lafayette,OR,Oregon,True,,4222.0,1886.2,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97128,45.19814,-123.25812,Mcminnville,OR,Oregon,True,,38246.0,131.6,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97130,45.71592,-123.93318,Manzanita,OR,Oregon,True,,528.0,183.6,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97131,45.71495,-123.8107,Nehalem,OR,Oregon,True,,3065.0,8.5,41057,Tillamook,"{""41057"": 86.56, ""41007"": 13.44}",Tillamook|Clatsop,41057|41007,False,False,America/Los_Angeles
+97132,45.32272,-122.98854,Newberg,OR,Oregon,True,,29851.0,184.0,41071,Yamhill,"{""41071"": 92.37, ""41067"": 6.4, ""41005"": 1.23}",Yamhill|Washington|Clackamas,41071|41067|41005,False,False,America/Los_Angeles
+97133,45.68719,-123.02861,North Plains,OR,Oregon,True,,4948.0,24.9,41067,Washington,"{""41067"": 96.42, ""41051"": 3.58}",Washington|Multnomah,41067|41051,False,False,America/Los_Angeles
+97134,45.45587,-123.96513,Oceanside,OR,Oregon,True,,108.0,93.7,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97135,45.18749,-123.95494,Pacific City,OR,Oregon,True,,1016.0,114.2,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97136,45.6341,-123.91353,Rockaway Beach,OR,Oregon,True,,1909.0,37.7,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97137,45.21028,-122.9635,Saint Paul,OR,Oregon,True,,1087.0,9.3,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97138,45.90946,-123.70036,Seaside,OR,Oregon,True,,10799.0,28.6,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97140,45.35359,-122.86339,Sherwood,OR,Oregon,True,,25778.0,223.3,41067,Washington,"{""41067"": 74.92, ""41005"": 22.7, ""41071"": 2.38}",Washington|Clackamas|Yamhill,41067|41005|41071,False,False,America/Los_Angeles
+97141,45.47142,-123.73791,Tillamook,OR,Oregon,True,,13557.0,20.2,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97144,45.74349,-123.30305,Timber,OR,Oregon,True,,138.0,3.3,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97145,45.84357,-123.9516,Tolovana Park,OR,Oregon,True,,298.0,45.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97146,46.11849,-123.91399,Warrenton,OR,Oregon,True,,6980.0,105.1,41007,Clatsop,"{""41007"": 100}",Clatsop,41007,False,False,America/Los_Angeles
+97147,45.6871,-123.8873,Wheeler,OR,Oregon,True,,376.0,282.9,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97148,45.35988,-123.26553,Yamhill,OR,Oregon,True,,3553.0,15.0,41071,Yamhill,"{""41071"": 100}",Yamhill,41071,False,False,America/Los_Angeles
+97149,45.09957,-123.94455,Neskowin,OR,Oregon,True,,458.0,7.1,41057,Tillamook,"{""41057"": 100}",Tillamook,41057,False,False,America/Los_Angeles
+97201,45.50796,-122.68959,Portland,OR,Oregon,True,,17558.0,3543.7,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97202,45.48232,-122.64365,Portland,OR,Oregon,True,,43744.0,2692.1,41051,Multnomah,"{""41051"": 99.01, ""41005"": 0.99}",Multnomah|Clackamas,41051|41005,False,False,America/Los_Angeles
+97203,45.60764,-122.74923,Portland,OR,Oregon,True,,34759.0,1245.4,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97204,45.5183,-122.67378,Portland,OR,Oregon,True,,1162.0,1819.9,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97205,45.51924,-122.70127,Portland,OR,Oregon,True,,7679.0,3147.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97206,45.48173,-122.5988,Portland,OR,Oregon,True,,54248.0,3246.4,41051,Multnomah,"{""41051"": 91.87, ""41005"": 8.13}",Multnomah|Clackamas,41051|41005,False,False,America/Los_Angeles
+97208,45.52866,-122.67898,Portland,OR,Oregon,True,,0.0,0.0,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97209,45.53093,-122.68429,Portland,OR,Oregon,True,,19824.0,7430.7,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97210,45.54954,-122.73549,Portland,OR,Oregon,True,,11395.0,494.6,41051,Multnomah,"{""41051"": 99.81, ""41067"": 0.19}",Multnomah|Washington,41051|41067,False,False,America/Los_Angeles
+97211,45.58174,-122.63548,Portland,OR,Oregon,True,,35738.0,1933.5,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97212,45.54428,-122.64322,Portland,OR,Oregon,True,,28770.0,4070.2,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97213,45.53776,-122.59957,Portland,OR,Oregon,True,,32815.0,3142.5,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97214,45.51395,-122.64424,Portland,OR,Oregon,True,,28348.0,3765.3,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97215,45.51436,-122.59923,Portland,OR,Oregon,True,,17354.0,2869.3,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97216,45.51393,-122.5585,Portland,OR,Oregon,True,,17757.0,2725.1,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97217,45.59686,-122.69717,Portland,OR,Oregon,True,,34881.0,1208.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97218,45.5759,-122.60023,Portland,OR,Oregon,True,,14666.0,850.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97219,45.45413,-122.69972,Portland,OR,Oregon,True,,43274.0,1428.1,41051,Multnomah,"{""41051"": 96.56, ""41005"": 3.44}",Multnomah|Clackamas,41051|41005,False,False,America/Los_Angeles
+97220,45.55107,-122.55915,Portland,OR,Oregon,True,,29318.0,1507.1,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97221,45.49799,-122.72749,Portland,OR,Oregon,True,,12104.0,1060.8,41051,Multnomah,"{""41051"": 99.76, ""41067"": 0.24}",Multnomah|Washington,41051|41067,False,False,America/Los_Angeles
+97222,45.44114,-122.61682,Portland,OR,Oregon,True,,36904.0,1647.5,41005,Clackamas,"{""41005"": 99.01, ""41051"": 0.99}",Clackamas|Multnomah,41005|41051,False,False,America/Los_Angeles
+97223,45.44023,-122.77838,Portland,OR,Oregon,True,,51513.0,1797.7,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97224,45.40568,-122.7958,Portland,OR,Oregon,True,,35949.0,1534.0,41067,Washington,"{""41067"": 100}",Washington,41067,False,False,America/Los_Angeles
+97225,45.502,-122.76994,Portland,OR,Oregon,True,,25965.0,1505.5,41067,Washington,"{""41067"": 99.26, ""41051"": 0.74}",Washington|Multnomah,41067|41051,False,False,America/Los_Angeles
+97227,45.54432,-122.67721,Portland,OR,Oregon,True,,5911.0,1598.9,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97229,45.55032,-122.81026,Portland,OR,Oregon,True,,71529.0,1405.4,41067,Washington,"{""41067"": 62.22, ""41051"": 37.78}",Washington|Multnomah,41067|41051,False,False,America/Los_Angeles
+97230,45.5582,-122.506,Portland,OR,Oregon,True,,39900.0,1106.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97231,45.68197,-122.82687,Portland,OR,Oregon,True,,3975.0,24.5,41051,Multnomah,"{""41051"": 72.53, ""41009"": 25.36, ""41067"": 2.11}",Multnomah|Columbia|Washington,41051|41009|41067,False,False,America/Los_Angeles
+97232,45.5292,-122.64376,Portland,OR,Oregon,True,,14140.0,2919.9,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97233,45.51391,-122.49887,Portland,OR,Oregon,True,,38779.0,3224.4,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97236,45.48474,-122.51055,Portland,OR,Oregon,True,,39669.0,1984.3,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97239,45.48893,-122.69053,Portland,OR,Oregon,True,,18637.0,2008.4,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97266,45.48268,-122.55838,Portland,OR,Oregon,True,,36818.0,2346.6,41051,Multnomah,"{""41051"": 100}",Multnomah,41051,False,False,America/Los_Angeles
+97267,45.40744,-122.61472,Portland,OR,Oregon,True,,33250.0,1776.0,41005,Clackamas,"{""41005"": 100}",Clackamas,41005,False,False,America/Los_Angeles
+97301,44.94948,-123.00439,Salem,OR,Oregon,True,,57194.0,1953.3,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97302,44.90191,-123.06719,Salem,OR,Oregon,True,,40113.0,660.4,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97303,45.03036,-123.02449,Salem,OR,Oregon,True,,41596.0,644.4,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97304,45.0078,-123.1078,Salem,OR,Oregon,True,,32435.0,220.4,41053,Polk,"{""41053"": 86.91, ""41071"": 13.09}",Polk|Yamhill,41053|41071,False,False,America/Los_Angeles
+97305,45.01573,-122.92909,Salem,OR,Oregon,True,,44536.0,364.2,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97306,44.84585,-123.07972,Salem,OR,Oregon,True,,32741.0,390.1,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97310,44.90048,-122.97436,Salem,OR,Oregon,True,,,,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97317,44.90242,-122.90628,Salem,OR,Oregon,True,,26408.0,184.6,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97321,44.64994,-123.13474,Albany,OR,Oregon,True,,27131.0,151.5,41043,Linn,"{""41043"": 68.74, ""41003"": 31.26}",Linn|Benton,41043|41003,False,False,America/Los_Angeles
+97322,44.62524,-123.01975,Albany,OR,Oregon,True,,37343.0,228.0,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97324,44.34345,-123.63042,Alsea,OR,Oregon,True,,1495.0,3.0,41003,Benton,"{""41003"": 77.53, ""41039"": 13.49, ""41041"": 8.98}",Benton|Lane|Lincoln,41003|41039|41041,False,False,America/Los_Angeles
+97325,44.83141,-122.85195,Aumsville,OR,Oregon,True,,6837.0,87.3,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97326,44.62794,-123.61573,Blodgett,OR,Oregon,True,,1397.0,4.6,41041,Lincoln,"{""41041"": 61.03, ""41003"": 38.97}",Lincoln|Benton,41041|41003,False,False,America/Los_Angeles
+97327,44.37567,-122.94783,Brownsville,OR,Oregon,True,,3511.0,18.9,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97329,44.3956,-122.33698,Cascadia,OR,Oregon,True,,107.0,0.7,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97330,44.63796,-123.27814,Corvallis,OR,Oregon,True,,43155.0,213.7,41003,Benton,"{""41003"": 100}",Benton,41003,False,False,America/Los_Angeles
+97331,44.56343,-123.28113,Corvallis,OR,Oregon,True,,2868.0,2033.2,41003,Benton,"{""41003"": 100}",Benton,41003,False,False,America/Los_Angeles
+97333,44.4735,-123.3067,Corvallis,OR,Oregon,True,,23493.0,81.0,41003,Benton,"{""41003"": 89.04, ""41043"": 10.96}",Benton|Linn,41003|41043,False,False,America/Los_Angeles
+97335,44.63776,-122.88045,Crabtree,OR,Oregon,True,,,,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97336,44.35669,-122.85092,Crawfordsville,OR,Oregon,True,,,,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97338,44.93654,-123.33868,Dallas,OR,Oregon,True,,22449.0,69.4,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles
+97341,44.81525,-124.04513,Depoe Bay,OR,Oregon,True,,2628.0,102.4,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97342,44.73382,-121.94524,Detroit,OR,Oregon,True,,80.0,0.4,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97343,44.56934,-123.73091,Eddyville,OR,Oregon,True,,293.0,0.8,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97344,44.86887,-123.46596,Falls City,OR,Oregon,True,,1742.0,58.4,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles
+97345,44.4126,-122.57644,Foster,OR,Oregon,True,,549.0,5.0,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97346,44.76948,-122.37857,Gates,OR,Oregon,True,,1087.0,9.6,41047,Marion,"{""41047"": 73.18, ""41043"": 26.82}",Marion|Linn,41047|41043,False,False,America/Los_Angeles
+97347,45.07836,-123.65943,Grand Ronde,OR,Oregon,True,,1584.0,12.9,41071,Yamhill,"{""41071"": 51.1, ""41053"": 45.21, ""41057"": 3.69}",Yamhill|Polk|Tillamook,41071|41053|41057,False,False,America/Los_Angeles
+97348,44.38768,-123.12582,Halsey,OR,Oregon,True,,1533.0,8.8,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97350,44.64786,-121.96146,Idanha,OR,Oregon,True,,149.0,0.5,41043,Linn,"{""41043"": 92.83, ""41047"": 7.17}",Linn|Marion,41043|41047,False,False,America/Los_Angeles
+97351,44.83857,-123.17449,Independence,OR,Oregon,True,,11551.0,85.4,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles
+97352,44.75009,-123.02419,Jefferson,OR,Oregon,True,,6860.0,54.4,41047,Marion,"{""41047"": 81.86, ""41043"": 18.14}",Marion|Linn,41047|41043,False,False,America/Los_Angeles
+97355,44.5315,-122.81701,Lebanon,OR,Oregon,True,,31118.0,56.1,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97357,44.73934,-123.81592,Logsden,OR,Oregon,True,,194.0,3.9,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97358,44.80681,-122.40702,Lyons,OR,Oregon,True,,2610.0,11.4,41047,Marion,"{""41047"": 76.51, ""41043"": 23.49}",Marion|Linn,41047|41043,False,False,America/Los_Angeles
+97360,44.7515,-122.48529,Mill City,OR,Oregon,True,,2415.0,69.0,41043,Linn,"{""41043"": 57.9, ""41047"": 42.1}",Linn|Marion,41043|41047,False,False,America/Los_Angeles
+97361,44.77251,-123.32999,Monmouth,OR,Oregon,True,,12528.0,36.4,41053,Polk,"{""41053"": 89.2, ""41003"": 10.8}",Polk|Benton,41053|41003,False,False,America/Los_Angeles
+97362,45.06903,-122.7692,Mount Angel,OR,Oregon,True,,4322.0,71.4,41047,Marion,"{""41047"": 89.19, ""41005"": 10.81}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles
+97364,44.99889,-123.98703,Neotsu,OR,Oregon,True,,501.0,636.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97365,44.67113,-124.01825,Newport,OR,Oregon,True,,11338.0,105.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97366,44.58288,-124.04748,South Beach,OR,Oregon,True,,1980.0,71.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97367,44.9122,-123.96914,Lincoln City,OR,Oregon,True,,10023.0,84.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97368,45.0073,-123.89155,Otis,OR,Oregon,True,,3326.0,21.1,41041,Lincoln,"{""41041"": 92.74, ""41057"": 7.26}",Lincoln|Tillamook,41041|41057,False,False,America/Los_Angeles
+97369,44.76015,-124.05676,Otter Rock,OR,Oregon,True,,139.0,25.4,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97370,44.57901,-123.46907,Philomath,OR,Oregon,True,,8861.0,19.2,41003,Benton,"{""41003"": 93.65, ""41053"": 6.35}",Benton|Polk,41003|41053,False,False,America/Los_Angeles
+97371,44.98985,-123.1994,Rickreall,OR,Oregon,True,,592.0,7.2,41053,Polk,"{""41053"": 100}",Polk,41053,False,False,America/Los_Angeles
+97373,45.05819,-122.77677,Saint Benedict,OR,Oregon,True,,178.0,1487.5,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97374,44.69285,-122.77379,Scio,OR,Oregon,True,,4394.0,13.1,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97375,44.97922,-122.6021,Scotts Mills,OR,Oregon,True,,1241.0,10.0,41047,Marion,"{""41047"": 78.5, ""41005"": 21.5}",Marion|Clackamas,41047|41005,False,False,America/Los_Angeles
+97376,44.50854,-123.9768,Seal Rock,OR,Oregon,True,,1046.0,6.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97377,44.46403,-123.10156,Shedd,OR,Oregon,True,,827.0,7.1,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97378,45.08058,-123.43127,Sheridan,OR,Oregon,True,,10637.0,35.2,41071,Yamhill,"{""41071"": 51.47, ""41053"": 48.53}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles
+97380,44.77268,-123.94202,Siletz,OR,Oregon,True,,2272.0,14.6,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97381,44.97014,-122.74749,Silverton,OR,Oregon,True,,16420.0,57.6,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97383,44.80014,-122.71836,Stayton,OR,Oregon,True,,10185.0,82.5,41047,Marion,"{""41047"": 69.89, ""41043"": 30.11}",Marion|Linn,41047|41043,False,False,America/Los_Angeles
+97384,44.79109,-122.62007,Mehama,OR,Oregon,True,,67.0,944.0,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97385,44.86633,-122.72924,Sublimity,OR,Oregon,True,,3355.0,36.5,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97386,44.36062,-122.75076,Sweet Home,OR,Oregon,True,,15584.0,47.8,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97388,44.87418,-124.01169,Gleneden Beach,OR,Oregon,True,,1014.0,61.1,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97389,44.53269,-123.09028,Tangent,OR,Oregon,True,,1929.0,20.9,41043,Linn,"{""41043"": 100}",Linn,41043,False,False,America/Los_Angeles
+97390,44.33781,-123.85717,Tidewater,OR,Oregon,True,,891.0,2.8,41041,Lincoln,"{""41041"": 67.27, ""41039"": 32.73}",Lincoln|Lane,41041|41039,False,False,America/Los_Angeles
+97391,44.59593,-123.8816,Toledo,OR,Oregon,True,,6399.0,21.4,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97392,44.79096,-122.9413,Turner,OR,Oregon,True,,5695.0,52.0,41047,Marion,"{""41047"": 100}",Marion,41047,False,False,America/Los_Angeles
+97394,44.40607,-124.00258,Waldport,OR,Oregon,True,,5090.0,38.0,41041,Lincoln,"{""41041"": 100}",Lincoln,41041,False,False,America/Los_Angeles
+97396,45.11528,-123.5275,Willamina,OR,Oregon,True,,3753.0,26.5,41071,Yamhill,"{""41071"": 75.5, ""41053"": 24.5}",Yamhill|Polk,41071|41053,False,False,America/Los_Angeles
+97401,44.06803,-123.08171,Eugene,OR,Oregon,True,,47985.0,1997.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97402,44.05193,-123.23022,Eugene,OR,Oregon,True,,52481.0,295.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97403,44.03541,-123.05247,Eugene,OR,Oregon,True,,14024.0,1281.5,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97404,44.10518,-123.13315,Eugene,OR,Oregon,True,,34126.0,1370.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97405,43.95528,-123.167,Eugene,OR,Oregon,True,,45184.0,135.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97406,42.62638,-123.99867,Agness,OR,Oregon,True,,355.0,0.8,41015,Curry,"{""41015"": 95.12, ""41011"": 4.88}",Curry|Coos,41015|41011,False,False,America/Los_Angeles
+97408,44.14435,-123.05452,Eugene,OR,Oregon,True,,13761.0,106.8,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97410,42.80159,-123.11931,Azalea,OR,Oregon,True,,566.0,1.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97411,43.07557,-124.3624,Bandon,OR,Oregon,True,,7568.0,22.7,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97412,44.19625,-123.56106,Blachly,OR,Oregon,True,,681.0,3.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97413,44.09633,-122.01513,Blue River,OR,Oregon,True,,944.0,0.8,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97414,42.96653,-124.15026,Broadbent,OR,Oregon,True,,154.0,1.3,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97415,42.13977,-124.13506,Brookings,OR,Oregon,True,,13857.0,17.5,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles
+97416,43.03524,-123.69123,Camas Valley,OR,Oregon,True,,1241.0,7.9,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97417,42.94014,-123.21802,Canyonville,OR,Oregon,True,,2249.0,30.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97419,44.1793,-123.40719,Cheshire,OR,Oregon,True,,892.0,10.5,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97420,43.34839,-124.10825,Coos Bay,OR,Oregon,True,,27906.0,39.3,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97423,43.19137,-124.17177,Coquille,OR,Oregon,True,,6521.0,19.9,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97424,43.74712,-123.05496,Cottage Grove,OR,Oregon,True,,18361.0,28.8,41039,Lane,"{""41039"": 88.51, ""41019"": 11.49}",Lane|Douglas,41039|41019,False,False,America/Los_Angeles
+97426,43.90313,-123.02781,Creswell,OR,Oregon,True,,9987.0,51.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97429,42.96778,-123.05442,Days Creek,OR,Oregon,True,,881.0,3.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97430,44.15507,-123.71175,Deadwood,OR,Oregon,True,,394.0,1.9,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97431,43.87135,-122.81576,Dexter,OR,Oregon,True,,2289.0,21.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97432,43.10445,-123.4294,Dillard,OR,Oregon,True,,,,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97434,43.66553,-122.78211,Dorena,OR,Oregon,True,,903.0,3.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97435,43.7016,-123.33839,Drain,OR,Oregon,True,,2170.0,8.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97436,43.63958,-123.58256,Elkton,OR,Oregon,True,,740.0,3.0,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97437,44.09734,-123.38731,Elmira,OR,Oregon,True,,2489.0,42.7,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97438,43.96068,-122.65546,Fall Creek,OR,Oregon,True,,1127.0,3.6,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97439,44.06573,-124.03705,Florence,OR,Oregon,True,,15101.0,34.6,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97441,43.77659,-124.14414,Gardiner,OR,Oregon,True,,466.0,6.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97442,42.76982,-123.40365,Glendale,OR,Oregon,True,,2319.0,10.6,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97443,43.25014,-123.00255,Glide,OR,Oregon,True,,2939.0,13.2,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97444,42.44453,-124.33223,Gold Beach,OR,Oregon,True,,5974.0,14.1,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles
+97446,44.26804,-123.05548,Harrisburg,OR,Oregon,True,,5826.0,18.3,41043,Linn,"{""41043"": 99.07, ""41039"": 0.93}",Linn|Lane,41043|41039,False,False,America/Los_Angeles
+97447,43.28409,-122.49807,Idleyld Park,OR,Oregon,True,,485.0,0.7,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97448,44.2105,-123.27882,Junction City,OR,Oregon,True,,13409.0,37.5,41039,Lane,"{""41039"": 94.43, ""41003"": 5.57}",Lane|Benton,41039|41003,False,False,America/Los_Angeles
+97449,43.57571,-124.08581,Lakeside,OR,Oregon,True,,1955.0,16.7,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97450,42.91026,-124.37398,Langlois,OR,Oregon,True,,508.0,2.5,41015,Curry,"{""41015"": 91.88, ""41011"": 8.12}",Curry|Coos,41015|41011,False,False,America/Los_Angeles
+97451,43.83998,-123.31383,Lorane,OR,Oregon,True,,464.0,2.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97452,43.88564,-122.72259,Lowell,OR,Oregon,True,,1518.0,23.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97453,43.99422,-123.86344,Mapleton,OR,Oregon,True,,882.0,3.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97454,44.21806,-122.8191,Marcola,OR,Oregon,True,,1136.0,7.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97455,43.96212,-122.91493,Pleasant Hill,OR,Oregon,True,,3184.0,47.9,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97456,44.34036,-123.35893,Monroe,OR,Oregon,True,,3056.0,12.8,41003,Benton,"{""41003"": 96.9, ""41039"": 3.1}",Benton|Lane,41003|41039,False,False,America/Los_Angeles
+97457,43.05484,-123.2229,Myrtle Creek,OR,Oregon,True,,10365.0,24.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97458,43.06372,-124.01287,Myrtle Point,OR,Oregon,True,,4488.0,4.8,41011,Coos,"{""41011"": 100}",Coos,41011,False,False,America/Los_Angeles
+97459,43.47444,-124.18216,North Bend,OR,Oregon,True,,14434.0,51.0,41011,Coos,"{""41011"": 96.52, ""41019"": 3.48}",Coos|Douglas,41011|41019,False,False,America/Los_Angeles
+97461,44.09789,-123.48993,Noti,OR,Oregon,True,,823.0,7.6,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97462,43.49047,-123.38828,Oakland,OR,Oregon,True,,4014.0,7.1,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97463,43.73951,-122.40591,Oakridge,OR,Oregon,True,,3801.0,30.1,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97465,42.7376,-124.3795,Port Orford,OR,Oregon,True,,1838.0,6.2,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles
+97466,42.86459,-124.08632,Powers,OR,Oregon,True,,1197.0,9.5,41011,Coos,"{""41011"": 85.12, ""41015"": 14.88}",Coos|Curry,41011|41015,False,False,America/Los_Angeles
+97467,43.73557,-123.90442,Reedsport,OR,Oregon,True,,5017.0,5.9,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97469,42.91994,-123.41459,Riddle,OR,Oregon,True,,2789.0,18.7,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97470,43.23288,-123.23111,Roseburg,OR,Oregon,True,,18659.0,39.8,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97471,43.22215,-123.47486,Roseburg,OR,Oregon,True,,31762.0,67.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97473,43.6773,-123.8726,Scottsburg,OR,Oregon,True,,293.0,2.0,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97476,42.84075,-124.43806,Sixes,OR,Oregon,True,,357.0,2.6,41015,Curry,"{""41015"": 100}",Curry,41015,False,False,America/Los_Angeles
+97477,44.05861,-123.01126,Springfield,OR,Oregon,True,,38073.0,1183.4,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97478,44.08781,-122.84478,Springfield,OR,Oregon,True,,40357.0,92.5,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97479,43.40194,-123.19426,Sutherlin,OR,Oregon,True,,9876.0,56.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97480,44.1303,-123.83213,Swisshome,OR,Oregon,True,,291.0,1.7,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97481,43.11376,-123.55237,Tenmile,OR,Oregon,True,,875.0,45.0,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97484,42.93373,-122.84585,Tiller,OR,Oregon,True,,136.0,0.4,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97486,43.37778,-123.5351,Umpqua,OR,Oregon,True,,668.0,3.8,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97487,43.99441,-123.39303,Veneta,OR,Oregon,True,,9047.0,48.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97488,44.13077,-122.41198,Vida,OR,Oregon,True,,1165.0,3.0,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97489,44.10986,-122.61962,Walterville,OR,Oregon,True,,873.0,11.3,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97490,44.00795,-123.60522,Walton,OR,Oregon,True,,439.0,1.8,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97492,43.77168,-122.49868,Westfir,OR,Oregon,True,,1071.0,8.9,41039,Lane,"{""41039"": 100}",Lane,41039,False,False,America/Los_Angeles
+97493,43.90256,-124.01602,Westlake,OR,Oregon,True,,300.0,2.2,41039,Lane,"{""41039"": 91.74, ""41019"": 8.26}",Lane|Douglas,41039|41019,False,False,America/Los_Angeles
+97494,43.33059,-123.32779,Wilbur,OR,Oregon,True,,51.0,21.5,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97495,43.28765,-123.30463,Winchester,OR,Oregon,True,,1568.0,82.6,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97496,43.05261,-123.49992,Winston,OR,Oregon,True,,7663.0,33.6,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97497,42.66015,-123.40929,Wolf Creek,OR,Oregon,True,,1502.0,3.5,41033,Josephine,"{""41033"": 94.06, ""41029"": 5.94}",Josephine|Jackson,41033|41029,False,False,America/Los_Angeles
+97498,44.27728,-124.01901,Yachats,OR,Oregon,True,,1830.0,6.5,41039,Lane,"{""41039"": 50.63, ""41041"": 49.37}",Lane|Lincoln,41039|41041,False,False,America/Los_Angeles
+97499,43.59495,-123.23356,Yoncalla,OR,Oregon,True,,1869.0,5.8,41019,Douglas,"{""41019"": 100}",Douglas,41019,False,False,America/Los_Angeles
+97501,42.2856,-122.89459,Medford,OR,Oregon,True,,47160.0,401.6,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97502,42.40927,-122.94718,Central Point,OR,Oregon,True,,28769.0,135.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97503,42.5836,-122.92721,White City,OR,Oregon,True,,13008.0,61.5,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97504,42.32757,-122.80068,Medford,OR,Oregon,True,,48053.0,428.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97520,42.15472,-122.53168,Ashland,OR,Oregon,True,,25345.0,29.8,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97522,42.56594,-122.46886,Butte Falls,OR,Oregon,True,,650.0,5.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97523,42.11349,-123.62961,Cave Junction,OR,Oregon,True,,5885.0,9.1,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97524,42.46271,-122.66327,Eagle Point,OR,Oregon,True,,15174.0,16.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97525,42.43557,-123.07606,Gold Hill,OR,Oregon,True,,4293.0,15.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97526,42.51275,-123.33964,Grants Pass,OR,Oregon,True,,35302.0,96.9,41033,Josephine,"{""41033"": 99.15, ""41029"": 0.85}",Josephine|Jackson,41033|41029,False,False,America/Los_Angeles
+97527,42.37615,-123.38288,Grants Pass,OR,Oregon,True,,37120.0,65.2,41033,Josephine,"{""41033"": 86.85, ""41029"": 13.15}",Josephine|Jackson,41033|41029,False,False,America/Los_Angeles
+97530,42.13778,-123.10507,Jacksonville,OR,Oregon,True,,7806.0,6.5,41029,Jackson,"{""41029"": 80.45, ""41033"": 19.55}",Jackson|Josephine,41029|41033,False,False,America/Los_Angeles
+97531,42.20739,-123.64391,Kerby,OR,Oregon,True,,307.0,31.9,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97532,42.56142,-123.58586,Merlin,OR,Oregon,True,,2621.0,12.0,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97534,42.03616,-123.71641,O'Brien,OR,Oregon,True,,719.0,10.8,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97535,42.26799,-122.81238,Phoenix,OR,Oregon,True,,5454.0,641.4,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97536,42.78455,-122.50802,Prospect,OR,Oregon,True,,1151.0,6.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97537,42.55041,-123.13357,Rogue River,OR,Oregon,True,,7104.0,22.1,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97538,42.29623,-123.65723,Selma,OR,Oregon,True,,1809.0,3.7,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97539,42.59999,-122.79024,Shady Cove,OR,Oregon,True,,3296.0,58.3,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97540,42.18615,-122.80027,Talent,OR,Oregon,True,,8554.0,73.5,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97541,42.72983,-122.75359,Trail,OR,Oregon,True,,1720.0,3.2,41029,Jackson,"{""41029"": 100}",Jackson,41029,False,False,America/Los_Angeles
+97543,42.37724,-123.56031,Wilderville,OR,Oregon,True,,482.0,3.9,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97544,42.207,-123.30006,Williams,OR,Oregon,True,,2594.0,13.1,41033,Josephine,"{""41033"": 100}",Josephine,41033,False,False,America/Los_Angeles
+97601,42.44404,-122.06741,Klamath Falls,OR,Oregon,True,,23020.0,15.4,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97603,42.13704,-121.67766,Klamath Falls,OR,Oregon,True,,29797.0,33.8,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97604,42.97778,-122.20674,Crater Lake,OR,Oregon,True,,137.0,0.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97620,42.223,-119.89677,Adel,OR,Oregon,True,,106.0,0.1,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97621,42.51504,-121.2881,Beatty,OR,Oregon,True,,260.0,0.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97622,42.39667,-121.01032,Bly,OR,Oregon,True,,335.0,0.7,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97623,42.19905,-121.31016,Bonanza,OR,Oregon,True,,2672.0,2.9,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97624,42.72121,-121.69415,Chiloquin,OR,Oregon,True,,3519.0,2.2,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97625,42.31507,-121.58402,Dairy,OR,Oregon,True,,360.0,2.8,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97626,42.72488,-122.02011,Fort Klamath,OR,Oregon,True,,58.0,0.2,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97627,42.08036,-122.05796,Keno,OR,Oregon,True,,558.0,6.7,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97630,42.29832,-120.39166,Lakeview,OR,Oregon,True,,4797.0,1.8,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97632,42.04175,-121.40597,Malin,OR,Oregon,True,,1731.0,10.5,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97633,42.03014,-121.56328,Merrill,OR,Oregon,True,,1263.0,17.1,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97634,42.12747,-121.80348,Midland,OR,Oregon,True,,284.0,33.6,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97635,41.93173,-120.29974,New Pine Creek,OR,Oregon,True,,164.0,1.2,6049,Modoc,"{""06049"": 92.79, ""41037"": 7.21}",Modoc|Lake,06049|41037,False,False,America/Los_Angeles
+97636,42.68775,-120.56746,Paisley,OR,Oregon,True,,508.0,0.7,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97637,42.46142,-119.92486,Plush,OR,Oregon,True,,126.0,0.4,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97638,43.1458,-121.01156,Silver Lake,OR,Oregon,True,,575.0,0.6,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97639,42.43435,-121.49845,Sprague River,OR,Oregon,True,,479.0,3.2,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97640,42.90742,-120.65381,Summer Lake,OR,Oregon,True,,179.0,0.2,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97641,43.28742,-120.53809,Christmas Valley,OR,Oregon,True,,1440.0,0.8,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97701,44.00065,-121.03289,Bend,OR,Oregon,True,,74255.0,92.0,41017,Deschutes,"{""41017"": 92.44, ""41013"": 7.56}",Deschutes|Crook,41017|41013,False,False,America/Los_Angeles
+97702,43.98336,-121.21083,Bend,OR,Oregon,True,,50395.0,188.0,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles
+97703,44.07281,-121.51971,Bend,OR,Oregon,True,,,,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles
+97707,43.83031,-121.49365,Bend,OR,Oregon,True,,5970.0,36.8,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles
+97709,43.89338,-121.85627,Bend,OR,Oregon,True,,,,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles
+97710,42.15095,-118.53902,Fields,OR,Oregon,True,,102.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97711,44.7239,-120.63489,Ashwood,OR,Oregon,True,,28.0,0.0,41031,Jefferson,"{""41031"": 100}",Jefferson,41031,False,False,America/Los_Angeles
+97712,43.77825,-120.42866,Brothers,OR,Oregon,True,,65.0,0.2,41017,Deschutes,"{""41017"": 100}",Deschutes,41017,False,False,America/Los_Angeles
+97720,43.58799,-118.85806,Burns,OR,Oregon,True,,4383.0,1.4,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97721,42.88772,-118.52635,Princeton,OR,Oregon,True,,199.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97722,42.95733,-118.69241,Diamond,OR,Oregon,True,,54.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97730,44.52265,-121.64535,Camp Sherman,OR,Oregon,True,,327.0,4.9,41031,Jefferson,"{""41031"": 100}",Jefferson,41031,False,False,America/Los_Angeles
+97731,43.1315,-121.92089,Chemult,OR,Oregon,True,,458.0,2.6,41035,Klamath,"{""41035"": 66.13, ""41019"": 33.87}",Klamath|Douglas,41035|41019,False,False,America/Los_Angeles
+97732,43.41369,-118.40265,Crane,OR,Oregon,True,,113.0,0.3,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97733,43.38441,-121.94778,Crescent,OR,Oregon,True,,462.0,0.5,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97734,44.53502,-121.33395,Culver,OR,Oregon,True,,3606.0,8.0,41031,Jefferson,"{""41031"": 100}",Jefferson,41031,False,False,America/Los_Angeles
+97735,43.39014,-120.99224,Fort Rock,OR,Oregon,True,,48.0,0.1,41037,Lake,"{""41037"": 100}",Lake,41037,False,False,America/Los_Angeles
+97736,42.66655,-118.92058,Frenchglen,OR,Oregon,True,,88.0,0.0,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97737,43.50897,-121.71917,Gilchrist,OR,Oregon,True,,467.0,7.9,41035,Klamath,"{""41035"": 100}",Klamath,41035,False,False,America/Los_Angeles
+97738,43.51218,-119.25078,Hines,OR,Oregon,True,,2045.0,3.1,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97739,43.67259,-121.48693,La Pine,OR,Oregon,True,,13158.0,16.7,41017,Deschutes,"{""41017"": 73.96, ""41035"": 26.04}",Deschutes|Klamath,41017|41035,False,False,America/Los_Angeles
+97741,44.65771,-121.04291,Madras,OR,Oregon,True,,12791.0,13.6,41031,Jefferson,"{""41031"": 96.09, ""41065"": 3.91}",Jefferson|Wasco,41031|41065,False,False,America/Los_Angeles
+97750,44.67037,-120.12704,Mitchell,OR,Oregon,True,,340.0,0.2,41069,Wheeler,"{""41069"": 100}",Wheeler,41069,False,False,America/Los_Angeles
+97751,44.14856,-119.81945,Paulina,OR,Oregon,True,,62.0,0.1,41013,Crook,"{""41013"": 100}",Crook,41013,False,False,America/Los_Angeles
+97752,44.14094,-120.20584,Post,OR,Oregon,True,,0.0,0.0,41013,Crook,"{""41013"": 100}",Crook,41013,False,False,America/Los_Angeles
+97753,44.22625,-120.99996,Powell Butte,OR,Oregon,True,,2594.0,9.2,41013,Crook,"{""41013"": 100}",Crook,41013,False,False,America/Los_Angeles
+97754,44.13577,-120.52848,Prineville,OR,Oregon,True,,20985.0,5.9,41013,Crook,"{""41013"": 97.08, ""41031"": 2.09, ""41025"": 0.83}",Crook|Jefferson|Harney,41013|41031|41025,False,False,America/Los_Angeles
+97756,44.28079,-121.19335,Redmond,OR,Oregon,True,,39342.0,120.2,41017,Deschutes,"{""41017"": 83.9, ""41013"": 16.1}",Deschutes|Crook,41017|41013,False,False,America/Los_Angeles
+97758,43.41449,-119.74859,Riley,OR,Oregon,True,,76.0,0.0,41025,Harney,"{""41025"": 75.54, ""41037"": 24.46}",Harney|Lake,41025|41037,False,False,America/Los_Angeles
+97759,44.44428,-121.76823,Sisters,OR,Oregon,True,,7530.0,5.3,41043,Linn,"{""41043"": 42.32, ""41031"": 30.99, ""41017"": 26.69}",Linn|Jefferson|Deschutes,41043|41031|41017,False,False,America/Los_Angeles
+97760,44.38662,-121.23323,Terrebonne,OR,Oregon,True,,7364.0,31.2,41017,Deschutes,"{""41017"": 46.07, ""41031"": 37.1, ""41013"": 16.82}",Deschutes|Jefferson|Crook,41017|41031|41013,False,False,America/Los_Angeles
+97761,44.8433,-121.29807,Warm Springs,OR,Oregon,True,,3631.0,3.8,41065,Wasco,"{""41065"": 61.4, ""41031"": 38.6}",Wasco|Jefferson,41065|41031,False,False,America/Los_Angeles
+97801,45.67317,-118.83362,Pendleton,OR,Oregon,True,,20859.0,16.2,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97810,45.6725,-118.39642,Adams,OR,Oregon,True,,1197.0,1.8,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97812,45.58138,-120.21907,Arlington,OR,Oregon,True,,832.0,0.7,41021,Gilliam,"{""41021"": 100}",Gilliam,41021,False,False,America/Los_Angeles
+97813,45.85305,-118.52802,Athena,OR,Oregon,True,,1435.0,10.3,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97814,44.80075,-117.77034,Baker City,OR,Oregon,True,,12269.0,5.7,41001,Baker,"{""41001"": 94.87, ""41061"": 5.13}",Baker|Union,41001|41061,False,False,America/Los_Angeles
+97817,44.6555,-118.60816,Bates,OR,Oregon,True,,55.0,0.1,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97818,45.7567,-119.78444,Boardman,OR,Oregon,True,,4352.0,7.9,41049,Morrow,"{""41049"": 100}",Morrow,41049,False,False,America/Los_Angeles
+97819,44.48603,-117.76317,Bridgeport,OR,Oregon,True,,19.0,0.1,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97820,44.16327,-119.21436,Canyon City,OR,Oregon,True,,985.0,1.0,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97823,45.24334,-120.19097,Condon,OR,Oregon,True,,1014.0,0.6,41021,Gilliam,"{""41021"": 98.22, ""41069"": 1.78}",Gilliam|Wheeler,41021|41069,False,False,America/Los_Angeles
+97824,45.34992,-117.75506,Cove,OR,Oregon,True,,1853.0,3.0,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97825,44.38804,-119.51852,Dayville,OR,Oregon,True,,336.0,0.5,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97826,45.65508,-119.22586,Echo,OR,Oregon,True,,1274.0,1.5,41059,Umatilla,"{""41059"": 86.25, ""41049"": 13.75}",Umatilla|Morrow,41059|41049,False,False,America/Los_Angeles
+97827,45.60854,-117.85886,Elgin,OR,Oregon,True,,2485.0,4.6,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97828,45.71382,-117.25971,Enterprise,OR,Oregon,True,,3135.0,1.8,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles
+97830,44.9779,-120.17165,Fossil,OR,Oregon,True,,660.0,0.6,41069,Wheeler,"{""41069"": 86.71, ""41021"": 13.29}",Wheeler|Gilliam,41069|41021,False,False,America/Los_Angeles
+97833,44.93471,-118.05951,Haines,OR,Oregon,True,,673.0,2.1,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97834,44.97251,-117.20509,Halfway,OR,Oregon,True,,1116.0,1.5,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97835,45.8992,-118.772,Helix,OR,Oregon,True,,421.0,1.0,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97836,45.29166,-119.50144,Heppner,OR,Oregon,True,,2148.0,0.9,41049,Morrow,"{""41049"": 100}",Morrow,41049,False,False,America/Los_Angeles
+97837,44.51127,-118.0483,Hereford,OR,Oregon,True,,83.0,0.2,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97838,45.85266,-119.28878,Hermiston,OR,Oregon,True,,26071.0,49.7,41059,Umatilla,"{""41059"": 75.52, ""41049"": 24.48}",Umatilla|Morrow,41059|41049,False,False,America/Los_Angeles
+97839,45.58272,-119.60005,Lexington,OR,Oregon,True,,291.0,0.6,41049,Morrow,"{""41049"": 100}",Morrow,41049,False,False,America/Los_Angeles
+97840,44.90218,-116.93608,Oxbow,OR,Oregon,True,,168.0,0.5,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Boise
+97841,45.46823,-117.94035,Imbler,OR,Oregon,True,,540.0,13.4,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97842,45.57223,-116.82384,Imnaha,OR,Oregon,True,,91.0,0.0,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles
+97843,45.50479,-119.88066,Ione,OR,Oregon,True,,747.0,0.8,41049,Morrow,"{""41049"": 94.71, ""41021"": 5.29}",Morrow|Gilliam,41049|41021,False,False,America/Los_Angeles
+97844,45.87867,-119.54676,Irrigon,OR,Oregon,True,,3803.0,44.5,41049,Morrow,"{""41049"": 100}",Morrow,41049,False,False,America/Los_Angeles
+97845,44.41445,-118.90372,John Day,OR,Oregon,True,,2152.0,7.3,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97846,45.27465,-117.10956,Joseph,OR,Oregon,True,,1954.0,1.7,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles
+97848,44.69761,-119.57336,Kimberly,OR,Oregon,True,,236.0,0.4,41023,Grant,"{""41023"": 99.17, ""41069"": 0.83}",Grant|Wheeler,41023|41069,False,False,America/Los_Angeles
+97850,45.30689,-118.13265,La Grande,OR,Oregon,True,,17388.0,21.0,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97856,44.78426,-119.12976,Long Creek,OR,Oregon,True,,357.0,0.3,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97857,45.37273,-117.50418,Lostine,OR,Oregon,True,,641.0,1.0,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles
+97859,45.5258,-118.43209,Meacham,OR,Oregon,True,,230.0,0.8,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97862,45.92712,-118.31797,Milton Freewater,OR,Oregon,True,,12014.0,15.8,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97864,44.83842,-119.45471,Monument,OR,Oregon,True,,260.0,0.4,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97865,44.42949,-119.19192,Mount Vernon,OR,Oregon,True,,1511.0,1.6,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97867,45.0627,-117.997,North Powder,OR,Oregon,True,,975.0,2.5,41061,Union,"{""41061"": 74.26, ""41001"": 25.74}",Union|Baker,41061|41001,False,False,America/Los_Angeles
+97868,45.40815,-118.86964,Pilot Rock,OR,Oregon,True,,1718.0,1.6,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97869,44.37993,-118.61425,Prairie City,OR,Oregon,True,,944.0,1.3,41023,Grant,"{""41023"": 92.15, ""41001"": 7.85}",Grant|Baker,41023|41001,False,False,America/Los_Angeles
+97870,44.79434,-117.19033,Richland,OR,Oregon,True,,644.0,2.6,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97873,44.12837,-118.99505,Seneca,OR,Oregon,True,,274.0,1.0,41023,Grant,"{""41023"": 100}",Grant,41023,False,False,America/Los_Angeles
+97874,44.75783,-119.84828,Spray,OR,Oregon,True,,431.0,0.6,41069,Wheeler,"{""41069"": 100}",Wheeler,41069,False,False,America/Los_Angeles
+97875,45.81481,-119.14898,Stanfield,OR,Oregon,True,,2885.0,19.1,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97876,45.52237,-118.02811,Summerville,OR,Oregon,True,,1034.0,6.9,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97877,44.80662,-118.38766,Sumpter,OR,Oregon,True,,334.0,0.6,41023,Grant,"{""41023"": 65.85, ""41001"": 34.15}",Grant|Baker,41023|41001,False,False,America/Los_Angeles
+97880,45.08631,-118.89269,Ukiah,OR,Oregon,True,,367.0,0.5,41059,Umatilla,"{""41059"": 84.71, ""41023"": 15.29}",Umatilla|Grant,41059|41023,False,False,America/Los_Angeles
+97882,45.90741,-119.34944,Umatilla,OR,Oregon,True,,7958.0,163.1,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97883,45.14264,-117.64047,Union,OR,Oregon,True,,2256.0,2.7,41061,Union,"{""41061"": 100}",Union,41061,False,False,America/Los_Angeles
+97884,44.44975,-118.21895,Unity,OR,Oregon,True,,103.0,0.4,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97885,45.65073,-117.50972,Wallowa,OR,Oregon,True,,1244.0,1.5,41063,Wallowa,"{""41063"": 100}",Wallowa,41063,False,False,America/Los_Angeles
+97886,45.79604,-118.24924,Weston,OR,Oregon,True,,990.0,2.6,41059,Umatilla,"{""41059"": 100}",Umatilla,41059,False,False,America/Los_Angeles
+97901,43.5996,-117.09602,Adrian,OR,Oregon,True,,710.0,2.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97902,42.91332,-117.49412,Arock,OR,Oregon,True,,,,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97903,44.27772,-117.59775,Brogan,OR,Oregon,True,,21.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97904,43.89136,-118.50581,Drewsey,OR,Oregon,True,,249.0,0.2,41025,Harney,"{""41025"": 100}",Harney,41025,False,False,America/Los_Angeles
+97905,44.58183,-117.4654,Durkee,OR,Oregon,True,,91.0,0.2,41001,Baker,"{""41001"": 100}",Baker,41001,False,False,America/Los_Angeles
+97906,43.46049,-117.81783,Harper,OR,Oregon,True,,262.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97907,44.41893,-117.35568,Huntington,OR,Oregon,True,,546.0,0.6,41001,Baker,"{""41001"": 73.77, ""41045"": 26.23}",Baker|Malheur,41001|41045,False,False,America/Los_Angeles
+97908,44.25679,-117.94828,Ironside,OR,Oregon,True,,31.0,0.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97909,44.21096,-117.37909,Jamieson,OR,Oregon,True,,0.0,0.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97910,42.85733,-117.50909,Jordan Valley,OR,Oregon,True,,626.0,0.1,41045,Malheur,"{""41045"": 92.39, ""16073"": 7.61}",Malheur|Owyhee,41045|16073,False,False,America/Boise
+97911,43.85547,-118.02605,Juntura,OR,Oregon,True,,106.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97913,43.64688,-117.28131,Nyssa,OR,Oregon,True,,5007.0,4.9,41045,Malheur,"{""41045"": 99.86, ""16075"": 0.14}",Malheur|Payette,41045|16075,False,False,America/Boise
+97914,44.11085,-117.07383,Ontario,OR,Oregon,True,,19281.0,28.6,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97917,43.5415,-118.11651,Riverside,OR,Oregon,True,,,,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97918,43.96255,-117.38073,Vale,OR,Oregon,True,,4533.0,3.0,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise
+97920,44.06595,-117.75997,Westfall,OR,Oregon,True,,36.0,0.1,41045,Malheur,"{""41045"": 100}",Malheur,41045,False,False,America/Boise

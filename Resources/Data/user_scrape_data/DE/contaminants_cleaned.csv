@@ -1,0 +1,613 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+DE,Newark,19701.0,Artesian Water Company,301000,Bromodichloromethane,3.85,0.06,0,ppb,64.16666666666667
+DE,Newark,19701.0,Artesian Water Company,301000,Chloroform,17.7,0.4,0,ppb,44.24999999999999
+DE,Newark,19701.0,Artesian Water Company,301000,Chromium (hexavalent),0.524,0.02,0,ppb,26.2
+DE,Newark,19701.0,Artesian Water Company,301000,Dibromochloromethane,0.496,0.1,0,ppb,4.96
+DE,Newark,19701.0,Artesian Water Company,301000,Dichloroacetic acid,15.8,0.2,0,ppb,79.0
+DE,Newark,19701.0,Artesian Water Company,301000,Haloacetic acids (HAA5)†,30.2,0.1,60,ppb,302.0
+DE,Newark,19701.0,Artesian Water Company,301000,Haloacetic acids (HAA9)†,24.9,0.06,0,ppb,415.0
+DE,Newark,19701.0,Artesian Water Company,301000,Nitrate,4.22,0.14,10,ppm,30.14285714285714
+DE,Newark,19701.0,Artesian Water Company,301000,Nitrate and nitrite,3.23,0.14,10,ppm,23.07142857142857
+DE,Newark,19701.0,Artesian Water Company,301000,Perfluoroheptanoic acid (PFHPA),8.06,1.0,0,ppt,8.06
+DE,Newark,19701.0,Artesian Water Company,301000,Perfluorohexane sulfonate (PFHXS),35.0,1.0,0,ppt,35.0
+DE,Newark,19701.0,Artesian Water Company,301000,Perfluorooctane sulfonate (PFOS),49.9,1.0,0,ppt,49.9
+DE,Newark,19701.0,Artesian Water Company,301000,Perfluorooctanoic acid (PFOA),10.8,0.007,0,ppt,1542.857142857143
+DE,Newark,19701.0,Artesian Water Company,301000,Radium combined (-226 &amp; -228),3.01,0.05,5,pCi/L,60.199999999999996
+DE,Newark,19701.0,Artesian Water Company,301000,Total trihalomethanes (TTHMs)†,41.1,0.15,80,ppb,274.0
+DE,Newark,19701.0,Artesian Water Company,301000,Trichloroacetic acid,14.3,0.1,0,ppb,143.0
+DE,Newark,19701.0,Artesian Water Company,301000,11-Dichloroethane,0.000986,3.0,0,ppb,0.0003286666666666666
+DE,Newark,19701.0,Artesian Water Company,301000,14-Dioxane,0.669,0.35,0,ppb,1.9114285714285717
+DE,Newark,19701.0,Artesian Water Company,301000,Aluminum,4.5,600.0,0,ppb,0.0075
+DE,Newark,19701.0,Artesian Water Company,301000,Atrazine,0.00898,0.1,3,ppb,0.08979999999999999
+DE,Newark,19701.0,Artesian Water Company,301000,Barium,92.4,700.0,2000,ppb,0.132
+DE,Newark,19701.0,Artesian Water Company,301000,Bromoform,0.0336,0.5,0,ppb,0.0672
+DE,Newark,19701.0,Artesian Water Company,301000,Chlorate,22.6,210.0,0,ppb,0.10761904761904763
+DE,Newark,19701.0,Artesian Water Company,301000,Chlordane,0.0154,0.03,2,ppb,0.5133333333333334
+DE,Newark,19701.0,Artesian Water Company,301000,Cobalt,0.352,70.0,0,ppb,0.005028571428571428
+DE,Newark,19701.0,Artesian Water Company,301000,Di(2-ethylhexyl) phthalate,0.0236,3.0,6,ppb,0.007866666666666666
+DE,Newark,19701.0,Artesian Water Company,301000,Dibromoacetic acid,0.0286,0.04,0,ppb,0.715
+DE,Newark,19701.0,Artesian Water Company,301000,Heptachlor epoxide,0.000296,0.006,0.2,ppb,0.04933333333333333
+DE,Newark,19701.0,Artesian Water Company,301000,Manganese,11.4,100.0,0,ppb,0.114
+DE,Newark,19701.0,Artesian Water Company,301000,Mercury (inorganic),0.00842,1.2,2,ppb,0.007016666666666668
+DE,Newark,19701.0,Artesian Water Company,301000,Monochloroacetic acid,0.127,53.0,0,ppb,0.0023962264150943395
+DE,Newark,19701.0,Artesian Water Company,301000,MTBE,0.374,13.0,0,ppb,0.02876923076923077
+DE,Newark,19701.0,Artesian Water Company,301000,Pentachlorophenol,0.00269,0.3,1,ppb,0.008966666666666668
+DE,Newark,19701.0,Artesian Water Company,301000,Selenium,2.27,30.0,50,ppb,0.07566666666666667
+DE,Newark,19701.0,Artesian Water Company,301000,Strontium,0.132,1500.0,0,ppb,8.8e-05
+DE,Newark,19701.0,Artesian Water Company,301000,Tetrachloroethylene (perchloroethylene),0.0728,0.06,5,ppb,1.2133333333333334
+DE,Newark,19701.0,Artesian Water Company,301000,Toluene,0.00671,150.0,1000,ppb,4.4733333333333334e-05
+DE,Newark,19701.0,Artesian Water Company,301000,Trichloroethylene,0.00248,0.4,5,ppb,0.0062
+DE,Newark,19701.0,Artesian Water Company,301000,Trichlorofluoromethane,0.00136,1300.0,0,ppb,1.0461538461538463e-06
+DE,Newark,19701.0,Artesian Water Company,301000,Vanadium,0.106,21.0,0,ppb,0.005047619047619047
+DE,Newark,19701.0,Artesian Water Company,301000,Xylenes (total),0.00327,1800.0,10000,ppb,1.8166666666666667e-06
+DE,Newark,19701.0,Augustine Creek,621,Bromodichloromethane,2.35,0.06,0,ppb,39.16666666666667
+DE,Newark,19701.0,Augustine Creek,621,Chloroform,11.8,0.4,0,ppb,29.5
+DE,Newark,19701.0,Augustine Creek,621,Dibromochloromethane,0.609,0.1,0,ppb,6.09
+DE,Newark,19701.0,Augustine Creek,621,Dichloroacetic acid,4.86,0.2,0,ppb,24.3
+DE,Newark,19701.0,Augustine Creek,621,Haloacetic acids (HAA5)†,6.41,0.1,60,ppb,64.1
+DE,Newark,19701.0,Augustine Creek,621,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+DE,Newark,19701.0,Augustine Creek,621,Total trihalomethanes (TTHMs)†,25.3,0.15,80,ppb,168.66666666666669
+DE,Newark,19701.0,Augustine Creek,621,Trichloroacetic acid,1.55,0.1,0,ppb,15.5
+DE,Newark,19701.0,Augustine Creek,621,Barium,53.3,700.0,2000,ppb,0.07614285714285714
+DE,Newark,19701.0,Augustine Creek,621,Manganese,2.4,100.0,0,ppb,0.024
+DE,Newark,19701.0,Bayview Improvement Company,214,Arsenic,0.333,0.004,10,ppb,83.25
+DE,Newark,19701.0,Bayview Improvement Company,214,Bromodichloromethane,1.74,0.06,0,ppb,29.0
+DE,Newark,19701.0,Bayview Improvement Company,214,Chloroform,2.39,0.4,0,ppb,5.975
+DE,Newark,19701.0,Bayview Improvement Company,214,Dibromochloromethane,1.03,0.1,0,ppb,10.299999999999999
+DE,Newark,19701.0,Bayview Improvement Company,214,Dichloroacetic acid,1.07,0.2,0,ppb,5.35
+DE,Newark,19701.0,Bayview Improvement Company,214,Haloacetic acids (HAA5)†,1.44,0.1,60,ppb,14.399999999999999
+DE,Newark,19701.0,Bayview Improvement Company,214,Radium combined (-226 &amp; -228),1.15,0.05,5,pCi/L,22.999999999999996
+DE,Newark,19701.0,Bayview Improvement Company,214,Total trihalomethanes (TTHMs)†,8.48,0.15,80,ppb,56.53333333333334
+DE,Newark,19701.0,Bayview Improvement Company,214,Trichloroacetic acid,0.375,0.1,0,ppb,3.75
+DE,Newark,19701.0,Bayview Improvement Company,214,Barium,85.8,700.0,2000,ppb,0.12257142857142857
+DE,Newark,19701.0,Bayview Improvement Company,214,Manganese,0.417,100.0,0,ppb,0.00417
+DE,Newark,19701.0,Bayview Improvement Company,214,Nitrate,0.00915,0.14,10,ppm,0.06535714285714285
+DE,Newark,19701.0,Bayview Improvement Company,214,Nitrate and nitrite,0.00915,0.14,10,ppm,0.06535714285714285
+DE,Wilmington,19701.0,Carpenters Row,60,Bromodichloromethane,0.273,0.06,0,ppb,4.550000000000001
+DE,Wilmington,19701.0,Carpenters Row,60,Chloroform,3.8,0.4,0,ppb,9.499999999999998
+DE,Wilmington,19701.0,Carpenters Row,60,Dichloroacetic acid,1.2,0.2,0,ppb,5.999999999999999
+DE,Wilmington,19701.0,Carpenters Row,60,Haloacetic acids (HAA5)†,1.2,0.1,60,ppb,11.999999999999998
+DE,Wilmington,19701.0,Carpenters Row,60,Nitrate,2.81,0.14,10,ppm,20.07142857142857
+DE,Wilmington,19701.0,Carpenters Row,60,Nitrate and nitrite,2.81,0.14,10,ppm,20.07142857142857
+DE,Wilmington,19701.0,Carpenters Row,60,Radium combined (-226 &amp; -228),0.44,0.05,5,pCi/L,8.799999999999999
+DE,Wilmington,19701.0,Carpenters Row,60,Total trihalomethanes (TTHMs)†,5.65,0.15,80,ppb,37.66666666666667
+DE,Wilmington,19701.0,Carpenters Row,60,12-Dichloropropane,0.38,0.5,5,ppb,0.76
+DE,Wilmington,19701.0,Carpenters Row,60,Barium,13.0,700.0,2000,ppb,0.018571428571428572
+DE,Wilmington,19701.0,Carpenters Row,60,Dibromochloromethane,0.167,0.1,0,ppb,1.67
+DE,Wilmington,19701.0,Carpenters Row,60,Manganese,3.5,100.0,0,ppb,0.035
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Bromodichloromethane,4.21,0.06,0,ppb,70.16666666666667
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Chloroform,4.79,0.4,0,ppb,11.975
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Dibromoacetic acid,1.01,0.04,0,ppb,25.25
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Dibromochloromethane,3.34,0.1,0,ppb,33.4
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Dichloroacetic acid,2.28,0.2,0,ppb,11.399999999999999
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Haloacetic acids (HAA5)†,4.27,0.1,60,ppb,42.699999999999996
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Radium combined (-226 &amp; -228),0.71,0.05,5,pCi/L,14.2
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Total trihalomethanes (TTHMs)†,14.4,0.15,80,ppb,96.0
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Trichloroacetic acid,0.979,0.1,0,ppb,9.79
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Barium,26.0,700.0,2000,ppb,0.037142857142857144
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Bromoform,0.363,0.5,0,ppb,0.726
+DE,Delaware City,19701.0,Delaware City Water Department,1872,Manganese,19.5,100.0,0,ppb,0.195
+DE,Newark,19701.0,Delaware Correctional Center,2000,Arsenic,2.77,0.004,10,ppb,692.5
+DE,Newark,19701.0,Delaware Correctional Center,2000,Bromodichloromethane,0.221,0.06,0,ppb,3.6833333333333336
+DE,Newark,19701.0,Delaware Correctional Center,2000,Chloroform,1.07,0.4,0,ppb,2.675
+DE,Newark,19701.0,Delaware Correctional Center,2000,Dichloroacetic acid,0.568,0.2,0,ppb,2.8399999999999994
+DE,Newark,19701.0,Delaware Correctional Center,2000,Haloacetic acids (HAA5)†,0.717,0.1,60,ppb,7.169999999999999
+DE,Newark,19701.0,Delaware Correctional Center,2000,Radium combined (-226 &amp; -228),0.67,0.05,5,pCi/L,13.4
+DE,Newark,19701.0,Delaware Correctional Center,2000,Total trihalomethanes (TTHMs)†,3.11,0.15,80,ppb,20.733333333333334
+DE,Newark,19701.0,Delaware Correctional Center,2000,Aluminum,2.94,600.0,0,ppb,0.0049
+DE,Newark,19701.0,Delaware Correctional Center,2000,Barium,56.2,700.0,2000,ppb,0.0802857142857143
+DE,Newark,19701.0,Delaware Correctional Center,2000,Bromoform,0.0692,0.5,0,ppb,0.1384
+DE,Newark,19701.0,Delaware Correctional Center,2000,Manganese,1.27,100.0,0,ppb,0.0127
+DE,Newark,19701.0,Delaware Correctional Center,2000,Nitrate,0.00569,0.14,10,ppm,0.04064285714285714
+DE,Newark,19701.0,Delaware Correctional Center,2000,Nitrate and nitrite,0.00569,0.14,10,ppm,0.04064285714285714
+DE,Newark,19701.0,Delaware Correctional Center,2000,Trichloroacetic acid,0.149,0.1,0,ppb,1.4899999999999998
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Bromodichloromethane,1.05,0.06,0,ppb,17.5
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Chloroform,1.25,0.4,0,ppb,3.125
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Dibromochloromethane,0.715,0.1,0,ppb,7.1499999999999995
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Dichloroacetic acid,0.511,0.2,0,ppb,2.5549999999999997
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Haloacetic acids (HAA5)†,0.511,0.1,60,ppb,5.109999999999999
+DE,Dover,19701.0,Drawyers Creek Pump District,192,Total trihalomethanes (TTHMs)†,4.87,0.15,80,ppb,32.46666666666667
+DE,Dover,19701.0,East Ncc District,3954,Arsenic,0.167,0.004,10,ppb,41.75
+DE,Dover,19701.0,East Ncc District,3954,Bromodichloromethane,0.6,0.06,0,ppb,10.0
+DE,Dover,19701.0,East Ncc District,3954,Chloroform,0.912,0.4,0,ppb,2.28
+DE,Dover,19701.0,East Ncc District,3954,Haloacetic acids (HAA5)†,0.265,0.1,60,ppb,2.65
+DE,Dover,19701.0,East Ncc District,3954,Nitrate,0.562,0.14,10,ppm,4.014285714285714
+DE,Dover,19701.0,East Ncc District,3954,Nitrate and nitrite,0.632,0.14,10,ppm,4.514285714285714
+DE,Dover,19701.0,East Ncc District,3954,Total trihalomethanes (TTHMs)†,2.51,0.15,80,ppb,16.733333333333334
+DE,Dover,19701.0,East Ncc District,3954,Barium,47.7,700.0,2000,ppb,0.06814285714285714
+DE,Dover,19701.0,East Ncc District,3954,Dibromochloromethane,0.181,0.1,0,ppb,1.8099999999999998
+DE,Dover,19701.0,East Ncc District,3954,Dichloroacetic acid,0.265,0.2,0,ppb,1.325
+DE,Dover,19701.0,East Ncc District,3954,Manganese,11.5,100.0,0,ppb,0.115
+DE,Dover,19701.0,East Ncc District,3954,Toluene,0.072,150.0,1000,ppb,0.00047999999999999996
+DE,Newark,19701.0,Fort Dupont,69,Arsenic,0.125,0.004,10,ppb,31.25
+DE,Newark,19701.0,Fort Dupont,69,Bromodichloromethane,5.58,0.06,0,ppb,93.0
+DE,Newark,19701.0,Fort Dupont,69,Bromoform,2.47,0.5,0,ppb,4.94
+DE,Newark,19701.0,Fort Dupont,69,Chloroform,7.99,0.4,0,ppb,19.974999999999998
+DE,Newark,19701.0,Fort Dupont,69,Dibromoacetic acid,0.4,0.04,0,ppb,10.0
+DE,Newark,19701.0,Fort Dupont,69,Dibromochloromethane,4.72,0.1,0,ppb,47.199999999999996
+DE,Newark,19701.0,Fort Dupont,69,Dichloroacetic acid,3.12,0.2,0,ppb,15.6
+DE,Newark,19701.0,Fort Dupont,69,Haloacetic acids (HAA5)†,4.88,0.1,60,ppb,48.8
+DE,Newark,19701.0,Fort Dupont,69,Radium combined (-226 &amp; -228),1.5,0.05,5,pCi/L,30.0
+DE,Newark,19701.0,Fort Dupont,69,Total trihalomethanes (TTHMs)†,21.4,0.15,80,ppb,142.66666666666666
+DE,Newark,19701.0,Fort Dupont,69,Trichloroacetic acid,1.36,0.1,0,ppb,13.6
+DE,Newark,19701.0,Fort Dupont,69,Barium,8.38,700.0,2000,ppb,0.011971428571428572
+DE,Newark,19701.0,Fort Dupont,69,Chloromethane,0.11,2.69,0,ppb,0.040892193308550186
+DE,Newark,19701.0,Fort Dupont,69,Dichloromethane (methylene chloride),0.0983,4.0,5,ppb,0.024575
+DE,Newark,19701.0,Fort Dupont,69,Ethylbenzene,0.333,300.0,700,ppb,0.00111
+DE,Newark,19701.0,Fort Dupont,69,Manganese,0.65,100.0,0,ppb,0.006500000000000001
+DE,Newark,19701.0,Fort Dupont,69,Selenium,0.2,30.0,50,ppb,0.006666666666666667
+DE,Newark,19701.0,Fort Dupont,69,Vanadium,1.0,21.0,0,ppb,0.047619047619047616
+DE,Newark,19701.0,Fort Dupont,69,Xylenes (total),1.01,1800.0,10000,ppb,0.0005611111111111111
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Bromodichloromethane,3.21,0.06,0,ppb,53.5
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Chloroform,20.9,0.4,0,ppb,52.24999999999999
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Dibromochloromethane,0.572,0.1,0,ppb,5.719999999999999
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Dichloroacetic acid,3.82,0.2,0,ppb,19.099999999999998
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Haloacetic acids (HAA5)†,6.01,0.1,60,ppb,60.099999999999994
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Radium combined (-226 &amp; -228),1.18,0.05,5,pCi/L,23.599999999999998
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Total trihalomethanes (TTHMs)†,28.9,0.15,80,ppb,192.66666666666666
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Trichloroacetic acid,2.35,0.1,0,ppb,23.5
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Barium,78.5,700.0,2000,ppb,0.11214285714285714
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Manganese,2.58,100.0,0,ppb,0.0258
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Nitrate,0.00458,0.14,10,ppm,0.03271428571428571
+DE,Newark,19701.0,Fox Hunter Crossing,7035,Nitrate and nitrite,0.0338,0.14,10,ppm,0.24142857142857138
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Arsenic,0.25,0.004,10,ppb,62.5
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Bromodichloromethane,0.555,0.06,0,ppb,9.250000000000002
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Chloroform,1.53,0.4,0,ppb,3.8249999999999997
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Dichloroacetic acid,0.628,0.2,0,ppb,3.1399999999999997
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Haloacetic acids (HAA5)†,2.0,0.1,60,ppb,20.0
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Radium combined (-226 &amp; -228),0.25,0.05,5,pCi/L,5.0
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Total trihalomethanes (TTHMs)†,3.61,0.15,80,ppb,24.066666666666666
+DE,Dover,19701.0,Frederick Lodge Pump District,204,Trichloroacetic acid,1.37,0.1,0,ppb,13.700000000000001
+DE,Middletown,19701.0,Middletown Water Department,16000,Arsenic,0.25,0.004,10,ppb,62.5
+DE,Middletown,19701.0,Middletown Water Department,16000,Bromodichloromethane,8.9,0.06,0,ppb,148.33333333333334
+DE,Middletown,19701.0,Middletown Water Department,16000,Chloroform,36.9,0.4,0,ppb,92.24999999999999
+DE,Middletown,19701.0,Middletown Water Department,16000,Chromium (hexavalent),0.0458,0.02,0,ppb,2.29
+DE,Middletown,19701.0,Middletown Water Department,16000,Dibromoacetic acid,0.128,0.04,0,ppb,3.2
+DE,Middletown,19701.0,Middletown Water Department,16000,Dibromochloromethane,1.58,0.1,0,ppb,15.8
+DE,Middletown,19701.0,Middletown Water Department,16000,Dichloroacetic acid,12.4,0.2,0,ppb,62.0
+DE,Middletown,19701.0,Middletown Water Department,16000,Haloacetic acids (HAA5)†,26.4,0.1,60,ppb,263.99999999999994
+DE,Middletown,19701.0,Middletown Water Department,16000,Haloacetic acids (HAA9)†,30.7,0.06,0,ppb,511.6666666666667
+DE,Middletown,19701.0,Middletown Water Department,16000,Total trihalomethanes (TTHMs)†,50.5,0.15,80,ppb,336.6666666666667
+DE,Middletown,19701.0,Middletown Water Department,16000,Trichloroacetic acid,13.0,0.1,0,ppb,130.0
+DE,Middletown,19701.0,Middletown Water Department,16000,Barium,20.2,700.0,2000,ppb,0.028857142857142856
+DE,Middletown,19701.0,Middletown Water Department,16000,Bromoform,0.0129,0.5,0,ppb,0.0258
+DE,Middletown,19701.0,Middletown Water Department,16000,Manganese,0.157,100.0,0,ppb,0.00157
+DE,Middletown,19701.0,Middletown Water Department,16000,Monobromoacetic acid,0.0284,25.0,0,ppb,0.001136
+DE,Middletown,19701.0,Middletown Water Department,16000,Monochloroacetic acid,0.794,53.0,0,ppb,0.0149811320754717
+DE,Middletown,19701.0,Middletown Water Department,16000,Nitrate,0.148,0.14,10,ppm,1.057142857142857
+DE,Middletown,19701.0,Middletown Water Department,16000,Nitrate and nitrite,0.147,0.14,10,ppm,1.0499999999999998
+DE,Middletown,19701.0,Middletown Water Department,16000,Strontium,0.0503,1500.0,0,ppb,3.353333333333333e-05
+DE,Middletown,19701.0,Middletown Water Department,16000,Vanadium,0.153,21.0,0,ppb,0.007285714285714286
+DE,Middletown,19701.0,Middletown Water Department,16000,Xylenes (total),0.145,1800.0,10000,ppb,8.055555555555556e-05
+DE,Dover,19701.0,North West Pump District,3774,Bromodichloromethane,0.724,0.06,0,ppb,12.066666666666666
+DE,Dover,19701.0,North West Pump District,3774,Chloroform,1.39,0.4,0,ppb,3.4749999999999996
+DE,Dover,19701.0,North West Pump District,3774,Dichloroacetic acid,1.11,0.2,0,ppb,5.55
+DE,Dover,19701.0,North West Pump District,3774,Haloacetic acids (HAA5)†,1.11,0.1,60,ppb,11.1
+DE,Dover,19701.0,North West Pump District,3774,Radium combined (-226 &amp; -228),0.94,0.05,5,pCi/L,18.799999999999997
+DE,Dover,19701.0,North West Pump District,3774,Total trihalomethanes (TTHMs)†,2.99,0.15,80,ppb,19.933333333333337
+DE,Dover,19701.0,North West Pump District,3774,Dibromochloromethane,0.16,0.1,0,ppb,1.5999999999999999
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Arsenic,0.733,0.004,10,ppb,183.25
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Bromodichloromethane,3.45,0.06,0,ppb,57.50000000000001
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Chloroform,10.7,0.4,0,ppb,26.749999999999996
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Dibromochloromethane,1.4,0.1,0,ppb,13.999999999999998
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Dichloroacetic acid,3.2,0.2,0,ppb,16.0
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Haloacetic acids (HAA5)†,5.2,0.1,60,ppb,52.0
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Radium combined (-226 &amp; -228),1.2,0.05,5,pCi/L,23.999999999999996
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Total trihalomethanes (TTHMs)†,18.6,0.15,80,ppb,124.00000000000001
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Trichloroacetic acid,2.0,0.1,0,ppb,20.0
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Barium,77.3,700.0,2000,ppb,0.11042857142857142
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Manganese,1.8,100.0,0,ppb,0.018000000000000002
+DE,Newark,19701.0,Ponds Of Odessa (awc),216,Toluene,0.25,150.0,1000,ppb,0.0016666666666666668
+DE,Dover,19701.0,South East Pump District,930,Bromodichloromethane,1.54,0.06,0,ppb,25.666666666666668
+DE,Dover,19701.0,South East Pump District,930,Chloroform,2.82,0.4,0,ppb,7.049999999999999
+DE,Dover,19701.0,South East Pump District,930,Dibromochloromethane,0.733,0.1,0,ppb,7.329999999999999
+DE,Dover,19701.0,South East Pump District,930,Dichloroacetic acid,1.03,0.2,0,ppb,5.1499999999999995
+DE,Dover,19701.0,South East Pump District,930,Haloacetic acids (HAA5)†,1.03,0.1,60,ppb,10.299999999999999
+DE,Dover,19701.0,South East Pump District,930,Total trihalomethanes (TTHMs)†,5.52,0.15,80,ppb,36.8
+DE,Dover,19701.0,South East Pump District,930,Radium combined (-226 &amp; -228),0.03,0.05,5,pCi/L,0.6
+DE,Dover,19701.0,Summit Pond Pump District,177,Bromodichloromethane,0.709,0.06,0,ppb,11.816666666666666
+DE,Dover,19701.0,Summit Pond Pump District,177,Chloroform,1.3,0.4,0,ppb,3.25
+DE,Dover,19701.0,Summit Pond Pump District,177,Dichloroacetic acid,0.822,0.2,0,ppb,4.109999999999999
+DE,Dover,19701.0,Summit Pond Pump District,177,Haloacetic acids (HAA5)†,0.822,0.1,60,ppb,8.219999999999999
+DE,Dover,19701.0,Summit Pond Pump District,177,Radium combined (-226 &amp; -228),2.26,0.05,5,pCi/L,45.199999999999996
+DE,Dover,19701.0,Summit Pond Pump District,177,Total trihalomethanes (TTHMs)†,3.6,0.15,80,ppb,24.0
+DE,Dover,19701.0,Summit Pond Pump District,177,Barium,170.4,700.0,2000,ppb,0.24342857142857144
+DE,Dover,19701.0,Summit Pond Pump District,177,Dibromochloromethane,0.0725,0.1,0,ppb,0.7249999999999999
+DE,Dover,19701.0,Summit Pond Pump District,177,Ethylbenzene,0.238,300.0,700,ppb,0.0007933333333333333
+DE,Dover,19701.0,Summit Pond Pump District,177,Manganese,7.7,100.0,0,ppb,0.077
+DE,Dover,19701.0,Summit Pond Pump District,177,Mercury (inorganic),0.34,1.2,2,ppb,0.2833333333333334
+DE,Dover,19701.0,Summit Pond Pump District,177,Vanadium,0.1,21.0,0,ppb,0.004761904761904762
+DE,Dover,19701.0,Summit Pond Pump District,177,Xylenes (total),2.48,1800.0,10000,ppb,0.0013777777777777777
+DE,Newark,19701.0,Thomas Cove,7977,Bromodichloromethane,0.869,0.06,0,ppb,14.483333333333334
+DE,Newark,19701.0,Thomas Cove,7977,Chloroform,4.33,0.4,0,ppb,10.825
+DE,Newark,19701.0,Thomas Cove,7977,Dichloroacetic acid,1.46,0.2,0,ppb,7.3
+DE,Newark,19701.0,Thomas Cove,7977,Haloacetic acids (HAA5)†,2.73,0.1,60,ppb,27.299999999999997
+DE,Newark,19701.0,Thomas Cove,7977,Nitrate,0.58,0.14,10,ppm,4.142857142857142
+DE,Newark,19701.0,Thomas Cove,7977,Nitrate and nitrite,0.58,0.14,10,ppm,4.142857142857142
+DE,Newark,19701.0,Thomas Cove,7977,Radium combined (-226 &amp; -228),1.27,0.05,5,pCi/L,25.4
+DE,Newark,19701.0,Thomas Cove,7977,Total trihalomethanes (TTHMs)†,9.63,0.15,80,ppb,64.2
+DE,Newark,19701.0,Thomas Cove,7977,Trichloroacetic acid,0.817,0.1,0,ppb,8.169999999999998
+DE,Newark,19701.0,Thomas Cove,7977,124-Trichlorobenzene,0.0421,5.0,70,ppb,0.00842
+DE,Newark,19701.0,Thomas Cove,7977,Aluminum,2.17,600.0,0,ppb,0.0036166666666666665
+DE,Newark,19701.0,Thomas Cove,7977,Barium,48.8,700.0,2000,ppb,0.06971428571428571
+DE,Newark,19701.0,Thomas Cove,7977,Chlorate,217.5,210.0,0,ppb,1.0357142857142858
+DE,Newark,19701.0,Thomas Cove,7977,Chromium (hexavalent),0.0144,0.02,0,ppb,0.72
+DE,Newark,19701.0,Thomas Cove,7977,Di(2-ethylhexyl) phthalate,0.173,3.0,6,ppb,0.057666666666666665
+DE,Newark,19701.0,Thomas Cove,7977,Dibromochloromethane,0.0714,0.1,0,ppb,0.714
+DE,Newark,19701.0,Thomas Cove,7977,Manganese,0.338,100.0,0,ppb,0.00338
+DE,Newark,19701.0,Thomas Cove,7977,Molybdenum,0.542,40.0,0,ppb,0.013550000000000001
+DE,Newark,19701.0,Thomas Cove,7977,Strontium,0.386,1500.0,0,ppb,0.0002573333333333333
+DE,Newark,19701.0,Thomas Cove,7977,Vanadium,0.0696,21.0,0,ppb,0.003314285714285714
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Bromochloroacetic acid,4.2,0.02,0,ppb,210.0
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Bromodichloromethane,10.8,0.06,0,ppb,180.00000000000003
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Chloroform,25.0,0.4,0,ppb,62.5
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Chromium (hexavalent),0.0615,0.02,0,ppb,3.0749999999999997
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Dibromoacetic acid,0.407,0.04,0,ppb,10.174999999999999
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Dibromochloromethane,3.34,0.1,0,ppb,33.4
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Dichloroacetic acid,14.6,0.2,0,ppb,73.0
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Haloacetic acids (HAA5)†,27.7,0.1,60,ppb,277.0
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Haloacetic acids (HAA9)†,41.1,0.06,0,ppb,685.0
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Nitrate,2.75,0.14,10,ppm,19.642857142857142
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Nitrate and nitrite,2.97,0.14,10,ppm,21.214285714285715
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Perfluoroheptanoic acid (PFHPA),28.8,1.0,0,ppt,28.8
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Perfluorononanoic acid (PFNA),13.5,1.0,0,ppt,13.5
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Perfluorooctanoic acid (PFOA),19.1,0.007,0,ppt,2728.571428571429
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Total trihalomethanes (TTHMs)†,40.0,0.15,80,ppb,266.6666666666667
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Trichloroacetic acid,11.8,0.1,0,ppb,118.0
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Barium,41.7,700.0,2000,ppb,0.059571428571428574
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Bromoform,0.0409,0.5,0,ppb,0.0818
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Chlorate,173.6,210.0,0,ppb,0.8266666666666667
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Di(2-ethylhexyl) adipate,0.00677,200.0,400,ppb,3.385e-05
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Di(2-ethylhexyl) phthalate,0.0469,3.0,6,ppb,0.015633333333333332
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Manganese,0.688,100.0,0,ppb,0.00688
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Monochloroacetic acid,0.95,53.0,0,ppb,0.017924528301886792
+DE,Wilmington,19701.0,Suez Water Delaware,100495,Strontium,0.167,1500.0,0,ppb,0.00011133333333333333
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Bromochloroacetic acid,4.18,0.02,0,ppb,208.99999999999997
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Bromodichloromethane,10.3,0.06,0,ppb,171.66666666666669
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Chloroform,30.6,0.4,0,ppb,76.5
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Chromium (hexavalent),0.316,0.02,0,ppb,15.8
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Dibromoacetic acid,0.249,0.04,0,ppb,6.225
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Dibromochloromethane,2.89,0.1,0,ppb,28.9
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Dichloroacetic acid,16.3,0.2,0,ppb,81.5
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Haloacetic acids (HAA5)†,32.6,0.1,60,ppb,326.0
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Haloacetic acids (HAA9)†,43.0,0.06,0,ppb,716.6666666666667
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Nitrate,2.3,0.14,10,ppm,16.428571428571427
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Nitrate and nitrite,2.3,0.14,10,ppm,16.428571428571427
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Radium combined (-226 &amp; -228),0.49,0.05,5,pCi/L,9.799999999999999
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Total trihalomethanes (TTHMs)†,45.2,0.15,80,ppb,301.33333333333337
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Trichloroacetic acid,13.1,0.1,0,ppb,131.0
+DE,Wilmington,19701.0,Wilmington Water Department,107976,14-Dioxane,0.0125,0.35,0,ppb,0.03571428571428572
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Atrazine,0.00517,0.1,3,ppb,0.051699999999999996
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Barium,36.6,700.0,2000,ppb,0.05228571428571429
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Bromoform,0.0228,0.5,0,ppb,0.0456
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Chlorate,266.1,210.0,0,ppb,1.2671428571428573
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Di(2-ethylhexyl) phthalate,0.0917,3.0,6,ppb,0.03056666666666667
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Hexachlorocyclopentadiene,0.00963,2.0,50,ppb,0.004815
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Manganese,3.26,100.0,0,ppb,0.0326
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Molybdenum,1.54,40.0,0,ppb,0.0385
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Monobromoacetic acid,0.0179,25.0,0,ppb,0.000716
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Monochloroacetic acid,1.85,53.0,0,ppb,0.03490566037735849
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Simazine,0.012,0.1,4,ppb,0.12
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Strontium,0.128,1500.0,0,ppb,8.533333333333334e-05
+DE,Wilmington,19701.0,Wilmington Water Department,107976,Vanadium,0.0638,21.0,0,ppb,0.0030380952380952377
+DE,Winterthur,19701.0,Winterthur,687,Bromodichloromethane,1.47,0.06,0,ppb,24.5
+DE,Winterthur,19701.0,Winterthur,687,Chloroform,1.57,0.4,0,ppb,3.925
+DE,Winterthur,19701.0,Winterthur,687,Dibromochloromethane,1.24,0.1,0,ppb,12.399999999999999
+DE,Winterthur,19701.0,Winterthur,687,Dichloroacetic acid,0.62,0.2,0,ppb,3.0999999999999996
+DE,Winterthur,19701.0,Winterthur,687,Haloacetic acids (HAA5)†,0.62,0.1,60,ppb,6.199999999999999
+DE,Winterthur,19701.0,Winterthur,687,Nitrate,0.863,0.14,10,ppm,6.164285714285714
+DE,Winterthur,19701.0,Winterthur,687,Nitrate and nitrite,0.863,0.14,10,ppm,6.164285714285714
+DE,Winterthur,19701.0,Winterthur,687,Radium combined (-226 &amp; -228),0.31,0.05,5,pCi/L,6.199999999999999
+DE,Winterthur,19701.0,Winterthur,687,Total trihalomethanes (TTHMs)†,4.92,0.15,80,ppb,32.800000000000004
+DE,Winterthur,19701.0,Winterthur,687,Barium,18.6,700.0,2000,ppb,0.026571428571428572
+DE,Winterthur,19701.0,Winterthur,687,Manganese,18.9,100.0,0,ppb,0.18899999999999997
+DE,Dover DE,19901.0,Camden District,15174,Bromochloroacetic acid,0.808,0.02,0,ppb,40.4
+DE,Dover DE,19901.0,Camden District,15174,Bromodichloromethane,3.37,0.06,0,ppb,56.16666666666667
+DE,Dover DE,19901.0,Camden District,15174,Chloroform,14.6,0.4,0,ppb,36.5
+DE,Dover DE,19901.0,Camden District,15174,Chromium (hexavalent),0.104,0.02,0,ppb,5.199999999999999
+DE,Dover DE,19901.0,Camden District,15174,Dibromochloromethane,0.628,0.1,0,ppb,6.279999999999999
+DE,Dover DE,19901.0,Camden District,15174,Dichloroacetic acid,5.09,0.2,0,ppb,25.45
+DE,Dover DE,19901.0,Camden District,15174,Haloacetic acids (HAA5)†,11.4,0.1,60,ppb,114.0
+DE,Dover DE,19901.0,Camden District,15174,Haloacetic acids (HAA9)†,14.8,0.06,0,ppb,246.66666666666669
+DE,Dover DE,19901.0,Camden District,15174,Radium combined (-226 &amp; -228),1.13,0.05,5,pCi/L,22.599999999999998
+DE,Dover DE,19901.0,Camden District,15174,Total trihalomethanes (TTHMs)†,19.6,0.15,80,ppb,130.66666666666669
+DE,Dover DE,19901.0,Camden District,15174,Trichloroacetic acid,6.2,0.1,0,ppb,62.0
+DE,Dover DE,19901.0,Camden District,15174,Chlorate,203.5,210.0,0,ppb,0.969047619047619
+DE,Dover DE,19901.0,Camden District,15174,Manganese,4.05,100.0,0,ppb,0.0405
+DE,Dover DE,19901.0,Camden District,15174,Monochloroacetic acid,0.0869,53.0,0,ppb,0.001639622641509434
+DE,Dover DE,19901.0,Camden District,15174,Strontium,0.201,1500.0,0,ppb,0.000134
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Bromochloroacetic acid,0.267,0.02,0,ppb,13.35
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Bromodichloromethane,2.7,0.06,0,ppb,45.00000000000001
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Bromoform,1.56,0.5,0,ppb,3.12
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Chloroform,3.49,0.4,0,ppb,8.725
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Chromium (hexavalent),0.286,0.02,0,ppb,14.299999999999999
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Dibromoacetic acid,0.604,0.04,0,ppb,15.1
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Dibromochloromethane,2.93,0.1,0,ppb,29.3
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Dichloroacetic acid,0.694,0.2,0,ppb,3.4699999999999998
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Haloacetic acids (HAA5)†,1.35,0.1,60,ppb,13.5
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Haloacetic acids (HAA9)†,3.13,0.06,0,ppb,52.166666666666664
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Nitrate,4.04,0.14,10,ppm,28.857142857142854
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Nitrate and nitrite,4.04,0.14,10,ppm,28.857142857142854
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Radium combined (-226 &amp; -228),1.62,0.05,5,pCi/L,32.4
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Total trihalomethanes (TTHMs)†,11.3,0.15,80,ppb,75.33333333333334
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,14-Dioxane,0.11,0.35,0,ppb,0.31428571428571433
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Barium,89.8,700.0,2000,ppb,0.12828571428571428
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Chlordane,0.0488,0.03,2,ppb,1.626666666666667
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Di(2-ethylhexyl) phthalate,0.104,3.0,6,ppb,0.034666666666666665
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Manganese,8.79,100.0,0,ppb,0.08789999999999999
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Monochloroacetic acid,0.0273,53.0,0,ppb,0.0005150943396226415
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Selenium,0.838,30.0,50,ppb,0.02793333333333333
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Strontium,0.136,1500.0,0,ppb,9.066666666666667e-05
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Trichloroacetic acid,0.0273,0.1,0,ppb,0.273
+DE,Smyrna DE,19901.0,Smyrna Water Department,11584,Xylenes (total),0.00594,1800.0,10000,ppb,3.3e-06
+DE,Milford DE,19901.0,Milford Water Department,9800,Bromochloroacetic acid,1.4,0.02,0,ppb,70.0
+DE,Milford DE,19901.0,Milford Water Department,9800,Bromodichloromethane,2.24,0.06,0,ppb,37.333333333333336
+DE,Milford DE,19901.0,Milford Water Department,9800,Chloroform,8.11,0.4,0,ppb,20.275
+DE,Milford DE,19901.0,Milford Water Department,9800,Dibromoacetic acid,0.303,0.04,0,ppb,7.574999999999999
+DE,Milford DE,19901.0,Milford Water Department,9800,Dibromochloromethane,0.646,0.1,0,ppb,6.46
+DE,Milford DE,19901.0,Milford Water Department,9800,Dichloroacetic acid,3.97,0.2,0,ppb,19.85
+DE,Milford DE,19901.0,Milford Water Department,9800,Haloacetic acids (HAA5)†,6.33,0.1,60,ppb,63.3
+DE,Milford DE,19901.0,Milford Water Department,9800,Radium combined (-226 &amp; -228),0.5,0.05,5,pCi/L,10.0
+DE,Milford DE,19901.0,Milford Water Department,9800,Total trihalomethanes (TTHMs)†,18.6,0.15,80,ppb,124.00000000000001
+DE,Milford DE,19901.0,Milford Water Department,9800,Trichloroacetic acid,1.82,0.1,0,ppb,18.2
+DE,Milford DE,19901.0,Milford Water Department,9800,Barium,0.925,700.0,2000,ppb,0.0013214285714285715
+DE,Milford DE,19901.0,Milford Water Department,9800,Manganese,20.8,100.0,0,ppb,0.20800000000000002
+DE,Milford DE,19901.0,Milford Water Department,9800,Monochloroacetic acid,0.225,53.0,0,ppb,0.0042452830188679245
+DE,Milford DE,19901.0,Milford Water Department,9800,Xylenes (total),0.07,1800.0,10000,ppb,3.888888888888889e-05
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Bromodichloromethane,1.97,0.06,0,ppb,32.833333333333336
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Cadmium,0.2,0.04,5,ppb,5.0
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Chloroform,3.65,0.4,0,ppb,9.125
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Dibromoacetic acid,0.177,0.04,0,ppb,4.425
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Dibromochloromethane,1.21,0.1,0,ppb,12.1
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Dichloroacetic acid,2.16,0.2,0,ppb,10.8
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Haloacetic acids (HAA5)†,4.51,0.1,60,ppb,45.099999999999994
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Nitrate,5.14,0.14,10,ppm,36.71428571428571
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Nitrate and nitrite,5.12,0.14,10,ppm,36.57142857142857
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Radium combined (-226 &amp; -228),0.64,0.05,5,pCi/L,12.799999999999999
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Total trihalomethanes (TTHMs)†,13.7,0.15,80,ppb,91.33333333333333
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Trichloroacetic acid,2.17,0.1,0,ppb,21.7
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Barium,36.8,700.0,2000,ppb,0.05257142857142857
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Bromoform,0.146,0.5,0,ppb,0.292
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Manganese,9.3,100.0,0,ppb,0.09300000000000001
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Pentachlorophenol,0.0933,0.3,1,ppb,0.311
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Selenium,0.517,30.0,50,ppb,0.017233333333333333
+DE,Dover DE,19901.0,Garrison Lake Pump District,8559,Xylenes (total),0.511,1800.0,10000,ppb,0.0002838888888888889
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Bromodichloromethane,7.7,0.06,0,ppb,128.33333333333334
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Chloroform,21.6,0.4,0,ppb,54.0
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Dibromochloromethane,1.57,0.1,0,ppb,15.7
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Dichloroacetic acid,5.39,0.2,0,ppb,26.949999999999996
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Haloacetic acids (HAA5)†,11.5,0.1,60,ppb,115.0
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Radium combined (-226 &amp; -228),0.29,0.05,5,pCi/L,5.799999999999999
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Total trihalomethanes (TTHMs)†,31.5,0.15,80,ppb,210.0
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Trichloroacetic acid,5.79,0.1,0,ppb,57.9
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Beryllium,0.415,1.0,4,ppb,0.415
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Manganese,17.5,100.0,0,ppb,0.175
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Monochloroacetic acid,0.312,53.0,0,ppb,0.005886792452830188
+DE,Dover DE,19901.0,Dover Air Force Base,6124,Xylenes (total),0.0786,1800.0,10000,ppb,4.3666666666666666e-05
+DE,Newark DE,19901.0,Church Creek,7665,Bromodichloromethane,1.9,0.06,0,ppb,31.666666666666668
+DE,Newark DE,19901.0,Church Creek,7665,Chloroform,11.4,0.4,0,ppb,28.5
+DE,Newark DE,19901.0,Church Creek,7665,Dichloroacetic acid,4.84,0.2,0,ppb,24.2
+DE,Newark DE,19901.0,Church Creek,7665,Haloacetic acids (HAA5)†,9.24,0.1,60,ppb,92.39999999999999
+DE,Newark DE,19901.0,Church Creek,7665,Radium combined (-226 &amp; -228),0.13,0.05,5,pCi/L,2.6
+DE,Newark DE,19901.0,Church Creek,7665,Total trihalomethanes (TTHMs)†,20.0,0.15,80,ppb,133.33333333333334
+DE,Newark DE,19901.0,Church Creek,7665,Trichloroacetic acid,4.4,0.1,0,ppb,44.0
+DE,Newark DE,19901.0,Church Creek,7665,Aluminum,0.565,600.0,0,ppb,0.0009416666666666666
+DE,Newark DE,19901.0,Church Creek,7665,Di(2-ethylhexyl) phthalate,0.0237,3.0,6,ppb,0.007899999999999999
+DE,Newark DE,19901.0,Church Creek,7665,Dibromochloromethane,0.129,0.1,0,ppb,1.29
+DE,Newark DE,19901.0,Church Creek,7665,Manganese,40.0,100.0,0,ppb,0.4
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Arsenic,5.34,0.004,10,ppb,1335.0
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Bromodichloromethane,0.604,0.06,0,ppb,10.066666666666666
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Chloroform,2.19,0.4,0,ppb,5.475
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Dibromochloromethane,0.243,0.1,0,ppb,2.4299999999999997
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Dichloroacetic acid,0.421,0.2,0,ppb,2.105
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Haloacetic acids (HAA5)†,0.501,0.1,60,ppb,5.01
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Radium combined (-226 &amp; -228),0.51,0.05,5,pCi/L,10.2
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Total trihalomethanes (TTHMs)†,3.52,0.15,80,ppb,23.46666666666667
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Barium,17.6,700.0,2000,ppb,0.025142857142857144
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Bromoform,0.131,0.5,0,ppb,0.262
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Di(2-ethylhexyl) phthalate,0.125,3.0,6,ppb,0.041666666666666664
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Manganese,5.7,100.0,0,ppb,0.057
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Trichloroacetic acid,0.08,0.1,0,ppb,0.7999999999999999
+DE,Clayton DE,19901.0,Clayton Water Department,3500,Vanadium,0.111,21.0,0,ppb,0.005285714285714286
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Arsenic,1.03,0.004,10,ppb,257.5
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Bromodichloromethane,2.0,0.06,0,ppb,33.333333333333336
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Chloroform,8.58,0.4,0,ppb,21.45
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Dibromochloromethane,0.456,0.1,0,ppb,4.56
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Dichloroacetic acid,3.99,0.2,0,ppb,19.95
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Haloacetic acids (HAA5)†,8.26,0.1,60,ppb,82.6
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Radium combined (-226 &amp; -228),0.64,0.05,5,pCi/L,12.799999999999999
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Total trihalomethanes (TTHMs)†,20.1,0.15,80,ppb,134.00000000000003
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Trichloroacetic acid,4.27,0.1,0,ppb,42.699999999999996
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Barium,0.367,700.0,2000,ppb,0.0005242857142857143
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Dichloromethane (methylene chloride),0.0338,4.0,5,ppb,0.00845
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Manganese,33.9,100.0,0,ppb,0.33899999999999997
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Nitrate,0.0477,0.14,10,ppm,0.3407142857142857
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Nitrate and nitrite,0.0483,0.14,10,ppm,0.345
+DE,Camden DE,19901.0,Camden Wyoming Sewer and Water Authority,5000,Xylenes (total),0.0888,1800.0,10000,ppb,4.933333333333334e-05
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Bromodichloromethane,1.43,0.06,0,ppb,23.833333333333332
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Chloroform,6.7,0.4,0,ppb,16.75
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Dichloroacetic acid,2.51,0.2,0,ppb,12.549999999999999
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Haloacetic acids (HAA5)†,5.01,0.1,60,ppb,50.099999999999994
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Total trihalomethanes (TTHMs)†,10.7,0.15,80,ppb,71.33333333333333
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Trichloroacetic acid,2.5,0.1,0,ppb,25.0
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Bromoform,0.104,0.5,0,ppb,0.208
+DE,Harrington DE,19901.0,Harrington Water Department,3174,Dibromochloromethane,0.151,0.1,0,ppb,1.5099999999999998
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Arsenic,0.314,0.004,10,ppb,78.5
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Bromochloroacetic acid,1.15,0.02,0,ppb,57.49999999999999
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Bromodichloromethane,5.3,0.06,0,ppb,88.33333333333333
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Chloroform,10.4,0.4,0,ppb,26.0
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Dibromoacetic acid,1.66,0.04,0,ppb,41.5
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Dibromochloromethane,2.72,0.1,0,ppb,27.2
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Dichloroacetic acid,8.37,0.2,0,ppb,41.849999999999994
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Haloacetic acids (HAA5)†,19.4,0.1,60,ppb,193.99999999999997
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Nitrate,2.89,0.14,10,ppm,20.642857142857142
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Nitrate and nitrite,2.89,0.14,10,ppm,20.642857142857142
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Radium combined (-226 &amp; -228),1.07,0.05,5,pCi/L,21.4
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Total trihalomethanes (TTHMs)†,23.6,0.15,80,ppb,157.33333333333334
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Trichloroacetic acid,8.3,0.1,0,ppb,83.0
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,24-D,0.00474,20.0,70,ppb,0.00023700000000000001
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Barium,51.0,700.0,2000,ppb,0.07285714285714286
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Bromoform,0.726,0.5,0,ppb,1.452
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Chloromethane,0.104,2.69,0,ppb,0.038661710037174724
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Manganese,2.96,100.0,0,ppb,0.0296
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Monobromoacetic acid,0.0265,25.0,0,ppb,0.00106
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Monochloroacetic acid,1.07,53.0,0,ppb,0.02018867924528302
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Pentachlorophenol,0.00168,0.3,1,ppb,0.005600000000000001
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Selenium,0.16,30.0,50,ppb,0.005333333333333333
+DE,Dover DE,19930.0,Bethany Bay Ocean View,34500,Xylenes (total),0.00718,1800.0,10000,ppb,3.988888888888889e-06
+DE,Dover DE,19930.0,Rehoboth District,32700,Bromodichloromethane,0.666,0.06,0,ppb,11.100000000000001
+DE,Dover DE,19930.0,Rehoboth District,32700,Chromium (hexavalent),0.707,0.02,0,ppb,35.349999999999994
+DE,Dover DE,19930.0,Rehoboth District,32700,Dibromochloromethane,1.14,0.1,0,ppb,11.399999999999999
+DE,Dover DE,19930.0,Rehoboth District,32700,Haloacetic acids (HAA9)†,0.959,0.06,0,ppb,15.983333333333333
+DE,Dover DE,19930.0,Rehoboth District,32700,Nitrate,2.94,0.14,10,ppm,20.999999999999996
+DE,Dover DE,19930.0,Rehoboth District,32700,Nitrate and nitrite,2.94,0.14,10,ppm,20.999999999999996
+DE,Dover DE,19930.0,Rehoboth District,32700,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+DE,Dover DE,19930.0,Rehoboth District,32700,Thallium,0.242,0.1,2,ppb,2.42
+DE,Dover DE,19930.0,Rehoboth District,32700,Total trihalomethanes (TTHMs)†,3.24,0.15,80,ppb,21.6
+DE,Dover DE,19930.0,Rehoboth District,32700,Barium,75.2,700.0,2000,ppb,0.10742857142857143
+DE,Dover DE,19930.0,Rehoboth District,32700,Beryllium,0.0358,1.0,4,ppb,0.0358
+DE,Dover DE,19930.0,Rehoboth District,32700,Bromoform,0.563,0.5,0,ppb,1.126
+DE,Dover DE,19930.0,Rehoboth District,32700,Cadmium,0.0453,0.04,5,ppb,1.1325
+DE,Dover DE,19930.0,Rehoboth District,32700,Chlorate,114.5,210.0,0,ppb,0.5452380952380952
+DE,Dover DE,19930.0,Rehoboth District,32700,Chloroform,0.377,0.4,0,ppb,0.9425
+DE,Dover DE,19930.0,Rehoboth District,32700,Cobalt,0.488,70.0,0,ppb,0.006971428571428571
+DE,Dover DE,19930.0,Rehoboth District,32700,Di(2-ethylhexyl) adipate,0.00379,200.0,400,ppb,1.895e-05
+DE,Dover DE,19930.0,Rehoboth District,32700,Di(2-ethylhexyl) phthalate,0.0338,3.0,6,ppb,0.011266666666666666
+DE,Dover DE,19930.0,Rehoboth District,32700,Dibromoacetic acid,0.0464,0.04,0,ppb,1.16
+DE,Dover DE,19930.0,Rehoboth District,32700,Dichloroacetic acid,0.0125,0.2,0,ppb,0.0625
+DE,Dover DE,19930.0,Rehoboth District,32700,Haloacetic acids (HAA5)†,0.0589,0.1,60,ppb,0.589
+DE,Dover DE,19930.0,Rehoboth District,32700,Manganese,12.5,100.0,0,ppb,0.125
+DE,Dover DE,19930.0,Rehoboth District,32700,Selenium,0.393,30.0,50,ppb,0.0131
+DE,Dover DE,19930.0,Rehoboth District,32700,Strontium,0.0748,1500.0,0,ppb,4.986666666666667e-05
+DE,Dover DE,19930.0,Rehoboth District,32700,Vanadium,0.442,21.0,0,ppb,0.021047619047619048
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Bromodichloromethane,0.591,0.06,0,ppb,9.85
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Bromoform,2.36,0.5,0,ppb,4.72
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Dibromochloromethane,1.78,0.1,0,ppb,17.8
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Haloacetic acids (HAA5)†,0.317,0.1,60,ppb,3.17
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Nitrate,5.87,0.14,10,ppm,41.92857142857142
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Nitrate and nitrite,5.87,0.14,10,ppm,41.92857142857142
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Radium combined (-226 &amp; -228),0.78,0.05,5,pCi/L,15.6
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Total trihalomethanes (TTHMs)†,10.5,0.15,80,ppb,70.0
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Atrazine,0.03,0.1,3,ppb,0.3
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Barium,104.2,700.0,2000,ppb,0.14885714285714285
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Chloroform,0.072,0.4,0,ppb,0.17999999999999997
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Di(2-ethylhexyl) adipate,0.054,200.0,400,ppb,0.00027
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Di(2-ethylhexyl) phthalate,0.1,3.0,6,ppb,0.03333333333333333
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Monochloroacetic acid,0.475,53.0,0,ppb,0.008962264150943396
+DE,Rehoboth Beach DE,19930.0,Rehoboth Beach Water Department,30000,Selenium,1.22,30.0,50,ppb,0.04066666666666666
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Bromodichloromethane,5.83,0.06,0,ppb,97.16666666666667
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Bromoform,4.96,0.5,0,ppb,9.92
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Chloroform,11.7,0.4,0,ppb,29.249999999999996
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Dibromoacetic acid,1.9,0.04,0,ppb,47.5
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Dibromochloromethane,5.62,0.1,0,ppb,56.199999999999996
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Dichloroacetic acid,1.33,0.2,0,ppb,6.65
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Haloacetic acids (HAA5)†,2.88,0.1,60,ppb,28.799999999999997
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Nitrate,5.09,0.14,10,ppm,36.357142857142854
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Nitrate and nitrite,5.09,0.14,10,ppm,36.357142857142854
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Radium combined (-226 &amp; -228)*,0.78,0.05,5,pCi/L,15.6
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Total trihalomethanes (TTHMs)†,22.1,0.15,80,ppb,147.33333333333334
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Trichloroacetic acid,0.798,0.1,0,ppb,7.98
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Atrazine*,0.03,0.1,3,ppb,0.3
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Barium*,104.2,700.0,2000,ppb,0.14885714285714285
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Di(2-ethylhexyl) adipate*,0.054,200.0,400,ppb,0.00027
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Di(2-ethylhexyl) phthalate*,0.1,3.0,6,ppb,0.03333333333333333
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Monochloroacetic acid*,0.475,53.0,0,ppb,0.008962264150943396
+DE,Frankford DE,19930.0,Dewey Beach Water Department,22400,Selenium*,1.22,30.0,50,ppb,0.04066666666666666
+DE,Newark DE,19930.0,South Bethany,15771,Arsenic,0.177,0.004,10,ppb,44.25
+DE,Newark DE,19930.0,South Bethany,15771,Bromodichloromethane,15.4,0.06,0,ppb,256.6666666666667
+DE,Newark DE,19930.0,South Bethany,15771,Chloroform,30.3,0.4,0,ppb,75.75
+DE,Newark DE,19930.0,South Bethany,15771,Chromium (hexavalent),0.0813,0.02,0,ppb,4.0649999999999995
+DE,Newark DE,19930.0,South Bethany,15771,Dibromoacetic acid,0.724,0.04,0,ppb,18.099999999999998
+DE,Newark DE,19930.0,South Bethany,15771,Dibromochloromethane,5.42,0.1,0,ppb,54.199999999999996
+DE,Newark DE,19930.0,South Bethany,15771,Dichloroacetic acid,10.2,0.2,0,ppb,50.99999999999999
+DE,Newark DE,19930.0,South Bethany,15771,Haloacetic acids (HAA5)†,25.7,0.1,60,ppb,257.0
+DE,Newark DE,19930.0,South Bethany,15771,Radium combined (-226 &amp; -228),1.05,0.05,5,pCi/L,21.0
+DE,Newark DE,19930.0,South Bethany,15771,Total trihalomethanes (TTHMs)†,54.2,0.15,80,ppb,361.33333333333337
+DE,Newark DE,19930.0,South Bethany,15771,Trichloroacetic acid,14.8,0.1,0,ppb,148.0
+DE,Newark DE,19930.0,South Bethany,15771,123-Trichloropropane,0.00135,0.0007,0,ppb,1.9285714285714286
+DE,Newark DE,19930.0,South Bethany,15771,Aluminum,1.77,600.0,0,ppb,0.00295
+DE,Newark DE,19930.0,South Bethany,15771,Barium,17.4,700.0,2000,ppb,0.024857142857142855
+DE,Newark DE,19930.0,South Bethany,15771,Bromoform,0.0371,0.5,0,ppb,0.0742
+DE,Newark DE,19930.0,South Bethany,15771,Carbon tetrachloride,0.0669,0.1,5,ppb,0.6689999999999999
+DE,Newark DE,19930.0,South Bethany,15771,Chlorate,33.4,210.0,0,ppb,0.15904761904761905
+DE,Newark DE,19930.0,South Bethany,15771,Di(2-ethylhexyl) phthalate,0.0265,3.0,6,ppb,0.008833333333333334
+DE,Newark DE,19930.0,South Bethany,15771,Manganese,17.1,100.0,0,ppb,0.171
+DE,Newark DE,19930.0,South Bethany,15771,Nitrate,0.0247,0.14,10,ppm,0.1764285714285714
+DE,Newark DE,19930.0,South Bethany,15771,Nitrate and nitrite,0.0247,0.14,10,ppm,0.1764285714285714
+DE,Newark DE,19930.0,South Bethany,15771,Selenium,0.192,30.0,50,ppb,0.0064
+DE,Newark DE,19930.0,South Bethany,15771,Strontium,0.12,1500.0,0,ppb,7.999999999999999e-05
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Bromodichloromethane,2.19,0.06,0,ppb,36.5
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Bromoform,5.49,0.5,0,ppb,10.98
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Chloroform,1.65,0.4,0,ppb,4.124999999999999
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Dibromoacetic acid,2.25,0.04,0,ppb,56.25
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Dibromochloromethane,4.47,0.1,0,ppb,44.699999999999996
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Dichloroacetic acid,0.897,0.2,0,ppb,4.484999999999999
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Haloacetic acids (HAA5)†,3.93,0.1,60,ppb,39.3
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Nitrate,3.73,0.14,10,ppm,26.64285714285714
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Nitrate and nitrite,3.73,0.14,10,ppm,26.64285714285714
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Total trihalomethanes (TTHMs)†,4.12,0.15,80,ppb,27.46666666666667
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Trichloroacetic acid,0.78,0.1,0,ppb,7.8
+DE,Bethany Beach DE,19930.0,Sussex Shores Water Company,12450,Xylenes (total),0.12,1800.0,10000,ppb,6.666666666666667e-05
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Bromochloroacetic acid,3.28,0.02,0,ppb,164.0
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Bromodichloromethane,9.6,0.06,0,ppb,160.0
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Chloroform,22.6,0.4,0,ppb,56.5
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Dibromoacetic acid,0.157,0.04,0,ppb,3.925
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Dibromochloromethane,1.97,0.1,0,ppb,19.7
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Dichloroacetic acid,9.65,0.2,0,ppb,48.25
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Haloacetic acids (HAA5)†,21.6,0.1,60,ppb,216.0
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Radium combined (-226 &amp; -228),2.1,0.05,5,pCi/L,42.0
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Total trihalomethanes (TTHMs)†,34.4,0.15,80,ppb,229.33333333333334
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Trichloroacetic acid,11.6,0.1,0,ppb,115.99999999999999
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Antimony,1.02,1.0,6,ppb,1.02
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Barium,20.9,700.0,2000,ppb,0.029857142857142856
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Bromoform,0.0158,0.5,0,ppb,0.0316
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Monobromoacetic acid,0.02,25.0,0,ppb,0.0008
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Monochloroacetic acid,0.327,53.0,0,ppb,0.006169811320754717
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Nitrate,0.00801,0.14,10,ppm,0.05721428571428571
+DE,Bethany Beach DE,19930.0,Bethany Beach Water Department,12000,Nitrate and nitrite,0.00801,0.14,10,ppm,0.05721428571428571
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Bromodichloromethane,0.389,0.06,0,ppb,6.483333333333333
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Chloroform,1.33,0.4,0,ppb,3.325
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Dibromochloromethane,0.717,0.1,0,ppb,7.169999999999999
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Nitrate,2.78,0.14,10,ppm,19.857142857142854
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Nitrate and nitrite,2.78,0.14,10,ppm,19.857142857142854
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Radium combined (-226 &amp; -228),0.67,0.05,5,pCi/L,13.4
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Total trihalomethanes (TTHMs)†,3.03,0.15,80,ppb,20.2
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Barium,63.7,700.0,2000,ppb,0.091
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Bromoform,0.147,0.5,0,ppb,0.294
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Manganese,5.98,100.0,0,ppb,0.059800000000000006
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Mercury (inorganic),0.0465,1.2,2,ppb,0.03875
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Selenium,0.315,30.0,50,ppb,0.0105
+DE,Long Neck DE,19930.0,Long Neck Water Company,11180,Vanadium,0.217,21.0,0,ppb,0.010333333333333333
+DE,Dover DE,19930.0,Meadow District,10500,Bromodichloromethane,0.886,0.06,0,ppb,14.766666666666667
+DE,Dover DE,19930.0,Meadow District,10500,Dibromoacetic acid,0.196,0.04,0,ppb,4.9
+DE,Dover DE,19930.0,Meadow District,10500,Dibromochloromethane,1.13,0.1,0,ppb,11.299999999999999
+DE,Dover DE,19930.0,Meadow District,10500,Nitrate,4.5,0.14,10,ppm,32.14285714285714
+DE,Dover DE,19930.0,Meadow District,10500,Nitrate and nitrite,4.5,0.14,10,ppm,32.14285714285714
+DE,Dover DE,19930.0,Meadow District,10500,Total trihalomethanes (TTHMs)†,4.62,0.15,80,ppb,30.8
+DE,Dover DE,19930.0,Meadow District,10500,Barium,86.1,700.0,2000,ppb,0.123
+DE,Dover DE,19930.0,Meadow District,10500,Bromoform,0.465,0.5,0,ppb,0.93
+DE,Dover DE,19930.0,Meadow District,10500,Chloroform,0.472,0.4,0,ppb,1.18
+DE,Dover DE,19930.0,Meadow District,10500,Di(2-ethylhexyl) adipate,0.00324,200.0,400,ppb,1.62e-05
+DE,Dover DE,19930.0,Meadow District,10500,Di(2-ethylhexyl) phthalate,0.171,3.0,6,ppb,0.057
+DE,Dover DE,19930.0,Meadow District,10500,Haloacetic acids (HAA5)†,0.196,0.1,60,ppb,1.96
+DE,Dover DE,19930.0,Meadow District,10500,Manganese,3.83,100.0,0,ppb,0.0383
+DE,Dover DE,19930.0,Meadow District,10500,Xylenes (total),0.0291,1800.0,10000,ppb,1.6166666666666665e-05
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Bromodichloromethane,2.28,0.06,0,ppb,38.0
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Bromoform,6.1,0.5,0,ppb,12.2
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Dibromoacetic acid,0.803,0.04,0,ppb,20.075
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Dibromochloromethane,5.08,0.1,0,ppb,50.8
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Haloacetic acids (HAA5)†,0.803,0.1,60,ppb,8.03
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Nitrate,5.65,0.14,10,ppm,40.357142857142854
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Nitrate and nitrite,5.65,0.14,10,ppm,40.357142857142854
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Radium combined (-226 &amp; -228),0.88,0.05,5,pCi/L,17.599999999999998
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Total trihalomethanes (TTHMs)†,19.9,0.15,80,ppb,132.66666666666666
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Atrazine,0.028,0.1,3,ppb,0.27999999999999997
+DE,Lewes DE,19930.0,Lewes Board Of Public Works,9400,Chloroform,0.75,0.4,0,ppb,1.875
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Arsenic,1.16,0.004,10,ppb,290.0
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Haloacetic acids (HAA5)†,3.65,0.1,60,ppb,36.5
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Haloacetic acids (HAA9)†,4.7,0.06,0,ppb,78.33333333333334
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Total trihalomethanes (TTHMs)†,12.8,0.15,80,ppb,85.33333333333334
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Chloroform,0.51,0.4,0,ppb,1.275
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Manganese,3.93,100.0,0,ppb,0.0393
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Molybdenum,2.88,40.0,0,ppb,0.072
+DE,Cambridge MD,19973.0,City of Cambridge,15000,Strontium,0.0305,1500.0,0,ppb,2.0333333333333334e-05

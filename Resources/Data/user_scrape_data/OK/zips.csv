@@ -1,0 +1,665 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+73001,35.2262,-98.41654,Albert,OK,Oklahoma,True,,,,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73002,34.96402,-97.73237,Alex,OK,Oklahoma,True,,1150.0,12.5,40051,Grady,"{""40051"": 99.32, ""40087"": 0.68}",Grady|McClain,40051|40087,False,False,America/Chicago
+73003,35.66952,-97.49693,Edmond,OK,Oklahoma,True,,23406.0,1218.7,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73004,35.14362,-97.83875,Amber,OK,Oklahoma,True,,966.0,6.0,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago
+73005,35.05439,-98.23762,Anadarko,OK,Oklahoma,True,,9368.0,21.6,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73006,34.90587,-98.40583,Apache,OK,Oklahoma,True,,3037.0,6.7,40015,Caddo,"{""40015"": 80.36, ""40031"": 19.64}",Caddo|Comanche,40015|40031,False,False,America/Chicago
+73007,35.69001,-97.32009,Arcadia,OK,Oklahoma,True,,2305.0,23.1,40109,Oklahoma,"{""40109"": 84.02, ""40083"": 15.98}",Oklahoma|Logan,40109|40083,False,False,America/Chicago
+73008,35.51383,-97.64536,Bethany,OK,Oklahoma,True,,20064.0,1029.7,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73009,35.28544,-98.37016,Binger,OK,Oklahoma,True,,1125.0,5.7,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73010,35.09989,-97.67197,Blanchard,OK,Oklahoma,True,,19612.0,43.4,40051,Grady,"{""40051"": 51.74, ""40087"": 48.26}",Grady|McClain,40051|40087,False,False,America/Chicago
+73011,34.84378,-97.74498,Bradley,OK,Oklahoma,True,,351.0,2.1,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago
+73012,35.66815,-97.59315,Edmond,OK,Oklahoma,True,,42001.0,476.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73013,35.62149,-97.49614,Edmond,OK,Oklahoma,True,,54263.0,641.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73014,35.58152,-98.1409,Calumet,OK,Oklahoma,True,,1623.0,4.0,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73015,35.07648,-98.59016,Carnegie,OK,Oklahoma,True,,2930.0,5.4,40015,Caddo,"{""40015"": 74.18, ""40075"": 14.56, ""40149"": 11.26}",Caddo|Kiowa|Washita,40015|40075|40149,False,False,America/Chicago
+73016,35.79778,-97.68831,Cashion,OK,Oklahoma,True,,2377.0,14.6,40073,Kingfisher,"{""40073"": 63.0, ""40083"": 37.0}",Kingfisher|Logan,40073|40083,False,False,America/Chicago
+73017,34.92651,-98.09546,Cement,OK,Oklahoma,True,,1376.0,6.6,40015,Caddo,"{""40015"": 48.26, ""40051"": 47.64, ""40031"": 4.09}",Caddo|Grady|Comanche,40015|40051|40031,False,False,America/Chicago
+73018,35.0484,-97.93839,Chickasha,OK,Oklahoma,True,,20352.0,50.7,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago
+73019,35.20681,-97.44213,Norman,OK,Oklahoma,True,,0.0,0.0,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73020,35.45588,-97.2619,Choctaw,OK,Oklahoma,True,,24852.0,155.8,40109,Oklahoma,"{""40109"": 94.38, ""40027"": 5.62}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73021,35.33802,-98.67007,Colony,OK,Oklahoma,True,,177.0,1.0,40149,Washita,"{""40149"": 78.28, ""40015"": 21.72}",Washita|Caddo,40149|40015,False,False,America/Chicago
+73022,35.61692,-97.99224,Concho,OK,Oklahoma,True,,,,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73024,35.36608,-98.81508,Corn,OK,Oklahoma,True,,717.0,5.8,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73025,35.73199,-97.5727,Edmond,OK,Oklahoma,True,,14942.0,109.6,40083,Logan,"{""40083"": 57.66, ""40109"": 42.34}",Logan|Oklahoma,40083|40109,False,False,America/Chicago
+73026,35.23433,-97.2791,Norman,OK,Oklahoma,True,,10016.0,35.6,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73027,35.97102,-97.24455,Coyle,OK,Oklahoma,True,,1413.0,6.2,40083,Logan,"{""40083"": 50.89, ""40119"": 49.11}",Logan|Payne,40083|40119,False,False,America/Chicago
+73028,35.9771,-97.62418,Crescent,OK,Oklahoma,True,,3802.0,10.3,40083,Logan,"{""40083"": 79.03, ""40073"": 20.97}",Logan|Kingfisher,40083|40073,False,False,America/Chicago
+73029,34.89999,-98.21016,Cyril,OK,Oklahoma,True,,1672.0,15.1,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73030,34.47142,-97.18584,Davis,OK,Oklahoma,True,,4373.0,8.1,40099,Murray,"{""40099"": 89.04, ""40049"": 10.96}",Murray|Garvin,40099|40049,False,False,America/Chicago
+73031,35.03376,-97.63139,Dibble,OK,Oklahoma,True,,,,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago
+73032,34.40051,-97.05137,Dougherty,OK,Oklahoma,True,,216.0,222.4,40099,Murray,"{""40099"": 100}",Murray,40099,False,False,America/Chicago
+73033,35.30709,-98.55502,Eakly,OK,Oklahoma,True,,523.0,21.1,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73034,35.69877,-97.42665,Edmond,OK,Oklahoma,True,,45732.0,341.8,40109,Oklahoma,"{""40109"": 69.99, ""40083"": 30.01}",Oklahoma|Logan,40109|40083,False,False,America/Chicago
+73036,35.50752,-97.95771,El Reno,OK,Oklahoma,True,,22396.0,47.0,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73038,35.1214,-98.44306,Fort Cobb,OK,Oklahoma,True,,1930.0,5.5,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73040,35.64442,-98.37861,Geary,OK,Oklahoma,True,,1456.0,2.3,40011,Blaine,"{""40011"": 68.88, ""40017"": 31.12}",Blaine|Canadian,40011|40017,False,False,America/Chicago
+73041,35.03594,-98.88064,Gotebo,OK,Oklahoma,True,,354.0,1.1,40075,Kiowa,"{""40075"": 79.72, ""40149"": 20.28}",Kiowa|Washita,40075|40149,False,False,America/Chicago
+73042,35.23019,-98.25151,Gracemont,OK,Oklahoma,True,,1030.0,3.5,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73043,35.73609,-98.3939,Greenfield,OK,Oklahoma,True,,189.0,4.7,40011,Blaine,"{""40011"": 100}",Blaine,40011,False,False,America/Chicago
+73044,35.86664,-97.43476,Guthrie,OK,Oklahoma,True,,23020.0,33.6,40083,Logan,"{""40083"": 100}",Logan,40083,False,False,America/Chicago
+73045,35.51201,-97.1414,Harrah,OK,Oklahoma,True,,11935.0,70.9,40109,Oklahoma,"{""40109"": 58.61, ""40081"": 39.47, ""40125"": 1.92}",Oklahoma|Lincoln|Pottawatomie,40109|40081|40125,False,False,America/Chicago
+73047,35.45658,-98.31553,Hinton,OK,Oklahoma,True,,5018.0,13.6,40015,Caddo,"{""40015"": 55.93, ""40017"": 44.07}",Caddo|Canadian,40015|40017,False,False,America/Chicago
+73048,35.48929,-98.55378,Hydro,OK,Oklahoma,True,,2820.0,5.7,40015,Caddo,"{""40015"": 71.55, ""40011"": 21.49, ""40039"": 6.96}",Caddo|Blaine|Custer,40015|40011|40039,False,False,America/Chicago
+73049,35.58617,-97.29695,Jones,OK,Oklahoma,True,,6010.0,36.2,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73050,35.93825,-97.25595,Langston,OK,Oklahoma,True,,1144.0,297.2,40083,Logan,"{""40083"": 100}",Logan,40083,False,False,America/Chicago
+73051,35.03175,-97.24629,Lexington,OK,Oklahoma,True,,10220.0,31.2,40027,Cleveland,"{""40027"": 99.54, ""40125"": 0.46}",Cleveland|Pottawatomie,40027|40125,False,False,America/Chicago
+73052,34.83359,-97.59526,Lindsay,OK,Oklahoma,True,,6719.0,12.4,40049,Garvin,"{""40049"": 51.68, ""40087"": 38.09, ""40051"": 10.23}",Garvin|McClain|Grady,40049|40087|40051,False,False,America/Chicago
+73053,35.36248,-98.41841,Lookeba,OK,Oklahoma,True,,708.0,3.6,40015,Caddo,"{""40015"": 100}",Caddo,40015,False,False,America/Chicago
+73054,35.67508,-97.19487,Luther,OK,Oklahoma,True,,4715.0,20.3,40109,Oklahoma,"{""40109"": 71.29, ""40083"": 19.49, ""40081"": 9.22}",Oklahoma|Logan|Lincoln,40109|40083|40081,False,False,America/Chicago
+73055,34.64301,-97.91624,Marlow,OK,Oklahoma,True,,9891.0,14.9,40137,Stephens,"{""40137"": 75.26, ""40051"": 23.13, ""40031"": 1.61}",Stephens|Grady|Comanche,40137|40051|40031,False,False,America/Chicago
+73056,36.17036,-97.62097,Marshall,OK,Oklahoma,True,,437.0,1.6,40047,Garfield,"{""40047"": 52.38, ""40083"": 36.05, ""40073"": 11.57}",Garfield|Logan|Kingfisher,40047|40083|40073,False,False,America/Chicago
+73057,34.82998,-97.43176,Maysville,OK,Oklahoma,True,,2518.0,11.5,40049,Garvin,"{""40049"": 66.2, ""40087"": 33.8}",Garvin|McClain,40049|40087,False,False,America/Chicago
+73058,35.8175,-97.22571,Meridian,OK,Oklahoma,True,,112.0,1.0,40083,Logan,"{""40083"": 100}",Logan,40083,False,False,America/Chicago
+73059,35.3251,-98.05431,Minco,OK,Oklahoma,True,,3102.0,7.4,40051,Grady,"{""40051"": 59.01, ""40015"": 28.04, ""40017"": 12.95}",Grady|Caddo|Canadian,40051|40015|40017,False,False,America/Chicago
+73061,36.34904,-97.01765,Morrison,OK,Oklahoma,True,,1686.0,5.7,40103,Noble,"{""40103"": 58.43, ""40117"": 41.57}",Noble|Pawnee,40103|40117,False,False,America/Chicago
+73062,35.02929,-98.73478,Mountain View,OK,Oklahoma,True,,1178.0,2.0,40075,Kiowa,"{""40075"": 75.24, ""40149"": 24.76}",Kiowa|Washita,40075|40149,False,False,America/Chicago
+73063,36.06195,-97.41832,Mulhall,OK,Oklahoma,True,,685.0,2.4,40083,Logan,"{""40083"": 77.35, ""40119"": 22.65}",Logan|Payne,40083|40119,False,False,America/Chicago
+73064,35.37377,-97.75275,Mustang,OK,Oklahoma,True,,26362.0,189.4,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73065,35.25008,-97.61209,Newcastle,OK,Oklahoma,True,,8982.0,67.0,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago
+73066,35.50167,-97.32832,Nicoma Park,OK,Oklahoma,True,,346.0,291.7,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73067,34.90315,-97.90612,Ninnekah,OK,Oklahoma,True,,2503.0,7.9,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago
+73068,35.1384,-97.28264,Noble,OK,Oklahoma,True,,12402.0,74.2,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73069,35.25028,-97.4633,Norman,OK,Oklahoma,True,,25986.0,637.6,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73070,35.22763,-97.42729,Norman,OK,Oklahoma,True,,,,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73071,35.23728,-97.4131,Norman,OK,Oklahoma,True,,43605.0,722.0,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73072,35.21106,-97.50518,Norman,OK,Oklahoma,True,,47957.0,354.7,40027,Cleveland,"{""40027"": 66.34, ""40087"": 33.66}",Cleveland|McClain,40027|40087,False,False,America/Chicago
+73073,36.16302,-97.39614,Orlando,OK,Oklahoma,True,,495.0,1.6,40103,Noble,"{""40103"": 30.67, ""40119"": 25.89, ""40083"": 25.79, ""40047"": 17.65}",Noble|Payne|Logan|Garfield,40103|40119|40083|40047,False,False,America/Chicago
+73074,34.83269,-97.27917,Paoli,OK,Oklahoma,True,,1197.0,10.9,40049,Garvin,"{""40049"": 78.19, ""40087"": 21.81}",Garvin|McClain,40049|40087,False,False,America/Chicago
+73075,34.75187,-97.23428,Pauls Valley,OK,Oklahoma,True,,9678.0,26.8,40049,Garvin,"{""40049"": 100}",Garvin,40049,False,False,America/Chicago
+73077,36.30428,-97.26981,Perry,OK,Oklahoma,True,,6789.0,10.3,40103,Noble,"{""40103"": 100}",Noble,40103,False,False,America/Chicago
+73078,35.66867,-97.75304,Piedmont,OK,Oklahoma,True,,11768.0,70.0,40017,Canadian,"{""40017"": 99.83, ""40109"": 0.17}",Canadian|Oklahoma,40017|40109,False,False,America/Chicago
+73079,35.20941,-98.01397,Pocasset,OK,Oklahoma,True,,432.0,2.0,40051,Grady,"{""40051"": 79.2, ""40015"": 20.8}",Grady|Caddo,40051|40015,False,False,America/Chicago
+73080,35.00725,-97.452,Purcell,OK,Oklahoma,True,,9569.0,36.9,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago
+73082,34.77266,-97.90385,Rush Springs,OK,Oklahoma,True,,3091.0,7.5,40051,Grady,"{""40051"": 97.51, ""40031"": 2.49}",Grady|Comanche,40051|40031,False,False,America/Chicago
+73084,35.52567,-97.34645,Spencer,OK,Oklahoma,True,,6342.0,136.4,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73086,34.48915,-96.97251,Sulphur,OK,Oklahoma,True,,8644.0,21.0,40099,Murray,"{""40099"": 98.43, ""40069"": 1.57}",Murray|Johnston,40099|40069,False,False,America/Chicago
+73089,35.2661,-97.79638,Tuttle,OK,Oklahoma,True,,13037.0,47.1,40051,Grady,"{""40051"": 100}",Grady,40051,False,False,America/Chicago
+73090,35.39706,-97.96116,Union City,OK,Oklahoma,True,,1123.0,8.7,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73092,35.1238,-98.08735,Verden,OK,Oklahoma,True,,825.0,5.9,40051,Grady,"{""40051"": 53.05, ""40015"": 46.95}",Grady|Caddo,40051|40015,False,False,America/Chicago
+73093,35.10321,-97.4966,Washington,OK,Oklahoma,True,,3282.0,21.8,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago
+73095,34.90677,-97.28423,Wayne,OK,Oklahoma,True,,2097.0,10.5,40087,McClain,"{""40087"": 100}",McClain,40087,False,False,America/Chicago
+73096,35.51305,-98.7295,Weatherford,OK,Oklahoma,True,,13846.0,27.7,40039,Custer,"{""40039"": 69.38, ""40149"": 29.59, ""40011"": 1.03}",Custer|Washita|Blaine,40039|40149|40011,False,False,America/Chicago
+73097,35.39893,-97.64501,Wheatland,OK,Oklahoma,True,,89.0,34.7,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73098,34.62753,-97.16537,Wynnewood,OK,Oklahoma,True,,4184.0,11.7,40049,Garvin,"{""40049"": 80.99, ""40099"": 19.01}",Garvin|Murray,40049|40099,False,False,America/Chicago
+73099,35.52583,-97.76343,Yukon,OK,Oklahoma,True,,72074.0,223.2,40017,Canadian,"{""40017"": 100}",Canadian,40017,False,False,America/Chicago
+73102,35.47065,-97.5191,Oklahoma City,OK,Oklahoma,True,,4226.0,2045.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73103,35.48906,-97.51897,Oklahoma City,OK,Oklahoma,True,,5622.0,1846.6,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73104,35.47508,-97.5038,Oklahoma City,OK,Oklahoma,True,,2932.0,721.4,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73105,35.51919,-97.50331,Oklahoma City,OK,Oklahoma,True,,6242.0,536.4,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73106,35.4823,-97.53662,Oklahoma City,OK,Oklahoma,True,,13403.0,1704.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73107,35.48201,-97.5744,Oklahoma City,OK,Oklahoma,True,,25049.0,1277.2,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73108,35.45034,-97.56774,Oklahoma City,OK,Oklahoma,True,,14310.0,723.2,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73109,35.43279,-97.52452,Oklahoma City,OK,Oklahoma,True,,22578.0,1613.4,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73110,35.44808,-97.3945,Oklahoma City,OK,Oklahoma,True,,33431.0,835.1,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73111,35.51889,-97.47722,Oklahoma City,OK,Oklahoma,True,,11901.0,534.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73112,35.51823,-97.5745,Oklahoma City,OK,Oklahoma,True,,33901.0,1717.3,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73114,35.57916,-97.51784,Oklahoma City,OK,Oklahoma,True,,18781.0,764.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73115,35.44232,-97.44153,Oklahoma City,OK,Oklahoma,True,,20752.0,1356.8,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73116,35.54684,-97.56519,Oklahoma City,OK,Oklahoma,True,,9375.0,655.8,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73117,35.47474,-97.45961,Oklahoma City,OK,Oklahoma,True,,6382.0,382.8,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73118,35.51788,-97.53007,Oklahoma City,OK,Oklahoma,True,,13695.0,1091.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73119,35.4215,-97.56896,Oklahoma City,OK,Oklahoma,True,,31392.0,1781.8,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73120,35.58049,-97.57248,Oklahoma City,OK,Oklahoma,True,,35132.0,1227.7,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73121,35.52181,-97.44236,Oklahoma City,OK,Oklahoma,True,,3250.0,129.2,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73122,35.5202,-97.61391,Oklahoma City,OK,Oklahoma,True,,12770.0,1451.2,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73127,35.47785,-97.64836,Oklahoma City,OK,Oklahoma,True,,25327.0,861.7,40109,Oklahoma,"{""40109"": 75.79, ""40017"": 24.21}",Oklahoma|Canadian,40109|40017,False,False,America/Chicago
+73128,35.44899,-97.64595,Oklahoma City,OK,Oklahoma,True,,5546.0,291.5,40109,Oklahoma,"{""40109"": 76.49, ""40017"": 23.51}",Oklahoma|Canadian,40109|40017,False,False,America/Chicago
+73129,35.43165,-97.48433,Oklahoma City,OK,Oklahoma,True,,19810.0,610.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73130,35.45879,-97.34586,Oklahoma City,OK,Oklahoma,True,,20400.0,789.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73131,35.57653,-97.46465,Oklahoma City,OK,Oklahoma,True,,3773.0,121.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73132,35.54984,-97.64074,Oklahoma City,OK,Oklahoma,True,,27065.0,1374.4,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73134,35.6151,-97.56935,Oklahoma City,OK,Oklahoma,True,,5594.0,492.8,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73135,35.39644,-97.42692,Oklahoma City,OK,Oklahoma,True,,21800.0,766.9,40109,Oklahoma,"{""40109"": 97.26, ""40027"": 2.74}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73139,35.38457,-97.52572,Oklahoma City,OK,Oklahoma,True,,17672.0,1549.3,40109,Oklahoma,"{""40109"": 67.43, ""40027"": 32.57}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73141,35.51702,-97.39876,Oklahoma City,OK,Oklahoma,True,,2309.0,82.3,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73142,35.60937,-97.63895,Oklahoma City,OK,Oklahoma,True,,14854.0,735.9,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73145,35.42427,-97.41403,Oklahoma City,OK,Oklahoma,True,,3561.0,1001.3,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73149,35.3892,-97.48908,Oklahoma City,OK,Oklahoma,True,,5634.0,401.6,40109,Oklahoma,"{""40109"": 93.08, ""40027"": 6.92}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73150,35.40059,-97.33214,Oklahoma City,OK,Oklahoma,True,,5660.0,116.7,40109,Oklahoma,"{""40109"": 98.12, ""40027"": 1.88}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73151,35.56783,-97.41049,Oklahoma City,OK,Oklahoma,True,,2132.0,275.5,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73159,35.38563,-97.5794,Oklahoma City,OK,Oklahoma,True,,33345.0,940.9,40109,Oklahoma,"{""40109"": 68.43, ""40027"": 31.57}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73160,35.33574,-97.47651,Oklahoma City,OK,Oklahoma,True,,61204.0,1103.1,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73162,35.58095,-97.6415,Oklahoma City,OK,Oklahoma,True,,28818.0,1578.0,40109,Oklahoma,"{""40109"": 100}",Oklahoma,40109,False,False,America/Chicago
+73165,35.34181,-97.36138,Oklahoma City,OK,Oklahoma,True,,6496.0,61.3,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73169,35.3815,-97.64538,Oklahoma City,OK,Oklahoma,True,,3203.0,165.6,40109,Oklahoma,"{""40109"": 60.51, ""40027"": 39.49}",Oklahoma|Cleveland,40109|40027,False,False,America/Chicago
+73170,35.32743,-97.55068,Oklahoma City,OK,Oklahoma,True,,38060.0,699.9,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73173,35.34033,-97.62463,Oklahoma City,OK,Oklahoma,True,,3492.0,99.5,40027,Cleveland,"{""40027"": 100}",Cleveland,40027,False,False,America/Chicago
+73179,35.4231,-97.64521,Oklahoma City,OK,Oklahoma,True,,5206.0,170.4,40109,Oklahoma,"{""40109"": 83.0, ""40017"": 17.0}",Oklahoma|Canadian,40109|40017,False,False,America/Chicago
+73401,34.21045,-97.11434,Ardmore,OK,Oklahoma,True,,35870.0,39.4,40019,Carter,"{""40019"": 96.86, ""40085"": 2.82, ""40069"": 0.32}",Carter|Love|Johnston,40019|40085|40069,False,False,America/Chicago
+73425,34.45838,-97.56239,Countyline,OK,Oklahoma,True,,69.0,5.6,40137,Stephens,"{""40137"": 52.71, ""40019"": 47.29}",Stephens|Carter,40137|40019,False,False,America/Chicago
+73430,33.91,-97.36106,Burneyville,OK,Oklahoma,True,,1378.0,6.4,40085,Love,"{""40085"": 100}",Love,40085,False,False,America/Chicago
+73432,34.25605,-96.42311,Coleman,OK,Oklahoma,True,,1236.0,8.0,40069,Johnston,"{""40069"": 67.23, ""40005"": 32.77}",Johnston|Atoka,40069|40005,False,False,America/Chicago
+73433,34.62352,-97.40868,Elmore City,OK,Oklahoma,True,,2719.0,6.5,40049,Garvin,"{""40049"": 100}",Garvin,40049,False,False,America/Chicago
+73434,34.62083,-97.58286,Foster,OK,Oklahoma,True,,611.0,2.4,40137,Stephens,"{""40137"": 55.21, ""40049"": 44.79}",Stephens|Garvin,40137|40049,False,False,America/Chicago
+73435,34.36008,-97.49281,Fox,OK,Oklahoma,True,,,,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73436,34.28406,-97.03856,Gene Autry,OK,Oklahoma,True,,,,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73437,34.36193,-97.41558,Graham,OK,Oklahoma,True,,92.0,2.7,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73438,34.27967,-97.49808,Healdton,OK,Oklahoma,True,,3451.0,18.9,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73439,33.93643,-96.74708,Kingston,OK,Oklahoma,True,,7234.0,21.5,40095,Marshall,"{""40095"": 100}",Marshall,40095,False,False,America/Chicago
+73440,33.95163,-96.89635,Lebanon,OK,Oklahoma,True,,281.0,13.9,40095,Marshall,"{""40095"": 100}",Marshall,40095,False,False,America/Chicago
+73441,33.8674,-97.44021,Leon,OK,Oklahoma,True,,,,40085,Love,"{""40085"": 100}",Love,40085,False,False,America/Chicago
+73442,34.31982,-97.69569,Loco,OK,Oklahoma,True,,388.0,1.4,40137,Stephens,"{""40137"": 83.15, ""40067"": 16.85}",Stephens|Jefferson,40137|40067,False,False,America/Chicago
+73443,34.16258,-97.29081,Lone Grove,OK,Oklahoma,True,,3815.0,36.2,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73444,34.4875,-97.38256,Hennepin,OK,Oklahoma,True,,111.0,2.8,40019,Carter,"{""40019"": 86.23, ""40099"": 12.76, ""40049"": 1.01}",Carter|Murray|Garvin,40019|40099|40049,False,False,America/Chicago
+73446,34.0891,-96.77806,Madill,OK,Oklahoma,True,,9173.0,15.1,40095,Marshall,"{""40095"": 99.67, ""40019"": 0.33}",Marshall|Carter,40095|40019,False,False,America/Chicago
+73447,34.22463,-96.84616,Mannsville,OK,Oklahoma,True,,1374.0,8.2,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago
+73448,33.94813,-97.10581,Marietta,OK,Oklahoma,True,,6122.0,10.9,40085,Love,"{""40085"": 100}",Love,40085,False,False,America/Chicago
+73449,33.99471,-96.54114,Mead,OK,Oklahoma,True,,3222.0,34.1,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+73450,34.26689,-96.53801,Milburn,OK,Oklahoma,True,,1274.0,5.5,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago
+73453,34.03473,-97.27046,Overbrook,OK,Oklahoma,True,,531.0,3.0,40085,Love,"{""40085"": 98.84, ""40019"": 1.16}",Love|Carter,40085|40019,False,False,America/Chicago
+73455,34.22651,-96.75997,Ravia,OK,Oklahoma,True,,624.0,31.2,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago
+73456,34.12211,-97.62412,Ringling,OK,Oklahoma,True,,1870.0,3.0,40067,Jefferson,"{""40067"": 79.29, ""40085"": 10.88, ""40019"": 9.83}",Jefferson|Love|Carter,40067|40085|40019,False,False,America/Chicago
+73458,34.35818,-97.29782,Springer,OK,Oklahoma,True,,1031.0,4.3,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73459,33.77534,-97.14213,Thackerville,OK,Oklahoma,True,,1157.0,12.5,40085,Love,"{""40085"": 100}",Love,40085,False,False,America/Chicago
+73460,34.28789,-96.66689,Tishomingo,OK,Oklahoma,True,,4626.0,11.7,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago
+73461,34.35726,-96.43418,Wapanucka,OK,Oklahoma,True,,825.0,4.4,40069,Johnston,"{""40069"": 66.17, ""40005"": 33.83}",Johnston|Atoka,40069|40005,False,False,America/Chicago
+73463,34.11584,-97.42905,Wilson,OK,Oklahoma,True,,3538.0,6.5,40019,Carter,"{""40019"": 68.06, ""40085"": 31.94}",Carter|Love,40019|40085,False,False,America/Chicago
+73481,34.42229,-97.51955,Ratliff City,OK,Oklahoma,True,,970.0,4.8,40019,Carter,"{""40019"": 74.14, ""40137"": 17.02, ""40049"": 8.84}",Carter|Stephens|Garvin,40019|40137|40049,False,False,America/Chicago
+73487,34.47327,-97.4428,Tatums,OK,Oklahoma,True,,187.0,5.1,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73488,34.49502,-97.54724,Tussy,OK,Oklahoma,True,,,,40019,Carter,"{""40019"": 100}",Carter,40019,False,False,America/Chicago
+73491,34.4637,-97.65845,Velma,OK,Oklahoma,True,,726.0,27.0,40137,Stephens,"{""40137"": 100}",Stephens,40137,False,False,America/Chicago
+73501,34.56211,-98.2864,Lawton,OK,Oklahoma,True,,20373.0,74.9,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73503,34.67348,-98.49649,Fort Sill,OK,Oklahoma,True,,10918.0,56.8,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73505,34.5718,-98.4834,Lawton,OK,Oklahoma,True,,49994.0,298.8,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73507,34.74802,-98.50201,Lawton,OK,Oklahoma,True,,21069.0,33.4,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73520,34.26148,-97.97856,Addington,OK,Oklahoma,True,,105.0,7.9,40067,Jefferson,"{""40067"": 100}",Jefferson,40067,False,False,America/Chicago
+73521,34.63547,-99.31538,Altus,OK,Oklahoma,True,,20083.0,41.7,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73523,34.65526,-99.28527,Altus Afb,OK,Oklahoma,True,,,,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73526,34.79244,-99.26704,Blair,OK,Oklahoma,True,,2298.0,11.1,40065,Jackson,"{""40065"": 85.2, ""40055"": 14.8}",Jackson|Greer,40065|40055,False,False,America/Chicago
+73527,34.5724,-98.62704,Cache,OK,Oklahoma,True,,4439.0,22.5,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73528,34.4033,-98.6452,Chattanooga,OK,Oklahoma,True,,568.0,2.1,40033,Cotton,"{""40033"": 47.37, ""40141"": 39.74, ""40031"": 12.89}",Cotton|Tillman|Comanche,40033|40141|40031,False,False,America/Chicago
+73529,34.34146,-97.94619,Comanche,OK,Oklahoma,True,,5293.0,8.5,40137,Stephens,"{""40137"": 74.86, ""40067"": 23.47, ""40033"": 1.67}",Stephens|Jefferson|Cotton,40137|40067|40033,False,False,America/Chicago
+73530,34.25845,-99.05664,Davidson,OK,Oklahoma,True,,485.0,1.6,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73531,34.18845,-98.52703,Devol,OK,Oklahoma,True,,293.0,1.5,40033,Cotton,"{""40033"": 99.9, ""48485"": 0.1}",Cotton|Wichita,40033|48485,False,False,America/Chicago
+73532,34.62768,-99.59637,Duke,OK,Oklahoma,True,,511.0,1.2,40065,Jackson,"{""40065"": 87.74, ""40057"": 12.26}",Jackson|Harmon,40065|40057,False,False,America/Chicago
+73533,34.49484,-97.84774,Duncan,OK,Oklahoma,True,,27185.0,31.9,40137,Stephens,"{""40137"": 99.69, ""40033"": 0.31}",Stephens|Cotton,40137|40033,False,False,America/Chicago
+73537,34.46994,-99.67189,Eldorado,OK,Oklahoma,True,,632.0,1.6,40065,Jackson,"{""40065"": 80.29, ""40057"": 19.71}",Jackson|Harmon,40065|40057,False,False,America/Chicago
+73538,34.74056,-98.30743,Elgin,OK,Oklahoma,True,,5517.0,26.3,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73539,34.45202,-99.27649,Elmer,OK,Oklahoma,True,,198.0,1.1,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73540,34.47099,-98.55756,Faxon,OK,Oklahoma,True,,291.0,1.9,40031,Comanche,"{""40031"": 96.65, ""40033"": 3.35}",Comanche|Cotton,40031|40033,False,False,America/Chicago
+73541,34.78716,-98.1788,Fletcher,OK,Oklahoma,True,,3329.0,14.9,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73542,34.4024,-98.93893,Frederick,OK,Oklahoma,True,,4253.0,5.5,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73543,34.46389,-98.38385,Geronimo,OK,Oklahoma,True,,2101.0,12.1,40031,Comanche,"{""40031"": 71.56, ""40033"": 28.44}",Comanche|Cotton,40031|40033,False,False,America/Chicago
+73544,34.65379,-99.75016,Gould,OK,Oklahoma,True,,303.0,1.0,40057,Harmon,"{""40057"": 100}",Harmon,40057,False,False,America/Chicago
+73546,34.22336,-98.73053,Grandfield,OK,Oklahoma,True,,1181.0,2.7,40141,Tillman,"{""40141"": 92.08, ""40033"": 7.92}",Tillman|Cotton,40141|40033,False,False,America/Chicago
+73547,34.98651,-99.40507,Granite,OK,Oklahoma,True,,1916.0,6.3,40055,Greer,"{""40055"": 100}",Greer,40055,False,False,America/Chicago
+73548,34.21427,-98.13818,Hastings,OK,Oklahoma,True,,392.0,2.5,40033,Cotton,"{""40033"": 46.0, ""40067"": 43.54, ""40137"": 10.45}",Cotton|Jefferson|Stephens,40033|40067|40137,False,False,America/Chicago
+73549,34.65222,-99.15607,Headrick,OK,Oklahoma,True,,220.0,1.1,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73550,34.7101,-99.89631,Hollis,OK,Oklahoma,True,,2175.0,3.6,40057,Harmon,"{""40057"": 100}",Harmon,40057,False,False,America/Chicago
+73551,34.30754,-98.87487,Hollister,OK,Oklahoma,True,,59.0,0.8,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73552,34.62709,-98.75631,Indiahoma,OK,Oklahoma,True,,1372.0,4.9,40031,Comanche,"{""40031"": 98.38, ""40075"": 1.62}",Comanche|Kiowa,40031|40075,False,False,America/Chicago
+73553,34.33066,-98.70295,Loveland,OK,Oklahoma,True,,57.0,0.6,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73554,34.85562,-99.60118,Mangum,OK,Oklahoma,True,,3401.0,3.7,40055,Greer,"{""40055"": 85.55, ""40057"": 13.42, ""40065"": 1.03}",Greer|Harmon|Jackson,40055|40057|40065,False,False,America/Chicago
+73555,34.50539,-98.9639,Manitou,OK,Oklahoma,True,,247.0,5.2,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73556,34.72617,-99.38673,Martha,OK,Oklahoma,True,,139.0,212.9,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73557,34.73072,-98.50022,Medicine Park,OK,Oklahoma,True,,393.0,166.3,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73559,34.73473,-98.94317,Mountain Park,OK,Oklahoma,True,,582.0,1.6,40075,Kiowa,"{""40075"": 85.53, ""40031"": 14.47}",Kiowa|Comanche,40075|40031,False,False,America/Chicago
+73560,34.54307,-99.45024,Olustee,OK,Oklahoma,True,,854.0,2.4,40065,Jackson,"{""40065"": 100}",Jackson,40065,False,False,America/Chicago
+73562,34.19469,-98.41203,Randlett,OK,Oklahoma,True,,657.0,2.3,40033,Cotton,"{""40033"": 100}",Cotton,40033,False,False,America/Chicago
+73564,34.84444,-99.00729,Roosevelt,OK,Oklahoma,True,,407.0,0.9,40075,Kiowa,"{""40075"": 100}",Kiowa,40075,False,False,America/Chicago
+73565,34.02326,-97.8751,Ryan,OK,Oklahoma,True,,986.0,2.0,40067,Jefferson,"{""40067"": 100}",Jefferson,40067,False,False,America/Chicago
+73566,34.61647,-98.94258,Snyder,OK,Oklahoma,True,,1549.0,5.4,40075,Kiowa,"{""40075"": 57.35, ""40141"": 42.65}",Kiowa|Tillman,40075|40141,False,False,America/Chicago
+73567,34.7474,-98.17093,Sterling,OK,Oklahoma,True,,719.0,225.2,40031,Comanche,"{""40031"": 100}",Comanche,40031,False,False,America/Chicago
+73568,34.26327,-98.21629,Temple,OK,Oklahoma,True,,971.0,4.1,40033,Cotton,"{""40033"": 100}",Cotton,40033,False,False,America/Chicago
+73569,33.93772,-97.80363,Terral,OK,Oklahoma,True,,508.0,2.7,40067,Jefferson,"{""40067"": 100}",Jefferson,40067,False,False,America/Chicago
+73570,34.50988,-99.1071,Tipton,OK,Oklahoma,True,,949.0,2.9,40141,Tillman,"{""40141"": 100}",Tillman,40141,False,False,America/Chicago
+73571,34.9325,-99.92476,Vinson,OK,Oklahoma,True,,127.0,0.5,40057,Harmon,"{""40057"": 100}",Harmon,40057,False,False,America/Chicago
+73572,34.37318,-98.32638,Walters,OK,Oklahoma,True,,3609.0,5.7,40033,Cotton,"{""40033"": 96.22, ""40031"": 3.78}",Cotton|Comanche,40033|40031,False,False,America/Chicago
+73573,34.1556,-97.95412,Waurika,OK,Oklahoma,True,,2639.0,5.2,40067,Jefferson,"{""40067"": 99.7, ""40137"": 0.3}",Jefferson|Stephens,40067|40137,False,False,America/Chicago
+73601,35.49859,-98.94694,Clinton,OK,Oklahoma,True,,10265.0,28.7,40039,Custer,"{""40039"": 73.56, ""40149"": 26.44}",Custer|Washita,40039|40149,False,False,America/Chicago
+73620,35.61387,-99.02278,Arapaho,OK,Oklahoma,True,,1576.0,5.8,40039,Custer,"{""40039"": 100}",Custer,40039,False,False,America/Chicago
+73622,35.39518,-98.99791,Bessie,OK,Oklahoma,True,,323.0,2.7,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73624,35.35969,-99.1719,Burns Flat,OK,Oklahoma,True,,2087.0,160.0,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73625,35.6964,-99.19698,Butler,OK,Oklahoma,True,,589.0,1.9,40039,Custer,"{""40039"": 100}",Custer,40039,False,False,America/Chicago
+73626,35.43965,-99.27941,Canute,OK,Oklahoma,True,,1047.0,3.5,40149,Washita,"{""40149"": 54.78, ""40039"": 45.22}",Washita|Custer,40149|40039,False,False,America/Chicago
+73627,35.20169,-99.45218,Carter,OK,Oklahoma,True,,479.0,1.8,40009,Beckham,"{""40009"": 98.05, ""40149"": 1.95}",Beckham|Washita,40009|40149,False,False,America/Chicago
+73628,35.62668,-99.68783,Cheyenne,OK,Oklahoma,True,,1789.0,1.8,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago
+73632,35.27036,-98.90853,Cordell,OK,Oklahoma,True,,3063.0,5.3,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73638,35.86532,-99.79059,Crawford,OK,Oklahoma,True,,96.0,0.3,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago
+73639,35.72666,-98.95578,Custer City,OK,Oklahoma,True,,537.0,1.1,40039,Custer,"{""40039"": 100}",Custer,40039,False,False,America/Chicago
+73641,35.26875,-99.20252,Dill City,OK,Oklahoma,True,,452.0,2.6,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73642,35.81909,-99.90887,Durham,OK,Oklahoma,True,,96.0,0.4,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago
+73644,35.40327,-99.42718,Elk City,OK,Oklahoma,True,,14097.0,29.4,40009,Beckham,"{""40009"": 80.29, ""40149"": 14.81, ""40129"": 2.79, ""40039"": 2.11}",Beckham|Washita|Roger Mills|Custer,40009|40149|40129|40039,False,False,America/Chicago
+73645,35.16954,-99.87038,Erick,OK,Oklahoma,True,,1158.0,1.7,40009,Beckham,"{""40009"": 100}",Beckham,40009,False,False,America/Chicago
+73646,35.82624,-98.61928,Fay,OK,Oklahoma,True,,394.0,1.3,40011,Blaine,"{""40011"": 61.3, ""40043"": 29.31, ""40039"": 9.39}",Blaine|Dewey|Custer,40011|40043|40039,False,False,America/Chicago
+73647,35.44786,-99.16124,Foss,OK,Oklahoma,True,,546.0,1.5,40149,Washita,"{""40149"": 59.77, ""40039"": 40.23}",Washita|Custer,40149|40039,False,False,America/Chicago
+73650,35.64173,-99.41729,Hammon,OK,Oklahoma,True,,1017.0,1.9,40129,Roger Mills,"{""40129"": 69.36, ""40039"": 30.64}",Roger Mills|Custer,40129|40039,False,False,America/Chicago
+73651,35.02479,-99.06957,Hobart,OK,Oklahoma,True,,4239.0,9.3,40075,Kiowa,"{""40075"": 100}",Kiowa,40075,False,False,America/Chicago
+73654,35.85908,-99.37483,Leedey,OK,Oklahoma,True,,933.0,1.1,40129,Roger Mills,"{""40129"": 49.45, ""40043"": 36.18, ""40039"": 14.37}",Roger Mills|Dewey|Custer,40129|40043|40039,False,False,America/Chicago
+73655,34.98189,-99.25267,Lone Wolf,OK,Oklahoma,True,,814.0,1.8,40075,Kiowa,"{""40075"": 97.26, ""40149"": 2.74}",Kiowa|Washita,40075|40149,False,False,America/Chicago
+73658,35.94776,-98.71784,Oakwood,OK,Oklahoma,True,,240.0,1.0,40043,Dewey,"{""40043"": 95.2, ""40011"": 4.8}",Dewey|Blaine,40043|40011,False,False,America/Chicago
+73659,35.87337,-98.94582,Putnam,OK,Oklahoma,True,,138.0,0.4,40043,Dewey,"{""40043"": 100}",Dewey,40043,False,False,America/Chicago
+73660,35.62561,-99.91688,Reydon,OK,Oklahoma,True,,295.0,0.9,40129,Roger Mills,"{""40129"": 100}",Roger Mills,40129,False,False,America/Chicago
+73661,35.17033,-99.0176,Rocky,OK,Oklahoma,True,,535.0,2.7,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73662,35.31533,-99.66273,Sayre,OK,Oklahoma,True,,6509.0,7.5,40009,Beckham,"{""40009"": 90.21, ""40129"": 9.79}",Beckham|Roger Mills,40009|40129,False,False,America/Chicago
+73663,36.10622,-98.90291,Seiling,OK,Oklahoma,True,,1606.0,4.4,40043,Dewey,"{""40043"": 94.55, ""40093"": 3.27, ""40153"": 2.18}",Dewey|Major|Woodward,40043|40093|40153,False,False,America/Chicago
+73664,35.17475,-99.2369,Sentinel,OK,Oklahoma,True,,1254.0,4.9,40149,Washita,"{""40149"": 100}",Washita,40149,False,False,America/Chicago
+73666,35.42036,-99.92412,Sweetwater,OK,Oklahoma,True,,240.0,0.7,40129,Roger Mills,"{""40129"": 53.34, ""40009"": 46.66}",Roger Mills|Beckham,40129|40009,False,False,America/Chicago
+73667,36.00523,-99.03062,Taloga,OK,Oklahoma,True,,538.0,1.3,40043,Dewey,"{""40043"": 100}",Dewey,40043,False,False,America/Chicago
+73668,35.22329,-99.9802,Texola,OK,Oklahoma,True,,,,40009,Beckham,"{""40009"": 100}",Beckham,40009,False,False,America/Chicago
+73669,35.75095,-98.74281,Thomas,OK,Oklahoma,True,,1721.0,4.6,40039,Custer,"{""40039"": 75.89, ""40043"": 18.47, ""40011"": 5.64}",Custer|Dewey|Blaine,40039|40043|40011,False,False,America/Chicago
+73673,35.04649,-99.63762,Willow,OK,Oklahoma,True,,404.0,0.7,40055,Greer,"{""40055"": 90.98, ""40009"": 9.02}",Greer|Beckham,40055|40009,False,False,America/Chicago
+73701,36.42323,-97.78833,Enid,OK,Oklahoma,True,,25084.0,66.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73703,36.44022,-97.9634,Enid,OK,Oklahoma,True,,29077.0,98.4,40047,Garfield,"{""40047"": 96.49, ""40053"": 3.51}",Garfield|Grant,40047|40053,False,False,America/Chicago
+73705,36.33918,-97.90208,Enid,OK,Oklahoma,True,,331.0,256.4,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73716,36.48417,-98.55316,Aline,OK,Oklahoma,True,,561.0,1.3,40151,Woods,"{""40151"": 57.46, ""40003"": 34.39, ""40093"": 8.15}",Woods|Alfalfa|Major,40151|40003|40093,False,False,America/Chicago
+73717,36.84161,-98.77807,Alva,OK,Oklahoma,True,,6896.0,3.9,40151,Woods,"{""40151"": 94.51, ""40003"": 5.49}",Woods|Alfalfa,40151|40003,False,False,America/Chicago
+73718,36.20799,-98.16898,Ames,OK,Oklahoma,True,,490.0,2.2,40093,Major,"{""40093"": 76.27, ""40073"": 16.75, ""40047"": 6.98}",Major|Kingfisher|Garfield,40093|40073|40047,False,False,America/Chicago
+73719,36.96026,-98.26746,Amorita,OK,Oklahoma,True,,92.0,0.8,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago
+73720,36.1973,-97.87038,Bison,OK,Oklahoma,True,,104.0,0.8,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73722,36.90196,-98.36445,Burlington,OK,Oklahoma,True,,363.0,0.9,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago
+73724,36.03757,-98.67235,Canton,OK,Oklahoma,True,,1050.0,3.0,40043,Dewey,"{""40043"": 56.48, ""40011"": 43.52}",Dewey|Blaine,40043|40011,False,False,America/Chicago
+73726,36.58022,-98.50405,Carmen,OK,Oklahoma,True,,416.0,1.7,40003,Alfalfa,"{""40003"": 60.11, ""40151"": 39.89}",Alfalfa|Woods,40003|40151,False,False,America/Chicago
+73727,36.48309,-98.03839,Carrier,OK,Oklahoma,True,,124.0,1.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73728,36.73508,-98.39376,Cherokee,OK,Oklahoma,True,,2082.0,3.6,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago
+73729,36.39723,-98.45256,Cleo Springs,OK,Oklahoma,True,,624.0,3.3,40093,Major,"{""40093"": 84.25, ""40151"": 15.75}",Major|Woods,40093|40151,False,False,America/Chicago
+73730,36.31754,-97.54765,Covington,OK,Oklahoma,True,,701.0,4.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73731,36.64397,-98.59915,Dacoma,OK,Oklahoma,True,,111.0,1.2,40151,Woods,"{""40151"": 100}",Woods,40151,False,False,America/Chicago
+73733,36.2497,-97.69104,Douglas,OK,Oklahoma,True,,210.0,1.5,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73734,35.98453,-97.8534,Dover,OK,Oklahoma,True,,718.0,2.6,40073,Kingfisher,"{""40073"": 100}",Kingfisher,40073,False,False,America/Chicago
+73735,36.27594,-98.05132,Drummond,OK,Oklahoma,True,,637.0,6.0,40047,Garfield,"{""40047"": 96.27, ""40093"": 3.73}",Garfield|Major,40047|40093,False,False,America/Chicago
+73736,36.34607,-97.68751,Fairmont,OK,Oklahoma,True,,658.0,4.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73737,36.29133,-98.58517,Fairview,OK,Oklahoma,True,,3656.0,5.4,40093,Major,"{""40093"": 100}",Major,40093,False,False,America/Chicago
+73738,36.44463,-97.55315,Garber,OK,Oklahoma,True,,979.0,4.1,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73739,36.51999,-98.13697,Goltry,OK,Oklahoma,True,,365.0,2.8,40003,Alfalfa,"{""40003"": 76.94, ""40047"": 23.06}",Alfalfa|Garfield,40003|40047,False,False,America/Chicago
+73741,36.55071,-98.26619,Helena,OK,Oklahoma,True,,1540.0,6.6,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago
+73742,36.09632,-97.91907,Hennessey,OK,Oklahoma,True,,4108.0,7.3,40073,Kingfisher,"{""40073"": 100}",Kingfisher,40073,False,False,America/Chicago
+73743,36.56324,-97.9927,Hillsdale,OK,Oklahoma,True,,52.0,57.9,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73744,35.94912,-98.29643,Hitchcock,OK,Oklahoma,True,,108.0,0.4,40011,Blaine,"{""40011"": 95.28, ""40073"": 4.72}",Blaine|Kingfisher,40011|40073,False,False,America/Chicago
+73746,36.6882,-98.66202,Hopeton,OK,Oklahoma,True,,42.0,32.9,40151,Woods,"{""40151"": 100}",Woods,40151,False,False,America/Chicago
+73747,36.23358,-98.33964,Isabella,OK,Oklahoma,True,,295.0,2.3,40093,Major,"{""40093"": 100}",Major,40093,False,False,America/Chicago
+73749,36.70566,-98.16283,Jet,OK,Oklahoma,True,,498.0,2.1,40003,Alfalfa,"{""40003"": 100}",Alfalfa,40003,False,False,America/Chicago
+73750,35.8534,-97.94435,Kingfisher,OK,Oklahoma,True,,7309.0,10.4,40073,Kingfisher,"{""40073"": 100}",Kingfisher,40073,False,False,America/Chicago
+73753,36.55277,-97.86976,Kremlin,OK,Oklahoma,True,,470.0,2.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73754,36.39016,-98.09455,Lahoma,OK,Oklahoma,True,,981.0,7.8,40047,Garfield,"{""40047"": 61.87, ""40093"": 36.07, ""40003"": 2.06}",Garfield|Major|Alfalfa,40047|40093|40003,False,False,America/Chicago
+73755,36.13717,-98.5889,Longdale,OK,Oklahoma,True,,627.0,2.9,40011,Blaine,"{""40011"": 57.82, ""40093"": 26.31, ""40043"": 15.87}",Blaine|Major|Dewey,40011|40093|40043,False,False,America/Chicago
+73756,35.97507,-98.11439,Loyal,OK,Oklahoma,True,,360.0,1.9,40073,Kingfisher,"{""40073"": 100}",Kingfisher,40073,False,False,America/Chicago
+73757,36.27601,-97.44935,Lucien,OK,Oklahoma,True,,175.0,3.0,40103,Noble,"{""40103"": 73.16, ""40047"": 26.84}",Noble|Garfield,40103|40047,False,False,America/Chicago
+73758,36.93239,-98.0875,Manchester,OK,Oklahoma,True,,135.0,0.5,40053,Grant,"{""40053"": 59.46, ""40003"": 40.54}",Grant|Alfalfa,40053|40003,False,False,America/Chicago
+73759,36.85815,-97.71362,Medford,OK,Oklahoma,True,,1326.0,1.4,40053,Grant,"{""40053"": 100}",Grant,40053,False,False,America/Chicago
+73760,36.38658,-98.1693,Meno,OK,Oklahoma,True,,358.0,2.7,40093,Major,"{""40093"": 95.25, ""40003"": 4.75}",Major|Alfalfa,40093|40003,False,False,America/Chicago
+73761,36.68452,-98.03647,Nash,OK,Oklahoma,True,,328.0,1.1,40053,Grant,"{""40053"": 90.01, ""40047"": 9.99}",Grant|Garfield,40053|40047,False,False,America/Chicago
+73762,35.71197,-97.97442,Okarche,OK,Oklahoma,True,,1975.0,4.3,40017,Canadian,"{""40017"": 55.63, ""40073"": 44.37}",Canadian|Kingfisher,40017|40073,False,False,America/Chicago
+73763,36.10302,-98.3201,Okeene,OK,Oklahoma,True,,1586.0,3.2,40011,Blaine,"{""40011"": 74.7, ""40073"": 13.52, ""40093"": 11.78}",Blaine|Kingfisher|Major,40011|40073|40093,False,False,America/Chicago
+73764,35.85738,-98.20307,Omega,OK,Oklahoma,True,,245.0,2.1,40073,Kingfisher,"{""40073"": 58.36, ""40011"": 41.64}",Kingfisher|Blaine,40073|40011,False,False,America/Chicago
+73766,36.65004,-97.83846,Pond Creek,OK,Oklahoma,True,,1391.0,4.5,40053,Grant,"{""40053"": 100}",Grant,40053,False,False,America/Chicago
+73768,36.36265,-98.27907,Ringwood,OK,Oklahoma,True,,1633.0,5.6,40093,Major,"{""40093"": 98.19, ""40003"": 1.81}",Major|Alfalfa,40093|40003,False,False,America/Chicago
+73770,36.05406,-98.49791,Southard,OK,Oklahoma,True,,,,40011,Blaine,"{""40011"": 100}",Blaine,40011,False,False,America/Chicago
+73771,36.87533,-97.95653,Wakita,OK,Oklahoma,True,,416.0,1.2,40053,Grant,"{""40053"": 100}",Grant,40053,False,False,America/Chicago
+73772,35.86327,-98.42369,Watonga,OK,Oklahoma,True,,4057.0,6.5,40011,Blaine,"{""40011"": 100}",Blaine,40011,False,False,America/Chicago
+73773,36.25804,-97.91922,Waukomis,OK,Oklahoma,True,,1875.0,6.7,40047,Garfield,"{""40047"": 100}",Garfield,40047,False,False,America/Chicago
+73801,36.4733,-99.4307,Woodward,OK,Oklahoma,True,,15285.0,12.9,40153,Woodward,"{""40153"": 78.37, ""40059"": 21.63}",Woodward|Harper,40153|40059,False,False,America/Chicago
+73832,36.05298,-99.65687,Arnett,OK,Oklahoma,True,,975.0,0.7,40045,Ellis,"{""40045"": 92.5, ""40153"": 7.5}",Ellis|Woodward,40045|40153,False,False,America/Chicago
+73834,36.84807,-99.57156,Buffalo,OK,Oklahoma,True,,1769.0,1.5,40059,Harper,"{""40059"": 100}",Harper,40059,False,False,America/Chicago
+73835,35.97327,-99.21279,Camargo,OK,Oklahoma,True,,233.0,0.6,40043,Dewey,"{""40043"": 100}",Dewey,40043,False,False,America/Chicago
+73838,36.24575,-98.87579,Chester,OK,Oklahoma,True,,348.0,0.8,40093,Major,"{""40093"": 82.74, ""40153"": 17.26}",Major|Woodward,40093|40153,False,False,America/Chicago
+73840,36.39436,-99.64581,Fargo,OK,Oklahoma,True,,632.0,1.7,40045,Ellis,"{""40045"": 74.38, ""40153"": 25.62}",Ellis|Woodward,40045|40153,False,False,America/Chicago
+73841,36.54799,-99.61924,Fort Supply,OK,Oklahoma,True,,1311.0,12.3,40045,Ellis,"{""40045"": 59.18, ""40153"": 40.82}",Ellis|Woodward,40045|40153,False,False,America/Chicago
+73842,36.8212,-99.21452,Freedom,OK,Oklahoma,True,,606.0,0.6,40151,Woods,"{""40151"": 66.9, ""40153"": 24.59, ""40059"": 8.51}",Woods|Woodward|Harper,40151|40153|40059,False,False,America/Chicago
+73843,36.39805,-99.83566,Gage,OK,Oklahoma,True,,732.0,0.9,40045,Ellis,"{""40045"": 93.77, ""40007"": 6.23}",Ellis|Beaver,40045|40007,False,False,America/Chicago
+73844,36.89715,-100.16763,Gate,OK,Oklahoma,True,,269.0,0.3,40007,Beaver,"{""40007"": 89.39, ""40059"": 10.61}",Beaver|Harper,40007|40059,False,False,America/Chicago
+73848,36.64843,-100.023,Laverne,OK,Oklahoma,True,,1946.0,1.4,40007,Beaver,"{""40007"": 56.65, ""40059"": 43.35}",Beaver|Harper,40007|40059,False,False,America/Chicago
+73851,36.57298,-99.78406,May,OK,Oklahoma,True,,134.0,0.6,40045,Ellis,"{""40045"": 69.19, ""40059"": 30.81}",Ellis|Harper,40045|40059,False,False,America/Chicago
+73852,36.4873,-99.10798,Mooreland,OK,Oklahoma,True,,2085.0,1.9,40153,Woodward,"{""40153"": 98.37, ""40093"": 1.63}",Woodward|Major,40153|40093,False,False,America/Chicago
+73853,36.24333,-99.15664,Mutual,OK,Oklahoma,True,,437.0,1.2,40153,Woodward,"{""40153"": 98.71, ""40043"": 1.29}",Woodward|Dewey,40153|40043,False,False,America/Chicago
+73855,36.88481,-99.85877,Rosston,OK,Oklahoma,True,,116.0,0.3,40059,Harper,"{""40059"": 100}",Harper,40059,False,False,America/Chicago
+73857,36.27223,-99.33235,Sharon,OK,Oklahoma,True,,855.0,4.8,40153,Woodward,"{""40153"": 100}",Woodward,40153,False,False,America/Chicago
+73858,36.17037,-99.92442,Shattuck,OK,Oklahoma,True,,1766.0,3.0,40045,Ellis,"{""40045"": 100}",Ellis,40045,False,False,America/Chicago
+73859,36.13309,-99.2797,Vici,OK,Oklahoma,True,,1311.0,3.3,40043,Dewey,"{""40043"": 64.15, ""40153"": 24.37, ""40045"": 11.48}",Dewey|Woodward|Ellis,40043|40153|40045,False,False,America/Chicago
+73860,36.53573,-98.86265,Waynoka,OK,Oklahoma,True,,1271.0,1.5,40151,Woods,"{""40151"": 61.49, ""40093"": 38.51}",Woods|Major,40151|40093,False,False,America/Chicago
+73901,36.75458,-101.07517,Adams,OK,Oklahoma,True,,306.0,234.2,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+73931,36.60097,-100.80329,Balko,OK,Oklahoma,True,,559.0,1.0,40007,Beaver,"{""40007"": 100}",Beaver,40007,False,False,America/Chicago
+73932,36.7,-100.51914,Beaver,OK,Oklahoma,True,,2074.0,1.5,40007,Beaver,"{""40007"": 100}",Beaver,40007,False,False,America/Chicago
+73933,36.7436,-102.58198,Boise City,OK,Oklahoma,True,,1419.0,0.6,40025,Cimarron,"{""40025"": 100}",Cimarron,40025,False,False,America/Chicago
+73937,36.5642,-102.76703,Felt,OK,Oklahoma,True,,188.0,0.3,40025,Cimarron,"{""40025"": 100}",Cimarron,40025,False,False,America/Chicago
+73938,36.92585,-100.58497,Forgan,OK,Oklahoma,True,,819.0,1.5,40007,Beaver,"{""40007"": 100}",Beaver,40007,False,False,America/Chicago
+73939,36.76824,-101.78344,Goodwell,OK,Oklahoma,True,,1530.0,1.5,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+73942,36.74452,-101.49555,Guymon,OK,Oklahoma,True,,12980.0,8.3,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+73944,36.58511,-101.10339,Hardesty,OK,Oklahoma,True,,463.0,0.9,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+73945,36.8321,-101.22474,Hooker,OK,Oklahoma,True,,2369.0,2.3,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+73946,36.92316,-102.81258,Kenton,OK,Oklahoma,True,,51.0,0.1,40025,Cimarron,"{""40025"": 100}",Cimarron,40025,False,False,America/Chicago
+73947,36.84672,-102.17316,Keyes,OK,Oklahoma,True,,498.0,0.5,40025,Cimarron,"{""40025"": 92.88, ""40139"": 7.12}",Cimarron|Texas,40025|40139,False,False,America/Chicago
+73949,36.5929,-101.98559,Texhoma,OK,Oklahoma,True,,1874.0,1.6,40139,Texas,"{""40139"": 59.05, ""40025"": 27.32, ""48421"": 13.63}",Texas|Cimarron|Sherman,40139|40025|48421,False,False,America/Chicago
+73950,36.85193,-100.88621,Turpin,OK,Oklahoma,True,,1471.0,2.5,40007,Beaver,"{""40007"": 80.07, ""40139"": 19.93}",Beaver|Texas,40007|40139,False,False,America/Chicago
+73951,36.95004,-101.05463,Tyrone,OK,Oklahoma,True,,1403.0,6.5,40139,Texas,"{""40139"": 100}",Texas,40139,False,False,America/Chicago
+74001,36.48857,-96.0625,Avant,OK,Oklahoma,True,,373.0,228.4,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74002,36.5613,-96.14528,Barnsdall,OK,Oklahoma,True,,1808.0,4.5,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74003,36.73107,-96.06675,Bartlesville,OK,Oklahoma,True,,14509.0,43.2,40113,Osage,"{""40113"": 84.76, ""40147"": 15.24}",Osage|Washington,40113|40147,False,False,America/Chicago
+74006,36.71507,-95.89391,Bartlesville,OK,Oklahoma,True,,26660.0,112.6,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago
+74008,35.92614,-95.87575,Bixby,OK,Oklahoma,True,,30144.0,156.5,40143,Tulsa,"{""40143"": 95.98, ""40145"": 4.02}",Tulsa|Wagoner,40143|40145,False,False,America/Chicago
+74010,35.80945,-96.36101,Bristow,OK,Oklahoma,True,,10537.0,12.6,40037,Creek,"{""40037"": 99.15, ""40107"": 0.85}",Creek|Okfuskee,40037|40107,False,False,America/Chicago
+74011,35.98154,-95.81007,Broken Arrow,OK,Oklahoma,True,,29680.0,480.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74012,36.05381,-95.80509,Broken Arrow,OK,Oklahoma,True,,61855.0,962.1,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74014,36.05538,-95.66819,Broken Arrow,OK,Oklahoma,True,,42275.0,155.5,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74015,36.18012,-95.70952,Catoosa,OK,Oklahoma,True,,8771.0,56.1,40131,Rogers,"{""40131"": 69.39, ""40145"": 30.37, ""40143"": 0.24}",Rogers|Wagoner|Tulsa,40131|40145|40143,False,False,America/Chicago
+74016,36.54093,-95.45283,Chelsea,OK,Oklahoma,True,,5779.0,15.5,40131,Rogers,"{""40131"": 61.48, ""40097"": 15.88, ""40105"": 11.94, ""40035"": 10.7}",Rogers|Mayes|Nowata|Craig,40131|40097|40105|40035,False,False,America/Chicago
+74017,36.39359,-95.57986,Claremore,OK,Oklahoma,True,,28285.0,77.7,40131,Rogers,"{""40131"": 100}",Rogers,40131,False,False,America/Chicago
+74019,36.28326,-95.60684,Claremore,OK,Oklahoma,True,,18256.0,61.6,40131,Rogers,"{""40131"": 100}",Rogers,40131,False,False,America/Chicago
+74020,36.24562,-96.41934,Cleveland,OK,Oklahoma,True,,7453.0,42.5,40117,Pawnee,"{""40117"": 100}",Pawnee,40117,False,False,America/Chicago
+74021,36.37915,-95.84758,Collinsville,OK,Oklahoma,True,,21746.0,125.3,40143,Tulsa,"{""40143"": 66.22, ""40131"": 18.93, ""40147"": 14.85}",Tulsa|Rogers|Washington,40143|40131|40147,False,False,America/Chicago
+74022,36.93055,-95.98054,Copan,OK,Oklahoma,True,,1908.0,6.2,40147,Washington,"{""40147"": 57.49, ""40113"": 42.51}",Washington|Osage,40147|40113,False,False,America/Chicago
+74023,35.95708,-96.74963,Cushing,OK,Oklahoma,True,,11392.0,25.4,40119,Payne,"{""40119"": 59.16, ""40081"": 40.84}",Payne|Lincoln,40119|40081,False,False,America/Chicago
+74026,35.72266,-96.78282,Davenport,OK,Oklahoma,True,,791.0,32.1,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago
+74027,36.80285,-95.58628,Delaware,OK,Oklahoma,True,,1041.0,4.1,40105,Nowata,"{""40105"": 100}",Nowata,40105,False,False,America/Chicago
+74028,35.79554,-96.52259,Depew,OK,Oklahoma,True,,1699.0,6.5,40037,Creek,"{""40037"": 99.42, ""40081"": 0.58}",Creek|Lincoln,40037|40081,False,False,America/Chicago
+74029,36.82558,-95.88172,Dewey,OK,Oklahoma,True,,4625.0,39.0,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago
+74030,35.98508,-96.5673,Drumright,OK,Oklahoma,True,,3750.0,20.9,40037,Creek,"{""40037"": 91.65, ""40119"": 8.35}",Creek|Payne,40037|40119,False,False,America/Chicago
+74032,36.2115,-96.90402,Glencoe,OK,Oklahoma,True,,1729.0,6.1,40119,Payne,"{""40119"": 71.59, ""40117"": 19.31, ""40103"": 9.1}",Payne|Pawnee|Noble,40119|40117|40103,False,False,America/Chicago
+74033,35.94711,-96.00636,Glenpool,OK,Oklahoma,True,,12663.0,396.0,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74034,36.23266,-96.56288,Hallett,OK,Oklahoma,True,,81.0,16.4,40117,Pawnee,"{""40117"": 100}",Pawnee,40117,False,False,America/Chicago
+74035,36.40368,-96.37607,Hominy,OK,Oklahoma,True,,4197.0,6.9,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74036,36.15713,-95.50497,Inola,OK,Oklahoma,True,,7258.0,21.8,40131,Rogers,"{""40131"": 80.61, ""40097"": 10.55, ""40145"": 8.84}",Rogers|Mayes|Wagoner,40131|40097|40145,False,False,America/Chicago
+74037,36.00149,-95.98171,Jenks,OK,Oklahoma,True,,18972.0,453.2,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74038,36.1552,-96.56151,Jennings,OK,Oklahoma,True,,2317.0,8.7,40037,Creek,"{""40037"": 51.61, ""40117"": 48.39}",Creek|Pawnee,40037|40117,False,False,America/Chicago
+74039,35.89822,-96.22842,Kellyville,OK,Oklahoma,True,,3794.0,21.6,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74041,35.93808,-96.05545,Kiefer,OK,Oklahoma,True,,2913.0,128.1,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74042,36.88381,-95.55223,Lenapah,OK,Oklahoma,True,,448.0,3.2,40105,Nowata,"{""40105"": 100}",Nowata,40105,False,False,America/Chicago
+74044,36.08964,-96.38117,Mannford,OK,Oklahoma,True,,7602.0,33.5,40037,Creek,"{""40037"": 89.88, ""40117"": 10.12}",Creek|Pawnee,40037|40117,False,False,America/Chicago
+74045,36.22153,-96.70049,Maramec,OK,Oklahoma,True,,319.0,2.9,40117,Pawnee,"{""40117"": 99.71, ""40119"": 0.29}",Pawnee|Payne,40117|40119,False,False,America/Chicago
+74046,35.75455,-96.56969,Milfay,OK,Oklahoma,True,,130.0,24.8,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74047,35.85522,-96.02583,Mounds,OK,Oklahoma,True,,7289.0,28.5,40111,Okmulgee,"{""40111"": 55.65, ""40143"": 24.44, ""40037"": 19.91}",Okmulgee|Tulsa|Creek,40111|40143|40037,False,False,America/Chicago
+74048,36.69265,-95.65192,Nowata,OK,Oklahoma,True,,5956.0,10.9,40105,Nowata,"{""40105"": 99.58, ""40147"": 0.42}",Nowata|Washington,40105|40147,False,False,America/Chicago
+74050,36.07221,-96.06546,Oakhurst,OK,Oklahoma,True,,436.0,402.4,40037,Creek,"{""40037"": 90.52, ""40143"": 9.48}",Creek|Tulsa,40037|40143,False,False,America/Chicago
+74051,36.61412,-95.96532,Ochelata,OK,Oklahoma,True,,2266.0,26.5,40147,Washington,"{""40147"": 90.16, ""40113"": 9.84}",Washington|Osage,40147|40113,False,False,America/Chicago
+74052,36.07076,-96.5738,Oilton,OK,Oklahoma,True,,919.0,40.2,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74053,36.43419,-95.73282,Oologah,OK,Oklahoma,True,,5308.0,49.5,40131,Rogers,"{""40131"": 100}",Rogers,40131,False,False,America/Chicago
+74054,36.27299,-96.32962,Osage,OK,Oklahoma,True,,749.0,10.0,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74055,36.27735,-95.81998,Owasso,OK,Oklahoma,True,,46806.0,354.7,40143,Tulsa,"{""40143"": 54.46, ""40131"": 45.54}",Tulsa|Rogers,40143|40131,False,False,America/Chicago
+74056,36.79706,-96.33873,Pawhuska,OK,Oklahoma,True,,5509.0,3.3,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74058,36.35499,-96.75909,Pawnee,OK,Oklahoma,True,,3951.0,6.0,40117,Pawnee,"{""40117"": 99.77, ""40113"": 0.23}",Pawnee|Osage,40117|40113,False,False,America/Chicago
+74059,35.95736,-97.06255,Perkins,OK,Oklahoma,True,,5266.0,18.1,40119,Payne,"{""40119"": 63.48, ""40081"": 28.46, ""40083"": 8.06}",Payne|Lincoln|Logan,40119|40081|40083,False,False,America/Chicago
+74060,36.2472,-96.25434,Prue,OK,Oklahoma,True,,408.0,32.1,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74061,36.53814,-95.89974,Ramona,OK,Oklahoma,True,,2314.0,9.9,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago
+74062,36.03481,-96.89727,Ripley,OK,Oklahoma,True,,873.0,10.6,40119,Payne,"{""40119"": 100}",Payne,40119,False,False,America/Chicago
+74063,36.15201,-96.19206,Sand Springs,OK,Oklahoma,True,,31487.0,93.6,40143,Tulsa,"{""40143"": 49.41, ""40113"": 41.56, ""40037"": 9.02}",Tulsa|Osage|Creek,40143|40113|40037,False,False,America/Chicago
+74066,35.99379,-96.1676,Sapulpa,OK,Oklahoma,True,,33179.0,103.6,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74068,35.90829,-96.57498,Shamrock,OK,Oklahoma,True,,31.0,16.1,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74070,36.3881,-96.07253,Skiatook,OK,Oklahoma,True,,14864.0,29.3,40113,Osage,"{""40113"": 75.44, ""40143"": 16.41, ""40147"": 8.15}",Osage|Tulsa|Washington,40113|40143|40147,False,False,America/Chicago
+74071,35.77835,-96.26467,Slick,OK,Oklahoma,True,,147.0,24.5,40037,Creek,"{""40037"": 100}",Creek,40037,False,False,America/Chicago
+74072,36.94209,-95.54436,S Coffeyville,OK,Oklahoma,True,,1807.0,6.3,40105,Nowata,"{""40105"": 88.01, ""40035"": 11.99}",Nowata|Craig,40105|40035,False,False,America/Chicago
+74073,36.29818,-96.01326,Sperry,OK,Oklahoma,True,,6012.0,49.7,40113,Osage,"{""40113"": 60.09, ""40143"": 39.91}",Osage|Tulsa,40113|40143,False,False,America/Chicago
+74074,36.07832,-97.06452,Stillwater,OK,Oklahoma,True,,32339.0,98.0,40119,Payne,"{""40119"": 100}",Payne,40119,False,False,America/Chicago
+74075,36.17151,-97.0774,Stillwater,OK,Oklahoma,True,,27347.0,111.3,40119,Payne,"{""40119"": 88.58, ""40103"": 11.42}",Payne|Noble,40119|40103,False,False,America/Chicago
+74077,36.12398,-97.06901,Stillwater,OK,Oklahoma,True,,,,40119,Payne,"{""40119"": 100}",Payne,40119,False,False,America/Chicago
+74078,36.12528,-97.07969,Stillwater,OK,Oklahoma,True,,2082.0,5827.8,40119,Payne,"{""40119"": 100}",Payne,40119,False,False,America/Chicago
+74079,35.74368,-96.65592,Stroud,OK,Oklahoma,True,,4218.0,8.7,40081,Lincoln,"{""40081"": 69.74, ""40037"": 29.12, ""40107"": 1.14}",Lincoln|Creek|Okfuskee,40081|40037|40107,False,False,America/Chicago
+74080,36.52849,-95.74192,Talala,OK,Oklahoma,True,,2862.0,11.2,40131,Rogers,"{""40131"": 87.05, ""40147"": 12.95}",Rogers|Washington,40131|40147,False,False,America/Chicago
+74081,36.17536,-96.45875,Terlton,OK,Oklahoma,True,,1875.0,20.7,40117,Pawnee,"{""40117"": 67.43, ""40037"": 32.57}",Pawnee|Creek,40117|40037,False,False,America/Chicago
+74082,36.44889,-95.88091,Vera,OK,Oklahoma,True,,63.0,133.4,40147,Washington,"{""40147"": 100}",Washington,40147,False,False,America/Chicago
+74083,36.91504,-95.77093,Wann,OK,Oklahoma,True,,1040.0,3.7,40105,Nowata,"{""40105"": 69.72, ""40147"": 30.28}",Nowata|Washington,40105|40147,False,False,America/Chicago
+74084,36.52849,-96.33325,Wynona,OK,Oklahoma,True,,439.0,3.4,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74085,36.10795,-96.715,Yale,OK,Oklahoma,True,,2143.0,8.5,40119,Payne,"{""40119"": 86.9, ""40117"": 8.23, ""40037"": 4.87}",Payne|Pawnee|Creek,40119|40117|40037,False,False,America/Chicago
+74103,36.15617,-95.9957,Tulsa,OK,Oklahoma,True,,2092.0,1235.6,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74104,36.14627,-95.9542,Tulsa,OK,Oklahoma,True,,11599.0,1652.6,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74105,36.0975,-95.9641,Tulsa,OK,Oklahoma,True,,25857.0,1373.7,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74106,36.19191,-95.98416,Tulsa,OK,Oklahoma,True,,17104.0,864.7,40143,Tulsa,"{""40143"": 99.14, ""40113"": 0.86}",Tulsa|Osage,40143|40113,False,False,America/Chicago
+74107,36.10737,-96.04095,Tulsa,OK,Oklahoma,True,,19704.0,299.8,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74108,36.14723,-95.79154,Tulsa,OK,Oklahoma,True,,7928.0,352.7,40143,Tulsa,"{""40143"": 86.12, ""40145"": 13.88}",Tulsa|Wagoner,40143|40145,False,False,America/Chicago
+74110,36.18856,-95.95377,Tulsa,OK,Oklahoma,True,,14882.0,977.6,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74112,36.14696,-95.90437,Tulsa,OK,Oklahoma,True,,21261.0,1204.1,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74114,36.12696,-95.94661,Tulsa,OK,Oklahoma,True,,16290.0,1302.0,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74115,36.1923,-95.90903,Tulsa,OK,Oklahoma,True,,23340.0,562.4,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74116,36.18814,-95.83621,Tulsa,OK,Oklahoma,True,,3551.0,76.2,40143,Tulsa,"{""40143"": 80.8, ""40131"": 19.2}",Tulsa|Rogers,40143|40131,False,False,America/Chicago
+74117,36.24146,-95.89854,Tulsa,OK,Oklahoma,True,,32.0,1.1,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74119,36.14205,-95.9894,Tulsa,OK,Oklahoma,True,,2900.0,1435.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74120,36.1504,-95.97689,Tulsa,OK,Oklahoma,True,,4816.0,883.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74126,36.23502,-96.0331,Tulsa,OK,Oklahoma,True,,10650.0,170.9,40113,Osage,"{""40113"": 74.37, ""40143"": 25.63}",Osage|Tulsa,40113|40143,False,False,America/Chicago
+74127,36.17462,-96.04511,Tulsa,OK,Oklahoma,True,,15858.0,287.1,40113,Osage,"{""40113"": 70.56, ""40143"": 29.44}",Osage|Tulsa,40113|40143,False,False,America/Chicago
+74128,36.1472,-95.85089,Tulsa,OK,Oklahoma,True,,13327.0,1431.8,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74129,36.12669,-95.8701,Tulsa,OK,Oklahoma,True,,19223.0,1862.2,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74130,36.24172,-95.95536,Tulsa,OK,Oklahoma,True,,1958.0,182.8,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74131,36.05172,-96.07291,Tulsa,OK,Oklahoma,True,,2577.0,103.9,40037,Creek,"{""40037"": 99.88, ""40143"": 0.12}",Creek|Tulsa,40037|40143,False,False,America/Chicago
+74132,36.04869,-96.01315,Tulsa,OK,Oklahoma,True,,9914.0,303.6,40143,Tulsa,"{""40143"": 75.06, ""40037"": 24.94}",Tulsa|Creek,40143|40037,False,False,America/Chicago
+74133,36.04113,-95.87955,Tulsa,OK,Oklahoma,True,,45958.0,1298.4,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74134,36.1106,-95.80156,Tulsa,OK,Oklahoma,True,,17681.0,565.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74135,36.09725,-95.92315,Tulsa,OK,Oklahoma,True,,19415.0,1219.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74136,36.06188,-95.9419,Tulsa,OK,Oklahoma,True,,32139.0,1604.3,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74137,36.02038,-95.92932,Tulsa,OK,Oklahoma,True,,27341.0,1015.0,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74145,36.09728,-95.88731,Tulsa,OK,Oklahoma,True,,18957.0,1231.5,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74146,36.09784,-95.85344,Tulsa,OK,Oklahoma,True,,16143.0,1213.3,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74171,36.05064,-95.95253,Tulsa,OK,Oklahoma,True,,,,40143,Tulsa,"{""40143"": 100}",Tulsa,40143,False,False,America/Chicago
+74301,36.68157,-95.23687,Vinita,OK,Oklahoma,True,,11653.0,11.5,40035,Craig,"{""40035"": 93.76, ""40097"": 3.74, ""40105"": 2.5}",Craig|Mayes|Nowata,40035|40097|40105,False,False,America/Chicago
+74330,36.4404,-95.26851,Adair,OK,Oklahoma,True,,2741.0,11.0,40097,Mayes,"{""40097"": 94.89, ""40035"": 5.11}",Mayes|Craig,40097|40035,False,False,America/Chicago
+74331,36.64683,-94.9459,Afton,OK,Oklahoma,True,,7456.0,23.2,40041,Delaware,"{""40041"": 57.76, ""40115"": 28.11, ""40035"": 14.13}",Delaware|Ottawa|Craig,40041|40115|40035,False,False,America/Chicago
+74332,36.52111,-95.23864,Big Cabin,OK,Oklahoma,True,,1610.0,8.9,40035,Craig,"{""40035"": 43.56, ""40097"": 35.85, ""40131"": 20.59}",Craig|Mayes|Rogers,40035|40097|40131,False,False,America/Chicago
+74333,36.79386,-95.08408,Bluejacket,OK,Oklahoma,True,,922.0,3.9,40035,Craig,"{""40035"": 87.94, ""40115"": 12.06}",Craig|Ottawa,40035|40115,False,False,America/Chicago
+74337,36.14122,-95.33505,Chouteau,OK,Oklahoma,True,,5112.0,20.5,40097,Mayes,"{""40097"": 88.22, ""40145"": 11.78}",Mayes|Wagoner,40097|40145,False,False,America/Chicago
+74338,36.26234,-94.71572,Colcord,OK,Oklahoma,True,,5744.0,15.7,40041,Delaware,"{""40041"": 99.74, ""40001"": 0.26}",Delaware|Adair,40041|40001,False,False,America/Chicago
+74339,36.934,-94.87975,Commerce,OK,Oklahoma,True,,2393.0,270.5,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago
+74340,36.4777,-95.01944,Disney,OK,Oklahoma,True,,194.0,65.8,40097,Mayes,"{""40097"": 100}",Mayes,40097,False,False,America/Chicago
+74342,36.42227,-94.94113,Eucha,OK,Oklahoma,True,,2793.0,14.4,40041,Delaware,"{""40041"": 97.0, ""40097"": 3.0}",Delaware|Mayes,40041|40097,False,False,America/Chicago
+74343,36.74287,-94.825,Fairland,OK,Oklahoma,True,,3084.0,18.6,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago
+74344,36.59604,-94.73845,Grove,OK,Oklahoma,True,,15381.0,66.3,40041,Delaware,"{""40041"": 97.77, ""40115"": 2.23}",Delaware|Ottawa,40041|40115,False,False,America/Chicago
+74346,36.43427,-94.75066,Jay,OK,Oklahoma,True,,7487.0,12.7,40041,Delaware,"{""40041"": 100}",Delaware,40041,False,False,America/Chicago
+74347,36.19573,-94.78525,Kansas,OK,Oklahoma,True,,2456.0,18.1,40041,Delaware,"{""40041"": 79.37, ""40001"": 12.79, ""40021"": 7.84}",Delaware|Adair|Cherokee,40041|40001|40021,False,False,America/Chicago
+74349,36.51234,-95.02557,Ketchum,OK,Oklahoma,True,,287.0,16.8,40035,Craig,"{""40035"": 53.38, ""40097"": 46.62}",Craig|Mayes,40035|40097,False,False,America/Chicago
+74350,36.46643,-95.04776,Langley,OK,Oklahoma,True,,668.0,42.4,40097,Mayes,"{""40097"": 100}",Mayes,40097,False,False,America/Chicago
+74352,36.13693,-95.18783,Locust Grove,OK,Oklahoma,True,,6279.0,19.6,40097,Mayes,"{""40097"": 78.81, ""40145"": 15.23, ""40021"": 5.96}",Mayes|Wagoner|Cherokee,40097|40145|40021,False,False,America/Chicago
+74354,36.88962,-94.88096,Miami,OK,Oklahoma,True,,17735.0,37.2,40115,Ottawa,"{""40115"": 96.79, ""40035"": 3.21}",Ottawa|Craig,40115|40035,False,False,America/Chicago
+74358,36.91798,-94.88052,North Miami,OK,Oklahoma,True,,219.0,630.6,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago
+74359,36.16846,-94.85218,Oaks,OK,Oklahoma,True,,663.0,116.6,40041,Delaware,"{""40041"": 94.64, ""40021"": 5.36}",Delaware|Cherokee,40041|40021,False,False,America/Chicago
+74360,36.9801,-94.83636,Picher,OK,Oklahoma,True,,25.0,2.0,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago
+74361,36.30914,-95.30732,Pryor,OK,Oklahoma,True,,17255.0,40.7,40097,Mayes,"{""40097"": 100}",Mayes,40097,False,False,America/Chicago
+74363,36.95341,-94.70965,Quapaw,OK,Oklahoma,True,,2832.0,16.7,40115,Ottawa,"{""40115"": 100}",Ottawa,40115,False,False,America/Chicago
+74364,36.19915,-94.95683,Rose,OK,Oklahoma,True,,1961.0,7.7,40041,Delaware,"{""40041"": 66.05, ""40021"": 21.03, ""40097"": 12.92}",Delaware|Cherokee|Mayes,40041|40021|40097,False,False,America/Chicago
+74365,36.29072,-95.05461,Salina,OK,Oklahoma,True,,4478.0,21.0,40097,Mayes,"{""40097"": 74.89, ""40041"": 25.11}",Mayes|Delaware,40097|40041,False,False,America/Chicago
+74366,36.37887,-95.04449,Spavinaw,OK,Oklahoma,True,,1434.0,15.4,40097,Mayes,"{""40097"": 89.93, ""40041"": 10.07}",Mayes|Delaware,40097|40041,False,False,America/Chicago
+74367,36.4222,-95.10674,Strang,OK,Oklahoma,True,,482.0,8.8,40097,Mayes,"{""40097"": 100}",Mayes,40097,False,False,America/Chicago
+74368,36.20725,-94.84822,Twin Oaks,OK,Oklahoma,True,,91.0,33.7,40041,Delaware,"{""40041"": 100}",Delaware,40041,False,False,America/Chicago
+74369,36.92237,-95.19776,Welch,OK,Oklahoma,True,,1958.0,3.5,40035,Craig,"{""40035"": 100}",Craig,40035,False,False,America/Chicago
+74370,36.76429,-94.68017,Wyandotte,OK,Oklahoma,True,,3857.0,13.8,40115,Ottawa,"{""40115"": 92.49, ""40041"": 7.51}",Ottawa|Delaware,40115|40041,False,False,America/Chicago
+74401,35.72304,-95.45431,Muskogee,OK,Oklahoma,True,,15761.0,54.9,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74403,35.67427,-95.305,Muskogee,OK,Oklahoma,True,,30742.0,108.2,40101,Muskogee,"{""40101"": 94.76, ""40145"": 5.24}",Muskogee|Wagoner,40101|40145,False,False,America/Chicago
+74421,35.75928,-96.03615,Beggs,OK,Oklahoma,True,,4433.0,13.0,40111,Okmulgee,"{""40111"": 98.63, ""40037"": 1.37}",Okmulgee|Creek,40111|40037,False,False,America/Chicago
+74422,35.64156,-95.69143,Boynton,OK,Oklahoma,True,,924.0,4.4,40101,Muskogee,"{""40101"": 57.3, ""40111"": 42.7}",Muskogee|Okmulgee,40101|40111,False,False,America/Chicago
+74423,35.64251,-95.22339,Braggs,OK,Oklahoma,True,,911.0,15.1,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74425,35.17184,-95.62299,Canadian,OK,Oklahoma,True,,1166.0,49.8,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74426,35.44553,-95.52759,Checotah,OK,Oklahoma,True,,9081.0,15.9,40091,McIntosh,"{""40091"": 99.84, ""40101"": 0.16}",McIntosh|Muskogee,40091|40101,False,False,America/Chicago
+74427,35.68638,-94.91056,Cookson,OK,Oklahoma,True,,1293.0,13.1,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago
+74428,35.54835,-95.64683,Council Hill,OK,Oklahoma,True,,1132.0,8.0,40091,McIntosh,"{""40091"": 53.44, ""40101"": 46.56}",McIntosh|Muskogee,40091|40101,False,False,America/Chicago
+74429,35.94872,-95.63065,Coweta,OK,Oklahoma,True,,15388.0,70.5,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74430,35.13175,-95.64826,Crowder,OK,Oklahoma,True,,504.0,28.7,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74431,35.45743,-95.93934,Dewar,OK,Oklahoma,True,,851.0,74.7,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago
+74432,35.28371,-95.64911,Eufaula,OK,Oklahoma,True,,10197.0,18.8,40091,McIntosh,"{""40091"": 79.37, ""40121"": 20.63}",McIntosh|Pittsburg,40091|40121,False,False,America/Chicago
+74434,35.78174,-95.20027,Fort Gibson,OK,Oklahoma,True,,9209.0,28.9,40101,Muskogee,"{""40101"": 61.33, ""40021"": 26.05, ""40145"": 12.62}",Muskogee|Cherokee|Wagoner,40101|40021|40145,False,False,America/Chicago
+74435,35.57862,-95.09405,Gore,OK,Oklahoma,True,,3622.0,22.3,40135,Sequoyah,"{""40135"": 74.4, ""40101"": 25.6}",Sequoyah|Muskogee,40135|40101,False,False,America/Chicago
+74436,35.80034,-95.70175,Haskell,OK,Oklahoma,True,,5431.0,14.7,40101,Muskogee,"{""40101"": 64.05, ""40145"": 21.27, ""40111"": 14.68}",Muskogee|Wagoner|Okmulgee,40101|40145|40111,False,False,America/Chicago
+74437,35.44825,-95.94417,Henryetta,OK,Oklahoma,True,,9945.0,20.2,40111,Okmulgee,"{""40111"": 67.18, ""40091"": 26.37, ""40107"": 6.45}",Okmulgee|McIntosh|Okfuskee,40111|40091|40107,False,False,America/Chicago
+74438,35.51382,-95.75935,Hitchita,OK,Oklahoma,True,,120.0,2.2,40091,McIntosh,"{""40091"": 100}",McIntosh,40091,False,False,America/Chicago
+74441,35.97458,-95.14613,Hulbert,OK,Oklahoma,True,,5754.0,14.9,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago
+74442,35.12983,-95.8151,Indianola,OK,Oklahoma,True,,924.0,5.3,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74445,35.62729,-95.82605,Morris,OK,Oklahoma,True,,3331.0,15.8,40111,Okmulgee,"{""40111"": 97.68, ""40091"": 2.32}",Okmulgee|McIntosh,40111|40091,False,False,America/Chicago
+74446,35.85117,-95.32264,Okay,OK,Oklahoma,True,,475.0,137.6,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74447,35.64975,-96.00628,Okmulgee,OK,Oklahoma,True,,16101.0,26.8,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago
+74450,35.59714,-95.47541,Oktaha,OK,Oklahoma,True,,1446.0,8.4,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74451,35.72886,-95.00166,Park Hill,OK,Oklahoma,True,,4126.0,18.0,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago
+74452,36.12137,-95.06829,Peggs,OK,Oklahoma,True,,464.0,7.0,40021,Cherokee,"{""40021"": 91.79, ""40097"": 8.21}",Cherokee|Mayes,40021|40097,False,False,America/Chicago
+74454,35.85464,-95.51253,Porter,OK,Oklahoma,True,,3466.0,12.6,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74455,35.36238,-95.26867,Porum,OK,Oklahoma,True,,3039.0,10.1,40101,Muskogee,"{""40101"": 86.92, ""40091"": 13.08}",Muskogee|McIntosh,40101|40091,False,False,America/Chicago
+74456,35.71083,-95.99262,Preston,OK,Oklahoma,True,,226.0,352.1,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago
+74457,36.03063,-94.82065,Proctor,OK,Oklahoma,True,,317.0,1.7,40021,Cherokee,"{""40021"": 62.08, ""40001"": 37.92}",Cherokee|Adair,40021|40001,False,False,America/Chicago
+74458,35.88231,-95.58786,Redbird,OK,Oklahoma,True,,78.0,11.8,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74459,35.51878,-95.49217,Rentiesville,OK,Oklahoma,True,,56.0,21.7,40091,McIntosh,"{""40091"": 100}",McIntosh,40091,False,False,America/Chicago
+74460,35.50473,-95.96452,Schulter,OK,Oklahoma,True,,181.0,33.2,40111,Okmulgee,"{""40111"": 100}",Okmulgee,40111,False,False,America/Chicago
+74462,35.28328,-95.15041,Stigler,OK,Oklahoma,True,,7595.0,10.9,40061,Haskell,"{""40061"": 96.71, ""40121"": 3.29}",Haskell|Pittsburg,40061|40121,False,False,America/Chicago
+74463,35.76943,-95.54843,Taft,OK,Oklahoma,True,,2089.0,145.9,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74464,35.94419,-94.97365,Tahlequah,OK,Oklahoma,True,,31889.0,48.5,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago
+74467,35.96681,-95.39181,Wagoner,OK,Oklahoma,True,,15162.0,38.0,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74468,35.62121,-95.59025,Wainwright,OK,Oklahoma,True,,274.0,8.7,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74469,35.5083,-95.31545,Warner,OK,Oklahoma,True,,2251.0,16.3,40101,Muskogee,"{""40101"": 88.45, ""40091"": 11.55}",Muskogee|McIntosh,40101|40091,False,False,America/Chicago
+74470,35.47906,-95.16879,Webbers Falls,OK,Oklahoma,True,,1642.0,7.9,40101,Muskogee,"{""40101"": 100}",Muskogee,40101,False,False,America/Chicago
+74471,35.82749,-94.86454,Welling,OK,Oklahoma,True,,1690.0,14.2,40021,Cherokee,"{""40021"": 100}",Cherokee,40021,False,False,America/Chicago
+74472,35.25028,-95.263,Whitefield,OK,Oklahoma,True,,678.0,20.2,40061,Haskell,"{""40061"": 100}",Haskell,40061,False,False,America/Chicago
+74477,36.00394,-95.26644,Wagoner,OK,Oklahoma,True,,10.0,105.4,40145,Wagoner,"{""40145"": 100}",Wagoner,40145,False,False,America/Chicago
+74501,34.98501,-95.78597,Mcalester,OK,Oklahoma,True,,28019.0,19.6,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74521,34.66222,-95.09934,Albion,OK,Oklahoma,True,,229.0,374.9,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74522,34.88253,-95.6767,Alderson,OK,Oklahoma,True,,,,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74523,34.25171,-95.60018,Antlers,OK,Oklahoma,True,,5298.0,7.6,40127,Pushmataha,"{""40127"": 92.76, ""40023"": 5.56, ""40005"": 1.68}",Pushmataha|Choctaw|Atoka,40127|40023|40005,False,False,America/Chicago
+74525,34.33441,-96.05563,Atoka,OK,Oklahoma,True,,9345.0,8.3,40005,Atoka,"{""40005"": 99.15, ""40029"": 0.85}",Atoka|Coal,40005|40029,False,False,America/Chicago
+74528,34.71644,-95.723,Blanco,OK,Oklahoma,True,,168.0,2.2,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74530,34.42677,-96.5152,Bromide,OK,Oklahoma,True,,185.0,3.1,40069,Johnston,"{""40069"": 65.2, ""40029"": 34.8}",Johnston|Coal,40069|40029,False,False,America/Chicago
+74531,34.8777,-96.24035,Calvin,OK,Oklahoma,True,,957.0,3.6,40063,Hughes,"{""40063"": 94.76, ""40029"": 5.24}",Hughes|Coal,40063|40029,False,False,America/Chicago
+74533,34.20521,-96.18893,Caney,OK,Oklahoma,True,,1012.0,9.1,40005,Atoka,"{""40005"": 100}",Atoka,40005,False,False,America/Chicago
+74534,34.61965,-96.36634,Centrahoma,OK,Oklahoma,True,,127.0,1.7,40029,Coal,"{""40029"": 100}",Coal,40029,False,False,America/Chicago
+74535,34.48384,-96.44202,Clarita,OK,Oklahoma,True,,124.0,10.4,40029,Coal,"{""40029"": 100}",Coal,40029,False,False,America/Chicago
+74536,34.55697,-95.45955,Clayton,OK,Oklahoma,True,,1617.0,2.1,40127,Pushmataha,"{""40127"": 90.32, ""40077"": 6.42, ""40121"": 3.26}",Pushmataha|Latimer|Pittsburg,40127|40077|40121,False,False,America/Chicago
+74538,34.57453,-96.25575,Coalgate,OK,Oklahoma,True,,4062.0,4.3,40029,Coal,"{""40029"": 99.11, ""40005"": 0.89}",Coal|Atoka,40029|40005,False,False,America/Chicago
+74540,34.55776,-95.70167,Daisy,OK,Oklahoma,True,,165.0,1.6,40005,Atoka,"{""40005"": 79.65, ""40127"": 20.35}",Atoka|Pushmataha,40005|40127,False,False,America/Chicago
+74543,34.35927,-95.37907,Finley,OK,Oklahoma,True,,364.0,1.1,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74546,34.85186,-95.58001,Haileyville,OK,Oklahoma,True,,694.0,115.1,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74547,34.81019,-95.59782,Hartshorne,OK,Oklahoma,True,,3296.0,12.2,40121,Pittsburg,"{""40121"": 96.17, ""40077"": 3.83}",Pittsburg|Latimer,40121|40077,False,False,America/Chicago
+74549,34.57483,-94.90993,Honobia,OK,Oklahoma,True,,72.0,0.4,40079,Le Flore,"{""40079"": 65.41, ""40127"": 34.59}",Le Flore|Pushmataha,40079|40127,False,False,America/Chicago
+74552,35.11282,-95.24734,Kinta,OK,Oklahoma,True,,1193.0,5.2,40061,Haskell,"{""40061"": 99.23, ""40121"": 0.77}",Haskell|Pittsburg,40061|40121,False,False,America/Chicago
+74553,34.70808,-95.91859,Kiowa,OK,Oklahoma,True,,1259.0,6.2,40121,Pittsburg,"{""40121"": 69.89, ""40005"": 30.11}",Pittsburg|Atoka,40121|40005,False,False,America/Chicago
+74554,34.92552,-95.7203,Krebs,OK,Oklahoma,True,,1785.0,237.9,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74555,34.2459,-95.96944,Lane,OK,Oklahoma,True,,602.0,5.1,40005,Atoka,"{""40005"": 100}",Atoka,40005,False,False,America/Chicago
+74556,34.46102,-96.19878,Lehigh,OK,Oklahoma,True,,367.0,24.2,40029,Coal,"{""40029"": 100}",Coal,40029,False,False,America/Chicago
+74557,34.40355,-95.69344,Moyers,OK,Oklahoma,True,,671.0,2.0,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74558,34.49174,-95.15081,Nashoba,OK,Oklahoma,True,,480.0,2.4,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74560,34.64717,-95.74679,Pittsburg,OK,Oklahoma,True,,482.0,0.9,40121,Pittsburg,"{""40121"": 79.5, ""40005"": 20.5}",Pittsburg|Atoka,40121|40005,False,False,America/Chicago
+74561,35.12489,-95.42929,Quinton,OK,Oklahoma,True,,1853.0,5.5,40121,Pittsburg,"{""40121"": 75.77, ""40061"": 24.23}",Pittsburg|Haskell,40121|40061,False,False,America/Chicago
+74562,34.29683,-95.29637,Rattan,OK,Oklahoma,True,,966.0,3.4,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74563,34.97903,-95.07556,Red Oak,OK,Oklahoma,True,,2065.0,3.9,40077,Latimer,"{""40077"": 93.69, ""40079"": 6.31}",Latimer|Le Flore,40077|40079,False,False,America/Chicago
+74565,34.82222,-95.83301,Savanna,OK,Oklahoma,True,,574.0,31.5,40121,Pittsburg,"{""40121"": 100}",Pittsburg,40121,False,False,America/Chicago
+74567,34.44871,-95.35575,Snow,OK,Oklahoma,True,,147.0,2.1,40127,Pushmataha,"{""40127"": 100}",Pushmataha,40127,False,False,America/Chicago
+74569,34.47921,-95.90315,Stringtown,OK,Oklahoma,True,,1248.0,2.6,40005,Atoka,"{""40005"": 100}",Atoka,40005,False,False,America/Chicago
+74570,34.86574,-96.10432,Stuart,OK,Oklahoma,True,,1047.0,2.6,40063,Hughes,"{""40063"": 59.57, ""40121"": 40.43}",Hughes|Pittsburg,40063|40121,False,False,America/Chicago
+74571,34.71915,-95.04948,Talihina,OK,Oklahoma,True,,3854.0,6.1,40077,Latimer,"{""40077"": 42.9, ""40079"": 41.35, ""40127"": 15.74}",Latimer|Le Flore|Pushmataha,40077|40079|40127,False,False,America/Chicago
+74572,34.63831,-96.42594,Tupelo,OK,Oklahoma,True,,721.0,6.3,40029,Coal,"{""40029"": 83.24, ""40123"": 16.76}",Coal|Pontotoc,40029|40123,False,False,America/Chicago
+74574,34.67885,-95.27335,Tuskahoma,OK,Oklahoma,True,,1034.0,2.8,40127,Pushmataha,"{""40127"": 56.9, ""40077"": 43.1}",Pushmataha|Latimer,40127|40077,False,False,America/Chicago
+74576,34.67046,-96.04259,Wardville,OK,Oklahoma,True,,194.0,1.3,40005,Atoka,"{""40005"": 55.04, ""40121"": 44.96}",Atoka|Pittsburg,40005|40121,False,False,America/Chicago
+74577,34.71967,-94.85689,Whitesboro,OK,Oklahoma,True,,273.0,3.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74578,34.90045,-95.34872,Wilburton,OK,Oklahoma,True,,5790.0,7.0,40077,Latimer,"{""40077"": 100}",Latimer,40077,False,False,America/Chicago
+74601,36.70436,-97.14604,Ponca City,OK,Oklahoma,True,,18837.0,45.3,40071,Kay,"{""40071"": 95.7, ""40103"": 4.3}",Kay|Noble,40071|40103,False,False,America/Chicago
+74604,36.69672,-96.98132,Ponca City,OK,Oklahoma,True,,12378.0,35.6,40071,Kay,"{""40071"": 50.73, ""40113"": 49.27}",Kay|Osage,40071|40113,False,False,America/Chicago
+74630,36.49736,-97.4296,Billings,OK,Oklahoma,True,,563.0,1.8,40103,Noble,"{""40103"": 73.31, ""40047"": 26.69}",Noble|Garfield,40103|40047,False,False,America/Chicago
+74631,36.79858,-97.30585,Blackwell,OK,Oklahoma,True,,7352.0,27.5,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago
+74632,36.93958,-97.34144,Braman,OK,Oklahoma,True,,502.0,1.8,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago
+74633,36.70478,-96.79216,Burbank,OK,Oklahoma,True,,700.0,3.0,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74636,36.82257,-97.52222,Deer Creek,OK,Oklahoma,True,,257.0,1.8,40053,Grant,"{""40053"": 100}",Grant,40053,False,False,America/Chicago
+74637,36.59083,-96.68172,Fairfax,OK,Oklahoma,True,,1600.0,3.4,40113,Osage,"{""40113"": 100}",Osage,40113,False,False,America/Chicago
+74640,36.56589,-97.65032,Hunter,OK,Oklahoma,True,,175.0,0.7,40047,Garfield,"{""40047"": 74.27, ""40053"": 25.73}",Garfield|Grant,40047|40053,False,False,America/Chicago
+74641,36.8181,-96.85709,Kaw City,OK,Oklahoma,True,,548.0,5.7,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago
+74643,36.68457,-97.55379,Lamont,OK,Oklahoma,True,,512.0,1.7,40053,Grant,"{""40053"": 93.14, ""40071"": 6.86}",Grant|Kay,40053|40071,False,False,America/Chicago
+74644,36.55713,-97.09768,Marland,OK,Oklahoma,True,,498.0,2.3,40103,Noble,"{""40103"": 100}",Noble,40103,False,False,America/Chicago
+74646,36.82498,-97.43993,Nardin,OK,Oklahoma,True,,137.0,1.0,40071,Kay,"{""40071"": 76.87, ""40053"": 23.13}",Kay|Grant,40071|40053,False,False,America/Chicago
+74647,36.91601,-97.00272,Newkirk,OK,Oklahoma,True,,3398.0,4.7,40071,Kay,"{""40071"": 100}",Kay,40071,False,False,America/Chicago
+74650,36.47993,-96.72282,Ralston,OK,Oklahoma,True,,606.0,1.4,40113,Osage,"{""40113"": 75.61, ""40117"": 24.39}",Osage|Pawnee,40113|40117,False,False,America/Chicago
+74651,36.46985,-97.17197,Red Rock,OK,Oklahoma,True,,816.0,2.2,40103,Noble,"{""40103"": 95.32, ""40117"": 4.68}",Noble|Pawnee,40103|40117,False,False,America/Chicago
+74652,36.85639,-96.65438,Shidler,OK,Oklahoma,True,,772.0,1.2,40113,Osage,"{""40113"": 89.13, ""40071"": 10.87}",Osage|Kay,40113|40071,False,False,America/Chicago
+74653,36.64683,-97.3442,Tonkawa,OK,Oklahoma,True,,3854.0,13.3,40071,Kay,"{""40071"": 90.47, ""40103"": 9.53}",Kay|Noble,40071|40103,False,False,America/Chicago
+74701,34.00974,-96.3769,Durant,OK,Oklahoma,True,,26320.0,57.5,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74720,33.83141,-96.37768,Achille,OK,Oklahoma,True,,490.0,105.2,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74721,33.87977,-96.16266,Albany,OK,Oklahoma,True,,,,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74722,34.38938,-94.91671,Battiest,OK,Oklahoma,True,,268.0,7.4,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74723,33.98958,-96.0233,Bennington,OK,Oklahoma,True,,1166.0,2.4,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74724,34.33926,-94.85833,Bethel,OK,Oklahoma,True,,338.0,5.0,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74726,33.94966,-96.18135,Bokchito,OK,Oklahoma,True,,1785.0,4.6,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74727,34.01907,-95.86018,Boswell,OK,Oklahoma,True,,2128.0,3.7,40023,Choctaw,"{""40023"": 75.53, ""40013"": 14.38, ""40005"": 10.09}",Choctaw|Bryan|Atoka,40023|40013|40005,False,False,America/Chicago
+74728,34.15411,-94.81959,Broken Bow,OK,Oklahoma,True,,11669.0,11.2,40089,McCurtain,"{""40089"": 89.39, ""40127"": 10.61}",McCurtain|Pushmataha,40089|40127,False,False,America/Chicago
+74729,34.14674,-96.25289,Caddo,OK,Oklahoma,True,,2701.0,6.8,40013,Bryan,"{""40013"": 64.87, ""40005"": 35.13}",Bryan|Atoka,40013|40005,False,False,America/Chicago
+74730,33.90466,-96.43361,Calera,OK,Oklahoma,True,,5518.0,33.4,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74731,33.8753,-96.57313,Cartwright,OK,Oklahoma,True,,1417.0,42.1,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74733,33.83053,-96.47546,Colbert,OK,Oklahoma,True,,3648.0,26.9,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74734,34.0888,-94.54786,Eagletown,OK,Oklahoma,True,,1116.0,2.8,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74735,34.10142,-95.25595,Fort Towson,OK,Oklahoma,True,,1511.0,2.8,40023,Choctaw,"{""40023"": 66.38, ""40127"": 33.62}",Choctaw|Pushmataha,40023|40127,False,False,America/Chicago
+74736,33.92436,-94.98772,Garvin,OK,Oklahoma,True,,977.0,5.3,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74737,34.0311,-94.8995,Golden,OK,Oklahoma,True,,,,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74738,33.90131,-95.444,Grant,OK,Oklahoma,True,,642.0,8.7,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago
+74740,33.7938,-94.59614,Haworth,OK,Oklahoma,True,,2370.0,3.6,40089,McCurtain,"{""40089"": 99.83, ""48037"": 0.17}",McCurtain|Bowie,40089|48037,False,False,America/Chicago
+74741,33.79571,-96.29281,Hendrix,OK,Oklahoma,True,,1236.0,8.1,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74743,34.00647,-95.5107,Hugo,OK,Oklahoma,True,,7997.0,13.4,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago
+74745,33.86017,-94.81319,Idabel,OK,Oklahoma,True,,9512.0,21.4,40089,McCurtain,"{""40089"": 99.83, ""48387"": 0.17}",McCurtain|Red River,40089|48387,False,False,America/Chicago
+74747,33.75491,-96.31612,Kemp,OK,Oklahoma,True,,,,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74748,34.16082,-96.44879,Kenefic,OK,Oklahoma,True,,577.0,4.7,40069,Johnston,"{""40069"": 46.15, ""40005"": 35.35, ""40013"": 18.49}",Johnston|Atoka|Bryan,40069|40005|40013,False,False,America/Chicago
+74750,33.98514,-95.01175,Millerton,OK,Oklahoma,True,,282.0,143.3,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74753,33.90777,-96.53496,Platter,OK,Oklahoma,True,,0.0,0.0,40013,Bryan,"{""40013"": 100}",Bryan,40013,False,False,America/Chicago
+74754,34.19367,-95.12231,Ringold,OK,Oklahoma,True,,580.0,4.3,40089,McCurtain,"{""40089"": 64.71, ""40127"": 32.58, ""40023"": 2.71}",McCurtain|Pushmataha|Choctaw,40089|40127|40023,False,False,America/Chicago
+74755,34.11799,-95.14196,Rufe,OK,Oklahoma,True,,54.0,1.9,40089,McCurtain,"{""40089"": 65.63, ""40023"": 34.37}",McCurtain|Choctaw,40089|40023,False,False,America/Chicago
+74756,34.07049,-95.37367,Sawyer,OK,Oklahoma,True,,816.0,7.3,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago
+74759,34.06088,-95.71278,Soper,OK,Oklahoma,True,,1411.0,4.3,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago
+74760,34.15996,-95.3612,Spencerville,OK,Oklahoma,True,,314.0,10.9,40127,Pushmataha,"{""40127"": 55.03, ""40023"": 44.97}",Pushmataha|Choctaw,40127|40023,False,False,America/Chicago
+74761,34.00938,-95.20134,Swink,OK,Oklahoma,True,,70.0,18.6,40023,Choctaw,"{""40023"": 100}",Choctaw,40023,False,False,America/Chicago
+74764,34.09405,-95.05512,Valliant,OK,Oklahoma,True,,3711.0,7.8,40089,McCurtain,"{""40089"": 93.11, ""40023"": 6.89}",McCurtain|Choctaw,40089|40023,False,False,America/Chicago
+74766,34.08597,-94.97271,Wright City,OK,Oklahoma,True,,1440.0,11.6,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74801,35.31749,-96.96824,Shawnee,OK,Oklahoma,True,,21835.0,113.8,40125,Pottawatomie,"{""40125"": 100}",Pottawatomie,40125,False,False,America/Chicago
+74804,35.39358,-96.92399,Shawnee,OK,Oklahoma,True,,21576.0,83.1,40125,Pottawatomie,"{""40125"": 100}",Pottawatomie,40125,False,False,America/Chicago
+74820,34.80691,-96.71348,Ada,OK,Oklahoma,True,,31293.0,42.3,40123,Pontotoc,"{""40123"": 99.8, ""40125"": 0.2}",Pontotoc|Pottawatomie,40123|40125,False,False,America/Chicago
+74824,35.8873,-96.87358,Agra,OK,Oklahoma,True,,1617.0,15.4,40081,Lincoln,"{""40081"": 91.63, ""40119"": 8.37}",Lincoln|Payne,40081|40119,False,False,America/Chicago
+74825,34.80591,-96.4028,Allen,OK,Oklahoma,True,,2033.0,5.1,40123,Pontotoc,"{""40123"": 47.95, ""40063"": 33.11, ""40029"": 18.94}",Pontotoc|Hughes|Coal,40123|40063|40029,False,False,America/Chicago
+74826,35.01735,-96.90606,Asher,OK,Oklahoma,True,,1430.0,7.1,40125,Pottawatomie,"{""40125"": 100}",Pottawatomie,40125,False,False,America/Chicago
+74827,34.94101,-96.34208,Atwood,OK,Oklahoma,True,,351.0,3.7,40063,Hughes,"{""40063"": 100}",Hughes,40063,False,False,America/Chicago
+74829,35.51332,-96.47392,Boley,OK,Oklahoma,True,,1532.0,10.7,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago
+74830,35.14452,-96.66464,Bowlegs,OK,Oklahoma,True,,211.0,70.9,40133,Seminole,"{""40133"": 100}",Seminole,40133,False,False,America/Chicago
+74831,34.89841,-97.04298,Byars,OK,Oklahoma,True,,700.0,3.9,40087,McClain,"{""40087"": 86.85, ""40123"": 7.45, ""40049"": 5.7}",McClain|Pontotoc|Garvin,40087|40123|40049,False,False,America/Chicago
+74832,35.82534,-97.01077,Carney,OK,Oklahoma,True,,735.0,9.4,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago
+74833,35.58262,-96.41193,Castle,OK,Oklahoma,True,,681.0,5.8,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago
+74834,35.6961,-96.87902,Chandler,OK,Oklahoma,True,,8258.0,17.9,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago
+74836,34.44436,-96.62581,Connerville,OK,Oklahoma,True,,175.0,4.1,40069,Johnston,"{""40069"": 100}",Johnston,40069,False,False,America/Chicago
+74837,35.34321,-96.4561,Cromwell,OK,Oklahoma,True,,326.0,388.9,40133,Seminole,"{""40133"": 100}",Seminole,40133,False,False,America/Chicago
+74839,35.2413,-96.04642,Dustin,OK,Oklahoma,True,,892.0,3.2,40063,Hughes,"{""40063"": 66.51, ""40107"": 18.64, ""40091"": 14.85}",Hughes|Okfuskee|McIntosh,40063|40107|40091,False,False,America/Chicago
+74840,35.30488,-96.7665,Earlsboro,OK,Oklahoma,True,,1896.0,12.0,40133,Seminole,"{""40133"": 58.64, ""40125"": 41.36}",Seminole|Pottawatomie,40133|40125,False,False,America/Chicago
+74842,34.6166,-96.61456,Fittstown,OK,Oklahoma,True,,103.0,2.9,40123,Pontotoc,"{""40123"": 100}",Pontotoc,40123,False,False,America/Chicago
+74843,34.65763,-96.7125,Fitzhugh,OK,Oklahoma,True,,468.0,5.4,40123,Pontotoc,"{""40123"": 100}",Pontotoc,40123,False,False,America/Chicago
+74844,34.87421,-96.58869,Francis,OK,Oklahoma,True,,442.0,189.0,40123,Pontotoc,"{""40123"": 100}",Pontotoc,40123,False,False,America/Chicago
+74845,35.25856,-95.88302,Hanna,OK,Oklahoma,True,,447.0,1.8,40091,McIntosh,"{""40091"": 100}",McIntosh,40091,False,False,America/Chicago
+74848,35.08197,-96.34804,Holdenville,OK,Oklahoma,True,,7840.0,11.7,40063,Hughes,"{""40063"": 97.48, ""40133"": 2.52}",Hughes|Seminole,40063|40133,False,False,America/Chicago
+74849,34.9846,-96.73597,Konawa,OK,Oklahoma,True,,3030.0,9.2,40133,Seminole,"{""40133"": 71.72, ""40125"": 28.28}",Seminole|Pottawatomie,40133|40125,False,False,America/Chicago
+74850,35.11169,-96.09045,Lamar,OK,Oklahoma,True,,266.0,1.9,40063,Hughes,"{""40063"": 100}",Hughes,40063,False,False,America/Chicago
+74851,35.42653,-97.08072,Mcloud,OK,Oklahoma,True,,11329.0,52.0,40125,Pottawatomie,"{""40125"": 58.4, ""40081"": 34.15, ""40027"": 7.45}",Pottawatomie|Lincoln|Cleveland,40125|40081|40027,False,False,America/Chicago
+74852,35.12844,-97.01301,Macomb,OK,Oklahoma,True,,1198.0,5.9,40125,Pottawatomie,"{""40125"": 98.16, ""40027"": 1.84}",Pottawatomie|Cleveland,40125|40027,False,False,America/Chicago
+74854,35.11527,-96.762,Maud,OK,Oklahoma,True,,1894.0,8.6,40133,Seminole,"{""40133"": 50.17, ""40125"": 49.83}",Seminole|Pottawatomie,40133|40125,False,False,America/Chicago
+74855,35.51911,-96.90376,Meeker,OK,Oklahoma,True,,4556.0,16.7,40081,Lincoln,"{""40081"": 90.42, ""40125"": 9.58}",Lincoln|Pottawatomie,40081|40125,False,False,America/Chicago
+74856,34.39853,-96.81829,Mill Creek,OK,Oklahoma,True,,887.0,1.8,40069,Johnston,"{""40069"": 83.58, ""40099"": 16.42}",Johnston|Murray,40069|40099,False,False,America/Chicago
+74857,35.34132,-97.19576,Newalla,OK,Oklahoma,True,,9580.0,63.4,40027,Cleveland,"{""40027"": 70.07, ""40109"": 26.31, ""40125"": 3.62}",Cleveland|Oklahoma|Pottawatomie,40027|40109|40125,False,False,America/Chicago
+74859,35.46237,-96.31792,Okemah,OK,Oklahoma,True,,6217.0,7.8,40107,Okfuskee,"{""40107"": 88.81, ""40133"": 11.19}",Okfuskee|Seminole,40107|40133,False,False,America/Chicago
+74860,35.52788,-96.56913,Paden,OK,Oklahoma,True,,1787.0,8.0,40107,Okfuskee,"{""40107"": 100}",Okfuskee,40107,False,False,America/Chicago
+74864,35.4921,-96.70269,Prague,OK,Oklahoma,True,,4525.0,14.9,40081,Lincoln,"{""40081"": 62.35, ""40125"": 36.03, ""40107"": 1.62}",Lincoln|Pottawatomie|Okfuskee,40081|40125|40107,False,False,America/Chicago
+74865,34.60599,-96.80922,Roff,OK,Oklahoma,True,,1839.0,4.4,40123,Pontotoc,"{""40123"": 88.32, ""40099"": 9.13, ""40049"": 2.55}",Pontotoc|Murray|Garvin,40123|40099|40049,False,False,America/Chicago
+74866,35.06647,-96.84691,Saint Louis,OK,Oklahoma,True,,,,40125,Pottawatomie,"{""40125"": 100}",Pottawatomie,40125,False,False,America/Chicago
+74867,34.96335,-96.54663,Sasakwa,OK,Oklahoma,True,,570.0,2.4,40133,Seminole,"{""40133"": 87.73, ""40063"": 12.27}",Seminole|Hughes,40133|40063,False,False,America/Chicago
+74868,35.26699,-96.64193,Seminole,OK,Oklahoma,True,,12929.0,23.6,40133,Seminole,"{""40133"": 100}",Seminole,40133,False,False,America/Chicago
+74869,35.59117,-96.75763,Sparks,OK,Oklahoma,True,,579.0,5.1,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago
+74871,34.59942,-96.5528,Stonewall,OK,Oklahoma,True,,2446.0,5.2,40123,Pontotoc,"{""40123"": 67.93, ""40029"": 17.67, ""40069"": 14.4}",Pontotoc|Coal|Johnston,40123|40029|40069,False,False,America/Chicago
+74872,34.77989,-96.97913,Stratford,OK,Oklahoma,True,,3303.0,8.6,40049,Garvin,"{""40049"": 73.63, ""40123"": 23.71, ""40087"": 2.66}",Garvin|Pontotoc|McClain,40049|40123|40087,False,False,America/Chicago
+74873,35.22396,-96.97975,Tecumseh,OK,Oklahoma,True,,11575.0,32.6,40125,Pottawatomie,"{""40125"": 100}",Pottawatomie,40125,False,False,America/Chicago
+74875,35.8751,-96.95877,Tryon,OK,Oklahoma,True,,1134.0,9.3,40081,Lincoln,"{""40081"": 100}",Lincoln,40081,False,False,America/Chicago
+74878,35.00768,-97.06999,Wanette,OK,Oklahoma,True,,1794.0,6.0,40125,Pottawatomie,"{""40125"": 93.84, ""40027"": 6.16}",Pottawatomie|Cleveland,40125|40027,False,False,America/Chicago
+74880,35.38039,-96.1212,Weleetka,OK,Oklahoma,True,,1958.0,7.3,40107,Okfuskee,"{""40107"": 91.48, ""40111"": 8.52}",Okfuskee|Okmulgee,40107|40111,False,False,America/Chicago
+74881,35.72136,-97.08264,Wellston,OK,Oklahoma,True,,5358.0,12.8,40081,Lincoln,"{""40081"": 87.56, ""40083"": 12.44}",Lincoln|Logan,40081|40083,False,False,America/Chicago
+74883,35.22766,-96.24346,Wetumka,OK,Oklahoma,True,,2323.0,5.6,40063,Hughes,"{""40063"": 83.61, ""40107"": 16.39}",Hughes|Okfuskee,40063|40107,False,False,America/Chicago
+74884,35.18635,-96.51882,Wewoka,OK,Oklahoma,True,,5834.0,17.0,40133,Seminole,"{""40133"": 98.16, ""40063"": 1.84}",Seminole|Hughes,40133|40063,False,False,America/Chicago
+74901,35.32798,-94.47166,Arkoma,OK,Oklahoma,True,,1841.0,36.2,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74902,35.24568,-94.47715,Pocola,OK,Oklahoma,True,,4158.0,53.2,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74930,35.18409,-94.77573,Bokoshe,OK,Oklahoma,True,,2169.0,12.3,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74931,35.69226,-94.76459,Bunch,OK,Oklahoma,True,,1296.0,5.5,40001,Adair,"{""40001"": 67.68, ""40021"": 25.2, ""40135"": 7.12}",Adair|Cherokee|Sequoyah,40001|40021|40135,False,False,America/Chicago
+74932,35.14701,-94.53501,Cameron,OK,Oklahoma,True,,2454.0,11.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74935,34.95433,-94.89687,Fanshawe,OK,Oklahoma,True,,211.0,10.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74936,35.39042,-94.72772,Gans,OK,Oklahoma,True,,1316.0,20.1,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago
+74937,34.83303,-94.58321,Heavener,OK,Oklahoma,True,,5545.0,10.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74939,34.70875,-94.63843,Hodgen,OK,Oklahoma,True,,1093.0,3.4,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74940,34.94979,-94.63167,Howe,OK,Oklahoma,True,,3159.0,20.5,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74941,35.26453,-94.87854,Keota,OK,Oklahoma,True,,2652.0,8.8,40061,Haskell,"{""40061"": 75.42, ""40079"": 24.58}",Haskell|Le Flore,40061|40079,False,False,America/Chicago
+74942,34.89799,-94.97661,Leflore,OK,Oklahoma,True,,213.0,59.8,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74943,35.1007,-95.106,Lequire,OK,Oklahoma,True,,105.0,40.0,40061,Haskell,"{""40061"": 100}",Haskell,40061,False,False,America/Chicago
+74944,35.12421,-95.00779,Mccurtain,OK,Oklahoma,True,,1305.0,4.2,40061,Haskell,"{""40061"": 82.13, ""40079"": 17.87}",Haskell|Le Flore,40061|40079,False,False,America/Chicago
+74945,35.58232,-94.81864,Marble City,OK,Oklahoma,True,,365.0,346.8,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago
+74946,35.39613,-94.45093,Moffett,OK,Oklahoma,True,,92.0,33.2,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago
+74947,34.99149,-94.51589,Monroe,OK,Oklahoma,True,,,,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74948,35.46207,-94.56284,Muldrow,OK,Oklahoma,True,,11652.0,20.7,40135,Sequoyah,"{""40135"": 97.69, ""40001"": 2.31}",Sequoyah|Adair,40135|40001,False,False,America/Chicago
+74949,34.68324,-94.7739,Muse,OK,Oklahoma,True,,214.0,1.9,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74951,35.17099,-94.66482,Panama,OK,Oklahoma,True,,1460.0,125.7,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74953,35.03931,-94.57156,Poteau,OK,Oklahoma,True,,11995.0,38.9,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74954,35.41596,-94.49043,Roland,OK,Oklahoma,True,,5303.0,98.3,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago
+74955,35.50213,-94.75547,Sallisaw,OK,Oklahoma,True,,15446.0,28.2,40135,Sequoyah,"{""40135"": 100}",Sequoyah,40135,False,False,America/Chicago
+74956,35.09487,-94.77334,Shady Point,OK,Oklahoma,True,,2009.0,12.2,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74957,34.52522,-94.65558,Smithville,OK,Oklahoma,True,,1103.0,1.8,40079,Le Flore,"{""40079"": 68.04, ""40089"": 31.96}",Le Flore|McCurtain,40079|40089,False,False,America/Chicago
+74959,35.26288,-94.63326,Spiro,OK,Oklahoma,True,,6459.0,26.9,40079,Le Flore,"{""40079"": 100}",Le Flore,40079,False,False,America/Chicago
+74960,35.80995,-94.65027,Stilwell,OK,Oklahoma,True,,13379.0,17.2,40001,Adair,"{""40001"": 95.71, ""40021"": 4.29}",Adair|Cherokee,40001|40021,False,False,America/Chicago
+74962,35.53703,-94.94717,Vian,OK,Oklahoma,True,,4418.0,11.1,40135,Sequoyah,"{""40135"": 97.36, ""40021"": 2.64}",Sequoyah|Cherokee,40135|40021,False,False,America/Chicago
+74963,34.41424,-94.56322,Watson,OK,Oklahoma,True,,572.0,3.8,40089,McCurtain,"{""40089"": 100}",McCurtain,40089,False,False,America/Chicago
+74964,36.11493,-94.6665,Watts,OK,Oklahoma,True,,2662.0,13.0,40001,Adair,"{""40001"": 93.36, ""40041"": 5.7, ""40021"": 0.94}",Adair|Delaware|Cherokee,40001|40041|40021,False,False,America/Chicago
+74965,35.99605,-94.62553,Westville,OK,Oklahoma,True,,5456.0,18.9,40001,Adair,"{""40001"": 100}",Adair,40001,False,False,America/Chicago
+74966,34.89556,-94.86894,Wister,OK,Oklahoma,True,,3670.0,5.4,40079,Le Flore,"{""40079"": 92.89, ""40077"": 7.11}",Le Flore|Latimer,40079|40077,False,False,America/Chicago

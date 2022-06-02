@@ -1,0 +1,1979 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+OR,The Dalles,97001.0,Chenowith People's Utility District,4500,Haloacetic acids (HAA5)†,2.46,0.1,60,ppb,24.599999999999998
+OR,The Dalles,97001.0,Chenowith People's Utility District,4500,Nitrate,0.895,0.14,10,ppm,6.392857142857142
+OR,The Dalles,97001.0,Chenowith People's Utility District,4500,Total trihalomethanes (TTHMs)†,12.0,0.15,80,ppb,80.0
+OR,The Dalles,97001.0,City of The Dalles,12494,Chromium (hexavalent),0.101,0.02,0,ppb,5.05
+OR,The Dalles,97001.0,City of The Dalles,12494,Haloacetic acids (HAA5)†,16.1,0.1,60,ppb,161.0
+OR,The Dalles,97001.0,City of The Dalles,12494,Haloacetic acids (HAA9)†,18.6,0.06,0,ppb,310.00000000000006
+OR,The Dalles,97001.0,City of The Dalles,12494,Total trihalomethanes (TTHMs)†,18.5,0.15,80,ppb,123.33333333333334
+OR,The Dalles,97001.0,City of The Dalles,12494,Barium,16.4,700.0,2000,ppb,0.023428571428571427
+OR,The Dalles,97001.0,City of The Dalles,12494,Chlorate,134.6,210.0,0,ppb,0.6409523809523809
+OR,The Dalles,97001.0,City of The Dalles,12494,Manganese,32.8,100.0,0,ppb,0.32799999999999996
+OR,The Dalles,97001.0,City of The Dalles,12494,Molybdenum,0.845,40.0,0,ppb,0.021124999999999998
+OR,The Dalles,97001.0,City of The Dalles,12494,Nitrate,0.00727,0.14,10,ppm,0.05192857142857143
+OR,The Dalles,97001.0,City of The Dalles,12494,Nitrate and nitrite,0.00762,0.14,10,ppm,0.05442857142857142
+OR,The Dalles,97001.0,City of The Dalles,12494,Picloram,0.00526,166.0,500,ppb,3.168674698795181e-05
+OR,The Dalles,97001.0,City of The Dalles,12494,Strontium,0.0892,1500.0,0,ppb,5.946666666666667e-05
+OR,The Dalles,97001.0,City of The Dalles,12494,Vanadium,0.558,21.0,0,ppb,0.026571428571428572
+OR,Dufur,97001.0,Dufur City of,610,Haloacetic acids (HAA5)†,0.91,0.1,60,ppb,9.1
+OR,Dufur,97001.0,Dufur City of,610,Total trihalomethanes (TTHMs)†,1.1,0.15,80,ppb,7.333333333333334
+OR,Dufur,97001.0,Dufur South Basin,90,Haloacetic acids (HAA5)†,3.9,0.1,60,ppb,39.0
+OR,Dufur,97001.0,Dufur South Basin,90,Total trihalomethanes (TTHMs)†,7.45,0.15,80,ppb,49.66666666666667
+OR,The Dalles,97001.0,Foley Lakes Mobile Home Park,300,Barium,19.0,700.0,2000,ppb,0.027142857142857142
+OR,The Dalles,97001.0,Hazel Dell Orchard,260,Nitrate,2.28,0.14,10,ppm,16.28571428571428
+OR,The Dalles,97001.0,Hazel Dell Orchard,260,Nitrate and nitrite,2.4,0.14,10,ppm,17.142857142857142
+OR,The Dalles,97001.0,Hazel Dell Orchard,260,Uranium,1.21,0.43,20,pCi/L,2.813953488372093
+OR,The Dalles,97001.0,Hazel Dell Orchard,260,Barium,19.6,700.0,2000,ppb,0.028
+OR,Maupin,97001.0,Maupin City Of,420,Haloacetic acids (HAA5)†,2.0,0.1,60,ppb,20.0
+OR,Maupin,97001.0,Maupin City Of,420,Nitrate,0.7,0.14,10,ppm,4.999999999999999
+OR,Maupin,97001.0,Maupin City Of,420,Nitrate and nitrite,0.758,0.14,10,ppm,5.414285714285714
+OR,Maupin,97001.0,Maupin City Of,420,Total trihalomethanes (TTHMs)†,1.4,0.15,80,ppb,9.333333333333334
+OR,Mosier,97001.0,Mosier City of,450,Total trihalomethanes (TTHMs)†,2.27,0.15,80,ppb,15.133333333333335
+OR,Mosier,97001.0,Mosier City of,450,Barium,37.0,700.0,2000,ppb,0.05285714285714286
+OR,The Dalles,97001.0,Rowena Crest Manor,47,Nitrate and nitrite,0.734,0.14,10,ppm,5.242857142857142
+OR,The Dalles,97001.0,Rowena Crest Manor,47,Barium,1.67,700.0,2000,ppb,0.0023857142857142857
+OR,The Dalles,97001.0,Rowena Crest Manor,47,Nitrate,0.213,0.14,10,ppm,1.5214285714285714
+OR,The Dalles,97001.0,Rowena Crest Manor,47,Uranium,0.08,0.43,20,pCi/L,0.18604651162790697
+OR,The Dalles,97001.0,Rowena Dell Water System,30,Total trihalomethanes (TTHMs)†,1.17,0.15,80,ppb,7.8
+OR,The Dalles,97001.0,Rowena Dell Water System,30,Barium,19.6,700.0,2000,ppb,0.028
+OR,Tygh Valley,97001.0,Sportsmans Park Water Association,150,Arsenic,9.59,0.004,10,ppb,2397.5
+OR,Newberg,97001.0,Tooley Water District,42,Haloacetic acids (HAA5)†,1.8,0.1,60,ppb,18.0
+OR,Newberg,97001.0,Tooley Water District,42,Nitrate,2.87,0.14,10,ppm,20.5
+OR,Newberg,97001.0,Tooley Water District,42,Total trihalomethanes (TTHMs)†,7.7,0.15,80,ppb,51.333333333333336
+OR,Newberg,97001.0,Tooley Water District,42,Uranium,0.42,0.43,20,pCi/L,0.9767441860465116
+OR,Tygh Valley,97001.0,Tygh Valley Water District,247,Arsenic,1.91,0.004,10,ppb,477.49999999999994
+OR,Tygh Valley,97001.0,Tygh Valley Water District,247,Nitrate,0.287,0.14,10,ppm,2.05
+OR,Tygh Valley,97001.0,Tygh Valley Water District,247,Nitrate and nitrite,0.773,0.14,10,ppm,5.521428571428571
+OR,Tygh Valley,97001.0,Tygh Valley Water District,247,Barium,6.6,700.0,2000,ppb,0.009428571428571429
+OR,The Dalles,97001.0,View Point Trailer Court,160,Barium,25.8,700.0,2000,ppb,0.03685714285714286
+OR,The Dalles,97001.0,View Point Trailer Court,160,Nitrate,0.101,0.14,10,ppm,0.7214285714285714
+OR,The Dalles,97001.0,View Point Trailer Court,160,Nitrate and nitrite,0.245,0.14,10,ppm,1.7499999999999998
+OR,Wamic,97001.0,Wamic Water Association,130,Nitrate,1.03,0.14,10,ppm,7.357142857142857
+OR,Wamic,97001.0,Wamic Water Association,130,Nitrate and nitrite,0.897,0.14,10,ppm,6.407142857142857
+OR,Wamic,97001.0,Wamic Water Association,130,Barium,8.26,700.0,2000,ppb,0.0118
+OR,Antelope,97001.0,Young Life,482,Arsenic,3.17,0.004,10,ppb,792.5
+OR,Antelope,97001.0,Young Life,482,Haloacetic acids (HAA5)†,28.7,0.1,60,ppb,287.0
+OR,Antelope,97001.0,Young Life,482,Total trihalomethanes (TTHMs)†,67.2,0.15,80,ppb,448.00000000000006
+OR,Antelope,97001.0,Young Life,482,Uranium,1.01,0.43,20,pCi/L,2.3488372093023258
+OR,Antelope,97001.0,Young Life,482,Nitrate,0.173,0.14,10,ppm,1.2357142857142855
+OR,Salem OR,97002.0,Salem Public Works,192000,Chromium (hexavalent),0.0653,0.02,0,ppb,3.2649999999999997
+OR,Salem OR,97002.0,Salem Public Works,192000,Haloacetic acids (HAA5)†,34.0,0.1,60,ppb,340.0
+OR,Salem OR,97002.0,Salem Public Works,192000,Haloacetic acids (HAA9)†,32.7,0.06,0,ppb,545.0000000000001
+OR,Salem OR,97002.0,Salem Public Works,192000,Total trihalomethanes (TTHMs)†,35.9,0.15,80,ppb,239.33333333333334
+OR,Salem OR,97002.0,Salem Public Works,192000,24-D,0.0105,20.0,70,ppb,0.0005250000000000001
+OR,Salem OR,97002.0,Salem Public Works,192000,Barium,1.19,700.0,2000,ppb,0.0017
+OR,Salem OR,97002.0,Salem Public Works,192000,Chlorate,95.0,210.0,0,ppb,0.4523809523809524
+OR,Salem OR,97002.0,Salem Public Works,192000,Hexachlorocyclopentadiene,0.00407,2.0,50,ppb,0.002035
+OR,Salem OR,97002.0,Salem Public Works,192000,Nitrate,0.0215,0.14,10,ppm,0.15357142857142855
+OR,Salem OR,97002.0,Salem Public Works,192000,Nitrate and nitrite,0.0215,0.14,10,ppm,0.15357142857142855
+OR,Salem OR,97002.0,Salem Public Works,192000,Radium combined (-226 &amp; -228),0.09,0.05,5,pCi/L,1.7999999999999998
+OR,Salem OR,97002.0,Salem Public Works,192000,Strontium,0.0228,1500.0,0,ppb,1.52e-05
+OR,Salem OR,97002.0,Salem Public Works,192000,Vanadium,1.32,21.0,0,ppb,0.06285714285714286
+OR,Oregon City OR,97002.0,North Clackamas County Water Commission,87700,Haloacetic acids (HAA5)†,14.0,0.1,60,ppb,140.0
+OR,Oregon City OR,97002.0,North Clackamas County Water Commission,87700,Total trihalomethanes (TTHMs)†,16.0,0.15,80,ppb,106.66666666666667
+OR,Oregon City OR,97002.0,North Clackamas County Water Commission,87700,Barium,1.77,700.0,2000,ppb,0.0025285714285714286
+OR,Oregon City OR,97002.0,North Clackamas County Water Commission,87700,Nitrate,0.19,0.14,10,ppm,1.357142857142857
+OR,Oregon City OR,97002.0,North Clackamas County Water Commission,87700,Nitrate and nitrite,0.072,0.14,10,ppm,0.5142857142857142
+OR,Oregon City OR,97002.0,South Fork Water Board,65000,Haloacetic acids (HAA5)†,21.6,0.1,60,ppb,216.0
+OR,Oregon City OR,97002.0,South Fork Water Board,65000,Nitrate,0.286,0.14,10,ppm,2.0428571428571427
+OR,Oregon City OR,97002.0,South Fork Water Board,65000,Total trihalomethanes (TTHMs)†,29.8,0.15,80,ppb,198.66666666666669
+OR,Oregon City OR,97002.0,South Fork Water Board,65000,Barium,2.89,700.0,2000,ppb,0.0041285714285714285
+OR,Oregon City OR,97002.0,South Fork Water Board,65000,Nitrate and nitrite,0.25,0.14,10,ppm,1.7857142857142856
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Chromium (hexavalent),0.0843,0.02,0,ppb,4.215
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Haloacetic acids (HAA5)†,26.0,0.1,60,ppb,260.0
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Haloacetic acids (HAA9)†,28.5,0.06,0,ppb,475.0
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Total trihalomethanes (TTHMs)†,33.8,0.15,80,ppb,225.33333333333331
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Barium,2.47,700.0,2000,ppb,0.0035285714285714287
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Chlorate,101.4,210.0,0,ppb,0.4828571428571429
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Manganese,0.313,100.0,0,ppb,0.00313
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Nitrate,0.249,0.14,10,ppm,1.7785714285714285
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Nitrate and nitrite,0.181,0.14,10,ppm,1.2928571428571427
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Strontium,0.0381,1500.0,0,ppb,2.54e-05
+OR,Clackamas OR,97002.0,Clackamas River Water - Clackamas,41338,Vanadium,0.91,21.0,0,ppb,0.043333333333333335
+OR,Keizer OR,97002.0,City of Keizer,37505,Arsenic,1.3,0.004,10,ppb,325.0
+OR,Keizer OR,97002.0,City of Keizer,37505,Manganese,206.5,100.0,0,ppb,2.065
+OR,Keizer OR,97002.0,City of Keizer,37505,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+OR,Keizer OR,97002.0,City of Keizer,37505,Tetrachloroethylene (perchloroethylene),0.346,0.06,5,ppb,5.766666666666667
+OR,Keizer OR,97002.0,City of Keizer,37505,Chromium (hexavalent),0.0106,0.02,0,ppb,0.53
+OR,Keizer OR,97002.0,City of Keizer,37505,Molybdenum,0.845,40.0,0,ppb,0.021124999999999998
+OR,Keizer OR,97002.0,City of Keizer,37505,Nitrate,0.264,0.14,10,ppm,1.8857142857142857
+OR,Keizer OR,97002.0,City of Keizer,37505,Nitrate and nitrite,0.158,0.14,10,ppm,1.1285714285714286
+OR,Keizer OR,97002.0,City of Keizer,37505,Strontium,0.114,1500.0,0,ppb,7.6e-05
+OR,Keizer OR,97002.0,City of Keizer,37505,Toluene,0.00948,150.0,1000,ppb,6.32e-05
+OR,Keizer OR,97002.0,City of Keizer,37505,Trichloroethylene,0.706,0.4,5,ppb,1.765
+OR,Keizer OR,97002.0,City of Keizer,37505,Vanadium,0.543,21.0,0,ppb,0.02585714285714286
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Chromium (hexavalent),0.0925,0.02,0,ppb,4.625
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Haloacetic acids (HAA5)†,12.7,0.1,60,ppb,126.99999999999999
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Haloacetic acids (HAA9)†,6.79,0.06,0,ppb,113.16666666666667
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Total trihalomethanes (TTHMs)†,18.2,0.15,80,ppb,121.33333333333333
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Barium,4.0,700.0,2000,ppb,0.005714285714285714
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Bromate,0.135,0.1,10,ppb,1.35
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Chlorate,123.3,210.0,0,ppb,0.5871428571428571
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Manganese,0.99,100.0,0,ppb,0.009899999999999999
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Nitrate,0.0733,0.14,10,ppm,0.5235714285714286
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Strontium,0.0333,1500.0,0,ppb,2.22e-05
+OR,Lake Oswego OR,97002.0,Lake Oswego Municipal Water,36453,Vanadium,0.56,21.0,0,ppb,0.02666666666666667
+OR,Oregon City OR,97002.0,Oregon City,33940,Bromodichloromethane,10.8,0.06,0,ppb,180.00000000000003
+OR,Oregon City OR,97002.0,Oregon City,33940,Chlorite,123.7,50.0,1000,ppb,2.474
+OR,Oregon City OR,97002.0,Oregon City,33940,Chloroform,32.3,0.4,0,ppb,80.74999999999999
+OR,Oregon City OR,97002.0,Oregon City,33940,Chromium (hexavalent),0.169,0.02,0,ppb,8.450000000000001
+OR,Oregon City OR,97002.0,Oregon City,33940,Dibromoacetic acid,1.38,0.04,0,ppb,34.5
+OR,Oregon City OR,97002.0,Oregon City,33940,Dibromochloromethane,4.87,0.1,0,ppb,48.699999999999996
+OR,Oregon City OR,97002.0,Oregon City,33940,Dichloroacetic acid,9.7,0.2,0,ppb,48.49999999999999
+OR,Oregon City OR,97002.0,Oregon City,33940,Haloacetic acids (HAA5)†,13.5,0.1,60,ppb,135.0
+OR,Oregon City OR,97002.0,Oregon City,33940,Haloacetic acids (HAA9)†,19.8,0.06,0,ppb,330.0
+OR,Oregon City OR,97002.0,Oregon City,33940,Nitrate,1.57,0.14,10,ppm,11.214285714285714
+OR,Oregon City OR,97002.0,Oregon City,33940,Nitrate and nitrite,1.58,0.14,10,ppm,11.285714285714285
+OR,Oregon City OR,97002.0,Oregon City,33940,Total trihalomethanes (TTHMs)†,48.3,0.15,80,ppb,322.0
+OR,Oregon City OR,97002.0,Oregon City,33940,Trichloroacetic acid,2.06,0.1,0,ppb,20.599999999999998
+OR,Oregon City OR,97002.0,Oregon City,33940,Atrazine,0.121,0.1,3,ppb,1.21
+OR,Oregon City OR,97002.0,Oregon City,33940,Barium,10.8,700.0,2000,ppb,0.01542857142857143
+OR,Oregon City OR,97002.0,Oregon City,33940,Bromoform,0.554,0.5,0,ppb,1.108
+OR,Oregon City OR,97002.0,Oregon City,33940,Chlorate,22.8,210.0,0,ppb,0.10857142857142857
+OR,Oregon City OR,97002.0,Oregon City,33940,Molybdenum,2.06,40.0,0,ppb,0.051500000000000004
+OR,Oregon City OR,97002.0,Oregon City,33940,Monochloroacetic acid,0.368,53.0,0,ppb,0.006943396226415094
+OR,Oregon City OR,97002.0,Oregon City,33940,Simazine,0.01,0.1,4,ppb,0.09999999999999999
+OR,Oregon City OR,97002.0,Oregon City,33940,Strontium,0.145,1500.0,0,ppb,9.666666666666665e-05
+OR,Oregon City OR,97002.0,Oregon City,33940,Vanadium,0.625,21.0,0,ppb,0.02976190476190476
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Chromium (hexavalent),0.0833,0.02,0,ppb,4.165
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Haloacetic acids (HAA5)†,27.6,0.1,60,ppb,276.0
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Haloacetic acids (HAA9)†,38.2,0.06,0,ppb,636.6666666666667
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Total trihalomethanes (TTHMs)†,35.3,0.15,80,ppb,235.33333333333331
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Barium*,1.77,700.0,2000,ppb,0.0025285714285714286
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Chlorate,44.0,210.0,0,ppb,0.20952380952380953
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Manganese,0.368,100.0,0,ppb,0.00368
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Nitrate*,0.19,0.14,10,ppm,1.357142857142857
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Nitrate and nitrite*,0.072,0.14,10,ppm,0.5142857142857142
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Strontium,0.0385,1500.0,0,ppb,2.5666666666666666e-05
+OR,Milwaukie OR,97002.0,Oak Lodge Water District,30000,Vanadium,1.24,21.0,0,ppb,0.05904761904761905
+OR,West Linn OR,97002.0,City of West Linn,25002,Chromium (hexavalent),0.142,0.02,0,ppb,7.1
+OR,West Linn OR,97002.0,City of West Linn,25002,Haloacetic acids (HAA5)†,33.4,0.1,60,ppb,333.99999999999994
+OR,West Linn OR,97002.0,City of West Linn,25002,Haloacetic acids (HAA9)†,39.9,0.06,0,ppb,665.0
+OR,West Linn OR,97002.0,City of West Linn,25002,Nitrate*,0.286,0.14,10,ppm,2.0428571428571427
+OR,West Linn OR,97002.0,City of West Linn,25002,Total trihalomethanes (TTHMs)†,35.3,0.15,80,ppb,235.33333333333331
+OR,West Linn OR,97002.0,City of West Linn,25002,Barium*,2.89,700.0,2000,ppb,0.0041285714285714285
+OR,West Linn OR,97002.0,City of West Linn,25002,Chlorate,53.5,210.0,0,ppb,0.25476190476190474
+OR,West Linn OR,97002.0,City of West Linn,25002,Manganese,0.472,100.0,0,ppb,0.004719999999999999
+OR,West Linn OR,97002.0,City of West Linn,25002,Nitrate and nitrite*,0.25,0.14,10,ppm,1.7857142857142856
+OR,West Linn OR,97002.0,City of West Linn,25002,Strontium,0.0379,1500.0,0,ppb,2.526666666666667e-05
+OR,West Linn OR,97002.0,City of West Linn,25002,Vanadium,1.23,21.0,0,ppb,0.05857142857142857
+OR,Banks,97003.0,Banks Water Department,2070,Haloacetic acids (HAA5)†,6.12,0.1,60,ppb,61.199999999999996
+OR,Banks,97003.0,Banks Water Department,2070,Total trihalomethanes (TTHMs)†,8.86,0.15,80,ppb,59.06666666666666
+OR,Banks,97003.0,Banks Water Department,2070,Barium,3.5,700.0,2000,ppb,0.005
+OR,Banks,97003.0,Banks Water Department,2070,Nitrate,0.0855,0.14,10,ppm,0.6107142857142857
+OR,Banks,97003.0,Banks Water Department,2070,Nitrate and nitrite,0.104,0.14,10,ppm,0.7428571428571428
+OR,Beaverton,97003.0,City of Beaverton,70000,Chromium (hexavalent),0.237,0.02,0,ppb,11.85
+OR,Beaverton,97003.0,City of Beaverton,70000,Haloacetic acids (HAA5)†,24.7,0.1,60,ppb,246.99999999999997
+OR,Beaverton,97003.0,City of Beaverton,70000,Haloacetic acids (HAA9)†,30.8,0.06,0,ppb,513.3333333333334
+OR,Beaverton,97003.0,City of Beaverton,70000,Nitrate,0.515,0.14,10,ppm,3.6785714285714284
+OR,Beaverton,97003.0,City of Beaverton,70000,Nitrate and nitrite,0.8,0.14,10,ppm,5.714285714285714
+OR,Beaverton,97003.0,City of Beaverton,70000,Total trihalomethanes (TTHMs)†,33.0,0.15,80,ppb,220.0
+OR,Beaverton,97003.0,City of Beaverton,70000,Barium,3.65,700.0,2000,ppb,0.005214285714285714
+OR,Beaverton,97003.0,City of Beaverton,70000,Manganese,0.968,100.0,0,ppb,0.00968
+OR,Beaverton,97003.0,City of Beaverton,70000,Strontium,0.0374,1500.0,0,ppb,2.4933333333333334e-05
+OR,Beaverton,97003.0,City of Beaverton,70000,Vanadium,2.6,21.0,0,ppb,0.12380952380952381
+OR,Cornelius,97003.0,City of Cornelius,12165,Chromium (hexavalent),0.154,0.02,0,ppb,7.7
+OR,Cornelius,97003.0,City of Cornelius,12165,Haloacetic acids (HAA5)†,24.8,0.1,60,ppb,248.0
+OR,Cornelius,97003.0,City of Cornelius,12165,Haloacetic acids (HAA9)†,29.5,0.06,0,ppb,491.6666666666667
+OR,Cornelius,97003.0,City of Cornelius,12165,Total trihalomethanes (TTHMs)†,36.2,0.15,80,ppb,241.33333333333337
+OR,Cornelius,97003.0,City of Cornelius,12165,Manganese,0.173,100.0,0,ppb,0.0017299999999999998
+OR,Cornelius,97003.0,City of Cornelius,12165,Strontium,0.035,1500.0,0,ppb,2.3333333333333336e-05
+OR,Cornelius,97003.0,City of Cornelius,12165,Vanadium,0.582,21.0,0,ppb,0.027714285714285712
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Chromium (hexavalent),0.486,0.02,0,ppb,24.299999999999997
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Haloacetic acids (HAA5)†,22.6,0.1,60,ppb,226.0
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Haloacetic acids (HAA9)†,27.3,0.06,0,ppb,455.00000000000006
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Total trihalomethanes (TTHMs)†,21.5,0.15,80,ppb,143.33333333333334
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Chlorate,24.0,210.0,0,ppb,0.11428571428571428
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Manganese,0.463,100.0,0,ppb,0.0046300000000000004
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Nitrate,0.14,0.14,10,ppm,1.0
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Strontium,0.0293,1500.0,0,ppb,1.953333333333333e-05
+OR,Forest Grove,97003.0,City of Forest Grove,23080,Vanadium,0.805,21.0,0,ppb,0.03833333333333334
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Chromium (hexavalent),0.145,0.02,0,ppb,7.249999999999999
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Haloacetic acids (HAA5)†,24.0,0.1,60,ppb,240.0
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Haloacetic acids (HAA9)†,26.0,0.06,0,ppb,433.33333333333337
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Nitrate*,0.308,0.14,10,ppm,2.1999999999999997
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Nitrate and nitrite*,0.323,0.14,10,ppm,2.307142857142857
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Total trihalomethanes (TTHMs)†,29.8,0.15,80,ppb,198.66666666666669
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Barium*,3.66,700.0,2000,ppb,0.005228571428571429
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Hexachlorocyclopentadiene*,0.00944,2.0,50,ppb,0.00472
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Manganese,0.343,100.0,0,ppb,0.0034300000000000003
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Strontium,0.04,1500.0,0,ppb,2.6666666666666667e-05
+OR,Hillsboro,97003.0,City of Hillsboro,88243,Vanadium,0.516,21.0,0,ppb,0.02457142857142857
+OR,Sherwood,97003.0,City of Sherwood,19505,Bromate*,1.29,0.1,10,ppb,12.9
+OR,Sherwood,97003.0,City of Sherwood,19505,Chromium (hexavalent),0.0749,0.02,0,ppb,3.7449999999999997
+OR,Sherwood,97003.0,City of Sherwood,19505,Haloacetic acids (HAA5)†,10.4,0.1,60,ppb,104.0
+OR,Sherwood,97003.0,City of Sherwood,19505,Haloacetic acids (HAA9)†,7.4,0.06,0,ppb,123.33333333333334
+OR,Sherwood,97003.0,City of Sherwood,19505,Nitrate and nitrite*,0.499,0.14,10,ppm,3.564285714285714
+OR,Sherwood,97003.0,City of Sherwood,19505,Total trihalomethanes (TTHMs)†,22.4,0.15,80,ppb,149.33333333333334
+OR,Sherwood,97003.0,City of Sherwood,19505,Barium*,5.5,700.0,2000,ppb,0.007857142857142858
+OR,Sherwood,97003.0,City of Sherwood,19505,Chlorate,64.7,210.0,0,ppb,0.3080952380952381
+OR,Sherwood,97003.0,City of Sherwood,19505,Manganese,6.72,100.0,0,ppb,0.0672
+OR,Sherwood,97003.0,City of Sherwood,19505,Nitrate,0.246,0.14,10,ppm,1.757142857142857
+OR,Sherwood,97003.0,City of Sherwood,19505,Strontium,0.0335,1500.0,0,ppb,2.2333333333333335e-05
+OR,Sherwood,97003.0,City of Sherwood,19505,Vanadium,1.3,21.0,0,ppb,0.06190476190476191
+OR,Tigard,97003.0,City of Tigard,60236,Chromium (hexavalent),0.045,0.02,0,ppb,2.25
+OR,Tigard,97003.0,City of Tigard,60236,Haloacetic acids (HAA5)†,13.8,0.1,60,ppb,138.0
+OR,Tigard,97003.0,City of Tigard,60236,Haloacetic acids (HAA9)†,8.92,0.06,0,ppb,148.66666666666666
+OR,Tigard,97003.0,City of Tigard,60236,Nitrate,0.812,0.14,10,ppm,5.8
+OR,Tigard,97003.0,City of Tigard,60236,Nitrate and nitrite,0.821,0.14,10,ppm,5.864285714285713
+OR,Tigard,97003.0,City of Tigard,60236,Total trihalomethanes (TTHMs)†,18.6,0.15,80,ppb,124.00000000000001
+OR,Tigard,97003.0,City of Tigard,60236,Barium,3.23,700.0,2000,ppb,0.004614285714285714
+OR,Tigard,97003.0,City of Tigard,60236,Chlorate,4.0,210.0,0,ppb,0.01904761904761905
+OR,Tigard,97003.0,City of Tigard,60236,Manganese,19.8,100.0,0,ppb,0.198
+OR,Tigard,97003.0,City of Tigard,60236,Strontium,0.0314,1500.0,0,ppb,2.093333333333333e-05
+OR,Tigard,97003.0,City of Tigard,60236,Vanadium,5.13,21.0,0,ppb,0.24428571428571427
+OR,Tualatin,97003.0,City of Tualatin,26879,Chromium (hexavalent),0.054,0.02,0,ppb,2.6999999999999997
+OR,Tualatin,97003.0,City of Tualatin,26879,Haloacetic acids (HAA5)†,23.2,0.1,60,ppb,231.99999999999997
+OR,Tualatin,97003.0,City of Tualatin,26879,Haloacetic acids (HAA9)†,27.0,0.06,0,ppb,450.0
+OR,Tualatin,97003.0,City of Tualatin,26879,Radon,601.0,1.5,0,pCi/L,400.6666666666667
+OR,Tualatin,97003.0,City of Tualatin,26879,Total trihalomethanes (TTHMs)†,24.9,0.15,80,ppb,166.0
+OR,Tualatin,97003.0,City of Tualatin,26879,Barium,4.35,700.0,2000,ppb,0.006214285714285714
+OR,Tualatin,97003.0,City of Tualatin,26879,Bromate,0.07,0.1,10,ppb,0.7000000000000001
+OR,Tualatin,97003.0,City of Tualatin,26879,Chlorate,35.0,210.0,0,ppb,0.16666666666666666
+OR,Tualatin,97003.0,City of Tualatin,26879,Manganese,3.18,100.0,0,ppb,0.0318
+OR,Tualatin,97003.0,City of Tualatin,26879,Nitrate,0.00779,0.14,10,ppm,0.05564285714285714
+OR,Tualatin,97003.0,City of Tualatin,26879,Strontium,0.0166,1500.0,0,ppb,1.1066666666666667e-05
+OR,Tualatin,97003.0,City of Tualatin,26879,Uranium,0.06,0.43,20,pCi/L,0.13953488372093023
+OR,Tualatin,97003.0,City of Tualatin,26879,Vanadium,0.391,21.0,0,ppb,0.01861904761904762
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Bromochloroacetic acid,1.03,0.02,0,ppb,51.5
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Bromodichloromethane,1.26,0.06,0,ppb,21.0
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Chlorodibromoacetic acid*,0.564,0.02,0,ppb,28.199999999999996
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Chloroform,11.1,0.4,0,ppb,27.749999999999996
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Chromium (hexavalent)*,3.16,0.02,0,ppb,158.0
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Dichloroacetic acid,15.4,0.2,0,ppb,77.0
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Haloacetic acids (HAA5)†,14.9,0.1,60,ppb,149.0
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Haloacetic acids (HAA9)*†,24.3,0.06,0,ppb,405.0
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Total trihalomethanes (TTHMs)†,12.3,0.15,80,ppb,82.00000000000001
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Trichloroacetic acid,1.27,0.1,0,ppb,12.7
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Bromodichloroacetic acid*,0.0226,0.04,0,ppb,0.565
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Manganese*,0.125,100.0,0,ppb,0.00125
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Molybdenum*,2.96,40.0,0,ppb,0.074
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Strontium*,93.0,1500.0,0,ppb,0.062
+OR,Newberg,97003.0,Crown Mobile Home Park,42,Vanadium*,1.92,21.0,0,ppb,0.09142857142857143
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Haloacetic acids (HAA5)†,25.8,0.1,60,ppb,258.0
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Nitrate*,0.308,0.14,10,ppm,2.1999999999999997
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Nitrate and nitrite*,0.323,0.14,10,ppm,2.307142857142857
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Total trihalomethanes (TTHMs)†,33.7,0.15,80,ppb,224.66666666666669
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Barium*,3.66,700.0,2000,ppb,0.005228571428571429
+OR,Hillsboro,97003.0,Fir Grove Homeowners Association,450,Hexachlorocyclopentadiene*,0.00944,2.0,50,ppb,0.00472
+OR,Gaston,97003.0,Gaston City of,625,Haloacetic acids (HAA5)†,28.3,0.1,60,ppb,283.0
+OR,Gaston,97003.0,Gaston City of,625,Total trihalomethanes (TTHMs)†,27.0,0.15,80,ppb,180.0
+OR,Hillsboro,97003.0,Hillsboro-cherry Grove,1456,Haloacetic acids (HAA5)†,18.2,0.1,60,ppb,181.99999999999997
+OR,Hillsboro,97003.0,Hillsboro-cherry Grove,1456,Total trihalomethanes (TTHMs)†,16.1,0.15,80,ppb,107.33333333333334
+OR,Hillsboro,97003.0,Hillsboro-cherry Grove,1456,Barium,0.385,700.0,2000,ppb,0.00055
+OR,Hillsboro,97003.0,Hillsboro-cherry Grove,1456,Nitrate,0.0754,0.14,10,ppm,0.5385714285714285
+OR,Hillsboro,97003.0,Hillsboro-cherry Grove,1456,Nitrate and nitrite,0.0762,0.14,10,ppm,0.5442857142857143
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Haloacetic acids (HAA5)†,15.4,0.1,60,ppb,154.0
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Nitrate,0.308,0.14,10,ppm,2.1999999999999997
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Nitrate and nitrite,0.323,0.14,10,ppm,2.307142857142857
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Total trihalomethanes (TTHMs)†,14.6,0.15,80,ppb,97.33333333333333
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Barium,3.66,700.0,2000,ppb,0.005228571428571429
+OR,Hillsboro,97003.0,Joint Water Commission,397769,Hexachlorocyclopentadiene,0.00944,2.0,50,ppb,0.00472
+OR,Gaston,97003.0,La Water Co-op,2500,Haloacetic acids (HAA5)†,20.9,0.1,60,ppb,208.99999999999997
+OR,Gaston,97003.0,La Water Co-op,2500,Nitrate*,0.308,0.14,10,ppm,2.1999999999999997
+OR,Gaston,97003.0,La Water Co-op,2500,Nitrate and nitrite*,0.323,0.14,10,ppm,2.307142857142857
+OR,Gaston,97003.0,La Water Co-op,2500,Total trihalomethanes (TTHMs)†,39.9,0.15,80,ppb,266.0
+OR,Gaston,97003.0,La Water Co-op,2500,Barium*,3.66,700.0,2000,ppb,0.005228571428571429
+OR,Gaston,97003.0,La Water Co-op,2500,Hexachlorocyclopentadiene*,0.00944,2.0,50,ppb,0.00472
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Haloacetic acids (HAA5)†,2.05,0.1,60,ppb,20.499999999999996
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Nitrate,1.01,0.14,10,ppm,7.2142857142857135
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Thallium,0.5,0.1,2,ppb,5.0
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Total trihalomethanes (TTHMs)†,0.75,0.15,80,ppb,5.0
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Barium,18.5,700.0,2000,ppb,0.02642857142857143
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Beryllium,0.9,1.0,4,ppb,0.9
+OR,Cornelius,97003.0,Laurel Acres Water Company Inc.,50,Toluene,0.867,150.0,1000,ppb,0.0057799999999999995
+OR,Gaston,97003.0,Laurelwood Water Users,200,Nitrate,1.0,0.14,10,ppm,7.142857142857142
+OR,Gaston,97003.0,Laurelwood Water Users,200,Nitrate and nitrite,1.08,0.14,10,ppm,7.714285714285714
+OR,Gaston,97003.0,Laurelwood Water Users,200,Radium combined (-226 &amp; -228),1.27,0.05,5,pCi/L,25.4
+OR,North Plains,97003.0,North Plains Water Department,3095,Arsenic,17.0,0.004,10,ppb,4250.0
+OR,North Plains,97003.0,North Plains Water Department,3095,Haloacetic acids (HAA5)†,29.9,0.1,60,ppb,298.99999999999994
+OR,North Plains,97003.0,North Plains Water Department,3095,Nitrate*,0.308,0.14,10,ppm,2.1999999999999997
+OR,North Plains,97003.0,North Plains Water Department,3095,Nitrate and nitrite*,0.323,0.14,10,ppm,2.307142857142857
+OR,North Plains,97003.0,North Plains Water Department,3095,Total trihalomethanes (TTHMs)†,29.8,0.15,80,ppb,198.66666666666669
+OR,North Plains,97003.0,North Plains Water Department,3095,Barium*,3.66,700.0,2000,ppb,0.005228571428571429
+OR,North Plains,97003.0,North Plains Water Department,3095,Hexachlorocyclopentadiene*,0.00944,2.0,50,ppb,0.00472
+OR,Sherwood,97003.0,Parrett Mountain View Estates,140,Nitrate,0.0163,0.14,10,ppm,0.11642857142857141
+OR,Hillsboro,97003.0,Rainbow Ends Water System,50,Barium,34.2,700.0,2000,ppb,0.04885714285714286
+OR,Portland,97003.0,Raleigh Water District,4500,Bromodichloromethane,6.69,0.06,0,ppb,111.50000000000001
+OR,Portland,97003.0,Raleigh Water District,4500,Chloroform,9.27,0.4,0,ppb,23.174999999999997
+OR,Portland,97003.0,Raleigh Water District,4500,Dibromoacetic acid,0.875,0.04,0,ppb,21.875
+OR,Portland,97003.0,Raleigh Water District,4500,Dibromochloromethane,4.27,0.1,0,ppb,42.699999999999996
+OR,Portland,97003.0,Raleigh Water District,4500,Dichloroacetic acid,3.24,0.2,0,ppb,16.2
+OR,Portland,97003.0,Raleigh Water District,4500,Haloacetic acids (HAA5)†,6.5,0.1,60,ppb,65.0
+OR,Portland,97003.0,Raleigh Water District,4500,Total trihalomethanes (TTHMs)†,20.5,0.15,80,ppb,136.66666666666669
+OR,Portland,97003.0,Raleigh Water District,4500,Trichloroacetic acid,1.8,0.1,0,ppb,18.0
+OR,Portland,97003.0,Raleigh Water District,4500,Bromoform,0.211,0.5,0,ppb,0.422
+OR,Portland,97003.0,Raleigh Water District,4500,Monobromoacetic acid,0.59,25.0,0,ppb,0.0236
+OR,Banks,97003.0,Star Satellite Improvement District,400,Barium,55.5,700.0,2000,ppb,0.07928571428571428
+OR,Timber,97003.0,Timber Water Association,180,Haloacetic acids (HAA5)†,23.1,0.1,60,ppb,231.0
+OR,Timber,97003.0,Timber Water Association,180,Total trihalomethanes (TTHMs)†,25.4,0.15,80,ppb,169.33333333333334
+OR,Timber,97003.0,Timber Water Association,180,Barium,0.6,700.0,2000,ppb,0.0008571428571428571
+OR,Timber,97003.0,Timber Water Association,180,Nitrate,0.148,0.14,10,ppm,1.057142857142857
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Chromium (hexavalent),0.153,0.02,0,ppb,7.6499999999999995
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Haloacetic acids (HAA5)†,25.6,0.1,60,ppb,256.0
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Haloacetic acids (HAA9)†,24.4,0.06,0,ppb,406.6666666666667
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Nitrate,0.522,0.14,10,ppm,3.728571428571428
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Nitrate and nitrite,0.467,0.14,10,ppm,3.3357142857142854
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Radon,440.0,1.5,0,pCi/L,293.3333333333333
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Total trihalomethanes (TTHMs)†,31.9,0.15,80,ppb,212.66666666666666
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Barium,3.05,700.0,2000,ppb,0.004357142857142857
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Chlorate,18.8,210.0,0,ppb,0.08952380952380953
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Manganese,4.65,100.0,0,ppb,0.04650000000000001
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Strontium,0.0362,1500.0,0,ppb,2.4133333333333335e-05
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Uranium,0.01,0.43,20,pCi/L,0.023255813953488372
+OR,Beaverton,97003.0,Tualatin Valley Water District,222000,Vanadium,3.17,21.0,0,ppb,0.15095238095238095
+OR,Cornelius,97003.0,West Laurel Acres Water Company,62,Haloacetic acids (HAA5)†,0.6,0.1,60,ppb,5.999999999999999
+OR,Cornelius,97003.0,West Laurel Acres Water Company,62,Nitrate,0.46,0.14,10,ppm,3.2857142857142856
+OR,Cornelius,97003.0,West Laurel Acres Water Company,62,Nitrate and nitrite,0.613,0.14,10,ppm,4.378571428571428
+OR,Cornelius,97003.0,West Laurel Acres Water Company,62,Barium,7.17,700.0,2000,ppb,0.010242857142857142
+OR,Portland,97003.0,West Slope Water District,10400,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Portland,97003.0,West Slope Water District,10400,Chromium (hexavalent),0.0521,0.02,0,ppb,2.605
+OR,Portland,97003.0,West Slope Water District,10400,Haloacetic acids (HAA5)†,28.3,0.1,60,ppb,283.0
+OR,Portland,97003.0,West Slope Water District,10400,Haloacetic acids (HAA9)†,30.9,0.06,0,ppb,515.0
+OR,Portland,97003.0,West Slope Water District,10400,Total trihalomethanes (TTHMs)†,31.4,0.15,80,ppb,209.33333333333334
+OR,Portland,97003.0,West Slope Water District,10400,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Portland,97003.0,West Slope Water District,10400,Chlorate,26.9,210.0,0,ppb,0.1280952380952381
+OR,Portland,97003.0,West Slope Water District,10400,Manganese,4.43,100.0,0,ppb,0.0443
+OR,Portland,97003.0,West Slope Water District,10400,Nitrate*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Portland,97003.0,West Slope Water District,10400,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Portland,97003.0,West Slope Water District,10400,Strontium,0.0199,1500.0,0,ppb,1.3266666666666668e-05
+OR,Portland,97003.0,West Slope Water District,10400,Vanadium,2.32,21.0,0,ppb,0.11047619047619046
+OR,Eugene,97003.0,Westview Mobile Estates,250,Barium,1.89,700.0,2000,ppb,0.0026999999999999997
+OR,Eugene,97003.0,Westview Mobile Estates,250,Nitrate,0.223,0.14,10,ppm,1.5928571428571427
+OR,Hillsboro,97003.0,Wolsborn Farms Water District,90,Nitrate,2.48,0.14,10,ppm,17.71428571428571
+OR,Hillsboro,97003.0,Wolsborn Farms Water District,90,Nitrate and nitrite,2.32,0.14,10,ppm,16.57142857142857
+OR,Hillsboro,97003.0,Wolsborn Farms Water District,90,Barium,19.5,700.0,2000,ppb,0.027857142857142858
+OR,Hillsboro,97003.0,Wolsborn Farms Water District,90,Ethylbenzene,1.23,300.0,700,ppb,0.0041
+OR,Hillsboro,97003.0,Wolsborn Farms Water District,90,Xylenes (total),5.41,1800.0,10000,ppb,0.0030055555555555556
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Chromium (hexavalent),1.09,0.02,0,ppb,54.5
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Haloacetic acids (HAA5)†,0.233,0.1,60,ppb,2.33
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Haloacetic acids (HAA9)†,2.73,0.06,0,ppb,45.5
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Nitrate,2.2,0.14,10,ppm,15.714285714285714
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Nitrate and nitrite,2.0,0.14,10,ppm,14.285714285714285
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Total trihalomethanes (TTHMs)†,5.03,0.15,80,ppb,33.53333333333334
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,14-Dioxane,0.0351,0.35,0,ppb,0.10028571428571428
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Barium,3.94,700.0,2000,ppb,0.005628571428571428
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Manganese,0.867,100.0,0,ppb,0.00867
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Strontium,0.0931,1500.0,0,ppb,6.206666666666667e-05
+OR,Milwaukie OR,97004.0,City of Milwaukie,20500,Vanadium,9.38,21.0,0,ppb,0.4466666666666667
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Bromate,1.29,0.1,10,ppb,12.9
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Chromium (hexavalent),0.058,0.02,0,ppb,2.9
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Haloacetic acids (HAA5)†,5.02,0.1,60,ppb,50.199999999999996
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Haloacetic acids (HAA9)†,8.21,0.06,0,ppb,136.83333333333334
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Nitrate,0.499,0.14,10,ppm,3.564285714285714
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Nitrate and nitrite,0.499,0.14,10,ppm,3.564285714285714
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Total trihalomethanes (TTHMs)†,13.0,0.15,80,ppb,86.66666666666667
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Barium,5.5,700.0,2000,ppb,0.007857142857142858
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Chlorate,92.3,210.0,0,ppb,0.4395238095238095
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Manganese,3.12,100.0,0,ppb,0.031200000000000002
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Strontium,0.038,1500.0,0,ppb,2.5333333333333334e-05
+OR,Wilsonville OR,97004.0,City of Wilsonville,22729,Vanadium,1.59,21.0,0,ppb,0.07571428571428572
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Haloacetic acids (HAA5)†,28.1,0.1,60,ppb,281.0
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Haloacetic acids (HAA9)†,30.1,0.06,0,ppb,501.6666666666667
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Total trihalomethanes (TTHMs)†,30.5,0.15,80,ppb,203.33333333333334
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Chlorate,9.13,210.0,0,ppb,0.04347619047619048
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Chromium (hexavalent),0.0279,0.02,0,ppb,1.395
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Manganese,8.53,100.0,0,ppb,0.08529999999999999
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Strontium,0.0175,1500.0,0,ppb,1.1666666666666668e-05
+OR,Gresham OR,97009.0,Cty of Gresham,73932,Vanadium,0.291,21.0,0,ppb,0.013857142857142856
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Haloacetic acids (HAA5)†,30.5,0.1,60,ppb,305.0
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Haloacetic acids (HAA9)†,24.8,0.06,0,ppb,413.33333333333337
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Total trihalomethanes (TTHMs)†,30.5,0.15,80,ppb,203.33333333333334
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Barium,15.5,700.0,2000,ppb,0.02214285714285714
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Chlorate,8.75,210.0,0,ppb,0.041666666666666664
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Chromium (hexavalent),0.031,0.02,0,ppb,1.55
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Manganese,7.48,100.0,0,ppb,0.0748
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Nitrate,0.0129,0.14,10,ppm,0.09214285714285714
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Nitrate and nitrite,0.02,0.14,10,ppm,0.14285714285714285
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Strontium,0.0151,1500.0,0,ppb,1.0066666666666666e-05
+OR,Portland OR,97009.0,Rockwood People's Utilities Department,61082,Vanadium,0.166,21.0,0,ppb,0.007904761904761906
+OR,Hood River,97014.0,Aldridge Ditch Company Ws,49,Total trihalomethanes (TTHMs)*†,1.3,0.15,80,ppb,8.666666666666668
+OR,Hood River,97014.0,Aldridge Ditch Company Ws,49,Barium*,0.7,700.0,2000,ppb,0.001
+OR,Hood River,97014.0,Aldridge Ditch Company Ws,49,Xylenes (total)*,0.25,1800.0,10000,ppb,0.0001388888888888889
+OR,Cascade Locks,97014.0,Cascade Locks City of,1310,Total trihalomethanes (TTHMs)†,1.89,0.15,80,ppb,12.6
+OR,Portland,97014.0,Wapato Moorage Association,74,Nitrate,0.354,0.14,10,ppm,2.528571428571428
+OR,Portland,97014.0,Wapato Moorage Association,74,Nitrate and nitrite,0.292,0.14,10,ppm,2.0857142857142854
+OR,Portland,97014.0,Wapato Moorage Association,74,Barium,1.37,700.0,2000,ppb,0.0019571428571428574
+OR,Portland,97014.0,Manna House Church,300,Arsenic,0.85,0.004,10,ppb,212.5
+OR,Portland,97014.0,Manna House Church,300,Nitrate,4.65,0.14,10,ppm,33.214285714285715
+OR,Portland,97014.0,Manna House Church,300,Nitrate and nitrite,4.54,0.14,10,ppm,32.42857142857142
+OR,Portland,97014.0,Manna House Church,300,Tetrachloroethylene (perchloroethylene),0.518,0.06,5,ppb,8.633333333333335
+OR,Portland,97014.0,Manna House Church,300,Total trihalomethanes (TTHMs)†,2.68,0.15,80,ppb,17.866666666666667
+OR,Portland,97014.0,Manna House Church,300,Barium,6.8,700.0,2000,ppb,0.009714285714285713
+OR,Portland,97014.0,Manna House Church,300,Haloacetic acids (HAA5)†,0.175,0.1,60,ppb,1.7499999999999998
+OR,Troutdale,97014.0,City of Troutdale,16020,Arsenic,0.411,0.004,10,ppb,102.74999999999999
+OR,Troutdale,97014.0,City of Troutdale,16020,Haloacetic acids (HAA9)†,0.395,0.06,0,ppb,6.583333333333334
+OR,Troutdale,97014.0,City of Troutdale,16020,Nitrate,0.425,0.14,10,ppm,3.035714285714285
+OR,Troutdale,97014.0,City of Troutdale,16020,Nitrate and nitrite,0.362,0.14,10,ppm,2.5857142857142854
+OR,Troutdale,97014.0,City of Troutdale,16020,Total trihalomethanes (TTHMs)†,0.388,0.15,80,ppb,2.586666666666667
+OR,Troutdale,97014.0,City of Troutdale,16020,Barium,21.1,700.0,2000,ppb,0.030142857142857145
+OR,Troutdale,97014.0,City of Troutdale,16020,Chlorate,60.6,210.0,0,ppb,0.2885714285714286
+OR,Troutdale,97014.0,City of Troutdale,16020,Chromium (hexavalent),0.00225,0.02,0,ppb,0.11249999999999999
+OR,Troutdale,97014.0,City of Troutdale,16020,Haloacetic acids (HAA5)†,0.0227,0.1,60,ppb,0.227
+OR,Troutdale,97014.0,City of Troutdale,16020,Manganese,44.5,100.0,0,ppb,0.445
+OR,Troutdale,97014.0,City of Troutdale,16020,Molybdenum,1.46,40.0,0,ppb,0.0365
+OR,Troutdale,97014.0,City of Troutdale,16020,Strontium,0.0729,1500.0,0,ppb,4.86e-05
+OR,Troutdale,97014.0,City of Troutdale,16020,Vanadium,0.319,21.0,0,ppb,0.01519047619047619
+OR,Corbett,97014.0,Corbett Water District,3300,Haloacetic acids (HAA5)†,30.1,0.1,60,ppb,301.0
+OR,Corbett,97014.0,Corbett Water District,3300,Total trihalomethanes (TTHMs)†,22.5,0.15,80,ppb,150.0
+OR,Corbett,97014.0,Corbett Water District,3300,Nitrate,0.004,0.14,10,ppm,0.02857142857142857
+OR,Fairview,97014.0,Fairview City of,9176,Haloacetic acids (HAA5)†,0.757,0.1,60,ppb,7.569999999999999
+OR,Fairview,97014.0,Fairview City of,9176,Nitrate,0.613,0.14,10,ppm,4.378571428571428
+OR,Fairview,97014.0,Fairview City of,9176,Tetrachloroethylene (perchloroethylene),1.55,0.06,5,ppb,25.833333333333336
+OR,Fairview,97014.0,Fairview City of,9176,Total trihalomethanes (TTHMs)†,10.0,0.15,80,ppb,66.66666666666667
+OR,Fairview,97014.0,Fairview City of,9176,Xylenes (total),0.375,1800.0,10000,ppb,0.00020833333333333335
+OR,Hood River,97014.0,Hood River City of,7995,Total trihalomethanes (TTHMs)†,1.3,0.15,80,ppb,8.666666666666668
+OR,Hood River,97014.0,Hood River City of,7995,Barium,0.7,700.0,2000,ppb,0.001
+OR,Hood River,97014.0,Hood River City of,7995,Xylenes (total),0.25,1800.0,10000,ppb,0.0001388888888888889
+OR,Hood River,97014.0,Ice Fountain Water District,5532,Barium,0.5,700.0,2000,ppb,0.0007142857142857143
+OR,Fairview,97014.0,Interlachen Water People's Utility District,360,Nitrate,0.514,0.14,10,ppm,3.6714285714285713
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Haloacetic acids (HAA5)†,21.8,0.1,60,ppb,218.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Haloacetic acids (HAA9)*†,30.6,0.06,0,ppb,510.00000000000006
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Total trihalomethanes (TTHMs)†,23.4,0.15,80,ppb,156.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Chlorate*,317.5,210.0,0,ppb,1.5119047619047619
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Chromium (hexavalent)*,0.0362,0.02,0,ppb,1.81
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Manganese*,17.3,100.0,0,ppb,0.17300000000000001
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Nitrate,0.0398,0.14,10,ppm,0.28428571428571425
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Strontium*,0.026,1500.0,0,ppb,1.7333333333333332e-05
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Vanadium*,0.764,21.0,0,ppb,0.03638095238095238
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Haloacetic acids (HAA5)†,21.8,0.1,60,ppb,218.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Haloacetic acids (HAA9)*†,30.6,0.06,0,ppb,510.00000000000006
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Total trihalomethanes (TTHMs)†,23.4,0.15,80,ppb,156.0
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Chlorate*,317.5,210.0,0,ppb,1.5119047619047619
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Chromium (hexavalent)*,0.0362,0.02,0,ppb,1.81
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Manganese*,17.3,100.0,0,ppb,0.17300000000000001
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Nitrate,0.0398,0.14,10,ppm,0.28428571428571425
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Strontium*,0.026,1500.0,0,ppb,1.7333333333333332e-05
+OR,Newberg,97014.0,Lorna Portland Water LLC,200,Vanadium*,0.764,21.0,0,ppb,0.03638095238095238
+OR,Gresham,97014.0,Lusted Water District,1200,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Gresham,97014.0,Lusted Water District,1200,Haloacetic acids (HAA5)†,27.7,0.1,60,ppb,277.0
+OR,Gresham,97014.0,Lusted Water District,1200,Haloacetic acids (HAA9)*†,30.6,0.06,0,ppb,510.00000000000006
+OR,Gresham,97014.0,Lusted Water District,1200,Total trihalomethanes (TTHMs)†,30.6,0.15,80,ppb,204.00000000000003
+OR,Gresham,97014.0,Lusted Water District,1200,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Gresham,97014.0,Lusted Water District,1200,Chlorate*,317.5,210.0,0,ppb,1.5119047619047619
+OR,Gresham,97014.0,Lusted Water District,1200,Chromium (hexavalent)*,0.0362,0.02,0,ppb,1.81
+OR,Gresham,97014.0,Lusted Water District,1200,Manganese*,17.3,100.0,0,ppb,0.17300000000000001
+OR,Gresham,97014.0,Lusted Water District,1200,Nitrate,0.051,0.14,10,ppm,0.3642857142857142
+OR,Gresham,97014.0,Lusted Water District,1200,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Gresham,97014.0,Lusted Water District,1200,Strontium*,0.026,1500.0,0,ppb,1.7333333333333332e-05
+OR,Gresham,97014.0,Lusted Water District,1200,Vanadium*,0.764,21.0,0,ppb,0.03638095238095238
+OR,Portland,97014.0,Mayfair Moorage Inc.,28,Arsenic,5.59,0.004,10,ppb,1397.5
+OR,Portland,97014.0,Mayfair Moorage Inc.,28,Total trihalomethanes (TTHMs)†,6.9,0.15,80,ppb,46.00000000000001
+OR,Portland,97014.0,Mayfair Moorage Inc.,28,Barium,13.0,700.0,2000,ppb,0.018571428571428572
+OR,Odell,97014.0,Odell Water Company,373,Nitrate,4.98,0.14,10,ppm,35.57142857142857
+OR,Odell,97014.0,Odell Water Company,373,Nitrate and nitrite,5.55,0.14,10,ppm,39.64285714285714
+OR,Odell,97014.0,Odell Water Company,373,Total trihalomethanes (TTHMs)†,1.72,0.15,80,ppb,11.466666666666667
+OR,Odell,97014.0,Odell Water Company,373,Barium,5.3,700.0,2000,ppb,0.007571428571428571
+OR,Odell,97014.0,Odell Water Company,373,Styrene,0.17,0.5,100,ppb,0.34
+OR,Portland,97014.0,Palatine Hill Water District,1500,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Portland,97014.0,Palatine Hill Water District,1500,Haloacetic acids (HAA5)†,32.8,0.1,60,ppb,327.99999999999994
+OR,Portland,97014.0,Palatine Hill Water District,1500,Haloacetic acids (HAA9)*†,30.6,0.06,0,ppb,510.00000000000006
+OR,Portland,97014.0,Palatine Hill Water District,1500,Total trihalomethanes (TTHMs)†,50.3,0.15,80,ppb,335.3333333333333
+OR,Portland,97014.0,Palatine Hill Water District,1500,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Portland,97014.0,Palatine Hill Water District,1500,Chlorate*,317.5,210.0,0,ppb,1.5119047619047619
+OR,Portland,97014.0,Palatine Hill Water District,1500,Chromium (hexavalent)*,0.0362,0.02,0,ppb,1.81
+OR,Portland,97014.0,Palatine Hill Water District,1500,Manganese*,17.3,100.0,0,ppb,0.17300000000000001
+OR,Portland,97014.0,Palatine Hill Water District,1500,Nitrate*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Portland,97014.0,Palatine Hill Water District,1500,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Portland,97014.0,Palatine Hill Water District,1500,Strontium*,0.026,1500.0,0,ppb,1.7333333333333332e-05
+OR,Portland,97014.0,Palatine Hill Water District,1500,Vanadium*,0.764,21.0,0,ppb,0.03638095238095238
+OR,Parkdale,97014.0,Parkdale Water Company Inc.,867,Nitrate,1.43,0.14,10,ppm,10.214285714285714
+OR,Scappoose,97014.0,Sigler Cove Marina,150,Barium,6.9,700.0,2000,ppb,0.009857142857142858
+OR,Scappoose,97014.0,Sigler Cove Marina,150,Nitrate,0.129,0.14,10,ppm,0.9214285714285714
+OR,Scappoose,97014.0,Sigler Cove Marina,150,Nitrate and nitrite,0.0101,0.14,10,ppm,0.07214285714285713
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Arsenic*,0.42,0.004,10,ppb,105.0
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Haloacetic acids (HAA5)†,27.6,0.1,60,ppb,276.0
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Haloacetic acids (HAA9)*†,30.6,0.06,0,ppb,510.00000000000006
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Total trihalomethanes (TTHMs)†,31.9,0.15,80,ppb,212.66666666666666
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Barium*,5.23,700.0,2000,ppb,0.0074714285714285724
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Chlorate*,317.5,210.0,0,ppb,1.5119047619047619
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Chromium (hexavalent)*,0.0362,0.02,0,ppb,1.81
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Manganese*,17.3,100.0,0,ppb,0.17300000000000001
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Nitrate*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Nitrate and nitrite*,0.111,0.14,10,ppm,0.7928571428571428
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Strontium*,0.026,1500.0,0,ppb,1.7333333333333332e-05
+OR,Gresham,97014.0,Pleasant Home Water District,1510,Vanadium*,0.764,21.0,0,ppb,0.03638095238095238
+OR,Portland,97014.0,Rocky Pointe Marina,125,Arsenic,3.0,0.004,10,ppb,750.0
+OR,Portland,97014.0,Rocky Pointe Marina,125,Haloacetic acids (HAA5)†,1.25,0.1,60,ppb,12.5
+OR,Portland,97014.0,Rocky Pointe Marina,125,Total trihalomethanes (TTHMs)†,5.05,0.15,80,ppb,33.666666666666664
+OR,Portland,97014.0,Rocky Pointe Marina,125,Barium,0.55,700.0,2000,ppb,0.0007857142857142857
+OR,Portland,97014.0,Sauvie Island Moorage,96,Arsenic,5.0,0.004,10,ppb,1250.0
+OR,Portland,97014.0,Sauvie Island Moorage,96,Nitrate,0.0798,0.14,10,ppm,0.57
+OR,Silverton,97014.0,Terrand Mobile Terrace,71,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Silverton,97014.0,Terrand Mobile Terrace,71,Barium,6.2,700.0,2000,ppb,0.008857142857142857
+OR,Wood Village,97014.0,Wood Village City of,3907,Arsenic,0.8,0.004,10,ppb,200.0
+OR,Wood Village,97014.0,Wood Village City of,3907,Nitrate,1.47,0.14,10,ppm,10.499999999999998
+OR,Wood Village,97014.0,Wood Village City of,3907,Total trihalomethanes (TTHMs)†,3.42,0.15,80,ppb,22.8
+OR,Wood Village,97014.0,Wood Village City of,3907,Haloacetic acids (HAA5)†,0.0625,0.1,60,ppb,0.625
+OR,St Helens OR,97016.0,City of St. Helens,13225,Chromium (hexavalent),0.169,0.02,0,ppb,8.450000000000001
+OR,St Helens OR,97016.0,City of St. Helens,13225,Haloacetic acids (HAA5)†,1.97,0.1,60,ppb,19.7
+OR,St Helens OR,97016.0,City of St. Helens,13225,Haloacetic acids (HAA9)†,5.26,0.06,0,ppb,87.66666666666667
+OR,St Helens OR,97016.0,City of St. Helens,13225,Nitrate,1.63,0.14,10,ppm,11.64285714285714
+OR,St Helens OR,97016.0,City of St. Helens,13225,Total trihalomethanes (TTHMs)†,11.9,0.15,80,ppb,79.33333333333334
+OR,St Helens OR,97016.0,City of St. Helens,13225,Chlorate,17.6,210.0,0,ppb,0.08380952380952382
+OR,St Helens OR,97016.0,City of St. Helens,13225,Manganese,14.6,100.0,0,ppb,0.146
+OR,St Helens OR,97016.0,City of St. Helens,13225,Strontium,0.0608,1500.0,0,ppb,4.0533333333333334e-05
+OR,St Helens OR,97016.0,City of St. Helens,13225,Vanadium,9.49,21.0,0,ppb,0.4519047619047619
+OR,Astoria OR,97016.0,Astoria City of,9802,Haloacetic acids (HAA5)†,46.6,0.1,60,ppb,466.0
+OR,Astoria OR,97016.0,Astoria City of,9802,Radium combined (-226 &amp; -228),1.8,0.05,5,pCi/L,36.0
+OR,Astoria OR,97016.0,Astoria City of,9802,Total trihalomethanes (TTHMs)†,48.0,0.15,80,ppb,320.0
+OR,Astoria OR,97016.0,Astoria City of,9802,Nitrate,0.231,0.14,10,ppm,1.65
+OR,Warrenton OR,97016.0,Warrenton City of,9100,Haloacetic acids (HAA5)†,24.2,0.1,60,ppb,241.99999999999997
+OR,Warrenton OR,97016.0,Warrenton City of,9100,Nitrate,0.316,0.14,10,ppm,2.257142857142857
+OR,Warrenton OR,97016.0,Warrenton City of,9100,Total trihalomethanes (TTHMs)†,39.5,0.15,80,ppb,263.33333333333337
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Haloacetic acids (HAA5)†,3.88,0.1,60,ppb,38.8
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Nitrate,0.294,0.14,10,ppm,2.0999999999999996
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Nitrate and nitrite,0.38,0.14,10,ppm,2.714285714285714
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Total trihalomethanes (TTHMs)†,18.8,0.15,80,ppb,125.33333333333334
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Barium,19.5,700.0,2000,ppb,0.027857142857142858
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Chlorate,78.7,210.0,0,ppb,0.3747619047619048
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Chromium (hexavalent),0.0189,0.02,0,ppb,0.945
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Manganese,0.925,100.0,0,ppb,0.009250000000000001
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Strontium,0.0555,1500.0,0,ppb,3.7e-05
+OR,Scappoose OR,97016.0,Scappoose City of,6800,Vanadium,1.49,21.0,0,ppb,0.07095238095238095
+OR,Seaside OR,97016.0,Seaside Water Department,6605,Haloacetic acids (HAA5)†,15.2,0.1,60,ppb,151.99999999999997
+OR,Seaside OR,97016.0,Seaside Water Department,6605,Total trihalomethanes (TTHMs)†,33.8,0.15,80,ppb,225.33333333333331
+OR,Seaside OR,97016.0,Seaside Water Department,6605,Nitrate,0.252,0.14,10,ppm,1.7999999999999998
+OR,Seaside OR,97016.0,Seaside Water Department,6605,p-Dichlorobenzene,0.0833,6.0,75,ppb,0.013883333333333333
+OR,Astoria OR,97016.0,Youngs River Lewis & Clark Water District,2530,Haloacetic acids (HAA5)†,37.7,0.1,60,ppb,377.0
+OR,Astoria OR,97016.0,Youngs River Lewis & Clark Water District,2530,Nitrate,0.62,0.14,10,ppm,4.428571428571428
+OR,Astoria OR,97016.0,Youngs River Lewis & Clark Water District,2530,Nitrate and nitrite,0.48,0.14,10,ppm,3.428571428571428
+OR,Astoria OR,97016.0,Youngs River Lewis & Clark Water District,2530,Total trihalomethanes (TTHMs)†,54.9,0.15,80,ppb,366.0
+OR,Astoria OR,97016.0,Youngs River Lewis & Clark Water District,2530,Barium,6.66,700.0,2000,ppb,0.009514285714285715
+OR,Vernonia OR,97016.0,Vernonia City of,2475,Haloacetic acids (HAA5)†,24.3,0.1,60,ppb,243.0
+OR,Vernonia OR,97016.0,Vernonia City of,2475,Total trihalomethanes (TTHMs)†,57.2,0.15,80,ppb,381.33333333333337
+OR,Vernonia OR,97016.0,Vernonia City of,2475,Barium,3.05,700.0,2000,ppb,0.004357142857142857
+OR,Vernonia OR,97016.0,Vernonia City of,2475,Nitrate,0.263,0.14,10,ppm,1.8785714285714286
+OR,Clatskanie OR,97016.0,Clatskanie City of,2392,Haloacetic acids (HAA5)†,32.8,0.1,60,ppb,327.99999999999994
+OR,Clatskanie OR,97016.0,Clatskanie City of,2392,Nitrate,0.377,0.14,10,ppm,2.6928571428571426
+OR,Clatskanie OR,97016.0,Clatskanie City of,2392,Total trihalomethanes (TTHMs)†,24.0,0.15,80,ppb,160.0
+OR,St. Helens OR,97016.0,Mcnulty Water People's Utility District,2500,Arsenic,6.17,0.004,10,ppb,1542.5
+OR,St. Helens OR,97016.0,Mcnulty Water People's Utility District,2500,Barium,4.59,700.0,2000,ppb,0.006557142857142857
+OR,St. Helens OR,97016.0,Mcnulty Water People's Utility District,2500,Nitrate,0.0137,0.14,10,ppm,0.09785714285714285
+OR,St Helens OR,97016.0,Warren Water Association,2050,Barium,4.05,700.0,2000,ppb,0.0057857142857142855
+OR,St Helens OR,97016.0,Warren Water Association,2050,Nitrate,0.00438,0.14,10,ppm,0.031285714285714285
+OR,St Helens OR,97016.0,Warren Water Association,2050,Nitrate and nitrite,0.0254,0.14,10,ppm,0.1814285714285714
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Arsenic,5.0,0.004,10,ppb,1250.0
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Haloacetic acids (HAA5)†,3.17,0.1,60,ppb,31.7
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Haloacetic acids (HAA9)†,1.6,0.06,0,ppb,26.666666666666668
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Total trihalomethanes (TTHMs)†,1.73,0.15,80,ppb,11.533333333333333
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Barium,2.22,700.0,2000,ppb,0.0031714285714285716
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Chlorate,274.0,210.0,0,ppb,1.3047619047619048
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Chromium (hexavalent),0.00367,0.02,0,ppb,0.1835
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Manganese,15.5,100.0,0,ppb,0.155
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Molybdenum,1.74,40.0,0,ppb,0.0435
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Nitrate,0.00538,0.14,10,ppm,0.03842857142857143
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Nitrate and nitrite,0.00847,0.14,10,ppm,0.0605
+OR,Woodburn OR,97020.0,City of Woodburn,24670,Strontium,0.114,1500.0,0,ppb,7.6e-05
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Chromium (hexavalent),0.0551,0.02,0,ppb,2.755
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Haloacetic acids (HAA5)†,31.4,0.1,60,ppb,313.99999999999994
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Haloacetic acids (HAA9)†,34.4,0.06,0,ppb,573.3333333333334
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Total trihalomethanes (TTHMs)†,29.5,0.15,80,ppb,196.66666666666669
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,24-D*,0.0105,20.0,70,ppb,0.0005250000000000001
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Barium*,1.19,700.0,2000,ppb,0.0017
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Chlorate,107.3,210.0,0,ppb,0.5109523809523809
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Hexachlorocyclopentadiene*,0.00407,2.0,50,ppb,0.002035
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Nitrate*,0.0215,0.14,10,ppm,0.15357142857142855
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Nitrate and nitrite*,0.0215,0.14,10,ppm,0.15357142857142855
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Radium combined (-226 &amp; -228)*,0.09,0.05,5,pCi/L,1.7999999999999998
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Strontium,0.0257,1500.0,0,ppb,1.7133333333333334e-05
+OR,Salem OR,97020.0,Suburban East Salem WD,13600,Vanadium,1.38,21.0,0,ppb,0.06571428571428571
+OR,Silverton OR,97020.0,Silverton City of,10325,Haloacetic acids (HAA5)†,4.88,0.1,60,ppb,48.8
+OR,Silverton OR,97020.0,Silverton City of,10325,Radium combined (-226 &amp; -228),0.7,0.05,5,pCi/L,13.999999999999998
+OR,Silverton OR,97020.0,Silverton City of,10325,Total trihalomethanes (TTHMs)†,7.92,0.15,80,ppb,52.800000000000004
+OR,Silverton OR,97020.0,Silverton City of,10325,Nitrate,0.271,0.14,10,ppm,1.9357142857142857
+OR,Stayton OR,97020.0,Stayton Water Supply,7830,Haloacetic acids (HAA5)†,20.6,0.1,60,ppb,206.0
+OR,Stayton OR,97020.0,Stayton Water Supply,7830,Total trihalomethanes (TTHMs)†,22.5,0.15,80,ppb,150.0
+OR,Mt. Angel OR,97020.0,Mount Angel City of,3450,Radium combined (-226 &amp; -228),1.0,0.05,5,pCi/L,20.0
+OR,Mt. Angel OR,97020.0,Mount Angel City of,3450,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+OR,Mt. Angel OR,97020.0,Mount Angel City of,3450,Nitrate,0.0384,0.14,10,ppm,0.27428571428571424
+OR,Aumsville OR,97020.0,Aumsville City of,3945,Arsenic,3.6,0.004,10,ppb,900.0
+OR,Aumsville OR,97020.0,Aumsville City of,3945,Haloacetic acids (HAA5)†,1.37,0.1,60,ppb,13.700000000000001
+OR,Aumsville OR,97020.0,Aumsville City of,3945,Nitrate,0.659,0.14,10,ppm,4.707142857142857
+OR,Aumsville OR,97020.0,Aumsville City of,3945,Radium combined (-226 &amp; -228),0.8,0.05,5,pCi/L,16.0
+OR,Aumsville OR,97020.0,Aumsville City of,3945,Total trihalomethanes (TTHMs)†,7.99,0.15,80,ppb,53.26666666666667
+OR,Hubbard OR,97020.0,Hubbard City of,3304,Arsenic,9.2,0.004,10,ppb,2300.0
+OR,Hubbard OR,97020.0,Hubbard City of,3304,Nitrate and nitrite,0.328,0.14,10,ppm,2.3428571428571425
+OR,Hubbard OR,97020.0,Hubbard City of,3304,Nitrate,0.155,0.14,10,ppm,1.107142857142857
+OR,Hubbard OR,97020.0,Hubbard City of,3304,Total trihalomethanes (TTHMs)†,0.0333,0.15,80,ppb,0.22200000000000003
+OR,Sublimity OR,97020.0,Sublimity City of,2760,Total trihalomethanes (TTHMs)†,0.32,0.15,80,ppb,2.1333333333333333
+OR,Grass Valley,97029.0,Grass Valley Water System,170,Arsenic,1.2,0.004,10,ppb,300.0
+OR,Grass Valley,97029.0,Grass Valley Water System,170,Nitrate,1.49,0.14,10,ppm,10.642857142857142
+OR,Grass Valley,97029.0,Grass Valley Water System,170,Uranium,0.2,0.43,20,pCi/L,0.4651162790697675
+OR,Moro,97029.0,Moro City of,350,Arsenic,0.7,0.004,10,ppb,174.99999999999997
+OR,Moro,97029.0,Moro City of,350,Nitrate,3.17,0.14,10,ppm,22.64285714285714
+OR,Moro,97029.0,Moro City of,350,Nitrate and nitrite,4.27,0.14,10,ppm,30.499999999999993
+OR,Moro,97029.0,Moro City of,350,Radium combined (-226 &amp; -228),0.37,0.05,5,pCi/L,7.3999999999999995
+OR,Moro,97029.0,Moro City of,350,Barium,5.4,700.0,2000,ppb,0.007714285714285715
+OR,Rufus,97029.0,Rufus Public Works,270,Arsenic,0.755,0.004,10,ppb,188.75
+OR,Rufus,97029.0,Rufus Public Works,270,Haloacetic acids (HAA5)†,1.66,0.1,60,ppb,16.599999999999998
+OR,Rufus,97029.0,Rufus Public Works,270,Nitrate,2.78,0.14,10,ppm,19.857142857142854
+OR,Rufus,97029.0,Rufus Public Works,270,Nitrate and nitrite,3.25,0.14,10,ppm,23.21428571428571
+OR,Rufus,97029.0,Rufus Public Works,270,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+OR,Rufus,97029.0,Rufus Public Works,270,Total trihalomethanes (TTHMs)†,23.8,0.15,80,ppb,158.66666666666669
+OR,Rufus,97029.0,Rufus Public Works,270,Uranium,1.14,0.43,20,pCi/L,2.6511627906976742
+OR,Rufus,97029.0,Rufus Public Works,270,Barium,19.0,700.0,2000,ppb,0.027142857142857142
+OR,Wasco,97029.0,Wasco City of,415,Arsenic,0.83,0.004,10,ppb,207.49999999999997
+OR,Wasco,97029.0,Wasco City of,415,Nitrate,1.3,0.14,10,ppm,9.285714285714285
+OR,Wasco,97029.0,Wasco City of,415,Nitrate and nitrite,1.06,0.14,10,ppm,7.571428571428571
+OR,Wasco,97029.0,Wasco City of,415,Radium combined (-226 &amp; -228),2.3,0.05,5,pCi/L,45.99999999999999
+OR,Wasco,97029.0,Wasco City of,415,Barium,3.04,700.0,2000,ppb,0.004342857142857143
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Chromium (hexavalent),0.269,0.02,0,ppb,13.450000000000001
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Haloacetic acids (HAA5)†,24.3,0.1,60,ppb,243.0
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Haloacetic acids (HAA9)†,22.4,0.06,0,ppb,373.3333333333333
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Total trihalomethanes (TTHMs)†,30.6,0.15,80,ppb,204.00000000000003
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Barium,2.0,700.0,2000,ppb,0.002857142857142857
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Chlorate,146.1,210.0,0,ppb,0.6957142857142857
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Manganese,0.125,100.0,0,ppb,0.00125
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Nitrate,0.0319,0.14,10,ppm,0.2278571428571428
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Nitrate and nitrite,0.03,0.14,10,ppm,0.21428571428571425
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Strontium,0.0314,1500.0,0,ppb,2.093333333333333e-05
+OR,Mcminnville OR,97101.0,McMinnville Water & Light,33896,Vanadium,0.59,21.0,0,ppb,0.028095238095238093
+OR,Newberg OR,97101.0,City of Newberg,23795,Chlorate,486.0,210.0,0,ppb,2.3142857142857145
+OR,Newberg OR,97101.0,City of Newberg,23795,Haloacetic acids (HAA5)†,9.16,0.1,60,ppb,91.6
+OR,Newberg OR,97101.0,City of Newberg,23795,Haloacetic acids (HAA9)†,19.3,0.06,0,ppb,321.6666666666667
+OR,Newberg OR,97101.0,City of Newberg,23795,Total trihalomethanes (TTHMs)†,25.6,0.15,80,ppb,170.66666666666669
+OR,Newberg OR,97101.0,City of Newberg,23795,Chloromethane,1.1,2.69,0,ppb,0.4089219330855019
+OR,Newberg OR,97101.0,City of Newberg,23795,Manganese,0.54,100.0,0,ppb,0.0054
+OR,Newberg OR,97101.0,City of Newberg,23795,Nitrate,0.079,0.14,10,ppm,0.5642857142857143
+OR,Newberg OR,97101.0,City of Newberg,23795,Strontium,0.0596,1500.0,0,ppb,3.9733333333333335e-05
+OR,Dallas OR,97101.0,City of Dallas,14700,Chromium (hexavalent),0.149,0.02,0,ppb,7.449999999999999
+OR,Dallas OR,97101.0,City of Dallas,14700,Haloacetic acids (HAA5)†,21.0,0.1,60,ppb,210.0
+OR,Dallas OR,97101.0,City of Dallas,14700,Haloacetic acids (HAA9)†,27.3,0.06,0,ppb,455.00000000000006
+OR,Dallas OR,97101.0,City of Dallas,14700,Total trihalomethanes (TTHMs)†,33.4,0.15,80,ppb,222.66666666666666
+OR,Dallas OR,97101.0,City of Dallas,14700,Molybdenum,0.15,40.0,0,ppb,0.00375
+OR,Dallas OR,97101.0,City of Dallas,14700,Nitrate,0.085,0.14,10,ppm,0.6071428571428571
+OR,Dallas OR,97101.0,City of Dallas,14700,Nitrate and nitrite,0.11,0.14,10,ppm,0.7857142857142857
+OR,Dallas OR,97101.0,City of Dallas,14700,Strontium,0.0246,1500.0,0,ppb,1.64e-05
+OR,Dallas OR,97101.0,City of Dallas,14700,Vanadium,1.01,21.0,0,ppb,0.048095238095238094
+OR,Monmouth OR,97101.0,Monmouth City of,9855,Nitrate,5.5,0.14,10,ppm,39.285714285714285
+OR,Monmouth OR,97101.0,Monmouth City of,9855,Nitrate and nitrite,7.57,0.14,10,ppm,54.07142857142857
+OR,Monmouth OR,97101.0,Monmouth City of,9855,Total trihalomethanes (TTHMs)†,4.82,0.15,80,ppb,32.13333333333334
+OR,Arch Cape,97102.0,Arch Cape Water District,150,Haloacetic acids (HAA5)†,25.1,0.1,60,ppb,251.0
+OR,Arch Cape,97102.0,Arch Cape Water District,150,Nitrate,0.364,0.14,10,ppm,2.5999999999999996
+OR,Arch Cape,97102.0,Arch Cape Water District,150,Nitrate and nitrite,0.328,0.14,10,ppm,2.3428571428571425
+OR,Arch Cape,97102.0,Arch Cape Water District,150,Total trihalomethanes (TTHMs)†,48.6,0.15,80,ppb,324.0
+OR,Arch Cape,97102.0,Arch Cape Water District,150,Barium,5.13,700.0,2000,ppb,0.007328571428571428
+OR,Astoria,97102.0,Burnside Water Association,315,Haloacetic acids (HAA5)†,36.8,0.1,60,ppb,367.99999999999994
+OR,Astoria,97102.0,Burnside Water Association,315,Radium combined (-226 &amp; -228)*,1.8,0.05,5,pCi/L,36.0
+OR,Astoria,97102.0,Burnside Water Association,315,Total trihalomethanes (TTHMs)†,37.9,0.15,80,ppb,252.66666666666666
+OR,Astoria,97102.0,Burnside Water Association,315,Nitrate*,0.231,0.14,10,ppm,1.65
+OR,Cannon Beach,97102.0,Cannon Beach City of,1710,Haloacetic acids (HAA5)†,1.73,0.1,60,ppb,17.299999999999997
+OR,Cannon Beach,97102.0,Cannon Beach City of,1710,Nitrate,0.568,0.14,10,ppm,4.057142857142856
+OR,Cannon Beach,97102.0,Cannon Beach City of,1710,Total trihalomethanes (TTHMs)†,6.03,0.15,80,ppb,40.2
+OR,Seaside,97102.0,Elderberry Nehalem Ws,140,Nitrate,1.21,0.14,10,ppm,8.642857142857142
+OR,Seaside,97102.0,Evergreen Acres,100,Haloacetic acids (HAA5)†,20.7,0.1,60,ppb,206.99999999999997
+OR,Seaside,97102.0,Evergreen Acres,100,Nitrate,0.504,0.14,10,ppm,3.5999999999999996
+OR,Seaside,97102.0,Evergreen Acres,100,Total trihalomethanes (TTHMs)†,20.2,0.15,80,ppb,134.66666666666666
+OR,Astoria,97102.0,Fernhill Community Water System,300,Haloacetic acids (HAA5)†,28.6,0.1,60,ppb,286.0
+OR,Astoria,97102.0,Fernhill Community Water System,300,Radium combined (-226 &amp; -228)*,1.8,0.05,5,pCi/L,36.0
+OR,Astoria,97102.0,Fernhill Community Water System,300,Total trihalomethanes (TTHMs)†,45.4,0.15,80,ppb,302.6666666666667
+OR,Astoria,97102.0,Fernhill Community Water System,300,Nitrate*,0.231,0.14,10,ppm,1.65
+OR,Gearhart,97102.0,Gearhart Water Department,1465,Arsenic,1.67,0.004,10,ppb,417.5
+OR,Gearhart,97102.0,Gearhart Water Department,1465,Haloacetic acids (HAA5)†,12.3,0.1,60,ppb,123.0
+OR,Gearhart,97102.0,Gearhart Water Department,1465,Total trihalomethanes (TTHMs)†,36.6,0.15,80,ppb,244.00000000000003
+OR,Gearhart,97102.0,Gearhart Water Department,1465,Barium,0.535,700.0,2000,ppb,0.0007642857142857143
+OR,Gearhart,97102.0,Gearhart Water Department,1465,Nitrate,0.1,0.14,10,ppm,0.7142857142857143
+OR,Astoria,97102.0,John Day Water District,350,Haloacetic acids (HAA5)†,28.7,0.1,60,ppb,287.0
+OR,Astoria,97102.0,John Day Water District,350,Radium combined (-226 &amp; -228)*,1.8,0.05,5,pCi/L,36.0
+OR,Astoria,97102.0,John Day Water District,350,Total trihalomethanes (TTHMs)†,29.2,0.15,80,ppb,194.66666666666666
+OR,Astoria,97102.0,John Day Water District,350,Nitrate*,0.231,0.14,10,ppm,1.65
+OR,Astoria,97102.0,Knappa Water Association,1800,Haloacetic acids (HAA5)†,0.167,0.1,60,ppb,1.67
+OR,Astoria,97102.0,Knappa Water Association,1800,Nitrate,0.109,0.14,10,ppm,0.7785714285714285
+OR,Astoria,97102.0,Olney-walluski Water Association,530,Haloacetic acids (HAA5)†,27.2,0.1,60,ppb,272.0
+OR,Astoria,97102.0,Olney-walluski Water Association,530,Radium combined (-226 &amp; -228)*,1.8,0.05,5,pCi/L,36.0
+OR,Astoria,97102.0,Olney-walluski Water Association,530,Total trihalomethanes (TTHMs)†,28.2,0.15,80,ppb,188.0
+OR,Astoria,97102.0,Olney-walluski Water Association,530,Nitrate*,0.231,0.14,10,ppm,1.65
+OR,Seaside,97102.0,Stanley Acres Water Association,315,Haloacetic acids (HAA5)†,11.5,0.1,60,ppb,115.0
+OR,Seaside,97102.0,Stanley Acres Water Association,315,Total trihalomethanes (TTHMs)†,54.3,0.15,80,ppb,362.0
+OR,Seaside,97102.0,Stanley Acres Water Association,315,Nitrate*,0.252,0.14,10,ppm,1.7999999999999998
+OR,Seaside,97102.0,Stanley Acres Water Association,315,p-Dichlorobenzene*,0.0833,6.0,75,ppb,0.013883333333333333
+OR,Redmond,97102.0,Sunset Lake Rv Park,170,Arsenic,9.0,0.004,10,ppb,2250.0
+OR,Redmond,97102.0,Sunset Lake Rv Park,170,Haloacetic acids (HAA5)†,19.2,0.1,60,ppb,191.99999999999997
+OR,Redmond,97102.0,Sunset Lake Rv Park,170,Total trihalomethanes (TTHMs)†,51.9,0.15,80,ppb,346.0
+OR,Redmond,97102.0,Sunset Lake Rv Park,170,Nitrate,0.0201,0.14,10,ppm,0.14357142857142854
+OR,Westport,97102.0,Wauna Water District,188,Nitrate,0.514,0.14,10,ppm,3.6714285714285713
+OR,Westport,97102.0,Wauna Water District,188,Total trihalomethanes (TTHMs)†,0.4,0.15,80,ppb,2.666666666666667
+OR,Westport,97102.0,Wauna Water District,188,Haloacetic acids (HAA5)†,0.143,0.1,60,ppb,1.4299999999999997
+OR,Westport,97102.0,Westport Heights,90,Nitrate,0.336,0.14,10,ppm,2.4
+OR,Westport,97102.0,Westport Heights,90,Nitrate and nitrite,0.321,0.14,10,ppm,2.2928571428571427
+OR,Westport,97102.0,Westport Heights,90,Barium,8.26,700.0,2000,ppb,0.0118
+OR,Westport,97102.0,Westport Water Association,550,Haloacetic acids (HAA5)†,0.389,0.1,60,ppb,3.89
+OR,Westport,97102.0,Westport Water Association,550,Nitrate*,0.514,0.14,10,ppm,3.6714285714285713
+OR,Westport,97102.0,Westport Water Association,550,Total trihalomethanes (TTHMs)†,2.08,0.15,80,ppb,13.866666666666667
+OR,Astoria,97102.0,Wickiup Water District,1590,Haloacetic acids (HAA5)†,17.3,0.1,60,ppb,173.0
+OR,Astoria,97102.0,Wickiup Water District,1590,Nitrate,0.847,0.14,10,ppm,6.049999999999999
+OR,Astoria,97102.0,Wickiup Water District,1590,Total trihalomethanes (TTHMs)†,29.5,0.15,80,ppb,196.66666666666669
+OR,Astoria,97102.0,Willow Dale Water District,300,Haloacetic acids (HAA5)†,29.3,0.1,60,ppb,293.0
+OR,Astoria,97102.0,Willow Dale Water District,300,Radium combined (-226 &amp; -228)*,1.8,0.05,5,pCi/L,36.0
+OR,Astoria,97102.0,Willow Dale Water District,300,Total trihalomethanes (TTHMs)†,36.7,0.15,80,ppb,244.66666666666669
+OR,Astoria,97102.0,Willow Dale Water District,300,Nitrate*,0.231,0.14,10,ppm,1.65
+OR,Tillamook OR,97107.0,Tillamook Water Department City of,4885,Haloacetic acids (HAA5)†,1.04,0.1,60,ppb,10.4
+OR,Tillamook OR,97107.0,Tillamook Water Department City of,4885,Nitrate,1.4,0.14,10,ppm,9.999999999999998
+OR,Tillamook OR,97107.0,Tillamook Water Department City of,4885,Nitrate and nitrite,1.65,0.14,10,ppm,11.785714285714285
+OR,Tillamook OR,97107.0,Tillamook Water Department City of,4885,Total trihalomethanes (TTHMs)†,4.91,0.15,80,ppb,32.733333333333334
+OR,Manzanita OR,97107.0,Manzanita Water Department,3200,Nitrate*,0.749,0.14,10,ppm,5.35
+OR,Manzanita OR,97107.0,Manzanita Water Department,3200,Total trihalomethanes (TTHMs)†,1.22,0.15,80,ppb,8.133333333333333
+OR,Manzanita OR,97107.0,Manzanita Water Department,3200,Barium*,2.18,700.0,2000,ppb,0.0031142857142857144
+OR,Manzanita OR,97107.0,Manzanita Water Department,3200,Haloacetic acids (HAA5)†,0.2,0.1,60,ppb,2.0
+OR,Netarts OR,97107.0,Netarts Water District,1800,Haloacetic acids (HAA5)†,9.61,0.1,60,ppb,96.1
+OR,Netarts OR,97107.0,Netarts Water District,1800,Nitrate,0.47,0.14,10,ppm,3.3571428571428568
+OR,Netarts OR,97107.0,Netarts Water District,1800,Nitrate and nitrite,0.656,0.14,10,ppm,4.685714285714285
+OR,Netarts OR,97107.0,Netarts Water District,1800,Total trihalomethanes (TTHMs)†,27.3,0.15,80,ppb,182.0
+OR,Netarts OR,97107.0,Netarts Water District,1800,Barium,9.3,700.0,2000,ppb,0.013285714285714286
+OR,Nehalem OR,97107.0,Nehalem City of,1700,Haloacetic acids (HAA5)†,41.0,0.1,60,ppb,410.0
+OR,Nehalem OR,97107.0,Nehalem City of,1700,Nitrate,0.816,0.14,10,ppm,5.828571428571427
+OR,Nehalem OR,97107.0,Nehalem City of,1700,Nitrate and nitrite,1.3,0.14,10,ppm,9.285714285714285
+OR,Nehalem OR,97107.0,Nehalem City of,1700,Total trihalomethanes (TTHMs)†,55.8,0.15,80,ppb,372.0
+OR,Nehalem OR,97107.0,Nehalem City of,1700,Barium,4.55,700.0,2000,ppb,0.0065
+OR,Sheridan OR,97111.0,Sheridan City of,6200,Haloacetic acids (HAA5)†,11.0,0.1,60,ppb,110.0
+OR,Sheridan OR,97111.0,Sheridan City of,6200,Radium combined (-226 &amp; -228),1.4,0.05,5,pCi/L,27.999999999999996
+OR,Sheridan OR,97111.0,Sheridan City of,6200,Total trihalomethanes (TTHMs)†,18.7,0.15,80,ppb,124.66666666666667
+OR,Sheridan OR,97111.0,Sheridan City of,6200,Nitrate,0.0303,0.14,10,ppm,0.21642857142857141
+OR,Sheridan OR,97111.0,Sheridan City of,6200,Pentachlorophenol,0.0122,0.3,1,ppb,0.04066666666666667
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Haloacetic acids (HAA5)†,24.6,0.1,60,ppb,246.0
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Nitrate,0.903,0.14,10,ppm,6.449999999999999
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Nitrate and nitrite,0.788,0.14,10,ppm,5.628571428571428
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Total trihalomethanes (TTHMs)†,65.0,0.15,80,ppb,433.33333333333337
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Barium,6.65,700.0,2000,ppb,0.0095
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Dichloromethane (methylene chloride),0.167,4.0,5,ppb,0.04175
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Ethylbenzene,1.16,300.0,700,ppb,0.0038666666666666663
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Toluene,1.02,150.0,1000,ppb,0.0068000000000000005
+OR,Lafayette OR,97111.0,Lafayette City of,4095,Xylenes (total),7.56,1800.0,10000,ppb,0.0042
+OR,Dundee OR,97111.0,Dundee City of,3356,Nitrate,0.547,0.14,10,ppm,3.907142857142857
+OR,Dundee OR,97111.0,Dundee City of,3356,Nitrate and nitrite,0.556,0.14,10,ppm,3.9714285714285715
+OR,Dundee OR,97111.0,Dundee City of,3356,Radium combined (-226 &amp; -228),0.16,0.05,5,pCi/L,3.1999999999999997
+OR,Dundee OR,97111.0,Dundee City of,3356,Total trihalomethanes (TTHMs)†,2.73,0.15,80,ppb,18.2
+OR,Dundee OR,97111.0,Dundee City of,3356,Barium,2.44,700.0,2000,ppb,0.0034857142857142856
+OR,Dundee OR,97111.0,Dundee City of,3356,Haloacetic acids (HAA5)†,0.12,0.1,60,ppb,1.2
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Chromium (hexavalent),0.511,0.02,0,ppb,25.55
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Haloacetic acids (HAA9)†,16.2,0.06,0,ppb,270.0
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Total trihalomethanes (TTHMs)†,19.8,0.15,80,ppb,132.0
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Chlorate,172.6,210.0,0,ppb,0.8219047619047619
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Manganese,1.24,100.0,0,ppb,0.0124
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Nitrate,0.0292,0.14,10,ppm,0.20857142857142855
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Strontium,0.0301,1500.0,0,ppb,2.0066666666666665e-05
+OR,Corvallis OR,97321.0,City of Corvallis,56000,Vanadium,2.09,21.0,0,ppb,0.09952380952380951
+OR,Albany OR,97321.0,City of Albany,56100,Haloacetic acids (HAA5)†,21.9,0.1,60,ppb,218.99999999999997
+OR,Albany OR,97321.0,City of Albany,56100,Haloacetic acids (HAA9)†,23.0,0.06,0,ppb,383.33333333333337
+OR,Albany OR,97321.0,City of Albany,56100,Radium combined (-226 &amp; -228),0.83,0.05,5,pCi/L,16.599999999999998
+OR,Albany OR,97321.0,City of Albany,56100,Total trihalomethanes (TTHMs)†,41.4,0.15,80,ppb,276.0
+OR,Albany OR,97321.0,City of Albany,56100,Chlorate,93.1,210.0,0,ppb,0.4433333333333333
+OR,Albany OR,97321.0,City of Albany,56100,Chromium (hexavalent),0.0384,0.02,0,ppb,1.9199999999999997
+OR,Albany OR,97321.0,City of Albany,56100,Manganese,4.35,100.0,0,ppb,0.0435
+OR,Albany OR,97321.0,City of Albany,56100,Nitrate,0.127,0.14,10,ppm,0.907142857142857
+OR,Albany OR,97321.0,City of Albany,56100,Strontium,0.0263,1500.0,0,ppb,1.7533333333333334e-05
+OR,Albany OR,97321.0,City of Albany,56100,Vanadium,0.453,21.0,0,ppb,0.02157142857142857
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Haloacetic acids (HAA5)†,13.4,0.1,60,ppb,134.0
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Haloacetic acids (HAA9)†,25.6,0.06,0,ppb,426.6666666666667
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Total trihalomethanes (TTHMs)†,22.1,0.15,80,ppb,147.33333333333334
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Chlorate,70.0,210.0,0,ppb,0.3333333333333333
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Chromium (hexavalent),0.00963,0.02,0,ppb,0.4815
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Manganese,131.3,100.0,0,ppb,1.3130000000000002
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Nitrate,0.0468,0.14,10,ppm,0.33428571428571424
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Strontium,0.0231,1500.0,0,ppb,1.5399999999999998e-05
+OR,Lebanon OR,97321.0,City of Lebanon,15518,Vanadium,0.223,21.0,0,ppb,0.01061904761904762
+OR,Lebanon OR,97321.0,Sweet Home City of,9065,Haloacetic acids (HAA5)†,7.34,0.1,60,ppb,73.39999999999999
+OR,Lebanon OR,97321.0,Sweet Home City of,9065,Total trihalomethanes (TTHMs)†,14.8,0.15,80,ppb,98.66666666666667
+OR,Lebanon OR,97321.0,Sweet Home City of,9065,Nitrate,0.0299,0.14,10,ppm,0.21357142857142855
+OR,Philomath OR,97321.0,Philomath Public Works,4670,Haloacetic acids (HAA5)†,23.1,0.1,60,ppb,231.0
+OR,Philomath OR,97321.0,Philomath Public Works,4670,Total trihalomethanes (TTHMs)†,39.7,0.15,80,ppb,264.6666666666667
+OR,Harrisburg OR,97321.0,Harrisburg City of,3650,Arsenic,3.68,0.004,10,ppb,920.0
+OR,Harrisburg OR,97321.0,Harrisburg City of,3650,Haloacetic acids (HAA5)†,5.75,0.1,60,ppb,57.5
+OR,Harrisburg OR,97321.0,Harrisburg City of,3650,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+OR,Harrisburg OR,97321.0,Harrisburg City of,3650,Total trihalomethanes (TTHMs)†,39.6,0.15,80,ppb,264.0
+OR,Harrisburg OR,97321.0,Harrisburg City of,3650,Barium,64.5,700.0,2000,ppb,0.09214285714285714
+OR,Monmouth OR,97321.0,Luckiamute Domestic Water Co-op,2738,Haloacetic acids (HAA5)†,14.6,0.1,60,ppb,146.0
+OR,Monmouth OR,97321.0,Luckiamute Domestic Water Co-op,2738,Nitrate,4.71,0.14,10,ppm,33.64285714285714
+OR,Monmouth OR,97321.0,Luckiamute Domestic Water Co-op,2738,Nitrate and nitrite,5.24,0.14,10,ppm,37.42857142857142
+OR,Monmouth OR,97321.0,Luckiamute Domestic Water Co-op,2738,Total trihalomethanes (TTHMs)†,14.2,0.15,80,ppb,94.66666666666667
+OR,Monmouth OR,97321.0,Luckiamute Domestic Water Co-op,2738,Barium,8.0,700.0,2000,ppb,0.011428571428571429
+OR,Lyons OR,97322.0,Lyons Mehama Water District,1300,Haloacetic acids (HAA5)†,7.8,0.1,60,ppb,78.0
+OR,Lyons OR,97322.0,Lyons Mehama Water District,1300,Nitrate,1.28,0.14,10,ppm,9.142857142857142
+OR,Lyons OR,97322.0,Lyons Mehama Water District,1300,Nitrate and nitrite,0.726,0.14,10,ppm,5.185714285714285
+OR,Lyons OR,97322.0,Lyons Mehama Water District,1300,Total trihalomethanes (TTHMs)†,12.1,0.15,80,ppb,80.66666666666667
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Arsenic,0.0779,0.004,10,ppb,19.474999999999998
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Chromium (hexavalent),0.104,0.02,0,ppb,5.199999999999999
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Haloacetic acids (HAA5)†,19.4,0.1,60,ppb,193.99999999999997
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Haloacetic acids (HAA9)†,15.5,0.06,0,ppb,258.33333333333337
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Total trihalomethanes (TTHMs)†,23.3,0.15,80,ppb,155.33333333333334
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Barium,1.34,700.0,2000,ppb,0.0019142857142857145
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Manganese,0.483,100.0,0,ppb,0.00483
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Radium combined (-226 &amp; -228),0.06,0.05,5,pCi/L,1.2
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Strontium,0.0264,1500.0,0,ppb,1.76e-05
+OR,Eugene OR,97324.0,Eugene Water & Electric Board,168000,Vanadium,4.64,21.0,0,ppb,0.22095238095238093
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Arsenic,0.751,0.004,10,ppb,187.75
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Chromium (hexavalent),0.141,0.02,0,ppb,7.049999999999999
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Haloacetic acids (HAA5)†,6.15,0.1,60,ppb,61.5
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Haloacetic acids (HAA9)†,9.18,0.06,0,ppb,153.0
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Nitrate,0.504,0.14,10,ppm,3.5999999999999996
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Radium combined (-226 &amp; -228),0.48,0.05,5,pCi/L,9.6
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Total trihalomethanes (TTHMs)†,13.3,0.15,80,ppb,88.66666666666667
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Barium,0.284,700.0,2000,ppb,0.00040571428571428567
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Manganese,1.14,100.0,0,ppb,0.011399999999999999
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Nitrate and nitrite,0.0488,0.14,10,ppm,0.3485714285714286
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Strontium,0.0603,1500.0,0,ppb,4.02e-05
+OR,Springfield OR,97324.0,Springfield Utility Board,59500,Vanadium,2.89,21.0,0,ppb,0.1376190476190476
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Chromium (hexavalent),0.714,0.02,0,ppb,35.699999999999996
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Haloacetic acids (HAA5)†,26.4,0.1,60,ppb,263.99999999999994
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Haloacetic acids (HAA9)†,33.7,0.06,0,ppb,561.6666666666667
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Nitrate,0.377,0.14,10,ppm,2.6928571428571426
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Nitrate and nitrite,0.37,0.14,10,ppm,2.642857142857143
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Total trihalomethanes (TTHMs)†,20.7,0.15,80,ppb,138.0
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Chlorate,3.0,210.0,0,ppb,0.014285714285714285
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Manganese,0.243,100.0,0,ppb,0.00243
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Strontium,0.0315,1500.0,0,ppb,2.1e-05
+OR,Lincoln City OR,97324.0,Lincoln City Water District,20830,Vanadium,2.01,21.0,0,ppb,0.09571428571428571
+OR,Newport OR,97324.0,City of Newport,10160,Haloacetic acids (HAA5)†,12.6,0.1,60,ppb,125.99999999999999
+OR,Newport OR,97324.0,City of Newport,10160,Haloacetic acids (HAA9)†,23.3,0.06,0,ppb,388.33333333333337
+OR,Newport OR,97324.0,City of Newport,10160,Total trihalomethanes (TTHMs)†,45.9,0.15,80,ppb,306.0
+OR,Newport OR,97324.0,City of Newport,10160,Manganese,0.495,100.0,0,ppb,0.0049499999999999995
+OR,Cottage Grove OR,97324.0,Cottage Grove City of,10005,Haloacetic acids (HAA5)†,16.7,0.1,60,ppb,166.99999999999997
+OR,Cottage Grove OR,97324.0,Cottage Grove City of,10005,Total trihalomethanes (TTHMs)†,25.9,0.15,80,ppb,172.66666666666666
+OR,Florence OR,97324.0,Florence City of,8850,Bromodichloromethane,9.05,0.06,0,ppb,150.83333333333334
+OR,Florence OR,97324.0,Florence City of,8850,Chloroform,42.5,0.4,0,ppb,106.25
+OR,Florence OR,97324.0,Florence City of,8850,Dibromochloromethane,1.85,0.1,0,ppb,18.5
+OR,Florence OR,97324.0,Florence City of,8850,Dichloroacetic acid,9.5,0.2,0,ppb,47.5
+OR,Florence OR,97324.0,Florence City of,8850,Haloacetic acids (HAA5)†,20.3,0.1,60,ppb,203.0
+OR,Florence OR,97324.0,Florence City of,8850,Total trihalomethanes (TTHMs)†,49.7,0.15,80,ppb,331.33333333333337
+OR,Florence OR,97324.0,Florence City of,8850,Trichloroacetic acid,11.6,0.1,0,ppb,115.99999999999999
+OR,Florence OR,97324.0,Florence City of,8850,Barium,51.0,700.0,2000,ppb,0.07285714285714286
+OR,Florence OR,97324.0,Florence City of,8850,Chlorate,164.8,210.0,0,ppb,0.7847619047619048
+OR,Florence OR,97324.0,Florence City of,8850,Chromium (hexavalent),0.017,0.02,0,ppb,0.8500000000000001
+OR,Florence OR,97324.0,Florence City of,8850,Molybdenum,2.97,40.0,0,ppb,0.07425000000000001
+OR,Florence OR,97324.0,Florence City of,8850,Nitrate,0.0075,0.14,10,ppm,0.05357142857142856
+OR,Florence OR,97324.0,Florence City of,8850,Selenium,0.412,30.0,50,ppb,0.013733333333333332
+OR,Florence OR,97324.0,Florence City of,8850,Strontium,0.254,1500.0,0,ppb,0.00016933333333333335
+OR,Florence OR,97324.0,Florence City of,8850,Vanadium,0.47,21.0,0,ppb,0.02238095238095238
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Arsenic,3.75,0.004,10,ppb,937.5
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Haloacetic acids (HAA9)†,0.375,0.06,0,ppb,6.25
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Nitrate,1.38,0.14,10,ppm,9.857142857142856
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Nitrate and nitrite,0.65,0.14,10,ppm,4.642857142857142
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Total trihalomethanes (TTHMs)†,1.21,0.15,80,ppb,8.066666666666666
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Barium,2.0,700.0,2000,ppb,0.002857142857142857
+OR,Springfield OR,97324.0,Rainbow Water District,6300,Manganese,0.288,100.0,0,ppb,0.0028799999999999997
+OR,Seal Rock OR,97324.0,Seal Rock Water District,5500,Haloacetic acids (HAA5)†,7.71,0.1,60,ppb,77.1
+OR,Seal Rock OR,97324.0,Seal Rock Water District,5500,Nitrate*,0.706,0.14,10,ppm,5.042857142857142
+OR,Seal Rock OR,97324.0,Seal Rock Water District,5500,Total trihalomethanes (TTHMs)†,24.0,0.15,80,ppb,160.0
+OR,Adair,97330.0,Adair Village Water System,875,Haloacetic acids (HAA5)†,13.2,0.1,60,ppb,131.99999999999997
+OR,Adair,97330.0,Adair Village Water System,875,Total trihalomethanes (TTHMs)†,23.4,0.15,80,ppb,156.0
+OR,Adair,97330.0,Adair Village Water System,875,Barium,4.0,700.0,2000,ppb,0.005714285714285714
+OR,Adair,97330.0,Adair Village Water System,875,Nitrate,0.0233,0.14,10,ppm,0.16642857142857143
+OR,Adair,97330.0,Adair Village Water System,875,Nitrate and nitrite,0.14,0.14,10,ppm,1.0
+OR,Corvallis,97330.0,Cascade View Estates,113,Nitrate,1.12,0.14,10,ppm,8.0
+OR,Corvallis,97330.0,Cascade View Estates,113,Di(2-ethylhexyl) phthalate,0.275,3.0,6,ppb,0.09166666666666667
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Haloacetic acids (HAA5)†,25.0,0.1,60,ppb,250.0
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Haloacetic acids (HAA9)*†,23.0,0.06,0,ppb,383.33333333333337
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Radium combined (-226 &amp; -228)*,0.83,0.05,5,pCi/L,16.599999999999998
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Total trihalomethanes (TTHMs)†,49.1,0.15,80,ppb,327.33333333333337
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Chlorate*,93.1,210.0,0,ppb,0.4433333333333333
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Chromium (hexavalent)*,0.0384,0.02,0,ppb,1.9199999999999997
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Manganese*,4.35,100.0,0,ppb,0.0435
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Nitrate*,0.127,0.14,10,ppm,0.907142857142857
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Strontium*,0.0263,1500.0,0,ppb,1.7533333333333334e-05
+OR,Albany,97330.0,Dumbeck Lane Domestic Water Supply District,250,Vanadium*,0.453,21.0,0,ppb,0.02157142857142857
+OR,Albany,97330.0,Fir View Water Company,163,Total trihalomethanes (TTHMs)†,3.46,0.15,80,ppb,23.066666666666666
+OR,Albany,97330.0,Fir View Water Company,163,Nitrate,0.0129,0.14,10,ppm,0.09214285714285714
+OR,Albany,97330.0,Fir View Water Company,163,Nitrate and nitrite,0.1,0.14,10,ppm,0.7142857142857143
+OR,Corvallis,97330.0,Jackson Creek Water Association,41,Haloacetic acids (HAA5)†,8.53,0.1,60,ppb,85.29999999999998
+OR,Corvallis,97330.0,Jackson Creek Water Association,41,Tetrachloroethylene (perchloroethylene),0.323,0.06,5,ppb,5.383333333333334
+OR,Corvallis,97330.0,Jackson Creek Water Association,41,Total trihalomethanes (TTHMs)†,53.2,0.15,80,ppb,354.6666666666667
+OR,Corvallis,97330.0,Knoll Terrace Park,452,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Corvallis,97330.0,Knoll Terrace Park,452,Haloacetic acids (HAA5)†,0.9,0.1,60,ppb,9.0
+OR,Corvallis,97330.0,Knoll Terrace Park,452,Total trihalomethanes (TTHMs)†,12.8,0.15,80,ppb,85.33333333333334
+OR,Corvallis,97330.0,Knoll Terrace Park,452,Barium,4.0,700.0,2000,ppb,0.005714285714285714
+OR,Corvallis,97330.0,Knoll Terrace Park,452,Nitrate,0.01,0.14,10,ppm,0.07142857142857142
+OR,Monroe,97330.0,Monroe City of,615,Haloacetic acids (HAA5)†,39.5,0.1,60,ppb,395.0
+OR,Monroe,97330.0,Monroe City of,615,Total trihalomethanes (TTHMs)†,54.3,0.15,80,ppb,362.0
+OR,Corvallis,97330.0,North Corvallis Mobile Home Park-well #1,100,Haloacetic acids (HAA5)†,5.8,0.1,60,ppb,57.99999999999999
+OR,Corvallis,97330.0,North Corvallis Mobile Home Park-well #1,100,Total trihalomethanes (TTHMs)†,17.5,0.15,80,ppb,116.66666666666667
+OR,Corvallis,97330.0,North Corvallis Mobile Home Park-well #1,100,Uranium,11.39,0.43,20,pCi/L,26.48837209302326
+OR,Corvallis,97330.0,Raintree Estates,50,Nitrate,0.143,0.14,10,ppm,1.0214285714285714
+OR,Corvallis,97330.0,Raintree Estates,50,Nitrate and nitrite,0.175,0.14,10,ppm,1.2499999999999998
+OR,Corvallis,97330.0,Ridgewood District Improvement Company,110,Nitrate,0.0217,0.14,10,ppm,0.155
+OR,Corvallis,97330.0,Ridgewood District Improvement Company,110,Nitrate and nitrite,0.065,0.14,10,ppm,0.46428571428571425
+OR,Corvallis,97330.0,Vineyard Mountain Water,325,Nitrate,1.26,0.14,10,ppm,9.0
+OR,Corvallis,97330.0,Vineyard Mountain Water,325,Nitrate and nitrite,1.13,0.14,10,ppm,8.07142857142857
+OR,Corvallis,97330.0,Vineyard Mountain Water,325,Total trihalomethanes (TTHMs)†,5.7,0.15,80,ppb,38.0
+OR,Brownsville OR,97333.0,Brownsville City of,1670,Haloacetic acids (HAA5)†,7.58,0.1,60,ppb,75.8
+OR,Brownsville OR,97333.0,Brownsville City of,1670,Total trihalomethanes (TTHMs)†,17.0,0.15,80,ppb,113.33333333333334
+OR,Brownsville OR,97333.0,Brownsville City of,1670,Nitrate,0.216,0.14,10,ppm,1.5428571428571427
+OR,Mill City OR,97333.0,Mill City Water Department,1640,Nitrate,1.08,0.14,10,ppm,7.714285714285714
+OR,Mill City OR,97333.0,Mill City Water Department,1640,Nitrate and nitrite,1.07,0.14,10,ppm,7.642857142857142
+OR,Mill City OR,97333.0,Mill City Water Department,1640,Total trihalomethanes (TTHMs)†,0.183,0.15,80,ppb,1.22
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Haloacetic acids (HAA5)†,20.3,0.1,60,ppb,203.0
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Haloacetic acids (HAA9)*†,23.0,0.06,0,ppb,383.33333333333337
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Radium combined (-226 &amp; -228)*,0.83,0.05,5,pCi/L,16.599999999999998
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Total trihalomethanes (TTHMs)†,37.1,0.15,80,ppb,247.33333333333334
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Chlorate*,93.1,210.0,0,ppb,0.4433333333333333
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Chromium (hexavalent)*,0.0384,0.02,0,ppb,1.9199999999999997
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Manganese*,4.35,100.0,0,ppb,0.0435
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Nitrate*,0.127,0.14,10,ppm,0.907142857142857
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Strontium*,0.0263,1500.0,0,ppb,1.7533333333333334e-05
+OR,Lebanon OR,97333.0,City Of Millersburg,1505,Vanadium*,0.453,21.0,0,ppb,0.02157142857142857
+OR,Sheridan,97338.0,Buell-red Prairie Water District,788,Arsenic,4.8,0.004,10,ppb,1200.0
+OR,Sheridan,97338.0,Buell-red Prairie Water District,788,Haloacetic acids (HAA5)†,18.3,0.1,60,ppb,183.0
+OR,Sheridan,97338.0,Buell-red Prairie Water District,788,Total trihalomethanes (TTHMs)†,30.3,0.15,80,ppb,202.0
+OR,Sheridan,97338.0,Buell-red Prairie Water District,788,Nitrate,0.0582,0.14,10,ppm,0.4157142857142857
+OR,Falls City,97338.0,Falls City City of,1000,Arsenic,7.02,0.004,10,ppb,1754.9999999999998
+OR,Falls City,97338.0,Falls City City of,1000,Bromochloroacetic acid,1.14,0.02,0,ppb,56.99999999999999
+OR,Falls City,97338.0,Falls City City of,1000,Bromodichloromethane,12.4,0.06,0,ppb,206.66666666666669
+OR,Falls City,97338.0,Falls City City of,1000,Bromoform,1.19,0.5,0,ppb,2.38
+OR,Falls City,97338.0,Falls City City of,1000,Chloroform,15.7,0.4,0,ppb,39.24999999999999
+OR,Falls City,97338.0,Falls City City of,1000,Dibromoacetic acid,0.139,0.04,0,ppb,3.475
+OR,Falls City,97338.0,Falls City City of,1000,Dibromochloromethane,8.44,0.1,0,ppb,84.39999999999999
+OR,Falls City,97338.0,Falls City City of,1000,Dichloroacetic acid,2.09,0.2,0,ppb,10.45
+OR,Falls City,97338.0,Falls City City of,1000,Haloacetic acids (HAA5)†,5.95,0.1,60,ppb,59.5
+OR,Falls City,97338.0,Falls City City of,1000,Nitrate and nitrite,0.502,0.14,10,ppm,3.5857142857142854
+OR,Falls City,97338.0,Falls City City of,1000,Total trihalomethanes (TTHMs)†,37.8,0.15,80,ppb,252.0
+OR,Falls City,97338.0,Falls City City of,1000,Trichloroacetic acid,3.72,0.1,0,ppb,37.2
+OR,Amity,97338.0,Perrydale Domestic Water Association,2195,Arsenic,5.86,0.004,10,ppb,1465.0
+OR,Amity,97338.0,Perrydale Domestic Water Association,2195,Radium combined (-226 &amp; -228),2.37,0.05,5,pCi/L,47.4
+OR,Amity,97338.0,Perrydale Domestic Water Association,2195,Nitrate,0.163,0.14,10,ppm,1.1642857142857141
+OR,Amity,97338.0,Perrydale Domestic Water Association,2195,Nitrate and nitrite,0.25,0.14,10,ppm,1.7857142857142856
+OR,Salem,97338.0,Pioneer Park Co-op Inc.,54,Nitrate,0.881,0.14,10,ppm,6.292857142857143
+OR,Salem,97338.0,Pioneer Park Co-op Inc.,54,Nitrate and nitrite,1.07,0.14,10,ppm,7.642857142857142
+OR,Rickreall,97338.0,Rickreall Water Association,1650,Arsenic,1.5,0.004,10,ppb,375.0
+OR,Rickreall,97338.0,Rickreall Water Association,1650,Nitrate,5.78,0.14,10,ppm,41.285714285714285
+OR,Rickreall,97338.0,Rickreall Water Association,1650,Nitrate and nitrite,6.09,0.14,10,ppm,43.49999999999999
+OR,Rickreall,97338.0,Rickreall Water Association,1650,Radium combined (-226 &amp; -228),0.14,0.05,5,pCi/L,2.8000000000000003
+OR,Rickreall,97338.0,Rickreall Water Association,1650,Uranium,0.34,0.43,20,pCi/L,0.7906976744186047
+OR,Grand Ronde,97338.0,Rock Creek Water District,235,Haloacetic acids (HAA5)†,21.5,0.1,60,ppb,215.0
+OR,Grand Ronde,97338.0,Rock Creek Water District,235,Nitrate,0.463,0.14,10,ppm,3.307142857142857
+OR,Grand Ronde,97338.0,Rock Creek Water District,235,Total trihalomethanes (TTHMs)†,48.9,0.15,80,ppb,326.0
+OR,Newport,97341.0,Bay Hills Water Association,45,Haloacetic acids (HAA5)†,31.7,0.1,60,ppb,317.0
+OR,Newport,97341.0,Bay Hills Water Association,45,Nitrate,1.14,0.14,10,ppm,8.14285714285714
+OR,Newport,97341.0,Bay Hills Water Association,45,Nitrate and nitrite,2.74,0.14,10,ppm,19.57142857142857
+OR,Newport,97341.0,Bay Hills Water Association,45,Total trihalomethanes (TTHMs)†,61.1,0.15,80,ppb,407.33333333333337
+OR,Newport,97341.0,Bay Hills Water Association,45,Barium,10.4,700.0,2000,ppb,0.014857142857142857
+OR,Newport,97341.0,Beverly Beach Water District,152,Haloacetic acids (HAA5)†,8.68,0.1,60,ppb,86.8
+OR,Newport,97341.0,Beverly Beach Water District,152,Nitrate,0.374,0.14,10,ppm,2.6714285714285713
+OR,Newport,97341.0,Beverly Beach Water District,152,Total trihalomethanes (TTHMs)†,43.7,0.15,80,ppb,291.33333333333337
+OR,Newport,97341.0,Carmel Beach Water District,36,Haloacetic acids (HAA5)†,4.54,0.1,60,ppb,45.4
+OR,Newport,97341.0,Carmel Beach Water District,36,Total trihalomethanes (TTHMs)†,14.8,0.15,80,ppb,98.66666666666667
+OR,Newport,97341.0,Carmel Beach Water District,36,Barium,16.8,700.0,2000,ppb,0.024
+OR,Depoe Bay,97341.0,Depoe Bay City of,1398,Haloacetic acids (HAA5)†,11.2,0.1,60,ppb,111.99999999999999
+OR,Depoe Bay,97341.0,Depoe Bay City of,1398,Nitrate,0.39,0.14,10,ppm,2.7857142857142856
+OR,Depoe Bay,97341.0,Depoe Bay City of,1398,Total trihalomethanes (TTHMs)†,37.7,0.15,80,ppb,251.33333333333337
+OR,Depoe Bay,97341.0,Depoe Bay City of,1398,Barium,11.8,700.0,2000,ppb,0.01685714285714286
+OR,Alsea,97341.0,Fall Creek Water District,50,Arsenic,1.0,0.004,10,ppb,250.0
+OR,Alsea,97341.0,Fall Creek Water District,50,Haloacetic acids (HAA5)†,2.8,0.1,60,ppb,27.999999999999996
+OR,Alsea,97341.0,Fall Creek Water District,50,Total trihalomethanes (TTHMs)†,9.05,0.15,80,ppb,60.33333333333334
+OR,Alsea,97341.0,Fall Creek Water District,50,Barium,55.0,700.0,2000,ppb,0.07857142857142857
+OR,Otis,97341.0,Guptil Subdivision,28,Nitrate,0.462,0.14,10,ppm,3.3
+OR,Otis,97341.0,Guptil Subdivision,28,Nitrate and nitrite,0.682,0.14,10,ppm,4.871428571428571
+OR,Otis,97341.0,Guptil Subdivision,28,Radium combined (-226 &amp; -228),1.5,0.05,5,pCi/L,30.0
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Haloacetic acids (HAA5)†,0.78,0.1,60,ppb,7.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate,0.309,0.14,10,ppm,2.207142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Total trihalomethanes (TTHMs)†,3.72,0.15,80,ppb,24.8
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Barium,8.27,700.0,2000,ppb,0.011814285714285713
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Nitrate and nitrite,0.176,0.14,10,ppm,1.257142857142857
+OR,Newberg,97341.0,Hiland Water Company - Bear Creek,275,Toluene,0.492,150.0,1000,ppb,0.00328
+OR,Otter Rock,97341.0,Inn At Otter Crest,90,Haloacetic acids (HAA5)†,15.4,0.1,60,ppb,154.0
+OR,Otter Rock,97341.0,Inn At Otter Crest,90,Nitrate*,0.315,0.14,10,ppm,2.25
+OR,Otter Rock,97341.0,Inn At Otter Crest,90,Total trihalomethanes (TTHMs)†,75.7,0.15,80,ppb,504.6666666666667
+OR,Newberg,97341.0,Johnson Creek Water Service,363,Haloacetic acids (HAA5)†,17.9,0.1,60,ppb,178.99999999999997
+OR,Newberg,97341.0,Johnson Creek Water Service,363,Nitrate,0.315,0.14,10,ppm,2.25
+OR,Newberg,97341.0,Johnson Creek Water Service,363,Total trihalomethanes (TTHMs)†,55.8,0.15,80,ppb,372.0
+OR,Gleneden Beach,97341.0,Kernville-gleneden-linc Bch Water District,5598,Haloacetic acids (HAA5)†,22.3,0.1,60,ppb,223.0
+OR,Gleneden Beach,97341.0,Kernville-gleneden-linc Bch Water District,5598,Nitrate,0.487,0.14,10,ppm,3.478571428571428
+OR,Gleneden Beach,97341.0,Kernville-gleneden-linc Bch Water District,5598,Radium combined (-226 &amp; -228),0.34,0.05,5,pCi/L,6.8
+OR,Gleneden Beach,97341.0,Kernville-gleneden-linc Bch Water District,5598,Total trihalomethanes (TTHMs)†,25.3,0.15,80,ppb,168.66666666666669
+OR,Gleneden Beach,97341.0,Kernville-gleneden-linc Bch Water District,5598,Barium,5.8,700.0,2000,ppb,0.008285714285714285
+OR,Waldport,97341.0,Kozy Acres Water System,40,Total trihalomethanes (TTHMs)†,0.845,0.15,80,ppb,5.633333333333334
+OR,Waldport,97341.0,Kozy Acres Water System,40,Barium,33.2,700.0,2000,ppb,0.04742857142857143
+OR,Lincoln City,97341.0,Lower Siletz Water System,165,Haloacetic acids (HAA5)†,15.7,0.1,60,ppb,156.99999999999997
+OR,Lincoln City,97341.0,Lower Siletz Water System,165,Nitrate*,0.487,0.14,10,ppm,3.478571428571428
+OR,Lincoln City,97341.0,Lower Siletz Water System,165,Radium combined (-226 &amp; -228)*,0.34,0.05,5,pCi/L,6.8
+OR,Lincoln City,97341.0,Lower Siletz Water System,165,Total trihalomethanes (TTHMs)†,17.6,0.15,80,ppb,117.33333333333334
+OR,Lincoln City,97341.0,Lower Siletz Water System,165,Barium*,5.8,700.0,2000,ppb,0.008285714285714285
+OR,Otter Rock,97341.0,Otter Rock Water District,175,Nitrate,1.64,0.14,10,ppm,11.714285714285712
+OR,Otis,97341.0,Panther Creek Water District,760,Haloacetic acids (HAA5)†,21.5,0.1,60,ppb,215.0
+OR,Otis,97341.0,Panther Creek Water District,760,Nitrate,0.708,0.14,10,ppm,5.057142857142856
+OR,Otis,97341.0,Panther Creek Water District,760,Nitrate and nitrite,0.337,0.14,10,ppm,2.407142857142857
+OR,Otis,97341.0,Panther Creek Water District,760,Total trihalomethanes (TTHMs)†,22.4,0.15,80,ppb,149.33333333333334
+OR,Otis,97341.0,Salmon River Mobile Village,75,Nitrate,0.89,0.14,10,ppm,6.357142857142857
+OR,Otis,97341.0,Salmon River Mobile Village,75,Nitrate and nitrite,0.742,0.14,10,ppm,5.3
+OR,Newberg,97341.0,Sea Crest,72,Haloacetic acids (HAA5)†,11.2,0.1,60,ppb,111.99999999999999
+OR,Newberg,97341.0,Sea Crest,72,Nitrate*,0.315,0.14,10,ppm,2.25
+OR,Newberg,97341.0,Sea Crest,72,Total trihalomethanes (TTHMs)†,65.1,0.15,80,ppb,434.0
+OR,Siletz,97341.0,Siletz City of,1200,Haloacetic acids (HAA5)†,29.2,0.1,60,ppb,292.0
+OR,Siletz,97341.0,Siletz City of,1200,Nitrate,0.294,0.14,10,ppm,2.0999999999999996
+OR,Siletz,97341.0,Siletz City of,1200,Total trihalomethanes (TTHMs)†,34.4,0.15,80,ppb,229.33333333333334
+OR,Siletz,97341.0,Siletz City of,1200,Barium,6.06,700.0,2000,ppb,0.008657142857142856
+OR,Siletz,97341.0,Siletz City of,1200,Nitrate and nitrite,0.178,0.14,10,ppm,1.2714285714285714
+OR,Waldport,97341.0,Sw Lincoln County Water District,3000,Haloacetic acids (HAA5)†,6.4,0.1,60,ppb,64.0
+OR,Waldport,97341.0,Sw Lincoln County Water District,3000,Nitrate and nitrite,0.525,0.14,10,ppm,3.75
+OR,Waldport,97341.0,Sw Lincoln County Water District,3000,Total trihalomethanes (TTHMs)†,15.4,0.15,80,ppb,102.66666666666667
+OR,Waldport,97341.0,Sw Lincoln County Water District,3000,Nitrate,0.261,0.14,10,ppm,1.864285714285714
+OR,Waldport,97341.0,Sw Lincoln County Water District,3000,Selenium,4.0,30.0,50,ppb,0.13333333333333333
+OR,Toledo,97341.0,Toledo Water Utilities,3645,Haloacetic acids (HAA5)†,4.63,0.1,60,ppb,46.3
+OR,Toledo,97341.0,Toledo Water Utilities,3645,Nitrate,0.706,0.14,10,ppm,5.042857142857142
+OR,Toledo,97341.0,Toledo Water Utilities,3645,Total trihalomethanes (TTHMs)†,13.6,0.15,80,ppb,90.66666666666667
+OR,Waldport,97341.0,Waldport City of,2080,Haloacetic acids (HAA5)†,7.54,0.1,60,ppb,75.39999999999999
+OR,Waldport,97341.0,Waldport City of,2080,Nitrate,0.347,0.14,10,ppm,2.478571428571428
+OR,Waldport,97341.0,Waldport City of,2080,Nitrate and nitrite,0.34,0.14,10,ppm,2.4285714285714284
+OR,Waldport,97341.0,Waldport City of,2080,Total trihalomethanes (TTHMs)†,15.5,0.15,80,ppb,103.33333333333334
+OR,Waldport,97341.0,Waldport City of,2080,Barium,5.46,700.0,2000,ppb,0.0078
+OR,Waldport,97341.0,Waldport City of,2080,Ethylbenzene,0.053,300.0,700,ppb,0.00017666666666666666
+OR,Waldport,97341.0,Waldport City of,2080,Xylenes (total),1.32,1800.0,10000,ppb,0.0007333333333333333
+OR,Yachats,97341.0,Yachats City of,1000,Haloacetic acids (HAA5)†,4.45,0.1,60,ppb,44.5
+OR,Yachats,97341.0,Yachats City of,1000,Nitrate,0.421,0.14,10,ppm,3.0071428571428567
+OR,Yachats,97341.0,Yachats City of,1000,Total trihalomethanes (TTHMs)†,10.5,0.15,80,ppb,70.0
+OR,Creswell OR,97390.0,Creswell City of,5075,Haloacetic acids (HAA5)†,14.8,0.1,60,ppb,148.0
+OR,Creswell OR,97390.0,Creswell City of,5075,Total trihalomethanes (TTHMs)†,34.4,0.15,80,ppb,229.33333333333334
+OR,Creswell OR,97390.0,Creswell City of,5075,Barium,7.29,700.0,2000,ppb,0.010414285714285714
+OR,Creswell OR,97390.0,Creswell City of,5075,Nitrate,0.102,0.14,10,ppm,0.7285714285714284
+OR,Creswell OR,97390.0,Creswell City of,5075,Xylenes (total),0.742,1800.0,10000,ppb,0.00041222222222222224
+OR,Veneta OR,97401.0,Veneta City of,4755,Haloacetic acids (HAA5)†,5.83,0.1,60,ppb,58.3
+OR,Veneta OR,97401.0,Veneta City of,4755,Total trihalomethanes (TTHMs)†,21.3,0.15,80,ppb,142.0
+OR,Veneta OR,97401.0,Veneta City of,4755,Barium,8.26,700.0,2000,ppb,0.0118
+OR,Veneta OR,97401.0,Veneta City of,4755,Ethylbenzene,0.415,300.0,700,ppb,0.0013833333333333332
+OR,Veneta OR,97401.0,Veneta City of,4755,Tetrachloroethylene (perchloroethylene),0.09,0.06,5,ppb,1.5
+OR,Veneta OR,97401.0,Veneta City of,4755,Xylenes (total),2.49,1800.0,10000,ppb,0.0013833333333333334
+OR,Florence OR,97401.0,Heceta Water Peoples Utility District,4921,Haloacetic acids (HAA5)†,4.71,0.1,60,ppb,47.099999999999994
+OR,Florence OR,97401.0,Heceta Water Peoples Utility District,4921,Total trihalomethanes (TTHMs)†,25.9,0.15,80,ppb,172.66666666666666
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Nitrate,0.77,0.14,10,ppm,5.5
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Nitrate and nitrite,0.554,0.14,10,ppm,3.9571428571428573
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Tetrachloroethylene (perchloroethylene),0.295,0.06,5,ppb,4.916666666666667
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Total trihalomethanes (TTHMs)†,4.55,0.15,80,ppb,30.333333333333332
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Antimony,0.554,1.0,6,ppb,0.554
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Barium,3.5,700.0,2000,ppb,0.005
+OR,Oakridge OR,97401.0,Oakridge City of,3225,Beryllium,0.242,1.0,4,ppb,0.242
+OR,Brookings,97406.0,Brookings City of,6336,Haloacetic acids (HAA5)†,0.238,0.1,60,ppb,2.38
+OR,Brookings,97406.0,Brookings City of,6336,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+OR,Brookings,97406.0,Brookings City of,6336,Total trihalomethanes (TTHMs)†,8.06,0.15,80,ppb,53.73333333333334
+OR,Brookings,97406.0,Brookings City of,6336,Barium,30.3,700.0,2000,ppb,0.04328571428571429
+OR,Brookings,97406.0,Brookings City of,6336,Nitrate,0.106,0.14,10,ppm,0.757142857142857
+OR,Brookings,97406.0,Brookings City of,6336,Nitrate and nitrite,0.258,0.14,10,ppm,1.8428571428571427
+OR,Gold Beach,97406.0,Gold Beach City of,3000,Haloacetic acids (HAA5)†,5.19,0.1,60,ppb,51.9
+OR,Gold Beach,97406.0,Gold Beach City of,3000,Total trihalomethanes (TTHMs)†,16.2,0.15,80,ppb,108.0
+OR,Gold Beach,97406.0,Gold Beach City of,3000,Barium,16.7,700.0,2000,ppb,0.023857142857142855
+OR,Gold Beach,97406.0,Gold Beach City of,3000,Nitrate,0.0397,0.14,10,ppm,0.28357142857142853
+OR,Harbor,97406.0,Harbor Water People's Utility District,3190,Haloacetic acids (HAA5)†,1.47,0.1,60,ppb,14.7
+OR,Harbor,97406.0,Harbor Water People's Utility District,3190,Total trihalomethanes (TTHMs)†,5.93,0.15,80,ppb,39.53333333333333
+OR,Harbor,97406.0,Harbor Water People's Utility District,3190,Nitrate,0.235,0.14,10,ppm,1.6785714285714284
+OR,Langlois,97406.0,Langlois Water District,220,Haloacetic acids (HAA5)†,30.8,0.1,60,ppb,308.0
+OR,Langlois,97406.0,Langlois Water District,220,Total trihalomethanes (TTHMs)†,49.1,0.15,80,ppb,327.33333333333337
+OR,Langlois,97406.0,Langlois Water District,220,Barium,75.7,700.0,2000,ppb,0.10814285714285715
+OR,Langlois,97406.0,Langlois Water District,220,Nitrate,0.273,0.14,10,ppm,1.95
+OR,Gold Beach,97406.0,Nesika Beach-ophir Water District,1500,Total trihalomethanes (TTHMs)†,4.16,0.15,80,ppb,27.733333333333334
+OR,Gold Beach,97406.0,Nesika Beach-ophir Water District,1500,Nitrate,0.263,0.14,10,ppm,1.8785714285714286
+OR,Langlois,97406.0,Old Sheep Ranch Water Association,56,Nitrate,2.0,0.14,10,ppm,14.285714285714285
+OR,Langlois,97406.0,Old Sheep Ranch Water Association,56,Nitrate and nitrite,1.74,0.14,10,ppm,12.428571428571427
+OR,Langlois,97406.0,Old Sheep Ranch Water Association,56,Barium,62.7,700.0,2000,ppb,0.08957142857142858
+OR,Port Orford,97406.0,Port Orford City of,1140,Haloacetic acids (HAA5)†,33.0,0.1,60,ppb,330.0
+OR,Port Orford,97406.0,Port Orford City of,1140,Total trihalomethanes (TTHMs)†,63.0,0.15,80,ppb,420.0
+OR,Port Orford,97406.0,Port Orford City of,1140,Barium,13.5,700.0,2000,ppb,0.019285714285714285
+OR,Port Orford,97406.0,Port Orford City of,1140,Nitrate,0.0798,0.14,10,ppm,0.57
+OR,Port Orford,97406.0,Port Orford City of,1140,Nitrate and nitrite,0.256,0.14,10,ppm,1.8285714285714285
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Haloacetic acids (HAA5)†,10.3,0.1,60,ppb,103.0
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Radium combined (-226 &amp; -228),0.45,0.05,5,pCi/L,9.0
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Total trihalomethanes (TTHMs)†,63.9,0.15,80,ppb,426.0
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Barium,25.0,700.0,2000,ppb,0.03571428571428571
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Nitrate,0.24,0.14,10,ppm,1.714285714285714
+OR,Brookings,97406.0,Rainbow Rock Service Association,80,Nitrate and nitrite,0.237,0.14,10,ppm,1.6928571428571426
+OR,Brookings,97406.0,Rainbow Rock Village Mobile Home Park,115,Haloacetic acids (HAA5)†,37.3,0.1,60,ppb,372.99999999999994
+OR,Brookings,97406.0,Rainbow Rock Village Mobile Home Park,115,Nitrate,0.952,0.14,10,ppm,6.799999999999999
+OR,Brookings,97406.0,Rainbow Rock Village Mobile Home Park,115,Total trihalomethanes (TTHMs)†,49.9,0.15,80,ppb,332.6666666666667
+OR,Gold Beach,97406.0,Saunders Creek Hoc,75,Nitrate,0.301,0.14,10,ppm,2.15
+OR,Gold Beach,97406.0,Saunders Creek Hoc,75,Nitrate and nitrite,0.291,0.14,10,ppm,2.0785714285714283
+OR,Gold Beach,97406.0,Saunders Creek Hoc,75,Barium,50.5,700.0,2000,ppb,0.07214285714285715
+OR,Canyonville,97410.0,Canyonville City of,1975,Haloacetic acids (HAA5)†,51.0,0.1,60,ppb,510.0
+OR,Canyonville,97410.0,Canyonville City of,1975,Total trihalomethanes (TTHMs)†,27.5,0.15,80,ppb,183.33333333333334
+OR,Roseburg,97410.0,City of Roseburg,28800,Chromium (hexavalent),0.102,0.02,0,ppb,5.1
+OR,Roseburg,97410.0,City of Roseburg,28800,Haloacetic acids (HAA5)†,19.9,0.1,60,ppb,198.99999999999997
+OR,Roseburg,97410.0,City of Roseburg,28800,Haloacetic acids (HAA9)†,14.1,0.06,0,ppb,235.0
+OR,Roseburg,97410.0,City of Roseburg,28800,Total trihalomethanes (TTHMs)†,24.9,0.15,80,ppb,166.0
+OR,Roseburg,97410.0,City of Roseburg,28800,Chlorate,11.4,210.0,0,ppb,0.054285714285714284
+OR,Roseburg,97410.0,City of Roseburg,28800,Manganese,0.9,100.0,0,ppb,0.009000000000000001
+OR,Roseburg,97410.0,City of Roseburg,28800,Strontium,0.0411,1500.0,0,ppb,2.74e-05
+OR,Roseburg,97410.0,City of Roseburg,28800,Vanadium,1.82,21.0,0,ppb,0.08666666666666667
+OR,Myrtle Creek,97410.0,Clarks Branch Water Association,140,Haloacetic acids (HAA5)†,36.0,0.1,60,ppb,360.0
+OR,Myrtle Creek,97410.0,Clarks Branch Water Association,140,Total trihalomethanes (TTHMs)†,46.6,0.15,80,ppb,310.6666666666667
+OR,Myrtle Creek,97410.0,Clarks Branch Water Association,140,Nitrate,0.102,0.14,10,ppm,0.7285714285714284
+OR,Myrtle Creek,97410.0,Clarks Branch Water Association,140,Xylenes (total),0.533,1800.0,10000,ppb,0.00029611111111111114
+OR,Drain,97410.0,Drain City of,1151,Haloacetic acids (HAA5)†,19.4,0.1,60,ppb,193.99999999999997
+OR,Drain,97410.0,Drain City of,1151,Total trihalomethanes (TTHMs)†,45.9,0.15,80,ppb,306.0
+OR,Drain,97410.0,Drain City of,1151,Xylenes (total),0.318,1800.0,10000,ppb,0.00017666666666666666
+OR,Elkton,97410.0,Elkton City of,200,Haloacetic acids (HAA5)†,27.2,0.1,60,ppb,272.0
+OR,Elkton,97410.0,Elkton City of,200,Total trihalomethanes (TTHMs)†,32.9,0.15,80,ppb,219.33333333333334
+OR,Elkton,97410.0,Elkton City of,200,Barium,4.03,700.0,2000,ppb,0.005757142857142857
+OR,Myrtle Creek,97410.0,Fortune Branch Mobile Village,80,Radium combined (-226 &amp; -228),0.43,0.05,5,pCi/L,8.6
+OR,Myrtle Creek,97410.0,Fortune Branch Mobile Village,80,Barium,19.6,700.0,2000,ppb,0.028
+OR,Myrtle Creek,97410.0,Fortune Branch Mobile Village,80,Nitrate,0.0829,0.14,10,ppm,0.5921428571428571
+OR,Cave Junction,97410.0,Glendale City of,980,Arsenic*,0.0273,0.004,10,ppb,6.825
+OR,Cave Junction,97410.0,Glendale City of,980,Bromodichloromethane*,6.41,0.06,0,ppb,106.83333333333334
+OR,Cave Junction,97410.0,Glendale City of,980,Chloroform*,11.8,0.4,0,ppb,29.5
+OR,Cave Junction,97410.0,Glendale City of,980,Dibromoacetic acid*,0.26,0.04,0,ppb,6.5
+OR,Cave Junction,97410.0,Glendale City of,980,Dibromochloromethane*,2.03,0.1,0,ppb,20.299999999999997
+OR,Cave Junction,97410.0,Glendale City of,980,Dichloroacetic acid*,7.76,0.2,0,ppb,38.8
+OR,Cave Junction,97410.0,Glendale City of,980,Haloacetic acids (HAA5)*†,14.2,0.1,60,ppb,141.99999999999997
+OR,Cave Junction,97410.0,Glendale City of,980,Haloacetic acids (HAA9)*†,14.7,0.06,0,ppb,245.0
+OR,Cave Junction,97410.0,Glendale City of,980,Radium combined (-226 &amp; -228)*,0.33,0.05,5,pCi/L,6.6
+OR,Cave Junction,97410.0,Glendale City of,980,Total trihalomethanes (TTHMs)*†,23.0,0.15,80,ppb,153.33333333333334
+OR,Cave Junction,97410.0,Glendale City of,980,Trichloroacetic acid*,4.03,0.1,0,ppb,40.3
+OR,Cave Junction,97410.0,Glendale City of,980,24-D*,0.00417,20.0,70,ppb,0.0002085
+OR,Cave Junction,97410.0,Glendale City of,980,Antimony*,0.0181,1.0,6,ppb,0.0181
+OR,Cave Junction,97410.0,Glendale City of,980,Barium*,30.9,700.0,2000,ppb,0.04414285714285714
+OR,Cave Junction,97410.0,Glendale City of,980,Beryllium*,0.000504,1.0,4,ppb,0.000504
+OR,Cave Junction,97410.0,Glendale City of,980,Bromoform*,0.0303,0.5,0,ppb,0.0606
+OR,Cave Junction,97410.0,Glendale City of,980,Cadmium*,0.00306,0.04,5,ppb,0.0765
+OR,Cave Junction,97410.0,Glendale City of,980,Chromium (hexavalent)*,0.0378,0.02,0,ppb,1.89
+OR,Cave Junction,97410.0,Glendale City of,980,Manganese*,8.41,100.0,0,ppb,0.08410000000000001
+OR,Cave Junction,97410.0,Glendale City of,980,Mercury (inorganic)*,0.000778,1.2,2,ppb,0.0006483333333333334
+OR,Cave Junction,97410.0,Glendale City of,980,Molybdenum*,6.86,40.0,0,ppb,0.1715
+OR,Cave Junction,97410.0,Glendale City of,980,Monobromoacetic acid*,0.248,25.0,0,ppb,0.00992
+OR,Cave Junction,97410.0,Glendale City of,980,Monochloroacetic acid*,0.14,53.0,0,ppb,0.0026415094339622643
+OR,Cave Junction,97410.0,Glendale City of,980,Nitrate*,0.0473,0.14,10,ppm,0.33785714285714286
+OR,Cave Junction,97410.0,Glendale City of,980,Nitrate and nitrite*,0.0504,0.14,10,ppm,0.36
+OR,Cave Junction,97410.0,Glendale City of,980,Selenium*,0.155,30.0,50,ppb,0.005166666666666667
+OR,Cave Junction,97410.0,Glendale City of,980,Strontium*,0.171,1500.0,0,ppb,0.000114
+OR,Cave Junction,97410.0,Glendale City of,980,Thallium*,0.000496,0.1,2,ppb,0.00496
+OR,Cave Junction,97410.0,Glendale City of,980,Uranium*,0.12,0.43,20,pCi/L,0.27906976744186046
+OR,Cave Junction,97410.0,Glendale City of,980,Vanadium*,0.264,21.0,0,ppb,0.012571428571428572
+OR,Glide,97410.0,Glide Water Association,1200,Haloacetic acids (HAA5)†,9.98,0.1,60,ppb,99.8
+OR,Glide,97410.0,Glide Water Association,1200,Total trihalomethanes (TTHMs)†,11.6,0.15,80,ppb,77.33333333333333
+OR,Glide,97410.0,Glide Water Association,1200,Nitrate,0.02,0.14,10,ppm,0.14285714285714285
+OR,Riddle,97410.0,Lawson Acres Water Association,75,Haloacetic acids (HAA5)†,70.4,0.1,60,ppb,704.0
+OR,Riddle,97410.0,Lawson Acres Water Association,75,Total trihalomethanes (TTHMs)†,76.0,0.15,80,ppb,506.6666666666667
+OR,Riddle,97410.0,Lawson Acres Water Association,75,Nitrate,0.233,0.14,10,ppm,1.6642857142857141
+OR,Days Creek,97410.0,Milo Academy,150,Haloacetic acids (HAA5)†,39.4,0.1,60,ppb,393.99999999999994
+OR,Days Creek,97410.0,Milo Academy,150,Total trihalomethanes (TTHMs)†,22.5,0.15,80,ppb,150.0
+OR,Days Creek,97410.0,Milo Academy,150,Nitrate,0.0778,0.14,10,ppm,0.5557142857142856
+OR,Myrtle Creek,97410.0,Myrtle Creek City of,3490,Haloacetic acids (HAA5)†,27.5,0.1,60,ppb,275.0
+OR,Myrtle Creek,97410.0,Myrtle Creek City of,3490,Total trihalomethanes (TTHMs)†,28.3,0.15,80,ppb,188.66666666666669
+OR,Myrtle Creek,97410.0,Myrtle Creek City of,3490,Nitrate,0.2,0.14,10,ppm,1.4285714285714286
+OR,Myrtle Creek,97410.0,Myrtle Creek City of,3490,Nitrate and nitrite,0.215,0.14,10,ppm,1.5357142857142856
+OR,Oakland,97410.0,Oakland City of,954,Bromodichloromethane,0.234,0.06,0,ppb,3.9000000000000004
+OR,Oakland,97410.0,Oakland City of,954,Bromoform,2.68,0.5,0,ppb,5.36
+OR,Oakland,97410.0,Oakland City of,954,Dibromoacetic acid,0.979,0.04,0,ppb,24.474999999999998
+OR,Oakland,97410.0,Oakland City of,954,Dibromochloromethane,1.14,0.1,0,ppb,11.399999999999999
+OR,Oakland,97410.0,Oakland City of,954,Haloacetic acids (HAA5)†,0.979,0.1,60,ppb,9.79
+OR,Oakland,97410.0,Oakland City of,954,Heptachlor epoxide,0.0125,0.006,0.2,ppb,2.0833333333333335
+OR,Oakland,97410.0,Oakland City of,954,Nitrate and nitrite,0.506,0.14,10,ppm,3.614285714285714
+OR,Oakland,97410.0,Oakland City of,954,Radium combined (-226 &amp; -228),2.83,0.05,5,pCi/L,56.6
+OR,Oakland,97410.0,Oakland City of,954,Total trihalomethanes (TTHMs)†,4.06,0.15,80,ppb,27.066666666666666
+OR,Tenmile,97410.0,Porter Creek Mobile Home Park,35,Nitrate,0.0757,0.14,10,ppm,0.5407142857142857
+OR,Idleyld Park,97410.0,Pp&l-toketee Village,50,Haloacetic acids (HAA5)†,4.95,0.1,60,ppb,49.5
+OR,Idleyld Park,97410.0,Pp&l-toketee Village,50,Total trihalomethanes (TTHMs)†,5.0,0.15,80,ppb,33.333333333333336
+OR,Reedsport,97410.0,Reedsport City of,4784,Bromate,1.69,0.1,10,ppb,16.9
+OR,Reedsport,97410.0,Reedsport City of,4784,Haloacetic acids (HAA5)†,9.79,0.1,60,ppb,97.89999999999999
+OR,Reedsport,97410.0,Reedsport City of,4784,Total trihalomethanes (TTHMs)†,36.7,0.15,80,ppb,244.66666666666669
+OR,Reedsport,97410.0,Reedsport City of,4784,Nitrate and nitrite,0.02,0.14,10,ppm,0.14285714285714285
+OR,Riddle,97410.0,Riddle City of,1300,Haloacetic acids (HAA5)†,24.1,0.1,60,ppb,241.0
+OR,Riddle,97410.0,Riddle City of,1300,Total trihalomethanes (TTHMs)†,44.1,0.15,80,ppb,294.0
+OR,Riddle,97410.0,Riddle City of,1300,Nitrate,0.0717,0.14,10,ppm,0.5121428571428571
+OR,Roseburg,97410.0,Roberts Creek Water District,6500,Haloacetic acids (HAA5)†,38.8,0.1,60,ppb,387.99999999999994
+OR,Roseburg,97410.0,Roberts Creek Water District,6500,Total trihalomethanes (TTHMs)†,50.4,0.15,80,ppb,336.0
+OR,Roseburg,97410.0,Roberts Creek Water District,6500,Nitrate,0.02,0.14,10,ppm,0.14285714285714285
+OR,Roseburg,97410.0,Roberts Creek Water District,6500,p-Dichlorobenzene,0.407,6.0,75,ppb,0.06783333333333333
+OR,Riddle,97410.0,South Umpqua Water Association,575,Haloacetic acids (HAA5)†,27.6,0.1,60,ppb,276.0
+OR,Riddle,97410.0,South Umpqua Water Association,575,Total trihalomethanes (TTHMs)†,43.2,0.15,80,ppb,288.00000000000006
+OR,Riddle,97410.0,South Umpqua Water Association,575,Nitrate*,0.0717,0.14,10,ppm,0.5121428571428571
+OR,Sutherlin,97410.0,Sutherlin City of,8060,Haloacetic acids (HAA5)†,22.8,0.1,60,ppb,228.0
+OR,Sutherlin,97410.0,Sutherlin City of,8060,Total trihalomethanes (TTHMs)†,18.0,0.15,80,ppb,120.0
+OR,Sutherlin,97410.0,Sutherlin City of,8060,Nitrate,0.0725,0.14,10,ppm,0.5178571428571428
+OR,Sutherlin,97410.0,Sutherlin City of,8060,Nitrate and nitrite,0.16,0.14,10,ppm,1.1428571428571428
+OR,Myrtle Creek,97410.0,Tri-city Jw&sa,3500,Haloacetic acids (HAA5)†,20.2,0.1,60,ppb,201.99999999999997
+OR,Myrtle Creek,97410.0,Tri-city Jw&sa,3500,Total trihalomethanes (TTHMs)†,34.7,0.15,80,ppb,231.33333333333337
+OR,Myrtle Creek,97410.0,Tri-city Jw&sa,3500,Nitrate,0.127,0.14,10,ppm,0.907142857142857
+OR,Roseburg,97410.0,Umpqua Basin Water Association,8900,Arsenic,1.1,0.004,10,ppb,275.0
+OR,Roseburg,97410.0,Umpqua Basin Water Association,8900,Haloacetic acids (HAA5)†,33.3,0.1,60,ppb,332.99999999999994
+OR,Roseburg,97410.0,Umpqua Basin Water Association,8900,Total trihalomethanes (TTHMs)†,33.9,0.15,80,ppb,226.0
+OR,Roseburg,97410.0,Umpqua Basin Water Association,8900,Nitrate,0.0171,0.14,10,ppm,0.12214285714285714
+OR,Roseburg,97410.0,Umpqua Basin Water Association,8900,Nitrate and nitrite,0.02,0.14,10,ppm,0.14285714285714285
+OR,Idleyld,97410.0,Umpqua Ranch Co-op,161,Haloacetic acids (HAA5)†,15.3,0.1,60,ppb,153.0
+OR,Idleyld,97410.0,Umpqua Ranch Co-op,161,Total trihalomethanes (TTHMs)†,16.9,0.15,80,ppb,112.66666666666666
+OR,Idleyld,97410.0,Umpqua Ranch Co-op,161,Nitrate,0.024,0.14,10,ppm,0.1714285714285714
+OR,Winston,97410.0,Winston-dillard Water District,8060,Haloacetic acids (HAA5)†,38.2,0.1,60,ppb,382.0
+OR,Winston,97410.0,Winston-dillard Water District,8060,Total trihalomethanes (TTHMs)†,44.6,0.15,80,ppb,297.33333333333337
+OR,Winston,97410.0,Winston-dillard Water District,8060,Nitrate,0.025,0.14,10,ppm,0.17857142857142858
+OR,Winston,97410.0,Winston-dillard Water District,8060,Nitrate and nitrite,0.0433,0.14,10,ppm,0.3092857142857142
+OR,Yoncalla,97410.0,Yoncalla City of,1095,Haloacetic acids (HAA5)†,14.6,0.1,60,ppb,146.0
+OR,Yoncalla,97410.0,Yoncalla City of,1095,Total trihalomethanes (TTHMs)†,30.9,0.15,80,ppb,206.0
+OR,Yoncalla,97410.0,Yoncalla City of,1095,Nitrate and nitrite,0.02,0.14,10,ppm,0.14285714285714285
+OR,Bandon,97411.0,Bandon City of,3175,Haloacetic acids (HAA5)†,9.66,0.1,60,ppb,96.6
+OR,Bandon,97411.0,Bandon City of,3175,Total trihalomethanes (TTHMs)†,37.9,0.15,80,ppb,252.66666666666666
+OR,Myrtle Point,97411.0,Bridge Water District,150,Haloacetic acids (HAA5)†,1.75,0.1,60,ppb,17.5
+OR,Myrtle Point,97411.0,Bridge Water District,150,Nitrate,0.426,0.14,10,ppm,3.0428571428571427
+OR,Myrtle Point,97411.0,Bridge Water District,150,Total trihalomethanes (TTHMs)†,10.2,0.15,80,ppb,68.0
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Haloacetic acids (HAA5)†,13.4,0.1,60,ppb,134.0
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Haloacetic acids (HAA9)†,20.3,0.06,0,ppb,338.33333333333337
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Nitrate,0.436,0.14,10,ppm,3.114285714285714
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Radium combined (-226 &amp; -228),2.5,0.05,5,pCi/L,50.0
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Total trihalomethanes (TTHMs)†,31.1,0.15,80,ppb,207.33333333333334
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Barium,10.7,700.0,2000,ppb,0.015285714285714284
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Chlorate,9.38,210.0,0,ppb,0.04466666666666667
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Manganese,13.1,100.0,0,ppb,0.131
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Nitrate and nitrite,0.211,0.14,10,ppm,1.507142857142857
+OR,Coos Bay,97411.0,Coos Bay North Bend Water Board,34500,Strontium,0.0344,1500.0,0,ppb,2.2933333333333333e-05
+OR,Coquille,97411.0,Coquille City of,3866,Haloacetic acids (HAA5)†,21.2,0.1,60,ppb,211.99999999999997
+OR,Coquille,97411.0,Coquille City of,3866,Haloacetic acids (HAA9)†,27.6,0.06,0,ppb,460.00000000000006
+OR,Coquille,97411.0,Coquille City of,3866,Nitrate,1.51,0.14,10,ppm,10.785714285714285
+OR,Coquille,97411.0,Coquille City of,3866,Total trihalomethanes (TTHMs)†,37.9,0.15,80,ppb,252.66666666666666
+OR,Coquille,97411.0,Coquille City of,3866,Manganese,13.6,100.0,0,ppb,0.136
+OR,Coquille,97411.0,Dean Minard Water District,78,Haloacetic acids (HAA5)†,17.9,0.1,60,ppb,178.99999999999997
+OR,Coquille,97411.0,Dean Minard Water District,78,Haloacetic acids (HAA9)*†,27.6,0.06,0,ppb,460.00000000000006
+OR,Coquille,97411.0,Dean Minard Water District,78,Nitrate*,1.51,0.14,10,ppm,10.785714285714285
+OR,Coquille,97411.0,Dean Minard Water District,78,Total trihalomethanes (TTHMs)†,59.7,0.15,80,ppb,398.00000000000006
+OR,Coquille,97411.0,Dean Minard Water District,78,Manganese*,13.6,100.0,0,ppb,0.136
+OR,Coquille,97411.0,Garden Valley Water Association,30,Haloacetic acids (HAA5)†,39.0,0.1,60,ppb,390.0
+OR,Coquille,97411.0,Garden Valley Water Association,30,Nitrate,0.54,0.14,10,ppm,3.857142857142857
+OR,Coquille,97411.0,Garden Valley Water Association,30,Nitrate and nitrite,0.571,0.14,10,ppm,4.078571428571427
+OR,Coquille,97411.0,Garden Valley Water Association,30,Total trihalomethanes (TTHMs)†,41.5,0.15,80,ppb,276.6666666666667
+OR,Coquille,97411.0,Garden Valley Water Association,30,Barium,28.2,700.0,2000,ppb,0.040285714285714286
+OR,Coquille,97411.0,Garden Valley Water Association,30,Xylenes (total),0.502,1800.0,10000,ppb,0.0002788888888888889
+OR,Myrtle Point,97411.0,Myrtle Point City of,2600,Haloacetic acids (HAA5)†,22.4,0.1,60,ppb,223.99999999999997
+OR,Myrtle Point,97411.0,Myrtle Point City of,2600,Nitrate,0.615,0.14,10,ppm,4.392857142857142
+OR,Myrtle Point,97411.0,Myrtle Point City of,2600,Total trihalomethanes (TTHMs)†,41.2,0.15,80,ppb,274.6666666666667
+OR,North Bend,97411.0,North Bayside Estates-north,65,Arsenic,8.7,0.004,10,ppb,2175.0
+OR,North Bend,97411.0,North Bayside Estates-north,65,Nitrate,0.373,0.14,10,ppm,2.664285714285714
+OR,North Bend,97411.0,North Bayside Estates-north,65,Nitrate and nitrite,0.352,0.14,10,ppm,2.514285714285714
+OR,North Bend,97411.0,North Bayside Estates-north,65,Barium,2.82,700.0,2000,ppb,0.004028571428571428
+OR,North Bend,97411.0,North Bayside Estates-north,65,Selenium,2.64,30.0,50,ppb,0.08800000000000001
+OR,North Bend,97411.0,North Bayside Estates-north,65,Arsenic,8.7,0.004,10,ppb,2175.0
+OR,North Bend,97411.0,North Bayside Estates-north,65,Nitrate,0.373,0.14,10,ppm,2.664285714285714
+OR,North Bend,97411.0,North Bayside Estates-north,65,Nitrate and nitrite,0.352,0.14,10,ppm,2.514285714285714
+OR,North Bend,97411.0,North Bayside Estates-north,65,Barium,2.82,700.0,2000,ppb,0.004028571428571428
+OR,North Bend,97411.0,North Bayside Estates-north,65,Selenium,2.64,30.0,50,ppb,0.08800000000000001
+OR,Powers,97411.0,Powers City of,700,Haloacetic acids (HAA5)†,14.4,0.1,60,ppb,144.0
+OR,Powers,97411.0,Powers City of,700,Total trihalomethanes (TTHMs)†,20.8,0.15,80,ppb,138.66666666666669
+OR,Powers,97411.0,Powers City of,700,Barium,8.85,700.0,2000,ppb,0.012642857142857143
+OR,Powers,97411.0,Powers City of,700,Nitrate,0.0671,0.14,10,ppm,0.4792857142857143
+OR,Coquille,97411.0,Rink Creek Water District,286,Haloacetic acids (HAA5)†,32.4,0.1,60,ppb,323.99999999999994
+OR,Coquille,97411.0,Rink Creek Water District,286,Haloacetic acids (HAA9)*†,27.6,0.06,0,ppb,460.00000000000006
+OR,Coquille,97411.0,Rink Creek Water District,286,Nitrate*,1.51,0.14,10,ppm,10.785714285714285
+OR,Coquille,97411.0,Rink Creek Water District,286,Total trihalomethanes (TTHMs)†,59.1,0.15,80,ppb,394.0
+OR,Coquille,97411.0,Rink Creek Water District,286,Manganese*,13.6,100.0,0,ppb,0.136
+OR,North Bend,97411.0,Sand-n-wood Mobile Villa,65,Nitrate,2.42,0.14,10,ppm,17.285714285714285
+OR,North Bend,97411.0,Sand-n-wood Mobile Villa,65,Nitrate and nitrite,2.01,0.14,10,ppm,14.357142857142854
+OR,North Bend,97411.0,Sand-n-wood Mobile Villa,65,Radium combined (-226 &amp; -228),2.07,0.05,5,pCi/L,41.39999999999999
+OR,North Bend,97411.0,Sand-n-wood Mobile Villa,65,Barium,25.7,700.0,2000,ppb,0.03671428571428571
+OR,Coquille,97411.0,Shelley Road-crest Acres Water District,430,Haloacetic acids (HAA5)†,14.2,0.1,60,ppb,141.99999999999997
+OR,Coquille,97411.0,Shelley Road-crest Acres Water District,430,Haloacetic acids (HAA9)*†,27.6,0.06,0,ppb,460.00000000000006
+OR,Coquille,97411.0,Shelley Road-crest Acres Water District,430,Nitrate*,1.51,0.14,10,ppm,10.785714285714285
+OR,Coquille,97411.0,Shelley Road-crest Acres Water District,430,Total trihalomethanes (TTHMs)†,51.5,0.15,80,ppb,343.33333333333337
+OR,Coquille,97411.0,Shelley Road-crest Acres Water District,430,Manganese*,13.6,100.0,0,ppb,0.136
+OR,Bandon,97411.0,Weiss Estates Water System,36,Haloacetic acids (HAA5)†,61.9,0.1,60,ppb,619.0
+OR,Bandon,97411.0,Weiss Estates Water System,36,Total trihalomethanes (TTHMs)†,84.8,0.15,80,ppb,565.3333333333334
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Chromium (hexavalent),0.182,0.02,0,ppb,9.1
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Haloacetic acids (HAA5)†,38.3,0.1,60,ppb,382.99999999999994
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Haloacetic acids (HAA9)†,42.6,0.06,0,ppb,710.0
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Total trihalomethanes (TTHMs)†,42.8,0.15,80,ppb,285.3333333333333
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Barium,5.2,700.0,2000,ppb,0.0074285714285714285
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Beryllium,0.15,1.0,4,ppb,0.15
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Chlorate,298.8,210.0,0,ppb,1.4228571428571428
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Manganese,1.23,100.0,0,ppb,0.0123
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Nitrate,0.208,0.14,10,ppm,1.4857142857142855
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Nitrate and nitrite,0.163,0.14,10,ppm,1.1642857142857141
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Strontium,0.0774,1500.0,0,ppb,5.16e-05
+OR,Grants Pass OR,97497.0,City of Grants Pass,37088,Vanadium,2.11,21.0,0,ppb,0.10047619047619047
+OR,Cave Junction OR,97497.0,Cave Junction City of,1935,Haloacetic acids (HAA5)†,19.0,0.1,60,ppb,190.0
+OR,Cave Junction OR,97497.0,Cave Junction City of,1935,Nitrate,0.396,0.14,10,ppm,2.8285714285714283
+OR,Cave Junction OR,97497.0,Cave Junction City of,1935,Total trihalomethanes (TTHMs)†,17.8,0.15,80,ppb,118.66666666666667
+OR,Grants Pass OR,97497.0,Rogue Lea Estates-north/south,350,Barium,3.88,700.0,2000,ppb,0.005542857142857143
+OR,Grants Pass OR,97497.0,Rogue Lea Estates-north/south,350,Nitrate,0.238,0.14,10,ppm,1.6999999999999997
+OR,Grants Pass OR,97497.0,Willow Estates Mobile Home Park,250,Nitrate,1.05,0.14,10,ppm,7.5
+OR,Grants Pass OR,97497.0,Willow Estates Mobile Home Park,250,Uranium,0.74,0.43,20,pCi/L,1.7209302325581395
+OR,Medford OR,97501.0,Medford Water Commission,91000,Chromium (hexavalent),0.159,0.02,0,ppb,7.95
+OR,Medford OR,97501.0,Medford Water Commission,91000,Haloacetic acids (HAA5)†,6.11,0.1,60,ppb,61.1
+OR,Medford OR,97501.0,Medford Water Commission,91000,Haloacetic acids (HAA9)†,6.03,0.06,0,ppb,100.50000000000001
+OR,Medford OR,97501.0,Medford Water Commission,91000,Total trihalomethanes (TTHMs)†,7.97,0.15,80,ppb,53.13333333333333
+OR,Medford OR,97501.0,Medford Water Commission,91000,Barium,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Medford OR,97501.0,Medford Water Commission,91000,Chlorate,202.3,210.0,0,ppb,0.9633333333333334
+OR,Medford OR,97501.0,Medford Water Commission,91000,Manganese,1.31,100.0,0,ppb,0.0131
+OR,Medford OR,97501.0,Medford Water Commission,91000,Strontium,0.0624,1500.0,0,ppb,4.1599999999999995e-05
+OR,Medford OR,97501.0,Medford Water Commission,91000,Vanadium,7.5,21.0,0,ppb,0.35714285714285715
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Bromodichloromethane,0.533,0.06,0,ppb,8.883333333333335
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Dibromochloromethane,0.658,0.1,0,ppb,6.58
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Haloacetic acids (HAA9)†,0.235,0.06,0,ppb,3.9166666666666665
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Nitrate,0.613,0.14,10,ppm,4.378571428571428
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Radium combined (-226 &amp; -228),1.0,0.05,5,pCi/L,20.0
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Total trihalomethanes (TTHMs)†,2.07,0.15,80,ppb,13.799999999999999
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Barium,25.0,700.0,2000,ppb,0.03571428571428571
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Bromoform,0.388,0.5,0,ppb,0.776
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Chloroform,0.148,0.4,0,ppb,0.36999999999999994
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Manganese,5.32,100.0,0,ppb,0.053200000000000004
+OR,Ashland OR,97501.0,Ashland Water Department,20700,Uranium,0.13,0.43,20,pCi/L,0.3023255813953489
+OR,Central Point OR,97501.0,City of Central Point,17025,Chromium (hexavalent),0.193,0.02,0,ppb,9.65
+OR,Central Point OR,97501.0,City of Central Point,17025,Haloacetic acids (HAA5)†,3.68,0.1,60,ppb,36.8
+OR,Central Point OR,97501.0,City of Central Point,17025,Haloacetic acids (HAA9)†,11.7,0.06,0,ppb,195.0
+OR,Central Point OR,97501.0,City of Central Point,17025,Total trihalomethanes (TTHMs)†,8.55,0.15,80,ppb,57.00000000000001
+OR,Central Point OR,97501.0,City of Central Point,17025,Barium*,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Central Point OR,97501.0,City of Central Point,17025,Chlorate,68.5,210.0,0,ppb,0.3261904761904762
+OR,Central Point OR,97501.0,City of Central Point,17025,Manganese,62.6,100.0,0,ppb,0.626
+OR,Central Point OR,97501.0,City of Central Point,17025,Strontium,0.0589,1500.0,0,ppb,3.926666666666667e-05
+OR,Central Point OR,97501.0,City of Central Point,17025,Vanadium,7.83,21.0,0,ppb,0.3728571428571429
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Chromium (hexavalent)*,0.159,0.02,0,ppb,7.95
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Haloacetic acids (HAA5)†,20.0,0.1,60,ppb,200.0
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Haloacetic acids (HAA9)*†,6.03,0.06,0,ppb,100.50000000000001
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Total trihalomethanes (TTHMs)†,24.0,0.15,80,ppb,160.0
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Barium*,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Chlorate*,202.3,210.0,0,ppb,0.9633333333333334
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Manganese*,1.31,100.0,0,ppb,0.0131
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Strontium*,0.0624,1500.0,0,ppb,4.1599999999999995e-05
+OR,Eagle Point OR,97501.0,Eagle Point City of,9697,Vanadium*,7.5,21.0,0,ppb,0.35714285714285715
+OR,Talent OR,97501.0,Talent City of,6850,Chromium (hexavalent)*,0.159,0.02,0,ppb,7.95
+OR,Talent OR,97501.0,Talent City of,6850,Haloacetic acids (HAA5)†,0.435,0.1,60,ppb,4.35
+OR,Talent OR,97501.0,Talent City of,6850,Haloacetic acids (HAA9)*†,6.03,0.06,0,ppb,100.50000000000001
+OR,Talent OR,97501.0,Talent City of,6850,Total trihalomethanes (TTHMs)†,4.8,0.15,80,ppb,32.0
+OR,Talent OR,97501.0,Talent City of,6850,Barium*,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Talent OR,97501.0,Talent City of,6850,Chlorate*,202.3,210.0,0,ppb,0.9633333333333334
+OR,Talent OR,97501.0,Talent City of,6850,Manganese*,1.31,100.0,0,ppb,0.0131
+OR,Talent OR,97501.0,Talent City of,6850,Strontium*,0.0624,1500.0,0,ppb,4.1599999999999995e-05
+OR,Talent OR,97501.0,Talent City of,6850,Vanadium*,7.5,21.0,0,ppb,0.35714285714285715
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Chromium (hexavalent)*,0.159,0.02,0,ppb,7.95
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Haloacetic acids (HAA5)†,0.932,0.1,60,ppb,9.32
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Total trihalomethanes (TTHMs)†,2.05,0.15,80,ppb,13.666666666666666
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Barium*,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Chlorate*,202.3,210.0,0,ppb,0.9633333333333334
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Haloacetic acids (HAA9)†,0.0975,0.06,0,ppb,1.6250000000000002
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Manganese*,1.31,100.0,0,ppb,0.0131
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Strontium*,0.0624,1500.0,0,ppb,4.1599999999999995e-05
+OR,Phoenix OR,97501.0,Phoenix City of,4603,Vanadium*,7.5,21.0,0,ppb,0.35714285714285715
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Chromium (hexavalent)*,0.159,0.02,0,ppb,7.95
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Haloacetic acids (HAA5)†,3.25,0.1,60,ppb,32.5
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Haloacetic acids (HAA9)*†,6.03,0.06,0,ppb,100.50000000000001
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Total trihalomethanes (TTHMs)†,5.79,0.15,80,ppb,38.6
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Barium*,3.57,700.0,2000,ppb,0.0050999999999999995
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Chlorate*,202.3,210.0,0,ppb,0.9633333333333334
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Manganese*,1.31,100.0,0,ppb,0.0131
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Strontium*,0.0624,1500.0,0,ppb,4.1599999999999995e-05
+OR,Jacksonville OR,97501.0,Jacksonville City of,2850,Vanadium*,7.5,21.0,0,ppb,0.35714285714285715
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Arsenic,2.12,0.004,10,ppb,530.0
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Haloacetic acids (HAA5)†,19.1,0.1,60,ppb,191.0
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Nitrate,0.572,0.14,10,ppm,4.085714285714285
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Nitrate and nitrite,1.03,0.14,10,ppm,7.357142857142857
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Total trihalomethanes (TTHMs)†,30.7,0.15,80,ppb,204.66666666666666
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Barium,3.87,700.0,2000,ppb,0.005528571428571429
+OR,Rogue River OR,97501.0,Rogue River City of,2250,Uranium,0.11,0.43,20,pCi/L,0.2558139534883721
+OR,Gold Hill OR,97501.0,Gold Hill City of,1115,Haloacetic acids (HAA5)†,25.1,0.1,60,ppb,251.0
+OR,Gold Hill OR,97501.0,Gold Hill City of,1115,Radium combined (-226 &amp; -228),0.21,0.05,5,pCi/L,4.199999999999999
+OR,Gold Hill OR,97501.0,Gold Hill City of,1115,Total trihalomethanes (TTHMs)†,29.1,0.15,80,ppb,194.00000000000003
+OR,Gold Hill OR,97501.0,Gold Hill City of,1115,Barium,5.41,700.0,2000,ppb,0.007728571428571428
+OR,Gold Hill OR,97501.0,Gold Hill City of,1115,Nitrate,0.134,0.14,10,ppm,0.9571428571428571
+OR,Bly,97601.0,Bley-was Heights Water System,42,Nitrate,0.212,0.14,10,ppm,1.514285714285714
+OR,Bly,97601.0,Bly Water District,352,Nitrate,0.314,0.14,10,ppm,2.2428571428571424
+OR,Bly,97601.0,Bly Water District,352,Nitrate and nitrite,0.481,0.14,10,ppm,3.435714285714285
+OR,Bly,97601.0,Bly Water District,352,Barium,3.53,700.0,2000,ppb,0.005042857142857142
+OR,Bly,97601.0,Bly Water District,352,Total trihalomethanes (TTHMs)†,0.279,0.15,80,ppb,1.8600000000000003
+OR,Chiloquin,97601.0,Chiloquin Municipal Water Department,730,Arsenic,2.16,0.004,10,ppb,540.0
+OR,Chiloquin,97601.0,Chiloquin Municipal Water Department,730,Nitrate,0.0492,0.14,10,ppm,0.3514285714285714
+OR,Klamath Falls,97601.0,Collier Lane Homeowners Association,60,Arsenic,4.56,0.004,10,ppb,1139.9999999999998
+OR,Klamath Falls,97601.0,Collier Lane Homeowners Association,60,Radium combined (-226 &amp; -228),2.3,0.05,5,pCi/L,45.99999999999999
+OR,Klamath Falls,97601.0,Collier Lane Homeowners Association,60,Nitrate,0.129,0.14,10,ppm,0.9214285714285714
+OR,Klamath Falls,97601.0,Collier Lane Homeowners Association,60,Nitrate and nitrite,0.236,0.14,10,ppm,1.6857142857142855
+OR,Klamath Falls,97601.0,Collier Lane Homeowners Association,60,Selenium,0.276,30.0,50,ppb,0.009200000000000002
+OR,Klamath Falls,97601.0,Falcon Heights,559,Nitrate,0.312,0.14,10,ppm,2.228571428571428
+OR,Klamath Falls,97601.0,Falcon Heights,559,Nitrate and nitrite,0.563,0.14,10,ppm,4.0214285714285705
+OR,Klamath Falls,97601.0,Falcon Heights,559,Barium,0.682,700.0,2000,ppb,0.0009742857142857143
+OR,Klamath Falls,97601.0,Falcon Heights,559,Total trihalomethanes (TTHMs)†,0.156,0.15,80,ppb,1.04
+OR,Gilchrist,97601.0,Gilchrist Water System LLC,440,Barium,1.0,700.0,2000,ppb,0.0014285714285714286
+OR,Gilchrist,97601.0,Gilchrist Water System LLC,440,Di(2-ethylhexyl) phthalate,0.375,3.0,6,ppb,0.125
+OR,Gilchrist,97601.0,Gilchrist Water System LLC,440,Nitrate,0.0442,0.14,10,ppm,0.3157142857142857
+OR,Keno,97601.0,Keno Water Co. Inc.,290,Arsenic,0.585,0.004,10,ppb,146.25
+OR,Keno,97601.0,Keno Water Co. Inc.,290,Radium combined (-226 &amp; -228),0.23,0.05,5,pCi/L,4.6
+OR,Keno,97601.0,Keno Water Co. Inc.,290,Total trihalomethanes (TTHMs)†,2.89,0.15,80,ppb,19.26666666666667
+OR,Keno,97601.0,Keno Water Co. Inc.,290,Barium,5.26,700.0,2000,ppb,0.007514285714285714
+OR,Keno,97601.0,Keno Water Co. Inc.,290,Nitrate,0.184,0.14,10,ppm,1.314285714285714
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Arsenic,6.23,0.004,10,ppb,1557.5
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Chromium (hexavalent),0.17,0.02,0,ppb,8.5
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Haloacetic acids (HAA5)†,0.45,0.1,60,ppb,4.5
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Nitrate and nitrite,0.378,0.14,10,ppm,2.6999999999999997
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Total trihalomethanes (TTHMs)†,0.483,0.15,80,ppb,3.22
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,14-Dioxane,0.00614,0.35,0,ppb,0.01754285714285714
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Barium,1.52,700.0,2000,ppb,0.0021714285714285715
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Haloacetic acids (HAA9)†,0.0875,0.06,0,ppb,1.4583333333333333
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Manganese,37.4,100.0,0,ppb,0.374
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Molybdenum,1.51,40.0,0,ppb,0.03775
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Nitrate,0.25,0.14,10,ppm,1.7857142857142856
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Strontium,0.0778,1500.0,0,ppb,5.186666666666666e-05
+OR,Klamath Falls,97601.0,Klamath Falls Water Department,40475,Vanadium,9.36,21.0,0,ppb,0.4457142857142857
+OR,Malin,97601.0,Malin Municipal Water,815,Arsenic,9.26,0.004,10,ppb,2315.0
+OR,Malin,97601.0,Malin Municipal Water,815,Nitrate and nitrite,0.438,0.14,10,ppm,3.128571428571428
+OR,Malin,97601.0,Malin Municipal Water,815,Barium,2.58,700.0,2000,ppb,0.0036857142857142857
+OR,Malin,97601.0,Malin Municipal Water,815,Nitrate,0.27,0.14,10,ppm,1.9285714285714286
+OR,Malin,97601.0,Malin Municipal Water,815,Uranium,0.47,0.43,20,pCi/L,1.0930232558139534
+OR,Merrill,97601.0,Merrill Water Department,907,Radium combined (-226 &amp; -228),0.14,0.05,5,pCi/L,2.8000000000000003
+OR,Merrill,97601.0,Merrill Water Department,907,Nitrate,0.265,0.14,10,ppm,1.8928571428571428
+OR,Crater Lake,97601.0,Nps Annie Springs,200,Total trihalomethanes (TTHMs)†,5.64,0.15,80,ppb,37.6
+OR,Crater Lake,97601.0,Nps Annie Springs,200,Barium,6.4,700.0,2000,ppb,0.009142857142857144
+OR,Crater Lake,97601.0,Nps Annie Springs,200,Xylenes (total),0.528,1800.0,10000,ppb,0.0002933333333333333
+OR,Chiloquin,97601.0,Oregon Shores Beach Club Inc.,352,Nitrate,0.0442,0.14,10,ppm,0.3157142857142857
+OR,Chiloquin,97601.0,Oregon Shores Recreation Club,275,Barium,5.84,700.0,2000,ppb,0.008342857142857143
+OR,Chiloquin,97601.0,Oregon Shores Recreation Club,275,Nitrate,0.214,0.14,10,ppm,1.5285714285714285
+OR,Klamath Falls,97601.0,Pinecrest Water Company,78,Nitrate,0.42,0.14,10,ppm,2.9999999999999996
+OR,Klamath Falls,97601.0,Pristine Water Source LLC,250,Arsenic,1.06,0.004,10,ppb,265.0
+OR,Klamath Falls,97601.0,Round Lake Water Utilities,250,Arsenic,1.72,0.004,10,ppb,430.0
+OR,Klamath Falls,97601.0,Round Lake Water Utilities,250,Total trihalomethanes (TTHMs)†,0.724,0.15,80,ppb,4.826666666666667
+OR,Klamath Falls,97601.0,Round Lake Water Utilities,250,Barium,3.87,700.0,2000,ppb,0.005528571428571429
+OR,Klamath Falls,97601.0,Round Lake Water Utilities,250,Nitrate,0.0733,0.14,10,ppm,0.5235714285714286
+OR,Klamath Falls,97601.0,Round Lake Water Utilities,250,Uranium,0.13,0.43,20,pCi/L,0.3023255813953489
+OR,Klamath Falls,97601.0,Oregon Water Utilities - Mountain Lakes,770,Arsenic,1.4,0.004,10,ppb,349.99999999999994
+OR,Klamath Falls,97601.0,Oregon Water Utilities - Mountain Lakes,770,Nitrate,0.602,0.14,10,ppm,4.3
+OR,Klamath Falls,97601.0,Oregon Water Utilities - Mountain Lakes,770,Nitrate and nitrite,2.05,0.14,10,ppm,14.64285714285714
+OR,Klamath Falls,97601.0,Oregon Water Utilities - Mountain Lakes,770,Barium,7.3,700.0,2000,ppb,0.010428571428571428
+OR,Klamath Falls,97601.0,Shield Crest Condos,45,Nitrate,0.0835,0.14,10,ppm,0.5964285714285714
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Arsenic,1.68,0.004,10,ppb,420.0
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Nitrate and nitrite,0.552,0.14,10,ppm,3.9428571428571426
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Barium,0.708,700.0,2000,ppb,0.0010114285714285713
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Nitrate,0.27,0.14,10,ppm,1.9285714285714286
+OR,Klamath Falls,97601.0,Shield Crest Water Association,61,Selenium,0.66,30.0,50,ppb,0.022000000000000002
+OR,Klamath Falls,97601.0,Skyline View District Improvement,250,Total trihalomethanes (TTHMs)†,0.735,0.15,80,ppb,4.9
+OR,Klamath Falls,97601.0,Skyline View District Improvement,250,Nitrate,0.25,0.14,10,ppm,1.7857142857142856
+OR,Sprague River,97601.0,Sprague River Water Association,60,Nitrate,0.176,0.14,10,ppm,1.257142857142857
+OR,Christmas Valley,97620.0,Christmas Valley Domestic Ws,860,Arsenic,3.4,0.004,10,ppb,850.0
+OR,Christmas Valley,97620.0,Christmas Valley Domestic Ws,860,Barium,4.4,700.0,2000,ppb,0.006285714285714286
+OR,Christmas Valley,97620.0,Christmas Valley Domestic Ws,860,Nitrate,0.0075,0.14,10,ppm,0.05357142857142856
+OR,Lakeview,97620.0,Lakeview City of,2300,Arsenic,3.83,0.004,10,ppb,957.5
+OR,Lakeview,97620.0,Lakeview City of,2300,Haloacetic acids (HAA5)†,3.58,0.1,60,ppb,35.8
+OR,Lakeview,97620.0,Lakeview City of,2300,Radium combined (-226 &amp; -228),0.25,0.05,5,pCi/L,5.0
+OR,Lakeview,97620.0,Lakeview City of,2300,Total trihalomethanes (TTHMs)†,31.3,0.15,80,ppb,208.66666666666669
+OR,Lakeview,97620.0,Lakeview City of,2300,Nitrate,0.114,0.14,10,ppm,0.8142857142857143
+OR,Paisley,97620.0,Paisley City of,245,Arsenic,10.1,0.004,10,ppb,2525.0
+OR,Paisley,97620.0,Paisley City of,245,Haloacetic acids (HAA5)†,0.783,0.1,60,ppb,7.83
+OR,Paisley,97620.0,Paisley City of,245,Nitrate,0.981,0.14,10,ppm,7.007142857142856
+OR,Paisley,97620.0,Paisley City of,245,Nitrate and nitrite,1.18,0.14,10,ppm,8.428571428571427
+OR,Paisley,97620.0,Paisley City of,245,Total trihalomethanes (TTHMs)†,5.2,0.15,80,ppb,34.66666666666667
+OR,Paisley,97620.0,Paisley City of,245,Barium,20.2,700.0,2000,ppb,0.028857142857142856
+OR,Paisley,97620.0,Paisley City of,245,Uranium,0.67,0.43,20,pCi/L,1.558139534883721
+OR,Alturas,97635.0,California Pines Community Services District,300,Arsenic,9.6,0.004,10,ppb,2400.0
+OR,Cedarville,97635.0,Cedarville County Water District,500,Arsenic,4.3,0.004,10,ppb,1075.0
+OR,Cedarville,97635.0,Cedarville County Water District,500,Chromium (hexavalent),1.2,0.02,0,ppb,60.0
+OR,Cedarville,97635.0,Cedarville County Water District,500,Nitrate,1.99,0.14,10,ppm,14.214285714285714
+OR,Cedarville,97635.0,Cedarville County Water District,500,Nitrate and nitrite,2.5,0.14,10,ppm,17.857142857142854
+OR,Alturas,97635.0,City Of Alturas,2982,Chromium (hexavalent),1.35,0.02,0,ppb,67.5
+OR,Alturas,97635.0,City Of Alturas,2982,Nitrate,1.29,0.14,10,ppm,9.214285714285714
+OR,Alturas,97635.0,City Of Alturas,2982,Radium combined (-226 &amp; -228),1.24,0.05,5,pCi/L,24.799999999999997
+OR,Tulelake,97635.0,Newell County Water District,300,Arsenic,8.7,0.004,10,ppb,2175.0
+OR,Tulelake,97635.0,Newell County Water District,300,Manganese,108.0,100.0,0,ppb,1.08
+OR,Bend OR,97701.0,Bend Water Department,62091,Arsenic,0.664,0.004,10,ppb,166.0
+OR,Bend OR,97701.0,Bend Water Department,62091,Chromium (hexavalent),0.477,0.02,0,ppb,23.849999999999998
+OR,Bend OR,97701.0,Bend Water Department,62091,Haloacetic acids (HAA5)†,9.81,0.1,60,ppb,98.1
+OR,Bend OR,97701.0,Bend Water Department,62091,Haloacetic acids (HAA9)†,6.49,0.06,0,ppb,108.16666666666667
+OR,Bend OR,97701.0,Bend Water Department,62091,Total trihalomethanes (TTHMs)†,8.5,0.15,80,ppb,56.66666666666667
+OR,Bend OR,97701.0,Bend Water Department,62091,14-Dioxane,0.00773,0.35,0,ppb,0.02208571428571429
+OR,Bend OR,97701.0,Bend Water Department,62091,Barium,1.33,700.0,2000,ppb,0.0019
+OR,Bend OR,97701.0,Bend Water Department,62091,Chlorate,11.0,210.0,0,ppb,0.05238095238095238
+OR,Bend OR,97701.0,Bend Water Department,62091,Manganese,0.205,100.0,0,ppb,0.0020499999999999997
+OR,Bend OR,97701.0,Bend Water Department,62091,Nitrate,0.0747,0.14,10,ppm,0.5335714285714286
+OR,Bend OR,97701.0,Bend Water Department,62091,Nitrate and nitrite,0.1,0.14,10,ppm,0.7142857142857143
+OR,Bend OR,97701.0,Bend Water Department,62091,Strontium,0.0297,1500.0,0,ppb,1.98e-05
+OR,Bend OR,97701.0,Bend Water Department,62091,Vanadium,10.3,21.0,0,ppb,0.4904761904761905
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Chromium (hexavalent),1.23,0.02,0,ppb,61.5
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Haloacetic acids (HAA9)†,0.325,0.06,0,ppb,5.416666666666667
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Nitrate,0.677,0.14,10,ppm,4.835714285714285
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Total trihalomethanes (TTHMs)†,0.87,0.15,80,ppb,5.8
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Di(2-ethylhexyl) phthalate,0.0276,3.0,6,ppb,0.0092
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Manganese,0.0429,100.0,0,ppb,0.000429
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Molybdenum,0.311,40.0,0,ppb,0.007775
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Strontium,0.0553,1500.0,0,ppb,3.686666666666667e-05
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Uranium,0.38,0.43,20,pCi/L,0.8837209302325582
+OR,Redmond OR,97701.0,Redmond Water Department,27427,Vanadium,18.5,21.0,0,ppb,0.8809523809523809
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Chromium (hexavalent),0.856,0.02,0,ppb,42.8
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Barium,1.17,700.0,2000,ppb,0.0016714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Molybdenum,0.143,40.0,0,ppb,0.0035749999999999996
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate,0.0825,0.14,10,ppm,0.5892857142857143
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate and nitrite,0.122,0.14,10,ppm,0.8714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Strontium,0.0256,1500.0,0,ppb,1.7066666666666667e-05
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Vanadium,16.0,21.0,0,ppb,0.7619047619047619
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Chromium (hexavalent),0.856,0.02,0,ppb,42.8
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Barium,1.17,700.0,2000,ppb,0.0016714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Molybdenum,0.143,40.0,0,ppb,0.0035749999999999996
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate,0.0825,0.14,10,ppm,0.5892857142857143
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate and nitrite,0.122,0.14,10,ppm,0.8714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Strontium,0.0256,1500.0,0,ppb,1.7066666666666667e-05
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Vanadium,16.0,21.0,0,ppb,0.7619047619047619
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Chromium (hexavalent),0.856,0.02,0,ppb,42.8
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Barium,1.17,700.0,2000,ppb,0.0016714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Molybdenum,0.143,40.0,0,ppb,0.0035749999999999996
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate,0.0825,0.14,10,ppm,0.5892857142857143
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Nitrate and nitrite,0.122,0.14,10,ppm,0.8714285714285713
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Strontium,0.0256,1500.0,0,ppb,1.7066666666666667e-05
+OR,Bend OR,97701.0,Avion Water Company - Avion,31700,Vanadium,16.0,21.0,0,ppb,0.7619047619047619
+OR,Prineville OR,97701.0,Prineville City of,9645,Arsenic,0.333,0.004,10,ppb,83.25
+OR,Prineville OR,97701.0,Prineville City of,9645,Haloacetic acids (HAA5)†,0.65,0.1,60,ppb,6.5
+OR,Prineville OR,97701.0,Prineville City of,9645,Nitrate,1.17,0.14,10,ppm,8.357142857142856
+OR,Prineville OR,97701.0,Prineville City of,9645,Nitrate and nitrite,0.807,0.14,10,ppm,5.764285714285714
+OR,Prineville OR,97701.0,Prineville City of,9645,Radium combined (-226 &amp; -228),0.23,0.05,5,pCi/L,4.6
+OR,Prineville OR,97701.0,Prineville City of,9645,Total trihalomethanes (TTHMs)†,5.1,0.15,80,ppb,34.0
+OR,Prineville OR,97701.0,Prineville City of,9645,Uranium,0.89,0.43,20,pCi/L,2.0697674418604652
+OR,Prineville OR,97701.0,Prineville City of,9645,Barium,2.0,700.0,2000,ppb,0.002857142857142857
+OR,Bend OR,97701.0,Roats Water System,4500,Arsenic,2.87,0.004,10,ppb,717.5
+OR,Bend OR,97701.0,Roats Water System,4500,Barium,1.0,700.0,2000,ppb,0.0014285714285714286
+OR,Bend OR,97701.0,Roats Water System,4500,Nitrate,0.0279,0.14,10,ppm,0.1992857142857143
+OR,Bend OR,97701.0,Roats Water System,4500,Nitrate and nitrite,0.08,0.14,10,ppm,0.5714285714285714
+OR,Bend OR,97701.0,Agate Water System,2925,Arsenic,4.03,0.004,10,ppb,1007.5
+OR,Bend OR,97701.0,Agate Water System,2925,Barium,1.33,700.0,2000,ppb,0.0019
+OR,Bend OR,97701.0,Agate Water System,2925,Nitrate,0.0663,0.14,10,ppm,0.47357142857142853
+OR,Bend OR,97701.0,Agate Water System,2925,Nitrate and nitrite,0.0333,0.14,10,ppm,0.23785714285714285
+OR,Bend OR,97701.0,Agate Water System,2925,Selenium,1.2,30.0,50,ppb,0.04
+OR,Sunriver OR,97701.0,Sunriver Water LLC/sunriver Utilities,4323,Arsenic,3.33,0.004,10,ppb,832.5
+OR,Sunriver OR,97701.0,Sunriver Water LLC/sunriver Utilities,4323,Barium,8.0,700.0,2000,ppb,0.011428571428571429
+OR,Sunriver OR,97701.0,Sunriver Water LLC/sunriver Utilities,4323,Nitrate,0.044,0.14,10,ppm,0.3142857142857142
+OR,Sunriver OR,97701.0,Sunriver Water LLC/sunriver Utilities,4323,Nitrate and nitrite,0.055,0.14,10,ppm,0.39285714285714285
+OR,Sisters OR,97701.0,Sisters City of,2700,Arsenic,1.5,0.004,10,ppb,375.0
+OR,Sisters OR,97701.0,Sisters City of,2700,Nitrate,0.503,0.14,10,ppm,3.5928571428571425
+OR,Sisters OR,97701.0,Sisters City of,2700,Nitrate and nitrite,0.375,0.14,10,ppm,2.6785714285714284
+OR,Sisters OR,97701.0,Sisters City of,2700,Total trihalomethanes (TTHMs)†,2.62,0.15,80,ppb,17.46666666666667
+OR,Sisters OR,97701.0,Sisters City of,2700,Barium,2.0,700.0,2000,ppb,0.002857142857142857
+OR,Lapine OR,97701.0,La Pine City of,1600,Arsenic,1.0,0.004,10,ppb,250.0
+OR,Lapine OR,97701.0,La Pine City of,1600,Nitrate,0.0467,0.14,10,ppm,0.3335714285714285
+OR,Terrebonne OR,97702.0,Terrebonne Domestic Water District,1400,Arsenic,1.0,0.004,10,ppb,250.0
+OR,Terrebonne OR,97702.0,Terrebonne Domestic Water District,1400,Nitrate,1.13,0.14,10,ppm,8.07142857142857
+OR,Terrebonne OR,97702.0,Terrebonne Domestic Water District,1400,Uranium,0.67,0.43,20,pCi/L,1.558139534883721
+OR,Burns,97710.0,Burns Water Department,3000,Arsenic,3.42,0.004,10,ppb,855.0
+OR,Burns,97710.0,Burns Water Department,3000,Nitrate,1.77,0.14,10,ppm,12.642857142857142
+OR,Burns,97710.0,Burns Water Department,3000,Nitrate and nitrite,1.4,0.14,10,ppm,9.999999999999998
+OR,Burns,97710.0,Burns Water Department,3000,Tetrachloroethylene (perchloroethylene),0.504,0.06,5,ppb,8.4
+OR,Burns,97710.0,Burns Water Department,3000,Uranium,1.64,0.43,20,pCi/L,3.8139534883720927
+OR,Burns,97710.0,Burns Water Department,3000,Barium,13.4,700.0,2000,ppb,0.019142857142857142
+OR,Burns,97710.0,Burns Water Department,3000,Selenium,0.154,30.0,50,ppb,0.0051333333333333335
+OR,Hines,97710.0,G H2o Inc.,65,Nitrate,1.74,0.14,10,ppm,12.428571428571427
+OR,Hines,97710.0,G H2o Inc.,65,Nitrate and nitrite,1.49,0.14,10,ppm,10.642857142857142
+OR,Hines,97710.0,Hines Water Department,1563,Arsenic,4.68,0.004,10,ppb,1170.0
+OR,Hines,97710.0,Hines Water Department,1563,Nitrate,2.4,0.14,10,ppm,17.142857142857142
+OR,Hines,97710.0,Hines Water Department,1563,Nitrate and nitrite,2.0,0.14,10,ppm,14.285714285714285
+OR,Hines,97710.0,Hines Water Department,1563,Uranium,1.64,0.43,20,pCi/L,3.8139534883720927
+OR,Hines,97710.0,Hines Water Department,1563,Barium,20.8,700.0,2000,ppb,0.029714285714285714
+OR,Terrebonne,97711.0,Crooked River Ranch Water Company,4000,Arsenic,2.0,0.004,10,ppb,500.0
+OR,Terrebonne,97711.0,Crooked River Ranch Water Company,4000,Nitrate and nitrite,0.423,0.14,10,ppm,3.021428571428571
+OR,Terrebonne,97711.0,Crooked River Ranch Water Company,4000,Barium,2.67,700.0,2000,ppb,0.003814285714285714
+OR,Terrebonne,97711.0,Crooked River Ranch Water Company,4000,Nitrate,0.25,0.14,10,ppm,1.7857142857142856
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Arsenic,2.6,0.004,10,ppb,650.0
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Chromium (hexavalent),1.1,0.02,0,ppb,55.0
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Barium,1.5,700.0,2000,ppb,0.002142857142857143
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Nitrate,0.0967,0.14,10,ppm,0.6907142857142856
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Nitrate and nitrite,0.22,0.14,10,ppm,1.5714285714285714
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Strontium,0.0273,1500.0,0,ppb,1.8200000000000002e-05
+OR,Madras,97711.0,Deschutes Valley Water District,10600,Vanadium,17.3,21.0,0,ppb,0.8238095238095239
+OR,Madras,97711.0,Madras City Of,3940,Arsenic,7.0,0.004,10,ppb,1750.0
+OR,Madras,97711.0,Madras City Of,3940,Chromium (hexavalent),1.11,0.02,0,ppb,55.50000000000001
+OR,Madras,97711.0,Madras City Of,3940,Nitrate,0.47,0.14,10,ppm,3.3571428571428568
+OR,Madras,97711.0,Madras City Of,3940,Nitrate and nitrite,0.69,0.14,10,ppm,4.928571428571428
+OR,Madras,97711.0,Madras City Of,3940,Barium,10.0,700.0,2000,ppb,0.014285714285714285
+OR,Madras,97711.0,Madras City Of,3940,Strontium,0.0234,1500.0,0,ppb,1.56e-05
+OR,Madras,97711.0,Madras City Of,3940,Vanadium,17.4,21.0,0,ppb,0.8285714285714285
+OR,Fossil,97750.0,Fossil City of,470,Nitrate,0.527,0.14,10,ppm,3.7642857142857142
+OR,Fossil,97750.0,Fossil City of,470,Nitrate and nitrite,0.463,0.14,10,ppm,3.307142857142857
+OR,Fossil,97750.0,Fossil City of,470,Total trihalomethanes (TTHMs)†,3.75,0.15,80,ppb,25.0
+OR,Fossil,97750.0,Fossil City of,470,Barium,3.17,700.0,2000,ppb,0.004528571428571429
+OR,Mitchell,97750.0,Mitchell City Water,127,Haloacetic acids (HAA5)†,1.03,0.1,60,ppb,10.299999999999999
+OR,Mitchell,97750.0,Mitchell City Water,127,Total trihalomethanes (TTHMs)†,4.04,0.15,80,ppb,26.933333333333334
+OR,Mitchell,97750.0,Mitchell City Water,127,Barium,2.05,700.0,2000,ppb,0.0029285714285714284
+OR,Spray,97750.0,Spray City of,120,Arsenic,4.31,0.004,10,ppb,1077.4999999999998
+OR,Spray,97750.0,Spray City of,120,Nitrate,3.42,0.14,10,ppm,24.428571428571427
+OR,Spray,97750.0,Spray City of,120,Nitrate and nitrite,3.83,0.14,10,ppm,27.357142857142854
+OR,Spray,97750.0,Spray City of,120,Radium combined (-226 &amp; -228),1.7,0.05,5,pCi/L,34.0
+OR,Spray,97750.0,Spray City of,120,Uranium,5.03,0.43,20,pCi/L,11.697674418604652
+OR,Spray,97750.0,Spray City of,120,Barium,11.1,700.0,2000,ppb,0.015857142857142858
+OR,Spray,97750.0,Spray City of,120,Selenium,1.95,30.0,50,ppb,0.065
+OR,Prineville,97751.0,Barnes Butte Homeowners Association,146,Nitrate,2.43,0.14,10,ppm,17.357142857142858
+OR,Elmira,97751.0,Cascade Pines Mobile Home Park,100,Arsenic,1.72,0.004,10,ppb,430.0
+OR,Elmira,97751.0,Cascade Pines Mobile Home Park,100,Nitrate,1.47,0.14,10,ppm,10.499999999999998
+OR,Elmira,97751.0,Cascade Pines Mobile Home Park,100,Nitrate and nitrite,0.798,0.14,10,ppm,5.7
+OR,Elmira,97751.0,Cascade Pines Mobile Home Park,100,Barium,25.7,700.0,2000,ppb,0.03671428571428571
+OR,Elmira,97751.0,Cascade Pines Mobile Home Park,100,Selenium,0.552,30.0,50,ppb,0.018400000000000003
+OR,Prineville,97751.0,Dry Creek Airpark,47,Arsenic,2.71,0.004,10,ppb,677.5
+OR,Prineville,97751.0,Dry Creek Airpark,47,Nitrate,2.29,0.14,10,ppm,16.357142857142854
+OR,Prineville,97751.0,Dry Creek Airpark,47,Nitrate and nitrite,2.47,0.14,10,ppm,17.642857142857142
+OR,Prineville,97751.0,Dry Creek Airpark,47,Barium,15.3,700.0,2000,ppb,0.02185714285714286
+OR,Prineville,97751.0,Dry Creek Airpark,47,Selenium,1.1,30.0,50,ppb,0.03666666666666667
+OR,Prineville,97751.0,Happy Hollow Water Company,42,Arsenic,4.54,0.004,10,ppb,1135.0
+OR,Prineville,97751.0,Happy Hollow Water Company,42,Nitrate,3.09,0.14,10,ppm,22.07142857142857
+OR,Prineville,97751.0,High Desert Estates,380,Arsenic,3.0,0.004,10,ppb,750.0
+OR,Prineville,97751.0,High Desert Estates,380,Nitrate,0.956,0.14,10,ppm,6.828571428571427
+OR,Prineville,97751.0,High Desert Estates,380,Nitrate and nitrite,1.34,0.14,10,ppm,9.571428571428571
+OR,Prineville,97751.0,Idleway Improvement District,178,Arsenic,7.97,0.004,10,ppb,1992.5
+OR,Prineville,97751.0,Idleway Improvement District,178,Haloacetic acids (HAA5)†,6.2,0.1,60,ppb,62.0
+OR,Prineville,97751.0,Idleway Improvement District,178,Nitrate,1.99,0.14,10,ppm,14.214285714285714
+OR,Prineville,97751.0,Idleway Improvement District,178,Nitrate and nitrite,2.01,0.14,10,ppm,14.357142857142854
+OR,Prineville,97751.0,Idleway Improvement District,178,Total trihalomethanes (TTHMs)†,13.7,0.15,80,ppb,91.33333333333333
+OR,Prineville,97751.0,Idleway Improvement District,178,Uranium,4.02,0.43,20,pCi/L,9.348837209302324
+OR,Prineville,97751.0,Idleway Improvement District,178,Barium,2.02,700.0,2000,ppb,0.0028857142857142857
+OR,Prineville,97751.0,Idleway Improvement District,178,Selenium,1.95,30.0,50,ppb,0.065
+OR,Prineville,97751.0,Mcdougal Water System,60,Nitrate,1.9,0.14,10,ppm,13.57142857142857
+OR,Prineville,97751.0,Ochoco Valley Home Improvement District,60,Nitrate,0.483,0.14,10,ppm,3.4499999999999997
+OR,Prineville,97751.0,Ochoco Valley Home Improvement District,60,Uranium,0.94,0.43,20,pCi/L,2.186046511627907
+OR,Prineville,97751.0,Ochoco West Water & San Authority,360,Arsenic,2.28,0.004,10,ppb,569.9999999999999
+OR,Prineville,97751.0,Ochoco West Water & San Authority,360,Nitrate,0.566,0.14,10,ppm,4.042857142857142
+OR,Prineville,97751.0,Ochoco West Water & San Authority,360,Total trihalomethanes (TTHMs)†,11.3,0.15,80,ppb,75.33333333333334
+OR,Prineville,97751.0,Ochoco West Water & San Authority,360,Barium,35.6,700.0,2000,ppb,0.05085714285714286
+OR,Bend,97751.0,Prineville Mobile Home Park,130,Arsenic,4.7,0.004,10,ppb,1175.0
+OR,Bend,97751.0,Prineville Mobile Home Park,130,Nitrate,5.97,0.14,10,ppm,42.64285714285714
+OR,Bend,97751.0,Prineville Mobile Home Park,130,Nitrate and nitrite,5.81,0.14,10,ppm,41.49999999999999
+OR,Bend,97751.0,Prineville Mobile Home Park,130,Barium,29.0,700.0,2000,ppb,0.041428571428571426
+OR,Prineville,97751.0,Quail Valley Park Improvement District,110,Arsenic,4.05,0.004,10,ppb,1012.4999999999999
+OR,Prineville,97751.0,Quail Valley Park Improvement District,110,Nitrate,0.76,0.14,10,ppm,5.428571428571428
+OR,Prineville,97751.0,Quail Valley Park Improvement District,110,Total trihalomethanes (TTHMs)†,2.39,0.15,80,ppb,15.933333333333335
+OR,Prineville,97751.0,Quail Valley Park Improvement District,110,Di(2-ethylhexyl) phthalate,0.943,3.0,6,ppb,0.3143333333333333
+OR,Prineville,97751.0,Shoun Crossroads,41,Arsenic,5.38,0.004,10,ppb,1345.0
+OR,Prineville,97751.0,Shoun Crossroads,41,Nitrate,0.289,0.14,10,ppm,2.064285714285714
+OR,Prineville,97751.0,Shoun Crossroads,41,Barium,0.766,700.0,2000,ppb,0.0010942857142857143
+OR,Prineville,97751.0,Sunset Hills Domestic Water Association,34,Nitrate,1.06,0.14,10,ppm,7.571428571428571
+OR,Prineville,97751.0,Sunset Hills Domestic Water Association,34,Uranium,1.07,0.43,20,pCi/L,2.488372093023256
+OR,Prineville,97751.0,Westridge Subdivision,76,Radium combined (-226 &amp; -228),0.76,0.05,5,pCi/L,15.2
+OR,Prineville,97751.0,Westridge Subdivision,76,Dichloromethane (methylene chloride),0.22,4.0,5,ppb,0.055
+OR,Prineville,97751.0,Westridge Subdivision,76,Manganese,13.5,100.0,0,ppb,0.135
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Arsenic,0.75,0.004,10,ppb,187.5
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Chromium (hexavalent),0.0472,0.02,0,ppb,2.36
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Haloacetic acids (HAA5)†,15.3,0.1,60,ppb,153.0
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Haloacetic acids (HAA9)†,16.2,0.06,0,ppb,270.0
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Nitrate,1.4,0.14,10,ppm,9.999999999999998
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Total trihalomethanes (TTHMs)†,25.5,0.15,80,ppb,170.0
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Uranium,0.89,0.43,20,pCi/L,2.0697674418604652
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Chlorate,125.9,210.0,0,ppb,0.5995238095238096
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Manganese,3.99,100.0,0,ppb,0.039900000000000005
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Molybdenum,0.381,40.0,0,ppb,0.009525
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Strontium,0.0703,1500.0,0,ppb,4.686666666666667e-05
+OR,Pendleton OR,97801.0,City of Pendleton,17310,Vanadium,8.72,21.0,0,ppb,0.4152380952380953
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Arsenic,2.25,0.004,10,ppb,562.5
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Chromium (hexavalent),0.113,0.02,0,ppb,5.65
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Haloacetic acids (HAA5)†,17.7,0.1,60,ppb,176.99999999999997
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Haloacetic acids (HAA9)†,23.0,0.06,0,ppb,383.33333333333337
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Nitrate,1.1,0.14,10,ppm,7.857142857142857
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Total trihalomethanes (TTHMs)†,31.6,0.15,80,ppb,210.66666666666669
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Uranium,1.62,0.43,20,pCi/L,3.7674418604651168
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Manganese,2.61,100.0,0,ppb,0.026099999999999998
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Molybdenum,2.69,40.0,0,ppb,0.06725
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Strontium,0.151,1500.0,0,ppb,0.00010066666666666667
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Vanadium,4.48,21.0,0,ppb,0.21333333333333335
+OR,Hermiston OR,97801.0,City of Hermiston,18200,Xylenes (total),0.0471,1800.0,10000,ppb,2.6166666666666668e-05
+OR,Milton-freewater OR,97801.0,Milton-freewater City Of,7070,Total trihalomethanes (TTHMs)†,1.14,0.15,80,ppb,7.6
+OR,Milton-freewater OR,97801.0,Milton-freewater City Of,7070,Nitrate,0.0628,0.14,10,ppm,0.4485714285714285
+OR,Umatilla OR,97801.0,Umatilla City of,6980,Haloacetic acids (HAA5)†,1.33,0.1,60,ppb,13.3
+OR,Umatilla OR,97801.0,Umatilla City of,6980,Total trihalomethanes (TTHMs)†,16.1,0.15,80,ppb,107.33333333333334
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Arsenic,0.257,0.004,10,ppb,64.25
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Haloacetic acids (HAA5)†,0.809,0.1,60,ppb,8.09
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Total trihalomethanes (TTHMs)†,4.51,0.15,80,ppb,30.066666666666666
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Barium,4.73,700.0,2000,ppb,0.006757142857142857
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Nitrate,0.0394,0.14,10,ppm,0.28142857142857136
+OR,Stanfield OR,97801.0,Stanfield City of,2115,Nitrate and nitrite,0.108,0.14,10,ppm,0.7714285714285714
+OR,Arlington,97812.0,Arlington City Water Supply,610,Arsenic,2.68,0.004,10,ppb,670.0
+OR,Arlington,97812.0,Arlington City Water Supply,610,Haloacetic acids (HAA5)†,2.13,0.1,60,ppb,21.299999999999997
+OR,Arlington,97812.0,Arlington City Water Supply,610,Total trihalomethanes (TTHMs)†,16.2,0.15,80,ppb,108.0
+OR,Arlington,97812.0,Arlington City Water Supply,610,Barium,33.8,700.0,2000,ppb,0.04828571428571428
+OR,Arlington,97812.0,Arlington City Water Supply,610,Uranium,0.79,0.43,20,pCi/L,1.8372093023255816
+OR,Condon,97812.0,Condon Heights Ws,33,Nitrate,2.03,0.14,10,ppm,14.499999999999996
+OR,Condon,97812.0,Condon City of,690,Arsenic,1.43,0.004,10,ppb,357.5
+OR,Condon,97812.0,Condon City of,690,Cadmium,0.6,0.04,5,ppb,15.0
+OR,Condon,97812.0,Condon City of,690,Haloacetic acids (HAA5)†,3.69,0.1,60,ppb,36.9
+OR,Condon,97812.0,Condon City of,690,Nitrate,2.28,0.14,10,ppm,16.28571428571428
+OR,Condon,97812.0,Condon City of,690,Nitrate and nitrite,2.22,0.14,10,ppm,15.857142857142858
+OR,Condon,97812.0,Condon City of,690,Total trihalomethanes (TTHMs)†,14.4,0.15,80,ppb,96.0
+OR,Condon,97812.0,Condon City of,690,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+OR,Condon,97812.0,Condon City of,690,Barium,10.1,700.0,2000,ppb,0.014428571428571428
+OR,Condon,97812.0,Condon City of,690,Selenium,0.45,30.0,50,ppb,0.015000000000000001
+OR,Baker City,97814.0,Baker City,9890,Chromium (hexavalent),0.61,0.02,0,ppb,30.5
+OR,Baker City,97814.0,Baker City,9890,Haloacetic acids (HAA5)†,32.0,0.1,60,ppb,320.0
+OR,Baker City,97814.0,Baker City,9890,Total trihalomethanes (TTHMs)†,24.8,0.15,80,ppb,165.33333333333334
+OR,Baker City,97814.0,Baker City,9890,Barium,117.0,700.0,2000,ppb,0.16714285714285715
+OR,Baker City,97814.0,Baker City,9890,Molybdenum,0.44,40.0,0,ppb,0.011
+OR,Baker City,97814.0,Baker City,9890,Nitrate,0.1,0.14,10,ppm,0.7142857142857143
+OR,Baker City,97814.0,Baker City,9890,Nitrate and nitrite,0.2,0.14,10,ppm,1.4285714285714286
+OR,Baker City,97814.0,Baker City,9890,Strontium,0.0536,1500.0,0,ppb,3.573333333333333e-05
+OR,Baker City,97814.0,Baker City,9890,Vanadium,1.19,21.0,0,ppb,0.056666666666666664
+OR,La Grande,97814.0,City of La Grande,13245,Arsenic,1.6,0.004,10,ppb,400.0
+OR,La Grande,97814.0,City of La Grande,13245,Chromium (hexavalent),0.0524,0.02,0,ppb,2.62
+OR,La Grande,97814.0,City of La Grande,13245,Haloacetic acids (HAA5)†,1.13,0.1,60,ppb,11.299999999999999
+OR,La Grande,97814.0,City of La Grande,13245,Haloacetic acids (HAA9)†,0.283,0.06,0,ppb,4.716666666666667
+OR,La Grande,97814.0,City of La Grande,13245,Total trihalomethanes (TTHMs)†,1.44,0.15,80,ppb,9.6
+OR,La Grande,97814.0,City of La Grande,13245,Chlorate,21.2,210.0,0,ppb,0.10095238095238095
+OR,La Grande,97814.0,City of La Grande,13245,Manganese,46.1,100.0,0,ppb,0.461
+OR,La Grande,97814.0,City of La Grande,13245,Molybdenum,1.14,40.0,0,ppb,0.028499999999999998
+OR,La Grande,97814.0,City of La Grande,13245,Nitrate,0.253,0.14,10,ppm,1.807142857142857
+OR,La Grande,97814.0,City of La Grande,13245,Strontium,0.0486,1500.0,0,ppb,3.24e-05
+OR,La Grande,97814.0,City of La Grande,13245,Tetrachloroethylene (perchloroethylene),0.0857,0.06,5,ppb,1.4283333333333335
+OR,La Grande,97814.0,City of La Grande,13245,Vanadium,2.1,21.0,0,ppb,0.1
+OR,Cove,97814.0,Cove City of,550,Arsenic,1.17,0.004,10,ppb,292.5
+OR,Elgin,97814.0,Elgin Water Department,1725,Arsenic,0.767,0.004,10,ppb,191.75
+OR,Elgin,97814.0,Elgin Water Department,1725,Barium,27.9,700.0,2000,ppb,0.039857142857142855
+OR,Elgin,97814.0,Elgin Water Department,1725,Nitrate,0.0088,0.14,10,ppm,0.06285714285714286
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Arsenic,1.48,0.004,10,ppb,370.0
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Haloacetic acids (HAA5)†,5.7,0.1,60,ppb,57.0
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Nitrate,2.78,0.14,10,ppm,19.857142857142854
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Nitrate and nitrite,1.2,0.14,10,ppm,8.571428571428571
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Total trihalomethanes (TTHMs)†,3.79,0.15,80,ppb,25.26666666666667
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Barium,39.1,700.0,2000,ppb,0.05585714285714286
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Cadmium,0.0625,0.04,5,ppb,1.5625
+OR,La Grande,97814.0,Flying K Trailer Ranch,96,Selenium,0.357,30.0,50,ppb,0.011899999999999999
+OR,Haines,97814.0,Haines City of,415,Nitrate,0.551,0.14,10,ppm,3.9357142857142855
+OR,Haines,97814.0,Haines City of,415,Nitrate and nitrite,0.49,0.14,10,ppm,3.4999999999999996
+OR,Haines,97814.0,Haines City of,415,Barium,306.0,700.0,2000,ppb,0.43714285714285717
+OR,Haines,97814.0,Haines City of,415,Ethylbenzene,1.3,300.0,700,ppb,0.004333333333333333
+OR,Haines,97814.0,Haines City of,415,Xylenes (total),11.2,1800.0,10000,ppb,0.006222222222222222
+OR,Halfway,97814.0,Halfway City of,290,Nitrate,0.138,0.14,10,ppm,0.9857142857142857
+OR,Huntington,97814.0,Huntington City of,445,Haloacetic acids (HAA5)†,5.55,0.1,60,ppb,55.49999999999999
+OR,Huntington,97814.0,Huntington City of,445,Nitrate,0.258,0.14,10,ppm,1.8428571428571427
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Arsenic,1.12,0.004,10,ppb,280.0
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Haloacetic acids (HAA5)†,3.95,0.1,60,ppb,39.5
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Total trihalomethanes (TTHMs)†,5.01,0.15,80,ppb,33.4
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Barium,135.0,700.0,2000,ppb,0.19285714285714287
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Nitrate,0.181,0.14,10,ppm,1.2928571428571427
+OR,Oxbow,97814.0,Idaho Power-oxbow Village,75,Xylenes (total),1.38,1800.0,10000,ppb,0.0007666666666666666
+OR,Imbler,97814.0,Imbler City of,305,Barium,2.95,700.0,2000,ppb,0.004214285714285715
+OR,North Powder,97814.0,North Powder City Of,445,Arsenic,2.95,0.004,10,ppb,737.5
+OR,North Powder,97814.0,North Powder City Of,445,Total trihalomethanes (TTHMs)†,6.23,0.15,80,ppb,41.53333333333334
+OR,North Powder,97814.0,North Powder City Of,445,Barium,116.6,700.0,2000,ppb,0.16657142857142856
+OR,North Powder,97814.0,North Powder City Of,445,Nitrate and nitrite,0.00755,0.14,10,ppm,0.05392857142857142
+OR,Richland,97814.0,Richland City of,245,Haloacetic acids (HAA5)†,20.2,0.1,60,ppb,201.99999999999997
+OR,Richland,97814.0,Richland City of,245,Radium combined (-226 &amp; -228),1.42,0.05,5,pCi/L,28.4
+OR,Richland,97814.0,Richland City of,245,Total trihalomethanes (TTHMs)†,23.0,0.15,80,ppb,153.33333333333334
+OR,Sumpter,97814.0,Sumpter City of,205,Haloacetic acids (HAA5)†,32.0,0.1,60,ppb,320.0
+OR,Sumpter,97814.0,Sumpter City of,205,Total trihalomethanes (TTHMs)†,47.9,0.15,80,ppb,319.3333333333333
+OR,Sumpter,97814.0,Sumpter City of,205,Barium,16.0,700.0,2000,ppb,0.022857142857142857
+OR,Sumpter,97814.0,Sumpter City of,205,Nitrate,0.12,0.14,10,ppm,0.857142857142857
+OR,La Grande,97814.0,Sundowner Mobile Home Park,160,Arsenic,1.02,0.004,10,ppb,255.0
+OR,La Grande,97814.0,Sundowner Mobile Home Park,160,Nitrate,1.42,0.14,10,ppm,10.14285714285714
+OR,La Grande,97814.0,Sundowner Mobile Home Park,160,Nitrate and nitrite,1.27,0.14,10,ppm,9.071428571428571
+OR,La Grande,97814.0,Sundowner Mobile Home Park,160,Radium combined (-226 &amp; -228),2.3,0.05,5,pCi/L,45.99999999999999
+OR,La Grande,97814.0,Sundowner Mobile Home Park,160,Barium,22.9,700.0,2000,ppb,0.03271428571428571
+OR,Union,97814.0,Union City of,2150,Arsenic,3.54,0.004,10,ppb,885.0
+OR,Union,97814.0,Union City of,2150,Haloacetic acids (HAA5)†,1.49,0.1,60,ppb,14.899999999999999
+OR,Union,97814.0,Union City of,2150,Total trihalomethanes (TTHMs)†,0.306,0.15,80,ppb,2.04
+OR,Union,97814.0,Union City of,2150,Barium,20.7,700.0,2000,ppb,0.02957142857142857
+OR,Unity,97814.0,Unity City of,71,Arsenic,2.4,0.004,10,ppb,600.0
+OR,Unity,97814.0,Unity City of,71,Nitrate,0.926,0.14,10,ppm,6.614285714285714
+OR,Unity,97814.0,Unity City of,71,Nitrate and nitrite,1.12,0.14,10,ppm,8.0
+OR,Unity,97814.0,Unity City of,71,Total trihalomethanes (TTHMs)†,1.25,0.15,80,ppb,8.333333333333334
+OR,Unity,97814.0,Unity City of,71,Barium,171.0,700.0,2000,ppb,0.24428571428571427
+OR,Dayville,97817.0,Dayville City of,150,Arsenic,1.17,0.004,10,ppb,292.5
+OR,Dayville,97817.0,Dayville City of,150,Haloacetic acids (HAA5)†,1.85,0.1,60,ppb,18.5
+OR,Dayville,97817.0,Dayville City of,150,Nitrate,0.825,0.14,10,ppm,5.892857142857142
+OR,Dayville,97817.0,Dayville City of,150,Nitrate and nitrite,0.898,0.14,10,ppm,6.414285714285714
+OR,Dayville,97817.0,Dayville City of,150,Radium combined (-226 &amp; -228),2.9,0.05,5,pCi/L,57.99999999999999
+OR,Dayville,97817.0,Dayville City of,150,Total trihalomethanes (TTHMs)†,5.96,0.15,80,ppb,39.733333333333334
+OR,Dayville,97817.0,Dayville City of,150,Barium,2.62,700.0,2000,ppb,0.003742857142857143
+OR,Dayville,97817.0,Dayville City of,150,Selenium,0.539,30.0,50,ppb,0.01796666666666667
+OR,John Day,97817.0,John Day City of,1735,Arsenic,0.89,0.004,10,ppb,222.5
+OR,John Day,97817.0,John Day City of,1735,Nitrate,0.481,0.14,10,ppm,3.435714285714285
+OR,John Day,97817.0,John Day City of,1735,Nitrate and nitrite,0.392,0.14,10,ppm,2.8
+OR,John Day,97817.0,John Day City of,1735,Total trihalomethanes (TTHMs)†,6.44,0.15,80,ppb,42.93333333333334
+OR,John Day,97817.0,John Day City of,1735,Barium,39.9,700.0,2000,ppb,0.056999999999999995
+OR,Long Creek,97817.0,Long Creek City Of,195,Arsenic,1.15,0.004,10,ppb,287.5
+OR,Long Creek,97817.0,Long Creek City Of,195,Nitrate,0.962,0.14,10,ppm,6.87142857142857
+OR,Long Creek,97817.0,Long Creek City Of,195,Nitrate and nitrite,0.434,0.14,10,ppm,3.0999999999999996
+OR,Long Creek,97817.0,Long Creek City Of,195,Barium,1.12,700.0,2000,ppb,0.0016
+OR,Monument,97817.0,Monument City of,130,Arsenic,1.09,0.004,10,ppb,272.5
+OR,Monument,97817.0,Monument City of,130,Haloacetic acids (HAA5)†,17.9,0.1,60,ppb,178.99999999999997
+OR,Monument,97817.0,Monument City of,130,Nitrate,0.402,0.14,10,ppm,2.8714285714285714
+OR,Monument,97817.0,Monument City of,130,Nitrate and nitrite,0.373,0.14,10,ppm,2.664285714285714
+OR,Monument,97817.0,Monument City of,130,Total trihalomethanes (TTHMs)†,26.8,0.15,80,ppb,178.66666666666669
+OR,Monument,97817.0,Monument City of,130,Barium,1.91,700.0,2000,ppb,0.0027285714285714283
+OR,Mount Vernon,97817.0,Mount Vernon City of,509,Total trihalomethanes (TTHMs)†,1.17,0.15,80,ppb,7.8
+OR,Mount Vernon,97817.0,Mount Vernon City of,509,Nitrate,0.236,0.14,10,ppm,1.6857142857142855
+OR,Prairie City,97817.0,Prairie City,910,Arsenic,0.259,0.004,10,ppb,64.75
+OR,Prairie City,97817.0,Prairie City,910,Bromodichloromethane,5.4,0.06,0,ppb,90.00000000000001
+OR,Prairie City,97817.0,Prairie City,910,Bromoform,3.52,0.5,0,ppb,7.04
+OR,Prairie City,97817.0,Prairie City,910,Chloroform,3.01,0.4,0,ppb,7.5249999999999995
+OR,Prairie City,97817.0,Prairie City,910,Dibromoacetic acid,1.25,0.04,0,ppb,31.25
+OR,Prairie City,97817.0,Prairie City,910,Dibromochloromethane,7.98,0.1,0,ppb,79.8
+OR,Prairie City,97817.0,Prairie City,910,Dichloroacetic acid,0.8,0.2,0,ppb,4.0
+OR,Prairie City,97817.0,Prairie City,910,Haloacetic acids (HAA5)†,2.05,0.1,60,ppb,20.499999999999996
+OR,Prairie City,97817.0,Prairie City,910,Radium combined (-226 &amp; -228),1.9,0.05,5,pCi/L,37.99999999999999
+OR,Prairie City,97817.0,Prairie City,910,Total trihalomethanes (TTHMs)†,19.9,0.15,80,ppb,132.66666666666666
+OR,Prairie City,97817.0,Prairie City,910,Barium,121.0,700.0,2000,ppb,0.17285714285714285
+OR,Prairie City,97817.0,Prairie City,910,Manganese,14.2,100.0,0,ppb,0.142
+OR,Prairie City,97817.0,Prairie City,910,Nitrate,0.145,0.14,10,ppm,1.0357142857142856
+OR,Prairie City,97817.0,Prairie City,910,Nitrate and nitrite,0.147,0.14,10,ppm,1.0499999999999998
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Arsenic,5.0,0.004,10,ppb,1250.0
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Bromochloroacetic acid,0.75,0.02,0,ppb,37.5
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Bromodichloromethane,0.46,0.06,0,ppb,7.666666666666667
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Dibromochloromethane,0.26,0.1,0,ppb,2.6
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Dichloroacetic acid,0.7,0.2,0,ppb,3.4999999999999996
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Haloacetic acids (HAA5)†,0.7,0.1,60,ppb,6.999999999999999
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Nitrate,7.7,0.14,10,ppm,54.99999999999999
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Nitrate and nitrite,6.5,0.14,10,ppm,46.42857142857142
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Total trihalomethanes (TTHMs)†,1.2,0.15,80,ppb,8.0
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Atrazine,0.0233,0.1,3,ppb,0.233
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Chloroform,0.48,0.4,0,ppb,1.2
+OR,Ellensburg,97817.0,Sagedale Apartments,40,Uranium,0.0,0.43,20,pCi/L,0.0
+OR,Seneca,97817.0,Seneca City of,200,Arsenic,1.55,0.004,10,ppb,387.5
+OR,Seneca,97817.0,Seneca City of,200,Bromodichloromethane,1.19,0.06,0,ppb,19.833333333333332
+OR,Seneca,97817.0,Seneca City of,200,Chloroform,1.36,0.4,0,ppb,3.4
+OR,Seneca,97817.0,Seneca City of,200,Dibromoacetic acid,0.902,0.04,0,ppb,22.55
+OR,Seneca,97817.0,Seneca City of,200,Dibromochloromethane,1.81,0.1,0,ppb,18.099999999999998
+OR,Seneca,97817.0,Seneca City of,200,Dichloroacetic acid,0.455,0.2,0,ppb,2.275
+OR,Seneca,97817.0,Seneca City of,200,Haloacetic acids (HAA5)†,1.0,0.1,60,ppb,10.0
+OR,Seneca,97817.0,Seneca City of,200,Nitrate,3.29,0.14,10,ppm,23.499999999999996
+OR,Seneca,97817.0,Seneca City of,200,Radium combined (-226 &amp; -228),0.9,0.05,5,pCi/L,18.0
+OR,Seneca,97817.0,Seneca City of,200,Total trihalomethanes (TTHMs)†,5.18,0.15,80,ppb,34.53333333333333
+OR,Seneca,97817.0,Seneca City of,200,Barium,170.0,700.0,2000,ppb,0.24285714285714285
+OR,Seneca,97817.0,Seneca City of,200,Bromoform,0.81,0.5,0,ppb,1.62
+OR,Seneca,97817.0,Seneca City of,200,Manganese,90.0,100.0,0,ppb,0.9
+OR,Seneca,97817.0,Seneca City of,200,Monobromoacetic acid,0.148,25.0,0,ppb,0.00592
+OR,Seneca,97817.0,Seneca City of,200,Selenium,9.3,30.0,50,ppb,0.31
+OR,Seneca,97817.0,Seneca City of,200,Trichloroacetic acid,0.183,0.1,0,ppb,1.8299999999999998
+OR,Boardman,97818.0,Boardman City of,3500,Arsenic,1.16,0.004,10,ppb,290.0
+OR,Boardman,97818.0,Boardman City of,3500,Chromium (hexavalent),0.126,0.02,0,ppb,6.3
+OR,Boardman,97818.0,Boardman City of,3500,Haloacetic acids (HAA5)†,7.21,0.1,60,ppb,72.1
+OR,Boardman,97818.0,Boardman City of,3500,Nitrate,1.86,0.14,10,ppm,13.285714285714285
+OR,Boardman,97818.0,Boardman City of,3500,Nitrate and nitrite,1.86,0.14,10,ppm,13.285714285714285
+OR,Boardman,97818.0,Boardman City of,3500,Total trihalomethanes (TTHMs)†,22.5,0.15,80,ppb,150.0
+OR,Boardman,97818.0,Boardman City of,3500,Uranium,1.51,0.43,20,pCi/L,3.511627906976744
+OR,Boardman,97818.0,Boardman City of,3500,Barium,18.2,700.0,2000,ppb,0.026
+OR,Boardman,97818.0,Boardman City of,3500,Chlorate,128.8,210.0,0,ppb,0.6133333333333334
+OR,Boardman,97818.0,Boardman City of,3500,Molybdenum,0.575,40.0,0,ppb,0.014374999999999999
+OR,Boardman,97818.0,Boardman City of,3500,Strontium,0.123,1500.0,0,ppb,8.2e-05
+OR,Boardman,97818.0,Boardman City of,3500,Vanadium,3.79,21.0,0,ppb,0.18047619047619048
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Arsenic,7.1,0.004,10,ppb,1774.9999999999998
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Nitrate,6.52,0.14,10,ppm,46.57142857142856
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Nitrate and nitrite,5.92,0.14,10,ppm,42.285714285714285
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Radium combined (-226 &amp; -228),0.94,0.05,5,pCi/L,18.799999999999997
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Total trihalomethanes (TTHMs)†,4.34,0.15,80,ppb,28.933333333333334
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Uranium,6.03,0.43,20,pCi/L,14.023255813953488
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Barium,78.0,700.0,2000,ppb,0.11142857142857143
+OR,Irrigon,97818.0,Country Garden Estates Mobile Home Park,175,Selenium,1.3,30.0,50,ppb,0.043333333333333335
+OR,Heppner,97818.0,Heppner City of,1291,Total trihalomethanes (TTHMs)†,3.28,0.15,80,ppb,21.866666666666667
+OR,Heppner,97818.0,Heppner City of,1291,Uranium,0.27,0.43,20,pCi/L,0.627906976744186
+OR,Ione,97818.0,Ione City of,330,Arsenic,1.14,0.004,10,ppb,284.99999999999994
+OR,Ione,97818.0,Ione City of,330,Radium combined (-226 &amp; -228),1.6,0.05,5,pCi/L,32.0
+OR,Ione,97818.0,Ione City of,330,Nitrate,0.253,0.14,10,ppm,1.807142857142857
+OR,Irrigon,97818.0,Irrigon City of,1885,Arsenic,2.47,0.004,10,ppb,617.5
+OR,Irrigon,97818.0,Irrigon City of,1885,Haloacetic acids (HAA5)†,3.34,0.1,60,ppb,33.4
+OR,Irrigon,97818.0,Irrigon City of,1885,Nitrate,0.411,0.14,10,ppm,2.935714285714285
+OR,Irrigon,97818.0,Irrigon City of,1885,Nitrate and nitrite,0.943,0.14,10,ppm,6.735714285714285
+OR,Irrigon,97818.0,Irrigon City of,1885,Total trihalomethanes (TTHMs)†,12.3,0.15,80,ppb,82.00000000000001
+OR,Irrigon,97818.0,Irrigon City of,1885,Barium,19.6,700.0,2000,ppb,0.028
+OR,Lexington,97818.0,Lexington City Of,255,Nitrate,0.15,0.14,10,ppm,1.0714285714285714
+OR,Enterprise,97828.0,Enterprise City of,1985,Arsenic,1.9,0.004,10,ppb,474.99999999999994
+OR,Enterprise,97828.0,Enterprise City of,1985,Bromodichloromethane,2.08,0.06,0,ppb,34.66666666666667
+OR,Enterprise,97828.0,Enterprise City of,1985,Bromoform,3.05,0.5,0,ppb,6.1
+OR,Enterprise,97828.0,Enterprise City of,1985,Dibromoacetic acid,1.6,0.04,0,ppb,40.0
+OR,Enterprise,97828.0,Enterprise City of,1985,Dibromochloromethane,3.6,0.1,0,ppb,36.0
+OR,Enterprise,97828.0,Enterprise City of,1985,Dichloroacetic acid,0.473,0.2,0,ppb,2.3649999999999998
+OR,Enterprise,97828.0,Enterprise City of,1985,Haloacetic acids (HAA5)†,5.4,0.1,60,ppb,54.0
+OR,Enterprise,97828.0,Enterprise City of,1985,Nitrate,2.69,0.14,10,ppm,19.21428571428571
+OR,Enterprise,97828.0,Enterprise City of,1985,Radium combined (-226 &amp; -228),1.7,0.05,5,pCi/L,34.0
+OR,Enterprise,97828.0,Enterprise City of,1985,Total trihalomethanes (TTHMs)†,9.48,0.15,80,ppb,63.2
+OR,Enterprise,97828.0,Enterprise City of,1985,Trichloroacetic acid,0.7,0.1,0,ppb,6.999999999999999
+OR,Enterprise,97828.0,Enterprise City of,1985,Barium,34.5,700.0,2000,ppb,0.04928571428571429
+OR,Enterprise,97828.0,Enterprise City of,1985,Chloroform,0.632,0.4,0,ppb,1.5799999999999998
+OR,Enterprise,97828.0,Enterprise City of,1985,Monochloroacetic acid,3.48,53.0,0,ppb,0.06566037735849056
+OR,Enterprise,97828.0,Enterprise City of,1985,Selenium,6.15,30.0,50,ppb,0.20500000000000002
+OR,Joseph,97828.0,Joseph City of,1120,Arsenic,1.26,0.004,10,ppb,315.0
+OR,Joseph,97828.0,Joseph City of,1120,Haloacetic acids (HAA5)†,5.62,0.1,60,ppb,56.199999999999996
+OR,Joseph,97828.0,Joseph City of,1120,Nitrate,0.487,0.14,10,ppm,3.478571428571428
+OR,Joseph,97828.0,Joseph City of,1120,Nitrate and nitrite,0.71,0.14,10,ppm,5.07142857142857
+OR,Joseph,97828.0,Joseph City of,1120,Total trihalomethanes (TTHMs)†,9.52,0.15,80,ppb,63.46666666666667
+OR,Joseph,97828.0,Joseph City of,1120,Barium,7.34,700.0,2000,ppb,0.010485714285714286
+OR,Joseph,97828.0,Joseph City of,1120,Tetrachloroethylene (perchloroethylene),0.0925,0.06,5,ppb,1.5416666666666667
+OR,Lostine,97828.0,Lostine City Of,215,Haloacetic acids (HAA5)†,1.21,0.1,60,ppb,12.1
+OR,Lostine,97828.0,Lostine City Of,215,Total trihalomethanes (TTHMs)†,3.62,0.15,80,ppb,24.133333333333336
+OR,Lostine,97828.0,Lostine City Of,215,Barium,4.19,700.0,2000,ppb,0.005985714285714286
+OR,Lostine,97828.0,Lostine City Of,215,Nitrate,0.0505,0.14,10,ppm,0.3607142857142857
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Arsenic,0.7,0.004,10,ppb,174.99999999999997
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Radium combined (-226 &amp; -228),0.33,0.05,5,pCi/L,6.6
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Barium,2.87,700.0,2000,ppb,0.0041
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Beryllium,0.05,1.0,4,ppb,0.05
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Nitrate,0.0694,0.14,10,ppm,0.4957142857142857
+OR,Enterprise,97828.0,Wallowa Lake County Service District,350,Selenium,0.143,30.0,50,ppb,0.0047666666666666664
+OR,Wallowa,97828.0,Wallowa City of,840,Arsenic,0.905,0.004,10,ppb,226.25
+OR,Wallowa,97828.0,Wallowa City of,840,Nitrate,0.888,0.14,10,ppm,6.3428571428571425
+OR,Wallowa,97828.0,Wallowa City of,840,Nitrate and nitrite,1.11,0.14,10,ppm,7.928571428571429
+OR,Wallowa,97828.0,Wallowa City of,840,Antimony,0.288,1.0,6,ppb,0.288
+OR,Wallowa,97828.0,Wallowa City of,840,Barium,3.42,700.0,2000,ppb,0.004885714285714286
+OR,Wallowa,97828.0,Wallowa City of,840,Cadmium,0.053,0.04,5,ppb,1.325
+OR,Adrian,97901.0,Adrian City of,180,Arsenic,20.9,0.004,10,ppb,5224.999999999999
+OR,Adrian,97901.0,Adrian City of,180,Nitrate,2.41,0.14,10,ppm,17.214285714285715
+OR,Adrian,97901.0,Adrian City of,180,Uranium,12.26,0.43,20,pCi/L,28.511627906976745
+OR,Adrian,97901.0,Adrian City of,180,Barium,154.0,700.0,2000,ppb,0.22
+OR,Ontario,97901.0,City of Ontario,14465,Arsenic,0.809,0.004,10,ppb,202.25
+OR,Ontario,97901.0,City of Ontario,14465,Chromium (hexavalent),0.57,0.02,0,ppb,28.499999999999996
+OR,Ontario,97901.0,City of Ontario,14465,Haloacetic acids (HAA5)†,21.0,0.1,60,ppb,210.0
+OR,Ontario,97901.0,City of Ontario,14465,Haloacetic acids (HAA9)†,41.9,0.06,0,ppb,698.3333333333334
+OR,Ontario,97901.0,City of Ontario,14465,Nitrate,1.04,0.14,10,ppm,7.428571428571428
+OR,Ontario,97901.0,City of Ontario,14465,Nitrate and nitrite,1.12,0.14,10,ppm,8.0
+OR,Ontario,97901.0,City of Ontario,14465,Total trihalomethanes (TTHMs)†,45.2,0.15,80,ppb,301.33333333333337
+OR,Ontario,97901.0,City of Ontario,14465,Uranium,1.84,0.43,20,pCi/L,4.279069767441861
+OR,Ontario,97901.0,City of Ontario,14465,Barium,51.3,700.0,2000,ppb,0.07328571428571429
+OR,Ontario,97901.0,City of Ontario,14465,Chlorate,163.8,210.0,0,ppb,0.78
+OR,Ontario,97901.0,City of Ontario,14465,Manganese,1.83,100.0,0,ppb,0.0183
+OR,Ontario,97901.0,City of Ontario,14465,Molybdenum,3.78,40.0,0,ppb,0.0945
+OR,Ontario,97901.0,City of Ontario,14465,Selenium,0.403,30.0,50,ppb,0.013433333333333334
+OR,Ontario,97901.0,City of Ontario,14465,Strontium,0.29,1500.0,0,ppb,0.0001933333333333333
+OR,Ontario,97901.0,City of Ontario,14465,Vanadium,4.28,21.0,0,ppb,0.20380952380952383
+OR,Scappoose,97901.0,Fischers Place Mobile Home Park,125,Arsenic,9.9,0.004,10,ppb,2475.0
+OR,Scappoose,97901.0,Fischers Place Mobile Home Park,125,Total trihalomethanes (TTHMs)†,1.66,0.15,80,ppb,11.066666666666666
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Arsenic,4.36,0.004,10,ppb,1090.0
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Radium combined (-226 &amp; -228),0.67,0.05,5,pCi/L,13.4
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Uranium,1.23,0.43,20,pCi/L,2.86046511627907
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Barium,122.0,700.0,2000,ppb,0.1742857142857143
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Nitrate,0.0857,0.14,10,ppm,0.6121428571428571
+OR,Jordan Valley,97901.0,Jordan Valley City of,175,Selenium,5.54,30.0,50,ppb,0.18466666666666667
+OR,Nyssa,97901.0,Nyssa City of,3285,Arsenic,11.6,0.004,10,ppb,2900.0
+OR,Nyssa,97901.0,Nyssa City of,3285,Haloacetic acids (HAA5)†,0.254,0.1,60,ppb,2.54
+OR,Nyssa,97901.0,Nyssa City of,3285,Nitrate,3.51,0.14,10,ppm,25.071428571428566
+OR,Nyssa,97901.0,Nyssa City of,3285,Nitrate and nitrite,5.54,0.14,10,ppm,39.57142857142857
+OR,Nyssa,97901.0,Nyssa City of,3285,Total trihalomethanes (TTHMs)†,10.8,0.15,80,ppb,72.00000000000001
+OR,Nyssa,97901.0,Nyssa City of,3285,Uranium,4.69,0.43,20,pCi/L,10.906976744186048
+OR,Nyssa,97901.0,Nyssa City of,3285,Barium,41.2,700.0,2000,ppb,0.05885714285714286
+OR,Nyssa,97901.0,Nyssa City of,3285,Selenium,1.09,30.0,50,ppb,0.036333333333333336
+OR,Bruneau,97910.0,Bruneau Water and Sewer District,88,Arsenic,1.2,0.004,10,ppb,300.0
+OR,Bruneau,97910.0,Bruneau Water and Sewer District,88,Nitrate,0.0714,0.14,10,ppm,0.51
+OR,Bruneau,97910.0,Bruneau Water and Sewer District,88,Nitrate and nitrite,0.07,0.14,10,ppm,0.5
+OR,Grand View,97910.0,Grand View City Of,352,Arsenic,11.2,0.004,10,ppb,2799.9999999999995
+OR,Grand View,97910.0,Grand View City Of,352,Haloacetic acids (HAA5)†,6.11,0.1,60,ppb,61.1
+OR,Grand View,97910.0,Grand View City Of,352,Nitrate,7.41,0.14,10,ppm,52.92857142857142
+OR,Grand View,97910.0,Grand View City Of,352,Nitrate and nitrite,4.6,0.14,10,ppm,32.857142857142854
+OR,Grand View,97910.0,Grand View City Of,352,Radium combined (-226 &amp; -228),0.57,0.05,5,pCi/L,11.399999999999999
+OR,Grand View,97910.0,Grand View City Of,352,Total trihalomethanes (TTHMs)†,23.5,0.15,80,ppb,156.66666666666669
+OR,Grand View,97910.0,Grand View City Of,352,Uranium,4.69,0.43,20,pCi/L,10.906976744186048
+OR,Homedale,97910.0,Homedale City of,2600,Arsenic,3.27,0.004,10,ppb,817.5
+OR,Homedale,97910.0,Homedale City of,2600,Haloacetic acids (HAA5)†,0.559,0.1,60,ppb,5.59
+OR,Homedale,97910.0,Homedale City of,2600,Radium combined (-226 &amp; -228),0.31,0.05,5,pCi/L,6.199999999999999
+OR,Homedale,97910.0,Homedale City of,2600,Barium,63.3,700.0,2000,ppb,0.09042857142857143
+OR,Marsing,97910.0,Hope House (owyhee),78,Haloacetic acids (HAA5)†,0.927,0.1,60,ppb,9.27
+OR,Marsing,97910.0,Marsing City of,1031,Arsenic,1.35,0.004,10,ppb,337.5
+OR,Marsing,97910.0,Marsing City of,1031,Haloacetic acids (HAA5)†,1.25,0.1,60,ppb,12.5
+OR,Marsing,97910.0,Marsing City of,1031,Nitrate,1.67,0.14,10,ppm,11.928571428571427
+OR,Marsing,97910.0,Marsing City of,1031,Nitrate and nitrite,3.1,0.14,10,ppm,22.142857142857142
+OR,Marsing,97910.0,Marsing City of,1031,Total trihalomethanes (TTHMs)†,2.32,0.15,80,ppb,15.466666666666667
+OR,Marsing,97910.0,Marsing City of,1031,Uranium,3.35,0.43,20,pCi/L,7.790697674418605
+OR,Marsing,97910.0,Marsing City of,1031,Barium,80.0,700.0,2000,ppb,0.11428571428571428
+OR,Marsing,97910.0,Marsing City of,1031,Selenium,6.0,30.0,50,ppb,0.2
+OR,Murphy,97910.0,Murphy Water System,75,Arsenic,5.35,0.004,10,ppb,1337.4999999999998
+OR,Murphy,97910.0,Murphy Water System,75,Radium combined (-226 &amp; -228),0.58,0.05,5,pCi/L,11.599999999999998
+OR,Murphy,97910.0,Murphy Water System,75,Nitrate,0.2,0.14,10,ppm,1.4285714285714286

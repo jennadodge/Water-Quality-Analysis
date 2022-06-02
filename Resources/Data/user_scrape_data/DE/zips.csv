@@ -1,0 +1,69 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+19701,39.58427,-75.69914,Bear,DE,Delaware,True,,42240.0,613.8,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19702,39.62199,-75.72803,Newark,DE,Delaware,True,,54980.0,755.7,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19703,39.8043,-75.45794,Claymont,DE,Delaware,True,,15379.0,1495.5,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19706,39.5715,-75.5905,Delaware City,DE,Delaware,True,,1858.0,283.4,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19707,39.78512,-75.68147,Hockessin,DE,Delaware,True,,16383.0,479.9,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19709,39.48923,-75.68314,Middletown,DE,Delaware,True,,45005.0,223.8,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19710,39.78964,-75.58458,Montchanin,DE,Delaware,True,,0.0,0.0,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19711,39.71379,-75.74033,Newark,DE,Delaware,True,,53194.0,749.4,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19713,39.67097,-75.70972,Newark,DE,Delaware,True,,30403.0,902.9,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19716,39.66779,-75.74595,Newark,DE,Delaware,True,,,,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19717,39.68121,-75.75343,Newark,DE,Delaware,True,,3649.0,5459.5,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19720,39.645,-75.60678,New Castle,DE,Delaware,True,,59410.0,598.9,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19730,39.45443,-75.66077,Odessa,DE,Delaware,True,,441.0,252.4,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19731,39.5102,-75.59616,Port Penn,DE,Delaware,True,,350.0,53.5,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19732,39.80033,-75.57455,Rockland,DE,Delaware,True,,81.0,17.8,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19733,39.55928,-75.65143,Saint Georges,DE,Delaware,True,,68.0,239.0,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19734,39.38377,-75.65026,Townsend,DE,Delaware,True,,13072.0,63.2,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19735,39.80666,-75.5973,Winterthur,DE,Delaware,True,,8.0,6.9,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19736,39.78031,-75.64274,Yorklyn,DE,Delaware,True,,,,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19801,39.72782,-75.54615,Wilmington,DE,Delaware,True,,17447.0,1532.2,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19802,39.75715,-75.52873,Wilmington,DE,Delaware,True,,26126.0,2895.4,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19803,39.79912,-75.5422,Wilmington,DE,Delaware,True,,21484.0,655.2,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19804,39.7166,-75.62094,Wilmington,DE,Delaware,True,,17529.0,943.1,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19805,39.74523,-75.59373,Wilmington,DE,Delaware,True,,38061.0,2663.2,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19806,39.762,-75.56336,Wilmington,DE,Delaware,True,,9313.0,2109.5,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19807,39.79767,-75.61284,Wilmington,DE,Delaware,True,,7369.0,156.6,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19808,39.73777,-75.66596,Wilmington,DE,Delaware,True,,38106.0,1070.0,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19809,39.75801,-75.50218,Wilmington,DE,Delaware,True,,14827.0,847.3,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19810,39.81855,-75.50628,Wilmington,DE,Delaware,True,,25273.0,1235.6,10003,New Castle,"{""10003"": 100}",New Castle,10003,False,False,America/New_York
+19901,39.17335,-75.47758,Dover,DE,Delaware,True,,38673.0,197.0,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19902,39.12765,-75.46694,Dover Afb,DE,Delaware,True,,,,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19904,39.17289,-75.59517,Dover,DE,Delaware,True,,38158.0,341.1,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19930,38.56311,-75.07085,Bethany Beach,DE,Delaware,True,,3077.0,202.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19931,38.56928,-75.61029,Bethel,DE,Delaware,True,,416.0,134.6,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19933,38.73699,-75.60586,Bridgeville,DE,Delaware,True,,11457.0,65.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19934,39.08135,-75.63113,Camden Wyoming,DE,Delaware,True,,13673.0,113.3,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19936,39.21846,-75.58498,Cheswold,DE,Delaware,True,,315.0,591.2,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19938,39.25646,-75.69884,Clayton,DE,Delaware,True,,8587.0,68.8,10001,Kent,"{""10001"": 85.08, ""10003"": 14.92}",Kent|New Castle,10001|10003,False,False,America/New_York
+19939,38.56575,-75.2022,Dagsboro,DE,Delaware,True,,7302.0,108.6,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19940,38.47723,-75.56828,Delmar,DE,Delaware,True,,6560.0,61.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19941,38.7949,-75.42476,Ellendale,DE,Delaware,True,,3477.0,44.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19943,39.00562,-75.60756,Felton,DE,Delaware,True,,12504.0,77.3,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19944,38.47542,-75.05559,Fenwick Island,DE,Delaware,True,,746.0,231.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19945,38.50336,-75.22855,Frankford,DE,Delaware,True,,6432.0,39.8,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19946,39.03224,-75.45297,Frederica,DE,Delaware,True,,5539.0,92.7,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19947,38.67421,-75.39864,Georgetown,DE,Delaware,True,,20033.0,64.9,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19950,38.82007,-75.59691,Greenwood,DE,Delaware,True,,6762.0,36.1,10005,Sussex,"{""10005"": 75.78, ""10001"": 24.22}",Sussex|Kent,10005|10001,False,False,America/New_York
+19951,38.68763,-75.25124,Harbeson,DE,Delaware,True,,2046.0,88.4,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19952,38.91654,-75.62531,Harrington,DE,Delaware,True,,10610.0,45.0,10001,Kent,"{""10001"": 98.41, ""10005"": 1.59}",Kent|Sussex,10001|10005,False,False,America/New_York
+19953,39.15145,-75.69695,Hartly,DE,Delaware,True,,4896.0,63.2,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19954,38.89891,-75.52092,Houston,DE,Delaware,True,,1417.0,56.0,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19955,39.22652,-75.6654,Kenton,DE,Delaware,True,,96.0,374.4,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19956,38.5465,-75.53961,Laurel,DE,Delaware,True,,14557.0,56.0,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19958,38.72737,-75.16632,Lewes,DE,Delaware,True,,27123.0,221.5,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19960,38.85082,-75.41363,Lincoln,DE,Delaware,True,,6209.0,79.1,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19962,39.07005,-75.49753,Magnolia,DE,Delaware,True,,11448.0,302.5,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19963,38.93347,-75.37799,Milford,DE,Delaware,True,,21489.0,78.9,10005,Sussex,"{""10005"": 50.26, ""10001"": 49.74}",Sussex|Kent,10005|10001,False,False,America/New_York
+19964,39.09436,-75.72439,Marydel,DE,Delaware,True,,1472.0,70.0,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19966,38.58118,-75.28274,Millsboro,DE,Delaware,True,,30601.0,132.6,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19967,38.53978,-75.1209,Millville,DE,Delaware,True,,1005.0,238.4,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19968,38.77553,-75.28466,Milton,DE,Delaware,True,,12902.0,78.0,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19970,38.55504,-75.09901,Ocean View,DE,Delaware,True,,8770.0,363.1,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19971,38.69113,-75.10132,Rehoboth Beach,DE,Delaware,True,,13922.0,299.3,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19973,38.63404,-75.62454,Seaford,DE,Delaware,True,,25991.0,119.5,10005,Sussex,"{""10005"": 92.75, ""24019"": 7.25}",Sussex|Dorchester,10005|24019,False,False,America/New_York
+19975,38.46862,-75.17462,Selbyville,DE,Delaware,True,,9336.0,141.2,10005,Sussex,"{""10005"": 100}",Sussex,10005,False,False,America/New_York
+19977,39.29653,-75.55132,Smyrna,DE,Delaware,True,,25536.0,118.6,10001,Kent,"{""10001"": 78.87, ""10003"": 21.13}",Kent|New Castle,10001|10003,False,False,America/New_York
+19979,39.05041,-75.57642,Viola,DE,Delaware,True,,738.0,86.8,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York
+19980,39.07349,-75.57008,Woodside,DE,Delaware,True,,,,10001,Kent,"{""10001"": 100}",Kent,10001,False,False,America/New_York

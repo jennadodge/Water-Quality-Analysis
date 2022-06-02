@@ -1,0 +1,958 @@
+Utility,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit
+Bethel Village Public Water System,Bromodichloromethane,18.3 ppb,0.06 ppb,
+Bethel Village Public Water System,Bromoform,3.62 ppb,0.5 ppb,
+Bethel Village Public Water System,Chloroform,16.9 ppb,0.4 ppb,
+Bethel Village Public Water System,Dibromoacetic acid,3.66 ppb,0.04 ppb,
+Bethel Village Public Water System,Dibromochloromethane,15.1 ppb,0.1 ppb,
+Bethel Village Public Water System,Dichloroacetic acid,4.88 ppb,0.2 ppb,
+Bethel Village Public Water System,Haloacetic acids (HAA5)†,10.3 ppb,0.1 ppb,60 ppb
+Bethel Village Public Water System,Haloacetic acids (HAA9)*†,9.70 ppb,0.06 ppb,
+Bethel Village Public Water System,Nitrate*,0.432 ppm,0.14 ppm,10 ppm
+Bethel Village Public Water System,Nitrate and nitrite*,0.432 ppm,0.14 ppm,10 ppm
+Bethel Village Public Water System,Total trihalomethanes (TTHMs)†,54.0 ppb,0.15 ppb,80 ppb
+Bethel Village Public Water System,Trichloroacetic acid,2.13 ppb,0.1 ppb,
+Bethel Village Public Water System,"1,4-Dioxane*",0.128 ppb,0.35 ppb,
+Bethel Village Public Water System,Barium*,29.3 ppb,700 ppb,"2,000 ppb"
+Bethel Village Public Water System,Chlorate*,204.8 ppb,210 ppb,
+Bethel Village Public Water System,Chromium (hexavalent)*,0.00529 ppb,0.02 ppb,
+Bethel Village Public Water System,Chromium (total)*,0.0240 ppb,,100 ppb
+Bethel Village Public Water System,Fluoride*,0.980 ppm,,4 ppm
+Bethel Village Public Water System,Manganese*,0.850 ppb,100 ppb,
+Bethel Village Public Water System,Molybdenum*,1.58 ppb,40 ppb,
+Bethel Village Public Water System,Strontium*,0.146 ppb,"1,500 ppb",
+Bethel Village Public Water System,Xylenes (total)*,0.240 ppb,"1,800 ppb","10,000 ppb"
+Bethel Village Public Water System,None,,,
+Lindhbrook Water Company,Arsenic,0.325 ppb,0.004 ppb,10 ppb
+Lindhbrook Water Company,Nitrate,0.696 ppm,0.14 ppm,10 ppm
+Lindhbrook Water Company,Nitrate and nitrite,0.655 ppm,0.14 ppm,10 ppm
+Lindhbrook Water Company,"Radium, combined (-226 &amp; -228)",2.59 pCi/L,0.05 pCi/L,5 pCi/L
+Lindhbrook Water Company,Barium,55.8 ppb,700 ppb,"2,000 ppb"
+Lindhbrook Water Company,Beryllium,0.250 ppb,1 ppb,4 ppb
+Lindhbrook Water Company,Cyanide,5.55 ppb,,200 ppb
+Lindhbrook Water Company,Fluoride,0.0528 ppm,,4 ppm
+Lindhbrook Water Company,Thallium,0.0500 ppb,0.1 ppb,2 ppb
+Lindhbrook Water Company,None,,,
+East Providence,Bromodichloromethane,3.51 ppb,0.06 ppb,
+East Providence,Chloroform,56.2 ppb,0.4 ppb,
+East Providence,Dibromochloromethane,0.285 ppb,0.1 ppb,
+East Providence,Dichloroacetic acid,17.7 ppb,0.2 ppb,
+East Providence,Haloacetic acids (HAA5)†,20.7 ppb,0.1 ppb,60 ppb
+East Providence,Haloacetic acids (HAA9)†,23.1 ppb,0.06 ppb,
+East Providence,Total trihalomethanes (TTHMs)†,63.5 ppb,0.15 ppb,80 ppb
+East Providence,Trichloroacetic acid,1.83 ppb,0.1 ppb,
+East Providence,"4-Androstene-3,17-dione*",0.130 ppt,,
+East Providence,Barium*,9.00 ppb,700 ppb,"2,000 ppb"
+East Providence,Chlorate,6.70 ppb,210 ppb,
+East Providence,Chromium (hexavalent),0.00413 ppb,0.02 ppb,
+East Providence,Fluoride*,0.226 ppm,,4 ppm
+East Providence,Manganese,0.916 ppb,100 ppb,
+East Providence,Monochloroacetic acid,2.40 ppb,53 ppb,
+East Providence,Nitrate*,0.0225 ppm,0.14 ppm,10 ppm
+East Providence,Nitrite*,0.00250 ppm,,1 ppm
+East Providence,Strontium,0.0311 ppb,"1,500 ppb",
+East Providence,Vanadium,0.302 ppb,21 ppb,
+East Providence,None,,,
+Central Beach Fire District,Nitrate,3.33 ppm,0.14 ppm,10 ppm
+Central Beach Fire District,Nitrate and nitrite,3.94 ppm,0.14 ppm,10 ppm
+Central Beach Fire District,Perfluorooctane sulfonate (PFOS),4.28 ppt,1 ppt,
+Central Beach Fire District,Perfluorooctanoic acid (PFOA),5.14 ppt,0.007 ppt,
+Central Beach Fire District,Total PFOS and PFOA,9.44 ppt,0.007 ppt,
+Central Beach Fire District,Barium,40.0 ppb,700 ppb,"2,000 ppb"
+Central Beach Fire District,Chromium (total),1.25 ppb,,100 ppb
+Central Beach Fire District,None,,,
+Castle Rock Condominiums,Nitrate,0.924 ppm,0.14 ppm,10 ppm
+Castle Rock Condominiums,Nitrate and nitrite,0.954 ppm,0.14 ppm,10 ppm
+Castle Rock Condominiums,Barium,9.86 ppb,700 ppb,"2,000 ppb"
+Castle Rock Condominiums,Chloroform,0.0590 ppb,0.4 ppb,
+Castle Rock Condominiums,Chromium (total),0.857 ppb,,100 ppb
+Castle Rock Condominiums,Fluoride,0.106 ppm,,4 ppm
+Castle Rock Condominiums,Nitrite,0.00286 ppm,,1 ppm
+Castle Rock Condominiums,None,,,
+Indian Cedar Mobile Home Park,Nitrate,1.26 ppm,0.14 ppm,10 ppm
+Indian Cedar Mobile Home Park,Nitrate and nitrite,1.39 ppm,0.14 ppm,10 ppm
+Indian Cedar Mobile Home Park,Barium,13.8 ppb,700 ppb,"2,000 ppb"
+Indian Cedar Mobile Home Park,Chloroform,0.138 ppb,0.4 ppb,
+Indian Cedar Mobile Home Park,Chromium (total),0.250 ppb,,100 ppb
+Indian Cedar Mobile Home Park,None,,,
+"Richmond, Town Of",Bromodichloromethane,0.286 ppb,0.06 ppb,
+"Richmond, Town Of",Dibromochloromethane,0.343 ppb,0.1 ppb,
+"Richmond, Town Of",Barium,8.75 ppb,700 ppb,"2,000 ppb"
+"Richmond, Town Of",Chloroform,0.686 ppb,0.4 ppb,
+"Richmond, Town Of",Cyanide,3.25 ppb,,200 ppb
+"Richmond, Town Of",Fluoride,0.286 ppm,,4 ppm
+"Richmond, Town Of",Nitrate,0.268 ppm,0.14 ppm,10 ppm
+"Richmond, Town Of",Nitrate and nitrite,0.226 ppm,0.14 ppm,10 ppm
+"Richmond, Town Of",None,,,
+South Kingstown Nursing and Rehab,Nitrate,1.20 ppm,0.14 ppm,10 ppm
+South Kingstown Nursing and Rehab,Nitrate and nitrite,1.16 ppm,0.14 ppm,10 ppm
+South Kingstown Nursing and Rehab,"Radium, combined (-226 &amp; -228)",0.48 pCi/L,0.05 pCi/L,5 pCi/L
+South Kingstown Nursing and Rehab,Uranium,53.48 pCi/L,0.43 pCi/L,20 pCi/L
+South Kingstown Nursing and Rehab,Barium,27.8 ppb,700 ppb,"2,000 ppb"
+South Kingstown Nursing and Rehab,Chromium (total),1.28 ppb,,100 ppb
+South Kingstown Nursing and Rehab,Fluoride,0.576 ppm,,4 ppm
+South Kingstown Nursing and Rehab,Manganese,98.5 ppb,100 ppb,
+South Kingstown Nursing and Rehab,None,,,
+South Kingstown Nursing and Rehab,Nitrate,1.20 ppm,0.14 ppm,10 ppm
+South Kingstown Nursing and Rehab,Nitrate and nitrite,1.16 ppm,0.14 ppm,10 ppm
+South Kingstown Nursing and Rehab,"Radium, combined (-226 &amp; -228)",0.48 pCi/L,0.05 pCi/L,5 pCi/L
+South Kingstown Nursing and Rehab,Uranium,53.48 pCi/L,0.43 pCi/L,20 pCi/L
+South Kingstown Nursing and Rehab,Barium,27.8 ppb,700 ppb,"2,000 ppb"
+South Kingstown Nursing and Rehab,Chromium (total),1.28 ppb,,100 ppb
+South Kingstown Nursing and Rehab,Fluoride,0.576 ppm,,4 ppm
+South Kingstown Nursing and Rehab,Manganese,98.5 ppb,100 ppb,
+South Kingstown Nursing and Rehab,None,,,
+United Water Rhode Island,Bromodichloromethane,8.07 ppb,0.06 ppb,
+United Water Rhode Island,Chloroform,24.2 ppb,0.4 ppb,
+United Water Rhode Island,Chromium (hexavalent),0.0702 ppb,0.02 ppb,
+United Water Rhode Island,Dibromoacetic acid,0.180 ppb,0.04 ppb,
+United Water Rhode Island,Dibromochloromethane,1.88 ppb,0.1 ppb,
+United Water Rhode Island,Dichloroacetic acid,5.48 ppb,0.2 ppb,
+United Water Rhode Island,Haloacetic acids (HAA5)†,15.8 ppb,0.1 ppb,60 ppb
+United Water Rhode Island,Haloacetic acids (HAA9)†,23.3 ppb,0.06 ppb,
+United Water Rhode Island,Nitrate,1.36 ppm,0.14 ppm,10 ppm
+United Water Rhode Island,Nitrate and nitrite,1.48 ppm,0.14 ppm,10 ppm
+United Water Rhode Island,Total trihalomethanes (TTHMs)†,55.2 ppb,0.15 ppb,80 ppb
+United Water Rhode Island,Trichloroacetic acid,10.6 ppb,0.1 ppb,
+United Water Rhode Island,Barium,6.57 ppb,700 ppb,"2,000 ppb"
+United Water Rhode Island,Chlorate,69.7 ppb,210 ppb,
+United Water Rhode Island,Chromium (total),1.18 ppb,,100 ppb
+United Water Rhode Island,Dacthal,0.704 ppb,,
+United Water Rhode Island,Manganese,69.1 ppb,100 ppb,
+United Water Rhode Island,Metolachlor,0.0143 ppb,,
+United Water Rhode Island,Monochloroacetic acid,0.0520 ppb,53 ppb,
+United Water Rhode Island,Strontium,0.0570 ppb,"1,500 ppb",
+United Water Rhode Island,Vanadium,0.728 ppb,21 ppb,
+United Water Rhode Island,None,,,
+Westerly Water Department,Chromium (hexavalent),0.116 ppb,0.02 ppb,
+Westerly Water Department,Haloacetic acids (HAA5)†,7.36 ppb,0.1 ppb,60 ppb
+Westerly Water Department,Haloacetic acids (HAA9)†,14.4 ppb,0.06 ppb,
+Westerly Water Department,Nitrate,1.35 ppm,0.14 ppm,10 ppm
+Westerly Water Department,Nitrate and nitrite,1.36 ppm,0.14 ppm,10 ppm
+Westerly Water Department,Perfluorooctanoic acid (PFOA),3.98 ppt,0.007 ppt,
+Westerly Water Department,Radon,"1,239.47 pCi/L",1.5 pCi/L,
+Westerly Water Department,Total PFOS and PFOA,2.63 ppt,0.007 ppt,
+Westerly Water Department,Total trihalomethanes (TTHMs)†,13.4 ppb,0.15 ppb,80 ppb
+Westerly Water Department,Barium,38.3 ppb,700 ppb,"2,000 ppb"
+Westerly Water Department,Beryllium,0.0125 ppb,1 ppb,4 ppb
+Westerly Water Department,Bromodichloromethane,0.0944 ppb,0.06 ppb,
+Westerly Water Department,Bromoform,0.0268 ppb,0.5 ppb,
+Westerly Water Department,Chlorate,41.1 ppb,210 ppb,
+Westerly Water Department,Chloroform,0.473 ppb,0.4 ppb,
+Westerly Water Department,Chromium (total),0.0250 ppb,,100 ppb
+Westerly Water Department,Dibromochloromethane,0.0878 ppb,0.1 ppb,
+Westerly Water Department,Fluoride,0.0138 ppm,,4 ppm
+Westerly Water Department,Manganese,73.0 ppb,100 ppb,
+Westerly Water Department,Molybdenum,0.344 ppb,40 ppb,
+Westerly Water Department,Perfluorobutane sulfonate (PFBS),0.754 ppt,1 ppt,
+Westerly Water Department,Perfluorodecanoic acid (PFDA) ,0.858 ppt,,
+Westerly Water Department,Perfluoroheptanoic acid (PFHPA),0.947 ppt,1 ppt,
+Westerly Water Department,Perfluorohexane sulfonate (PFHXS),0.258 ppt,1 ppt,
+Westerly Water Department,Perfluorohexanoic Acid (PFHxA),1.36 ppt,,
+Westerly Water Department,Perfluorononanoic acid (PFNA),0.651 ppt,1 ppt,
+Westerly Water Department,Perfluorooctane sulfonate (PFOS),1.48 ppt,1 ppt,
+Westerly Water Department,Perfluoroundecanoic acid (PFUnA) ,0.321 ppt,,
+Westerly Water Department,Strontium,0.0682 ppb,"1,500 ppb",
+Westerly Water Department,None,,,
+The Village On Chopmist Hill,Arsenic,0.333 ppb,0.004 ppb,10 ppb
+The Village On Chopmist Hill,Perfluorooctanoic acid (PFOA),4.11 ppt,0.007 ppt,
+The Village On Chopmist Hill,Total PFOS and PFOA,5.62 ppt,0.007 ppt,
+The Village On Chopmist Hill,Uranium,3.82 pCi/L,0.43 pCi/L,20 pCi/L
+The Village On Chopmist Hill,Barium,15.8 ppb,700 ppb,"2,000 ppb"
+The Village On Chopmist Hill,Chromium (total),1.50 ppb,,100 ppb
+The Village On Chopmist Hill,Di(2-ethylhexyl) phthalate,0.235 ppb,3 ppb,6 ppb
+The Village On Chopmist Hill,Fluoride,0.847 ppm,,4 ppm
+The Village On Chopmist Hill,MTBE,0.454 ppb,13 ppb,
+The Village On Chopmist Hill,Nitrate,0.130 ppm,0.14 ppm,10 ppm
+The Village On Chopmist Hill,Nitrate and nitrite,0.124 ppm,0.14 ppm,10 ppm
+The Village On Chopmist Hill,Nitrite,0.00333 ppm,,1 ppm
+The Village On Chopmist Hill,Perfluorooctane sulfonate (PFOS),1.52 ppt,1 ppt,
+The Village On Chopmist Hill,None,,,
+Echo Lake Water District,Nitrate,1.36 ppm,0.14 ppm,10 ppm
+Echo Lake Water District,Nitrate and nitrite,1.27 ppm,0.14 ppm,10 ppm
+Echo Lake Water District,Barium,12.0 ppb,700 ppb,"2,000 ppb"
+Echo Lake Water District,Chromium (total),1.50 ppb,,100 ppb
+Echo Lake Water District,None,,,
+East Smithfield Water District - Whipple,Bromodichloromethane,3.44 ppb,0.06 ppb,
+East Smithfield Water District - Whipple,Chloroform,57.6 ppb,0.4 ppb,
+East Smithfield Water District - Whipple,Dibromoacetic acid,0.375 ppb,0.04 ppb,
+East Smithfield Water District - Whipple,Dichloroacetic acid,17.7 ppb,0.2 ppb,
+East Smithfield Water District - Whipple,Haloacetic acids (HAA5)†,22.5 ppb,0.1 ppb,60 ppb
+East Smithfield Water District - Whipple,Haloacetic acids (HAA9)*†,19.5 ppb,0.06 ppb,
+East Smithfield Water District - Whipple,Total trihalomethanes (TTHMs)†,65.3 ppb,0.15 ppb,80 ppb
+East Smithfield Water District - Whipple,Trichloroacetic acid,1.63 ppb,0.1 ppb,
+East Smithfield Water District - Whipple,Dibromochloromethane,0.0625 ppb,0.1 ppb,
+East Smithfield Water District - Whipple,Manganese*,1.03 ppb,100 ppb,
+East Smithfield Water District - Whipple,Monochloroacetic acid,1.40 ppb,53 ppb,
+East Smithfield Water District - Whipple,None,,,
+Centre of New England Boulevard,Bromodichloromethane,5.21 ppb,0.06 ppb,
+Centre of New England Boulevard,Bromoform,2.25 ppb,0.5 ppb,
+Centre of New England Boulevard,Chloroform,57.6 ppb,0.4 ppb,
+Centre of New England Boulevard,Dibromochloromethane,1.05 ppb,0.1 ppb,
+Centre of New England Boulevard,Dichloroacetic acid,14.9 ppb,0.2 ppb,
+Centre of New England Boulevard,Haloacetic acids (HAA5)†,18.9 ppb,0.1 ppb,60 ppb
+Centre of New England Boulevard,Haloacetic acids (HAA9)*†,16.4 ppb,0.06 ppb,
+Centre of New England Boulevard,Nitrate*,1.33 ppm,0.14 ppm,10 ppm
+Centre of New England Boulevard,Nitrate and nitrite*,1.88 ppm,0.14 ppm,10 ppm
+Centre of New England Boulevard,Perfluorooctanoic acid (PFOA)*,1.05 ppt,0.007 ppt,
+Centre of New England Boulevard,"Radium, combined (-226 &amp; -228)*",0.24 pCi/L,0.05 pCi/L,5 pCi/L
+Centre of New England Boulevard,Total PFOS and PFOA*,6.58 ppt,0.007 ppt,
+Centre of New England Boulevard,Total trihalomethanes (TTHMs)†,64.0 ppb,0.15 ppb,80 ppb
+Centre of New England Boulevard,Trichloroacetic acid,2.13 ppb,0.1 ppb,
+Centre of New England Boulevard,"1,1-Dichloroethane*",0.00542 ppb,3 ppb,
+Centre of New England Boulevard,"1,4-Dioxane*",0.0373 ppb,0.35 ppb,
+Centre of New England Boulevard,Barium*,7.67 ppb,700 ppb,"2,000 ppb"
+Centre of New England Boulevard,Chlorate*,10.5 ppb,210 ppb,
+Centre of New England Boulevard,Chlorodifluoromethane*,0.475 ppb,,
+Centre of New England Boulevard,Chromium (hexavalent)*,0.0160 ppb,0.02 ppb,
+Centre of New England Boulevard,Chromium (total)*,0.769 ppb,,100 ppb
+Centre of New England Boulevard,Dacthal*,0.0182 ppb,,
+Centre of New England Boulevard,Dibromoacetic acid,0.0545 ppb,0.04 ppb,
+Centre of New England Boulevard,Fluoride*,0.215 ppm,,4 ppm
+Centre of New England Boulevard,Manganese*,46.1 ppb,100 ppb,
+Centre of New England Boulevard,Molybdenum*,0.145 ppb,40 ppb,
+Centre of New England Boulevard,Monobromoacetic acid*,0.0688 ppb,25 ppb,
+Centre of New England Boulevard,Monochloroacetic acid,1.25 ppb,53 ppb,
+Centre of New England Boulevard,Perfluorobutanoic Acid (PFBA)*,1.22 ppt,,
+Centre of New England Boulevard,Perfluorohexanoic Acid (PFHxA)*,4.55 ppt,,
+Centre of New England Boulevard,Perfluorooctane sulfonate (PFOS)*,0.520 ppt,1 ppt,
+Centre of New England Boulevard,Perfluoropentanoic Acid (PFPeA)*,3.03 ppt,,
+Centre of New England Boulevard,Strontium*,0.0685 ppb,"1,500 ppb",
+Centre of New England Boulevard,Vanadium*,0.137 ppb,21 ppb,
+Centre of New England Boulevard,None,,,
+Centre of New England Boulevard,Bromodichloromethane,5.21 ppb,0.06 ppb,
+Centre of New England Boulevard,Bromoform,2.25 ppb,0.5 ppb,
+Centre of New England Boulevard,Chloroform,57.6 ppb,0.4 ppb,
+Centre of New England Boulevard,Dibromochloromethane,1.05 ppb,0.1 ppb,
+Centre of New England Boulevard,Dichloroacetic acid,14.9 ppb,0.2 ppb,
+Centre of New England Boulevard,Haloacetic acids (HAA5)†,18.9 ppb,0.1 ppb,60 ppb
+Centre of New England Boulevard,Haloacetic acids (HAA9)*†,16.4 ppb,0.06 ppb,
+Centre of New England Boulevard,Nitrate*,1.33 ppm,0.14 ppm,10 ppm
+Centre of New England Boulevard,Nitrate and nitrite*,1.88 ppm,0.14 ppm,10 ppm
+Centre of New England Boulevard,Perfluorooctanoic acid (PFOA)*,1.05 ppt,0.007 ppt,
+Centre of New England Boulevard,"Radium, combined (-226 &amp; -228)*",0.24 pCi/L,0.05 pCi/L,5 pCi/L
+Centre of New England Boulevard,Total PFOS and PFOA*,6.58 ppt,0.007 ppt,
+Centre of New England Boulevard,Total trihalomethanes (TTHMs)†,64.0 ppb,0.15 ppb,80 ppb
+Centre of New England Boulevard,Trichloroacetic acid,2.13 ppb,0.1 ppb,
+Centre of New England Boulevard,"1,1-Dichloroethane*",0.00542 ppb,3 ppb,
+Centre of New England Boulevard,"1,4-Dioxane*",0.0373 ppb,0.35 ppb,
+Centre of New England Boulevard,Barium*,7.67 ppb,700 ppb,"2,000 ppb"
+Centre of New England Boulevard,Chlorate*,10.5 ppb,210 ppb,
+Centre of New England Boulevard,Chlorodifluoromethane*,0.475 ppb,,
+Centre of New England Boulevard,Chromium (hexavalent)*,0.0160 ppb,0.02 ppb,
+Centre of New England Boulevard,Chromium (total)*,0.769 ppb,,100 ppb
+Centre of New England Boulevard,Dacthal*,0.0182 ppb,,
+Centre of New England Boulevard,Dibromoacetic acid,0.0545 ppb,0.04 ppb,
+Centre of New England Boulevard,Fluoride*,0.215 ppm,,4 ppm
+Centre of New England Boulevard,Manganese*,46.1 ppb,100 ppb,
+Centre of New England Boulevard,Molybdenum*,0.145 ppb,40 ppb,
+Centre of New England Boulevard,Monobromoacetic acid*,0.0688 ppb,25 ppb,
+Centre of New England Boulevard,Monochloroacetic acid,1.25 ppb,53 ppb,
+Centre of New England Boulevard,Perfluorobutanoic Acid (PFBA)*,1.22 ppt,,
+Centre of New England Boulevard,Perfluorohexanoic Acid (PFHxA)*,4.55 ppt,,
+Centre of New England Boulevard,Perfluorooctane sulfonate (PFOS)*,0.520 ppt,1 ppt,
+Centre of New England Boulevard,Perfluoropentanoic Acid (PFPeA)*,3.03 ppt,,
+Centre of New England Boulevard,Strontium*,0.0685 ppb,"1,500 ppb",
+Centre of New England Boulevard,Vanadium*,0.137 ppb,21 ppb,
+Centre of New England Boulevard,None,,,
+Warwick,Bromodichloromethane,1.30 ppb,0.06 ppb,
+Warwick,Chloroform,3.95 ppb,0.4 ppb,
+Warwick,Dibromochloromethane,0.678 ppb,0.1 ppb,
+Warwick,Nitrate and nitrite,0.957 ppm,0.14 ppm,10 ppm
+Warwick,"Radium, combined (-226 &amp; -228)",0.74 pCi/L,0.05 pCi/L,5 pCi/L
+Warwick,Total trihalomethanes (TTHMs)†,4.00 ppb,0.15 ppb,80 ppb
+Warwick,Barium,108.3 ppb,700 ppb,"2,000 ppb"
+Warwick,Bromoform,0.0883 ppb,0.5 ppb,
+Warwick,Fluoride,0.750 ppm,,4 ppm
+Warwick,None,,,
+Warwick-potowomut,Bromodichloromethane,4.66 ppb,0.06 ppb,
+Warwick-potowomut,Chloroform,57.4 ppb,0.4 ppb,
+Warwick-potowomut,Dibromoacetic acid,0.114 ppb,0.04 ppb,
+Warwick-potowomut,Dibromochloromethane,1.16 ppb,0.1 ppb,
+Warwick-potowomut,Dichloroacetic acid,8.46 ppb,0.2 ppb,
+Warwick-potowomut,Haloacetic acids (HAA5)†,11.2 ppb,0.1 ppb,60 ppb
+Warwick-potowomut,Haloacetic acids (HAA9)*†,16.4 ppb,0.06 ppb,
+Warwick-potowomut,Nitrate*,1.33 ppm,0.14 ppm,10 ppm
+Warwick-potowomut,Nitrate and nitrite*,1.88 ppm,0.14 ppm,10 ppm
+Warwick-potowomut,Perfluorooctanoic acid (PFOA)*,1.05 ppt,0.007 ppt,
+Warwick-potowomut,"Radium, combined (-226 &amp; -228)*",0.24 pCi/L,0.05 pCi/L,5 pCi/L
+Warwick-potowomut,Total PFOS and PFOA*,6.58 ppt,0.007 ppt,
+Warwick-potowomut,Total trihalomethanes (TTHMs)†,59.8 ppb,0.15 ppb,80 ppb
+Warwick-potowomut,Trichloroacetic acid,2.11 ppb,0.1 ppb,
+Warwick-potowomut,"1,1-Dichloroethane*",0.00542 ppb,3 ppb,
+Warwick-potowomut,"1,4-Dioxane*",0.0373 ppb,0.35 ppb,
+Warwick-potowomut,Barium*,7.67 ppb,700 ppb,"2,000 ppb"
+Warwick-potowomut,Bromoform,0.119 ppb,0.5 ppb,
+Warwick-potowomut,Chlorate*,10.5 ppb,210 ppb,
+Warwick-potowomut,Chlorodifluoromethane*,0.475 ppb,,
+Warwick-potowomut,Chromium (hexavalent)*,0.0160 ppb,0.02 ppb,
+Warwick-potowomut,Chromium (total)*,0.769 ppb,,100 ppb
+Warwick-potowomut,Dacthal*,0.0182 ppb,,
+Warwick-potowomut,Fluoride*,0.215 ppm,,4 ppm
+Warwick-potowomut,Manganese*,46.1 ppb,100 ppb,
+Warwick-potowomut,Molybdenum*,0.145 ppb,40 ppb,
+Warwick-potowomut,Monobromoacetic acid*,0.0688 ppb,25 ppb,
+Warwick-potowomut,Monochloroacetic acid,0.452 ppb,53 ppb,
+Warwick-potowomut,Perfluorobutanoic Acid (PFBA)*,1.22 ppt,,
+Warwick-potowomut,Perfluorohexanoic Acid (PFHxA)*,4.55 ppt,,
+Warwick-potowomut,Perfluorooctane sulfonate (PFOS)*,0.520 ppt,1 ppt,
+Warwick-potowomut,Perfluoropentanoic Acid (PFPeA)*,3.03 ppt,,
+Warwick-potowomut,Strontium*,0.0685 ppb,"1,500 ppb",
+Warwick-potowomut,Vanadium*,0.137 ppb,21 ppb,
+Warwick-potowomut,None,,,
+North Kingstown,Bromodichloromethane,0.147 ppb,0.06 ppb,
+North Kingstown,Chromium (hexavalent),0.0853 ppb,0.02 ppb,
+North Kingstown,Dibromoacetic acid,0.360 ppb,0.04 ppb,
+North Kingstown,Dibromochloromethane,0.376 ppb,0.1 ppb,
+North Kingstown,Haloacetic acids (HAA5)†,1.08 ppb,0.1 ppb,60 ppb
+North Kingstown,Haloacetic acids (HAA9)†,2.04 ppb,0.06 ppb,
+North Kingstown,Nitrate,2.06 ppm,0.14 ppm,10 ppm
+North Kingstown,Nitrate and nitrite,2.64 ppm,0.14 ppm,10 ppm
+North Kingstown,Perfluorooctanoic acid (PFOA),1.23 ppt,0.007 ppt,
+North Kingstown,Total PFOS and PFOA,4.21 ppt,0.007 ppt,
+North Kingstown,Total trihalomethanes (TTHMs)†,5.84 ppb,0.15 ppb,80 ppb
+North Kingstown,"1,4-Dioxane",0.0136 ppb,0.35 ppb,
+North Kingstown,Barium,8.95 ppb,700 ppb,"2,000 ppb"
+North Kingstown,Bromoform,0.364 ppb,0.5 ppb,
+North Kingstown,Chlorate,24.9 ppb,210 ppb,
+North Kingstown,Chloroform,0.438 ppb,0.4 ppb,
+North Kingstown,Chromium (total),0.571 ppb,,100 ppb
+North Kingstown,Cobalt,0.305 ppb,70 ppb,
+North Kingstown,Dacthal,1.13 ppb,,
+North Kingstown,Ethylbenzene,0.0375 ppb,300 ppb,700 ppb
+North Kingstown,Fluoride,0.0191 ppm,,4 ppm
+North Kingstown,Manganese,86.6 ppb,100 ppb,
+North Kingstown,Molybdenum,0.170 ppb,40 ppb,
+North Kingstown,Monochloroacetic acid,0.720 ppb,53 ppb,
+North Kingstown,Perfluorobutane sulfonate (PFBS),0.672 ppt,1 ppt,
+North Kingstown,Perfluorobutanoic Acid (PFBA),0.876 ppt,,
+North Kingstown,Perfluoroheptanoic acid (PFHPA),0.161 ppt,1 ppt,
+North Kingstown,Perfluorohexanoic Acid (PFHxA),3.35 ppt,,
+North Kingstown,Perfluorooctane sulfonate (PFOS),0.367 ppt,1 ppt,
+North Kingstown,Perfluoropentanoic Acid (PFPeA),2.87 ppt,,
+North Kingstown,Strontium,0.0983 ppb,"1,500 ppb",
+North Kingstown,Toluene,0.102 ppb,150 ppb,"1,000 ppb"
+North Kingstown,Vanadium,0.0435 ppb,21 ppb,
+North Kingstown,Xylenes (total),0.225 ppb,"1,800 ppb","10,000 ppb"
+North Kingstown,None,,,
+Greenville Water Department,Bromodichloromethane,6.61 ppb,0.06 ppb,
+Greenville Water Department,Chloroform,55.4 ppb,0.4 ppb,
+Greenville Water Department,Dibromochloromethane,0.428 ppb,0.1 ppb,
+Greenville Water Department,Dichloroacetic acid,12.2 ppb,0.2 ppb,
+Greenville Water Department,Haloacetic acids (HAA5)†,26.1 ppb,0.1 ppb,60 ppb
+Greenville Water Department,"Radium, combined (-226 &amp; -228)",0.20 pCi/L,0.05 pCi/L,5 pCi/L
+Greenville Water Department,Total trihalomethanes (TTHMs)†,64.0 ppb,0.15 ppb,80 ppb
+Greenville Water Department,Trichloroacetic acid,13.3 ppb,0.1 ppb,
+Greenville Water Department,Barium,3.12 ppb,700 ppb,"2,000 ppb"
+Greenville Water Department,Manganese,12.0 ppb,100 ppb,
+Greenville Water Department,Monobromoacetic acid,0.281 ppb,25 ppb,
+Greenville Water Department,Monochloroacetic acid,0.231 ppb,53 ppb,
+Greenville Water Department,None,,,
+Johnston Water Control Facility - Capitol St.,Haloacetic acids (HAA5)†,21.8 ppb,0.1 ppb,60 ppb
+Johnston Water Control Facility - Capitol St.,Haloacetic acids (HAA9)*†,19.5 ppb,0.06 ppb,
+Johnston Water Control Facility - Capitol St.,Total trihalomethanes (TTHMs)†,58.1 ppb,0.15 ppb,80 ppb
+Johnston Water Control Facility - Capitol St.,"4-Androstene-3,17-dione*",0.130 ppt,,
+Johnston Water Control Facility - Capitol St.,Barium*,9.00 ppb,700 ppb,"2,000 ppb"
+Johnston Water Control Facility - Capitol St.,Chromium (hexavalent)*,0.00388 ppb,0.02 ppb,
+Johnston Water Control Facility - Capitol St.,Fluoride*,0.226 ppm,,4 ppm
+Johnston Water Control Facility - Capitol St.,Manganese*,0.795 ppb,100 ppb,
+Johnston Water Control Facility - Capitol St.,Nitrate*,0.0225 ppm,0.14 ppm,10 ppm
+Johnston Water Control Facility - Capitol St.,Nitrite*,0.00250 ppm,,1 ppm
+Johnston Water Control Facility - Capitol St.,Strontium*,0.0273 ppb,"1,500 ppb",
+Johnston Water Control Facility - Capitol St.,Vanadium*,0.227 ppb,21 ppb,
+Douglas Water Department,Dibromochloromethane,0.368 ppb,0.1 ppb,
+Douglas Water Department,Nitrate,2.00 ppm,0.14 ppm,10 ppm
+Douglas Water Department,Total trihalomethanes (TTHMs)†,2.36 ppb,0.15 ppb,80 ppb
+Douglas Water Department,Barium,12.9 ppb,700 ppb,"2,000 ppb"
+Douglas Water Department,Bromodichloromethane,0.0526 ppb,0.06 ppb,
+Douglas Water Department,Bromoform,0.453 ppb,0.5 ppb,
+Douglas Water Department,Chloroethane,0.0453 ppb,,
+Douglas Water Department,Fluoride,0.0150 ppm,,4 ppm
+Douglas Water Department,Haloacetic acids (HAA5)†,0.167 ppb,0.1 ppb,60 ppb
+Douglas Water Department,Perchlorate,0.264 ppb,1 ppb,
+Douglas Water Department,None,,,
+"Tiverton Water Authority, Town Hall",Bromodichloromethane,8.12 ppb,0.06 ppb,
+"Tiverton Water Authority, Town Hall",Chloroform,21.0 ppb,0.4 ppb,
+"Tiverton Water Authority, Town Hall",Dibromoacetic acid,0.573 ppb,0.04 ppb,
+"Tiverton Water Authority, Town Hall",Dibromochloromethane,2.39 ppb,0.1 ppb,
+"Tiverton Water Authority, Town Hall",Dichloroacetic acid,8.52 ppb,0.2 ppb,
+"Tiverton Water Authority, Town Hall",Haloacetic acids (HAA5)†,17.9 ppb,0.1 ppb,60 ppb
+"Tiverton Water Authority, Town Hall",Total trihalomethanes (TTHMs)†,31.1 ppb,0.15 ppb,80 ppb
+"Tiverton Water Authority, Town Hall",Trichloroacetic acid,7.09 ppb,0.1 ppb,
+"Tiverton Water Authority, Town Hall",Aldrin*,0.00833 ppb,,
+"Tiverton Water Authority, Town Hall",Barium*,10.5 ppb,700 ppb,"2,000 ppb"
+"Tiverton Water Authority, Town Hall",Benzo[a]pyrene*,0.00833 ppb,0.007 ppb,0.2 ppb
+"Tiverton Water Authority, Town Hall",Benzo[b]fluoranthene*,0.00833 ppb,,
+"Tiverton Water Authority, Town Hall",Bromoform,0.0146 ppb,0.5 ppb,
+"Tiverton Water Authority, Town Hall",Di(2-ethylhexyl) phthalate*,0.417 ppb,3 ppb,6 ppb
+"Tiverton Water Authority, Town Hall",Monobromoacetic acid,0.339 ppb,25 ppb,
+"Tiverton Water Authority, Town Hall",Monochloroacetic acid,1.50 ppb,53 ppb,
+"Tiverton Water Authority, Town Hall",Nitrate*,0.0300 ppm,0.14 ppm,10 ppm
+Town of Westport,Bromodichloromethane*,8.47 ppb,0.06 ppb,
+Town of Westport,Chloroform*,38.3 ppb,0.4 ppb,
+Town of Westport,Dibromoacetic acid*,0.110 ppb,0.04 ppb,
+Town of Westport,Dibromochloromethane*,1.41 ppb,0.1 ppb,
+Town of Westport,Dichloroacetic acid*,10.9 ppb,0.2 ppb,
+Town of Westport,Haloacetic acids (HAA5)†,24.9 ppb,0.1 ppb,60 ppb
+Town of Westport,Haloacetic acids (HAA9)*†,23.7 ppb,0.06 ppb,
+Town of Westport,Total trihalomethanes (TTHMs)†,66.7 ppb,0.15 ppb,80 ppb
+Town of Westport,Trichloroacetic acid*,7.67 ppb,0.1 ppb,
+Town of Westport,Aluminum*,17.8 ppb,600 ppb,
+Town of Westport,Barium*,7.20 ppb,700 ppb,"2,000 ppb"
+Town of Westport,Chlorate*,20.4 ppb,210 ppb,
+Town of Westport,Fluoride*,0.762 ppm,,4 ppm
+Town of Westport,Manganese*,8.19 ppb,100 ppb,
+Town of Westport,Monobromoacetic acid*,0.0793 ppb,25 ppb,
+Town of Westport,Monochloroacetic acid*,0.549 ppb,53 ppb,
+Town of Westport,Nitrate*,0.0243 ppm,0.14 ppm,10 ppm
+Town of Westport,Perchlorate*,0.0400 ppb,1 ppb,
+Town of Westport,Strontium*,0.0191 ppb,"1,500 ppb",
+Town of Westport,Vanadium*,0.0290 ppb,21 ppb,
+City of Newport,Haloacetic acids (HAA5)†,12.6 ppb,0.1 ppb,60 ppb
+City of Newport,Haloacetic acids (HAA9)†,23.3 ppb,0.06 ppb,
+City of Newport,Total trihalomethanes (TTHMs)†,45.9 ppb,0.15 ppb,80 ppb
+City of Newport,Manganese,0.495 ppb,100 ppb,
+City of Newport,None,,,
+United States Navy -fort Adams,Arsenic*,0.299 ppb,0.004 ppb,10 ppb
+United States Navy -fort Adams,Benzo[a]pyrene*,0.0181 ppb,0.007 ppb,0.2 ppb
+United States Navy -fort Adams,Bromodichloromethane,28.0 ppb,0.06 ppb,
+United States Navy -fort Adams,Bromoform,4.25 ppb,0.5 ppb,
+United States Navy -fort Adams,Chloroform,36.5 ppb,0.4 ppb,
+United States Navy -fort Adams,Chromium (hexavalent)*,0.0497 ppb,0.02 ppb,
+United States Navy -fort Adams,Dibromoacetic acid,2.85 ppb,0.04 ppb,
+United States Navy -fort Adams,Dibromochloromethane,18.5 ppb,0.1 ppb,
+United States Navy -fort Adams,Dichloroacetic acid,7.70 ppb,0.2 ppb,
+United States Navy -fort Adams,Haloacetic acids (HAA5)†,12.0 ppb,0.1 ppb,60 ppb
+United States Navy -fort Adams,Haloacetic acids (HAA9)*†,23.3 ppb,0.06 ppb,
+United States Navy -fort Adams,Nitrate*,0.545 ppm,0.14 ppm,10 ppm
+United States Navy -fort Adams,Perfluorooctane sulfonate (PFOS)*,2.24 ppt,1 ppt,
+United States Navy -fort Adams,Perfluorooctanoic acid (PFOA)*,0.353 ppt,0.007 ppt,
+United States Navy -fort Adams,Total PFOS and PFOA*,4.67 ppt,0.007 ppt,
+United States Navy -fort Adams,Total trihalomethanes (TTHMs)†,64.9 ppb,0.15 ppb,80 ppb
+United States Navy -fort Adams,Trichloroacetic acid,3.00 ppb,0.1 ppb,
+United States Navy -fort Adams,Alachlor (Lasso)*,0.000862 ppb,,2 ppb
+United States Navy -fort Adams,Anthracene*,0.00259 ppb,,
+United States Navy -fort Adams,Barium*,7.77 ppb,700 ppb,"2,000 ppb"
+United States Navy -fort Adams,Benzo[a]anthracene*,0.00517 ppb,,
+United States Navy -fort Adams,Benzo[b]fluoranthene*,0.0276 ppb,,
+United States Navy -fort Adams,"Benzo[g,h,i]perylene*",0.00690 ppb,,
+United States Navy -fort Adams,Benzo[k]fluoranthene*,0.0121 ppb,,
+United States Navy -fort Adams,Chlorate*,360.5 ppb,210 ppb,
+United States Navy -fort Adams,Chlorite*,68.5 ppb,50 ppb,"1,000 ppb"
+United States Navy -fort Adams,Chromium (total)*,0.0457 ppb,,100 ppb
+United States Navy -fort Adams,Chrysene*,0.00345 ppb,,
+United States Navy -fort Adams,Dacthal*,0.0844 ppb,,
+United States Navy -fort Adams,Di(2-ethylhexyl) phthalate*,0.664 ppb,3 ppb,6 ppb
+United States Navy -fort Adams,Di-n-butyl phthalate*,0.0172 ppb,,
+United States Navy -fort Adams,"Dibenz[a,h]anthracene*",0.00517 ppb,,
+United States Navy -fort Adams,Diethyl phthalate*,0.0517 ppb,,
+United States Navy -fort Adams,Fluorene*,0.00517 ppb,,
+United States Navy -fort Adams,Fluoride*,0.0210 ppm,,4 ppm
+United States Navy -fort Adams,"Indeno[1,2,3-cd]pyrene*",0.0129 ppb,,
+United States Navy -fort Adams,Isophorone*,0.00345 ppb,,
+United States Navy -fort Adams,Manganese*,26.0 ppb,100 ppb,
+United States Navy -fort Adams,Metolachlor*,0.0302 ppb,,
+United States Navy -fort Adams,Monobromoacetic acid,0.305 ppb,25 ppb,
+United States Navy -fort Adams,Monochloroacetic acid,0.750 ppb,53 ppb,
+United States Navy -fort Adams,Nitrite*,0.000408 ppm,,1 ppm
+United States Navy -fort Adams,Perfluorohexanoic Acid (PFHxA)*,1.07 ppt,,
+United States Navy -fort Adams,Perfluoropentanoic Acid (PFPeA)*,0.881 ppt,,
+United States Navy -fort Adams,Phenanthrene*,0.0216 ppb,,
+United States Navy -fort Adams,Pyrene*,0.00948 ppb,,
+United States Navy -fort Adams,Selenium*,0.0260 ppb,30 ppb,50 ppb
+United States Navy -fort Adams,Simazine*,0.00948 ppb,0.1 ppb,4 ppb
+United States Navy -fort Adams,Strontium*,0.0655 ppb,"1,500 ppb",
+United States Navy -fort Adams,Vanadium*,0.241 ppb,21 ppb,
+United States Navy -fort Adams,Vinyl chloride*,0.00400 ppb,0.05 ppb,2 ppb
+Portsmouth Water & Fire District,Arsenic*,0.299 ppb,0.004 ppb,10 ppb
+Portsmouth Water & Fire District,Benzo[a]pyrene*,0.0181 ppb,0.007 ppb,0.2 ppb
+Portsmouth Water & Fire District,Bromodichloromethane,15.1 ppb,0.06 ppb,
+Portsmouth Water & Fire District,Bromoform,2.35 ppb,0.5 ppb,
+Portsmouth Water & Fire District,Chloroform,21.8 ppb,0.4 ppb,
+Portsmouth Water & Fire District,Chromium (hexavalent),0.0975 ppb,0.02 ppb,
+Portsmouth Water & Fire District,Dibromoacetic acid,2.29 ppb,0.04 ppb,
+Portsmouth Water & Fire District,Dibromochloromethane,10.7 ppb,0.1 ppb,
+Portsmouth Water & Fire District,Dichloroacetic acid,7.55 ppb,0.2 ppb,
+Portsmouth Water & Fire District,Haloacetic acids (HAA5)†,14.6 ppb,0.1 ppb,60 ppb
+Portsmouth Water & Fire District,Haloacetic acids (HAA9)†,35.6 ppb,0.06 ppb,
+Portsmouth Water & Fire District,Nitrate*,0.545 ppm,0.14 ppm,10 ppm
+Portsmouth Water & Fire District,Perfluorooctane sulfonate (PFOS)*,2.24 ppt,1 ppt,
+Portsmouth Water & Fire District,Perfluorooctanoic acid (PFOA)*,0.353 ppt,0.007 ppt,
+Portsmouth Water & Fire District,Total PFOS and PFOA*,4.67 ppt,0.007 ppt,
+Portsmouth Water & Fire District,Total trihalomethanes (TTHMs)†,53.4 ppb,0.15 ppb,80 ppb
+Portsmouth Water & Fire District,Trichloroacetic acid,2.15 ppb,0.1 ppb,
+Portsmouth Water & Fire District,Alachlor (Lasso)*,0.000862 ppb,,2 ppb
+Portsmouth Water & Fire District,Anthracene*,0.00259 ppb,,
+Portsmouth Water & Fire District,Barium*,7.77 ppb,700 ppb,"2,000 ppb"
+Portsmouth Water & Fire District,Benzo[a]anthracene*,0.00517 ppb,,
+Portsmouth Water & Fire District,Benzo[b]fluoranthene*,0.0276 ppb,,
+Portsmouth Water & Fire District,"Benzo[g,h,i]perylene*",0.00690 ppb,,
+Portsmouth Water & Fire District,Benzo[k]fluoranthene*,0.0121 ppb,,
+Portsmouth Water & Fire District,Chlorate,196.9 ppb,210 ppb,
+Portsmouth Water & Fire District,Chlorite*,68.5 ppb,50 ppb,"1,000 ppb"
+Portsmouth Water & Fire District,Chromium (total)*,0.0457 ppb,,100 ppb
+Portsmouth Water & Fire District,Chrysene*,0.00345 ppb,,
+Portsmouth Water & Fire District,Dacthal*,0.0844 ppb,,
+Portsmouth Water & Fire District,Di(2-ethylhexyl) phthalate*,0.664 ppb,3 ppb,6 ppb
+Portsmouth Water & Fire District,Di-n-butyl phthalate*,0.0172 ppb,,
+Portsmouth Water & Fire District,"Dibenz[a,h]anthracene*",0.00517 ppb,,
+Portsmouth Water & Fire District,Diethyl phthalate*,0.0517 ppb,,
+Portsmouth Water & Fire District,Fluorene*,0.00517 ppb,,
+Portsmouth Water & Fire District,Fluoride*,0.0210 ppm,,4 ppm
+Portsmouth Water & Fire District,"Indeno[1,2,3-cd]pyrene*",0.0129 ppb,,
+Portsmouth Water & Fire District,Isophorone*,0.00345 ppb,,
+Portsmouth Water & Fire District,Manganese,7.89 ppb,100 ppb,
+Portsmouth Water & Fire District,Metolachlor*,0.0302 ppb,,
+Portsmouth Water & Fire District,Monobromoacetic acid,0.160 ppb,25 ppb,
+Portsmouth Water & Fire District,Monochloroacetic acid,4.82 ppb,53 ppb,
+Portsmouth Water & Fire District,Nitrite*,0.000408 ppm,,1 ppm
+Portsmouth Water & Fire District,Perfluorohexanoic Acid (PFHxA)*,1.07 ppt,,
+Portsmouth Water & Fire District,Perfluoropentanoic Acid (PFPeA)*,0.881 ppt,,
+Portsmouth Water & Fire District,Phenanthrene*,0.0216 ppb,,
+Portsmouth Water & Fire District,Pyrene*,0.00948 ppb,,
+Portsmouth Water & Fire District,Selenium*,0.0260 ppb,30 ppb,50 ppb
+Portsmouth Water & Fire District,Simazine*,0.00948 ppb,0.1 ppb,4 ppb
+Portsmouth Water & Fire District,Strontium,0.0554 ppb,"1,500 ppb",
+Portsmouth Water & Fire District,Vanadium,0.325 ppb,21 ppb,
+Portsmouth Water & Fire District,Vinyl chloride*,0.00400 ppb,0.05 ppb,2 ppb
+Portsmouth Water & Fire District,None,,,
+Harrisville Fire District,Haloacetic acids (HAA5)†,7.76 ppb,0.1 ppb,60 ppb
+Harrisville Fire District,Nitrate,0.786 ppm,0.14 ppm,10 ppm
+Harrisville Fire District,Nitrate and nitrite,0.726 ppm,0.14 ppm,10 ppm
+Harrisville Fire District,Perfluorooctanoic acid (PFOA),0.808 ppt,0.007 ppt,
+Harrisville Fire District,"Radium, combined (-226 &amp; -228)",0.60 pCi/L,0.05 pCi/L,5 pCi/L
+Harrisville Fire District,Total PFOS and PFOA,0.808 ppt,0.007 ppt,
+Harrisville Fire District,Total trihalomethanes (TTHMs)†,14.6 ppb,0.15 ppb,80 ppb
+Harrisville Fire District,Barium,26.9 ppb,700 ppb,"2,000 ppb"
+Harrisville Fire District,Chromium (total),0.500 ppb,,100 ppb
+Harrisville Fire District,Manganese,43.0 ppb,100 ppb,
+Harrisville Fire District,Perfluorobutanoic Acid (PFBA),1.37 ppt,,
+Harrisville Fire District,Perfluoroheptanoic acid (PFHPA),1.48 ppt,1 ppt,
+Harrisville Fire District,Perfluorohexanoic Acid (PFHxA),2.78 ppt,,
+Harrisville Fire District,Perfluoropentanoic Acid (PFPeA),7.13 ppt,,
+Harrisville Fire District,None,,,
+Eleanor Slater Hospital Zambarano Unit,Bromodichloromethane,3.42 ppb,0.06 ppb,
+Eleanor Slater Hospital Zambarano Unit,Chloroform,23.3 ppb,0.4 ppb,
+Eleanor Slater Hospital Zambarano Unit,Dibromochloromethane,0.233 ppb,0.1 ppb,
+Eleanor Slater Hospital Zambarano Unit,Dichloroacetic acid,12.3 ppb,0.2 ppb,
+Eleanor Slater Hospital Zambarano Unit,Haloacetic acids (HAA5)†,30.1 ppb,0.1 ppb,60 ppb
+Eleanor Slater Hospital Zambarano Unit,Total trihalomethanes (TTHMs)†,37.0 ppb,0.15 ppb,80 ppb
+Eleanor Slater Hospital Zambarano Unit,Trichloroacetic acid,17.3 ppb,0.1 ppb,
+Eleanor Slater Hospital Zambarano Unit,Barium,5.00 ppb,700 ppb,"2,000 ppb"
+Eleanor Slater Hospital Zambarano Unit,Dibromoacetic acid,0.0632 ppb,0.04 ppb,
+Eleanor Slater Hospital Zambarano Unit,Fluoride,0.0783 ppm,,4 ppm
+Eleanor Slater Hospital Zambarano Unit,Monochloroacetic acid,0.779 ppb,53 ppb,
+Eleanor Slater Hospital Zambarano Unit,Nitrate,0.0113 ppm,0.14 ppm,10 ppm
+Eleanor Slater Hospital Zambarano Unit,None,,,
+City of Providence,Haloacetic acids (HAA5)†,18.7 ppb,0.1 ppb,60 ppb
+City of Providence,Haloacetic acids (HAA9)†,19.5 ppb,0.06 ppb,
+City of Providence,Total trihalomethanes (TTHMs)†,53.2 ppb,0.15 ppb,80 ppb
+City of Providence,"4-Androstene-3,17-dione",0.130 ppt,,
+City of Providence,Barium,9.00 ppb,700 ppb,"2,000 ppb"
+City of Providence,Chromium (hexavalent),0.00388 ppb,0.02 ppb,
+City of Providence,Fluoride,0.226 ppm,,4 ppm
+City of Providence,Manganese,0.795 ppb,100 ppb,
+City of Providence,Nitrate,0.0225 ppm,0.14 ppm,10 ppm
+City of Providence,Nitrite,0.00250 ppm,,1 ppm
+City of Providence,Strontium,0.0273 ppb,"1,500 ppb",
+City of Providence,Vanadium,0.227 ppb,21 ppb,
+City of Providence,None,,,
+Lincoln Water Commission,Bromodichloromethane,4.27 ppb,0.06 ppb,
+Lincoln Water Commission,Bromoform,2.41 ppb,0.5 ppb,
+Lincoln Water Commission,Chloroform,57.6 ppb,0.4 ppb,
+Lincoln Water Commission,Dibromochloromethane,0.344 ppb,0.1 ppb,
+Lincoln Water Commission,Dichloroacetic acid,8.48 ppb,0.2 ppb,
+Lincoln Water Commission,Haloacetic acids (HAA5)†,11.5 ppb,0.1 ppb,60 ppb
+Lincoln Water Commission,Haloacetic acids (HAA9)†,15.4 ppb,0.06 ppb,
+Lincoln Water Commission,Total trihalomethanes (TTHMs)†,63.8 ppb,0.15 ppb,80 ppb
+Lincoln Water Commission,Trichloroacetic acid,1.80 ppb,0.1 ppb,
+Lincoln Water Commission,"4-Androstene-3,17-dione*",0.130 ppt,,
+Lincoln Water Commission,Barium*,9.00 ppb,700 ppb,"2,000 ppb"
+Lincoln Water Commission,Chromium (hexavalent),0.0313 ppb,0.02 ppb,
+Lincoln Water Commission,Dibromoacetic acid,0.0619 ppb,0.04 ppb,
+Lincoln Water Commission,Fluoride*,0.226 ppm,,4 ppm
+Lincoln Water Commission,Manganese,1.45 ppb,100 ppb,
+Lincoln Water Commission,Monobromoacetic acid,0.249 ppb,25 ppb,
+Lincoln Water Commission,Monochloroacetic acid,0.520 ppb,53 ppb,
+Lincoln Water Commission,Nitrate*,0.0225 ppm,0.14 ppm,10 ppm
+Lincoln Water Commission,Nitrite*,0.00250 ppm,,1 ppm
+Lincoln Water Commission,Strontium,0.0314 ppb,"1,500 ppb",
+Lincoln Water Commission,Vanadium,0.263 ppb,21 ppb,
+Lincoln Water Commission,None,,,
+Attleboro Water Department,Bromodichloromethane,14.6 ppb,0.06 ppb,
+Attleboro Water Department,Chloroform,31.8 ppb,0.4 ppb,
+Attleboro Water Department,Chromium (hexavalent),0.0419 ppb,0.02 ppb,
+Attleboro Water Department,Dibromoacetic acid,0.579 ppb,0.04 ppb,
+Attleboro Water Department,Dibromochloromethane,5.72 ppb,0.1 ppb,
+Attleboro Water Department,Dichloroacetic acid,6.76 ppb,0.2 ppb,
+Attleboro Water Department,Haloacetic acids (HAA5)†,23.7 ppb,0.1 ppb,60 ppb
+Attleboro Water Department,Haloacetic acids (HAA9)†,29.0 ppb,0.06 ppb,
+Attleboro Water Department,"Radium, combined (-226 &amp; -228)",0.71 pCi/L,0.05 pCi/L,5 pCi/L
+Attleboro Water Department,Total trihalomethanes (TTHMs)†,56.5 ppb,0.15 ppb,80 ppb
+Attleboro Water Department,Trichloroacetic acid,16.7 ppb,0.1 ppb,
+Attleboro Water Department,"1,4-Dioxane",0.0483 ppb,0.35 ppb,
+Attleboro Water Department,Aluminum,35.2 ppb,600 ppb,
+Attleboro Water Department,Barium,31.3 ppb,700 ppb,"2,000 ppb"
+Attleboro Water Department,Bromate,0.166 ppb,0.1 ppb,10 ppb
+Attleboro Water Department,Bromochloromethane,0.252 ppb,,
+Attleboro Water Department,Bromoform,0.856 ppb,0.5 ppb,
+Attleboro Water Department,Chlorate,284.6 ppb,210 ppb,
+Attleboro Water Department,Chromium (total),0.00681 ppb,,100 ppb
+Attleboro Water Department,Fluoride,0.704 ppm,,4 ppm
+Attleboro Water Department,Manganese,78.0 ppb,100 ppb,
+Attleboro Water Department,Monobromoacetic acid,0.0370 ppb,25 ppb,
+Attleboro Water Department,Monochloroacetic acid,0.775 ppb,53 ppb,
+Attleboro Water Department,Nitrate,0.256 ppm,0.14 ppm,10 ppm
+Attleboro Water Department,Nitrite,0.00225 ppm,,1 ppm
+Attleboro Water Department,Perchlorate,0.225 ppb,1 ppb,
+Attleboro Water Department,Strontium,0.0788 ppb,"1,500 ppb",
+Attleboro Water Department,Vanadium,0.0529 ppb,21 ppb,
+Attleboro Water Department,None,,,
+Seekonk Water District,Arsenic,0.333 ppb,0.004 ppb,10 ppb
+Seekonk Water District,Bromodichloromethane,10.7 ppb,0.06 ppb,
+Seekonk Water District,Chloroform,15.5 ppb,0.4 ppb,
+Seekonk Water District,Chromium (hexavalent),0.100 ppb,0.02 ppb,
+Seekonk Water District,Dibromoacetic acid,1.50 ppb,0.04 ppb,
+Seekonk Water District,Dibromochloromethane,7.48 ppb,0.1 ppb,
+Seekonk Water District,Dichloroacetic acid,5.73 ppb,0.2 ppb,
+Seekonk Water District,Haloacetic acids (HAA5)†,12.2 ppb,0.1 ppb,60 ppb
+Seekonk Water District,Haloacetic acids (HAA9)†,18.9 ppb,0.06 ppb,
+Seekonk Water District,Nitrate,2.58 ppm,0.14 ppm,10 ppm
+Seekonk Water District,Perfluorooctanoic acid (PFOA),1.78 ppt,0.007 ppt,
+Seekonk Water District,Total trihalomethanes (TTHMs)†,35.3 ppb,0.15 ppb,80 ppb
+Seekonk Water District,Trichloroacetic acid,4.26 ppb,0.1 ppb,
+Seekonk Water District,"1,4-Dioxane",0.120 ppb,0.35 ppb,
+Seekonk Water District,Bromoform,0.758 ppb,0.5 ppb,
+Seekonk Water District,Chlorate,167.5 ppb,210 ppb,
+Seekonk Water District,Fluoride,0.0200 ppm,,4 ppm
+Seekonk Water District,Manganese,4.78 ppb,100 ppb,
+Seekonk Water District,Monobromoacetic acid,0.0285 ppb,25 ppb,
+Seekonk Water District,Monochloroacetic acid,1.27 ppb,53 ppb,
+Seekonk Water District,N-methyl perfluorooctanesulfonamidoacetic acid (NMeFOSAA),2.06 ppt,,
+Seekonk Water District,Perchlorate,0.0506 ppb,1 ppb,
+Seekonk Water District,Perfluorobutane sulfonate (PFBS),0.670 ppt,1 ppt,
+Seekonk Water District,Perfluorohexane sulfonate (PFHXS),0.637 ppt,1 ppt,
+Seekonk Water District,Perfluorohexanoic Acid (PFHxA),2.56 ppt,,
+Seekonk Water District,Perfluorooctane sulfonate (PFOS),1.40 ppt,1 ppt,
+Seekonk Water District,Strontium,0.138 ppb,"1,500 ppb",
+Seekonk Water District,None,,,
+Wrentham Water Division,Bromodichloromethane,2.29 ppb,0.06 ppb,
+Wrentham Water Division,Chloroform,1.94 ppb,0.4 ppb,
+Wrentham Water Division,Dibromochloromethane,2.68 ppb,0.1 ppb,
+Wrentham Water Division,Dichloroacetic acid,2.25 ppb,0.2 ppb,
+Wrentham Water Division,Haloacetic acids (HAA5)†,4.70 ppb,0.1 ppb,60 ppb
+Wrentham Water Division,Nitrate,1.01 ppm,0.14 ppm,10 ppm
+Wrentham Water Division,"Radium, combined (-226 &amp; -228)",0.20 pCi/L,0.05 pCi/L,5 pCi/L
+Wrentham Water Division,Total trihalomethanes (TTHMs)†,17.1 ppb,0.15 ppb,80 ppb
+Wrentham Water Division,Trichloroacetic acid,0.668 ppb,0.1 ppb,
+Wrentham Water Division,Barium,22.0 ppb,700 ppb,"2,000 ppb"
+Wrentham Water Division,Bromoform,0.938 ppb,0.5 ppb,
+Wrentham Water Division,Dalapon,0.0769 ppb,,200 ppb
+Wrentham Water Division,Manganese,82.2 ppb,100 ppb,
+Wrentham Water Division,Monochloroacetic acid,0.208 ppb,53 ppb,
+Wrentham Water Division,o-Dichlorobenzene,0.200 ppb,600 ppb,600 ppb
+Wrentham Water Division,Pentachlorophenol,0.00769 ppb,0.3 ppb,1 ppb
+Wrentham Water Division,Perchlorate,0.121 ppb,1 ppb,
+Wrentham Water Division,Tetrachloroethylene (perchloroethylene),0.0667 ppb,0.06 ppb,5 ppb
+Wrentham Water Division,None,,,
+Woonsocket Water Department,Haloacetic acids (HAA9)†,29.7 ppb,0.06 ppb,
+Woonsocket Water Department,Chlorate,13.2 ppb,210 ppb,
+Woonsocket Water Department,Chromium (hexavalent),0.0135 ppb,0.02 ppb,
+Woonsocket Water Department,Manganese,91.4 ppb,100 ppb,
+Woonsocket Water Department,Strontium,0.0508 ppb,"1,500 ppb",
+Woonsocket Water Department,Vanadium,0.555 ppb,21 ppb,
+Woonsocket Water Department,None,,,
+North Attleboro Water Department,Bromodichloromethane,6.31 ppb,0.06 ppb,
+North Attleboro Water Department,Bromoform,1.11 ppb,0.5 ppb,
+North Attleboro Water Department,Chloroform,7.30 ppb,0.4 ppb,
+North Attleboro Water Department,Chromium (hexavalent),0.0724 ppb,0.02 ppb,
+North Attleboro Water Department,Dibromoacetic acid,2.18 ppb,0.04 ppb,
+North Attleboro Water Department,Dibromochloromethane,4.66 ppb,0.1 ppb,
+North Attleboro Water Department,Dichloroacetic acid,4.90 ppb,0.2 ppb,
+North Attleboro Water Department,Haloacetic acids (HAA5)†,12.4 ppb,0.1 ppb,60 ppb
+North Attleboro Water Department,Haloacetic acids (HAA9)†,11.5 ppb,0.06 ppb,
+North Attleboro Water Department,Nitrate,2.46 ppm,0.14 ppm,10 ppm
+North Attleboro Water Department,Total trihalomethanes (TTHMs)†,25.2 ppb,0.15 ppb,80 ppb
+North Attleboro Water Department,Trichloroacetic acid,4.69 ppb,0.1 ppb,
+North Attleboro Water Department,"1,1-Dichloroethane",0.00756 ppb,3 ppb,
+North Attleboro Water Department,"1,4-Dioxane",0.0460 ppb,0.35 ppb,
+North Attleboro Water Department,Aluminum,2.67 ppb,600 ppb,
+North Attleboro Water Department,Barium,39.1 ppb,700 ppb,"2,000 ppb"
+North Attleboro Water Department,Bromochloromethane,0.0400 ppb,,
+North Attleboro Water Department,Chlorate,81.3 ppb,210 ppb,
+North Attleboro Water Department,Chloromethane,0.489 ppb,2.69 ppb,
+North Attleboro Water Department,Chromium (total),0.142 ppb,,100 ppb
+North Attleboro Water Department,Fluoride,0.300 ppm,,4 ppm
+North Attleboro Water Department,Manganese,43.1 ppb,100 ppb,
+North Attleboro Water Department,Monobromoacetic acid,0.0695 ppb,25 ppb,
+North Attleboro Water Department,Monochloroacetic acid,0.830 ppb,53 ppb,
+North Attleboro Water Department,Monochlorobenzene (chlorobenzene),0.641 ppb,70 ppb,100 ppb
+North Attleboro Water Department,o-Dichlorobenzene,0.0230 ppb,600 ppb,600 ppb
+North Attleboro Water Department,p-Dichlorobenzene,0.0224 ppb,6 ppb,75 ppb
+North Attleboro Water Department,Perchlorate,0.210 ppb,1 ppb,
+North Attleboro Water Department,Strontium,0.166 ppb,"1,500 ppb",
+North Attleboro Water Department,Vanadium,0.369 ppb,21 ppb,
+North Attleboro Water Department,None,,,
+Pawtucket,Arsenic,0.182 ppb,0.004 ppb,10 ppb
+Pawtucket,Bromodichloromethane,9.98 ppb,0.06 ppb,
+Pawtucket,Chloroform,20.9 ppb,0.4 ppb,
+Pawtucket,Chromium (hexavalent),0.0804 ppb,0.02 ppb,
+Pawtucket,Dibromoacetic acid,0.808 ppb,0.04 ppb,
+Pawtucket,Dibromochloromethane,3.67 ppb,0.1 ppb,
+Pawtucket,Dichloroacetic acid,8.37 ppb,0.2 ppb,
+Pawtucket,Haloacetic acids (HAA5)†,20.6 ppb,0.1 ppb,60 ppb
+Pawtucket,Haloacetic acids (HAA9)†,16.7 ppb,0.06 ppb,
+Pawtucket,Nitrate,1.47 ppm,0.14 ppm,10 ppm
+Pawtucket,Nitrate and nitrite,1.59 ppm,0.14 ppm,10 ppm
+Pawtucket,Perfluorooctane sulfonate (PFOS),2.96 ppt,1 ppt,
+Pawtucket,Perfluorooctanoic acid (PFOA),1.35 ppt,0.007 ppt,
+Pawtucket,Total PFOS and PFOA,6.23 ppt,0.007 ppt,
+Pawtucket,Total trihalomethanes (TTHMs)†,39.0 ppb,0.15 ppb,80 ppb
+Pawtucket,Trichloroacetic acid,10.5 ppb,0.1 ppb,
+Pawtucket,Aluminum,267.0 ppb,600 ppb,
+Pawtucket,Barium,37.1 ppb,700 ppb,"2,000 ppb"
+Pawtucket,Bromoform,0.174 ppb,0.5 ppb,
+Pawtucket,Chlorate,161.5 ppb,210 ppb,
+Pawtucket,Chromium (total),0.730 ppb,,100 ppb
+Pawtucket,Fluoride,0.0458 ppm,,4 ppm
+Pawtucket,Manganese,29.7 ppb,100 ppb,
+Pawtucket,Monobromoacetic acid,0.0310 ppb,25 ppb,
+Pawtucket,Monochloroacetic acid,0.325 ppb,53 ppb,
+Pawtucket,Perfluorobutane sulfonate (PFBS),0.442 ppt,1 ppt,
+Pawtucket,Perfluoroheptanoic acid (PFHPA),0.368 ppt,1 ppt,
+Pawtucket,Perfluorohexanoic Acid (PFHxA),0.732 ppt,,
+Pawtucket,Perfluoropentanoic Acid (PFPeA),0.773 ppt,,
+Pawtucket,Strontium,0.0726 ppb,"1,500 ppb",
+Pawtucket,Vanadium,0.573 ppb,21 ppb,
+Pawtucket,None,,,
+Bristol County Water Authority,Arsenic,0.0435 ppb,0.004 ppb,10 ppb
+Bristol County Water Authority,Bromodichloromethane,3.23 ppb,0.06 ppb,
+Bristol County Water Authority,Chloroform,50.5 ppb,0.4 ppb,
+Bristol County Water Authority,Dibromochloromethane,0.298 ppb,0.1 ppb,
+Bristol County Water Authority,Dichloroacetic acid,16.7 ppb,0.2 ppb,
+Bristol County Water Authority,Haloacetic acids (HAA5)†,18.8 ppb,0.1 ppb,60 ppb
+Bristol County Water Authority,Haloacetic acids (HAA9)†,18.6 ppb,0.06 ppb,
+Bristol County Water Authority,Total trihalomethanes (TTHMs)†,62.6 ppb,0.15 ppb,80 ppb
+Bristol County Water Authority,Trichloroacetic acid,1.69 ppb,0.1 ppb,
+Bristol County Water Authority,1-Butanol ,1.03 ppb,,
+Bristol County Water Authority,"4-Androstene-3,17-dione*",0.130 ppt,,
+Bristol County Water Authority,Barium,12.9 ppb,700 ppb,"2,000 ppb"
+Bristol County Water Authority,Benzo[a]pyrene,0.00313 ppb,0.007 ppb,0.2 ppb
+Bristol County Water Authority,Benzo[b]fluoranthene,0.00313 ppb,,
+Bristol County Water Authority,Chromium (hexavalent),0.00488 ppb,0.02 ppb,
+Bristol County Water Authority,Chromium (total),0.0150 ppb,,100 ppb
+Bristol County Water Authority,Dibromoacetic acid,0.0269 ppb,0.04 ppb,
+Bristol County Water Authority,Fluoride,0.0769 ppm,,4 ppm
+Bristol County Water Authority,Manganese,0.675 ppb,100 ppb,
+Bristol County Water Authority,Monobromoacetic acid,0.0153 ppb,25 ppb,
+Bristol County Water Authority,Monochloroacetic acid,0.983 ppb,53 ppb,
+Bristol County Water Authority,Nitrate,0.157 ppm,0.14 ppm,10 ppm
+Bristol County Water Authority,Nitrite*,0.00250 ppm,,1 ppm
+Bristol County Water Authority,Selenium,0.0417 ppb,30 ppb,50 ppb
+Bristol County Water Authority,Strontium,0.0327 ppb,"1,500 ppb",
+Bristol County Water Authority,Vanadium,0.230 ppb,21 ppb,
+Bristol County Water Authority,None,,,
+Exeter Job Corps Center,Bromodichloromethane,2.14 ppb,0.06 ppb,
+Exeter Job Corps Center,Bromoform,1.46 ppb,0.5 ppb,
+Exeter Job Corps Center,Chloroform,1.38 ppb,0.4 ppb,
+Exeter Job Corps Center,Dibromoacetic acid,0.958 ppb,0.04 ppb,
+Exeter Job Corps Center,Dibromochloromethane,2.88 ppb,0.1 ppb,
+Exeter Job Corps Center,Dichloroacetic acid,0.708 ppb,0.2 ppb,
+Exeter Job Corps Center,Haloacetic acids (HAA5)†,1.67 ppb,0.1 ppb,60 ppb
+Exeter Job Corps Center,Nitrate*,2.97 ppm,0.14 ppm,10 ppm
+Exeter Job Corps Center,Nitrate and nitrite*,2.36 ppm,0.14 ppm,10 ppm
+Exeter Job Corps Center,Perfluorobutane sulfonate (PFBS)*,2.24 ppt,1 ppt,
+Exeter Job Corps Center,Perfluoroheptanoic acid (PFHPA)*,3.38 ppt,1 ppt,
+Exeter Job Corps Center,Perfluorooctane sulfonate (PFOS)*,10.2 ppt,1 ppt,
+Exeter Job Corps Center,Perfluorooctanoic acid (PFOA)*,9.02 ppt,0.007 ppt,
+Exeter Job Corps Center,Tetrachloroethylene (perchloroethylene)*,0.176 ppb,0.06 ppb,5 ppb
+Exeter Job Corps Center,Total PFOS and PFOA*,19.2 ppt,0.007 ppt,
+Exeter Job Corps Center,Total trihalomethanes (TTHMs)†,7.85 ppb,0.15 ppb,80 ppb
+Exeter Job Corps Center,Barium*,8.45 ppb,700 ppb,"2,000 ppb"
+Exeter Job Corps Center,Chlordane*,0.0479 ppb,0.03 ppb,2 ppb
+Exeter Job Corps Center,Perfluorohexanoic Acid (PFHxA)*,6.15 ppt,,
+Exeter Job Corps Center,Perfluoropentanoic Acid (PFPeA)*,5.43 ppt,,
+Exeter Job Corps Center,Trichlorofluoromethane*,0.113 ppb,"1,300 ppb",
+Exeter Job Corps Center,None,,,
+Narragansett Water Dept-north End,Bromodichloromethane,9.85 ppb,0.06 ppb,
+Narragansett Water Dept-north End,Bromoform,1.60 ppb,0.5 ppb,
+Narragansett Water Dept-north End,Chloroform,25.8 ppb,0.4 ppb,
+Narragansett Water Dept-north End,Dibromoacetic acid,0.632 ppb,0.04 ppb,
+Narragansett Water Dept-north End,Dibromochloromethane,5.24 ppb,0.1 ppb,
+Narragansett Water Dept-north End,Dichloroacetic acid,3.43 ppb,0.2 ppb,
+Narragansett Water Dept-north End,Haloacetic acids (HAA5)†,12.9 ppb,0.1 ppb,60 ppb
+Narragansett Water Dept-north End,Total trihalomethanes (TTHMs)†,39.4 ppb,0.15 ppb,80 ppb
+Narragansett Water Dept-north End,Trichloroacetic acid,8.56 ppb,0.1 ppb,
+Narragansett Water Dept-north End,Monochloroacetic acid,0.242 ppb,53 ppb,
+Narragansett Water Dept-north End,None,,,
+Narragansett Water Dept-north End,Bromodichloromethane,9.85 ppb,0.06 ppb,
+Narragansett Water Dept-north End,Bromoform,1.60 ppb,0.5 ppb,
+Narragansett Water Dept-north End,Chloroform,25.8 ppb,0.4 ppb,
+Narragansett Water Dept-north End,Dibromoacetic acid,0.632 ppb,0.04 ppb,
+Narragansett Water Dept-north End,Dibromochloromethane,5.24 ppb,0.1 ppb,
+Narragansett Water Dept-north End,Dichloroacetic acid,3.43 ppb,0.2 ppb,
+Narragansett Water Dept-north End,Haloacetic acids (HAA5)†,12.9 ppb,0.1 ppb,60 ppb
+Narragansett Water Dept-north End,Total trihalomethanes (TTHMs)†,39.4 ppb,0.15 ppb,80 ppb
+Narragansett Water Dept-north End,Trichloroacetic acid,8.56 ppb,0.1 ppb,
+Narragansett Water Dept-north End,Monochloroacetic acid,0.242 ppb,53 ppb,
+Narragansett Water Dept-north End,None,,,
+Stone Bridge Fire District,Bromodichloromethane,6.91 ppb,0.06 ppb,
+Stone Bridge Fire District,Chloroform,16.4 ppb,0.4 ppb,
+Stone Bridge Fire District,Dibromoacetic acid,0.210 ppb,0.04 ppb,
+Stone Bridge Fire District,Dibromochloromethane,2.01 ppb,0.1 ppb,
+Stone Bridge Fire District,Dichloroacetic acid,9.73 ppb,0.2 ppb,
+Stone Bridge Fire District,Haloacetic acids (HAA5)†,18.8 ppb,0.1 ppb,60 ppb
+Stone Bridge Fire District,Total trihalomethanes (TTHMs)†,34.4 ppb,0.15 ppb,80 ppb
+Stone Bridge Fire District,Trichloroacetic acid,7.28 ppb,0.1 ppb,
+Stone Bridge Fire District,Aldrin,0.00833 ppb,,
+Stone Bridge Fire District,Barium,10.5 ppb,700 ppb,"2,000 ppb"
+Stone Bridge Fire District,Benzo[a]pyrene,0.00833 ppb,0.007 ppb,0.2 ppb
+Stone Bridge Fire District,Benzo[b]fluoranthene,0.00833 ppb,,
+Stone Bridge Fire District,Di(2-ethylhexyl) phthalate,0.417 ppb,3 ppb,6 ppb
+Stone Bridge Fire District,Monochloroacetic acid,0.567 ppb,53 ppb,
+Stone Bridge Fire District,Nitrate,0.0300 ppm,0.14 ppm,10 ppm
+Stone Bridge Fire District,None,,,
+Fall River Water Department,Bromodichloromethane,8.47 ppb,0.06 ppb,
+Fall River Water Department,Chloroform,38.3 ppb,0.4 ppb,
+Fall River Water Department,Dibromoacetic acid,0.110 ppb,0.04 ppb,
+Fall River Water Department,Dibromochloromethane,1.41 ppb,0.1 ppb,
+Fall River Water Department,Dichloroacetic acid,10.9 ppb,0.2 ppb,
+Fall River Water Department,Haloacetic acids (HAA5)†,19.6 ppb,0.1 ppb,60 ppb
+Fall River Water Department,Haloacetic acids (HAA9)†,23.7 ppb,0.06 ppb,
+Fall River Water Department,Total trihalomethanes (TTHMs)†,48.6 ppb,0.15 ppb,80 ppb
+Fall River Water Department,Trichloroacetic acid,7.67 ppb,0.1 ppb,
+Fall River Water Department,Aluminum,17.8 ppb,600 ppb,
+Fall River Water Department,Barium,7.20 ppb,700 ppb,"2,000 ppb"
+Fall River Water Department,Chlorate,20.4 ppb,210 ppb,
+Fall River Water Department,Fluoride,0.762 ppm,,4 ppm
+Fall River Water Department,Manganese,8.19 ppb,100 ppb,
+Fall River Water Department,Monobromoacetic acid,0.0793 ppb,25 ppb,
+Fall River Water Department,Monochloroacetic acid,0.549 ppb,53 ppb,
+Fall River Water Department,Nitrate,0.0243 ppm,0.14 ppm,10 ppm
+Fall River Water Department,Perchlorate,0.0400 ppb,1 ppb,
+Fall River Water Department,Strontium,0.0191 ppb,"1,500 ppb",
+Fall River Water Department,Vanadium,0.0290 ppb,21 ppb,
+Fall River Water Department,None,,,
+University of Rhode Island,Chromium (hexavalent),0.226 ppb,0.02 ppb,
+University of Rhode Island,Dibromoacetic acid,1.15 ppb,0.04 ppb,
+University of Rhode Island,Dibromochloromethane,0.367 ppb,0.1 ppb,
+University of Rhode Island,Haloacetic acids (HAA5)†,3.11 ppb,0.1 ppb,60 ppb
+University of Rhode Island,Haloacetic acids (HAA9)†,2.01 ppb,0.06 ppb,
+University of Rhode Island,Nitrate,2.18 ppm,0.14 ppm,10 ppm
+University of Rhode Island,Nitrate and nitrite,2.47 ppm,0.14 ppm,10 ppm
+University of Rhode Island,Perfluorobutane sulfonate (PFBS),4.33 ppt,1 ppt,
+University of Rhode Island,Perfluorononanoic acid (PFNA),7.13 ppt,1 ppt,
+University of Rhode Island,Perfluorooctane sulfonate (PFOS),2.91 ppt,1 ppt,
+University of Rhode Island,Perfluorooctanoic acid (PFOA),3.29 ppt,0.007 ppt,
+University of Rhode Island,Total PFOS and PFOA,10.3 ppt,0.007 ppt,
+University of Rhode Island,Total trihalomethanes (TTHMs)†,4.73 ppb,0.15 ppb,80 ppb
+University of Rhode Island,"1,4-Dioxane",0.650 ppb,0.35 ppb,
+University of Rhode Island,Atrazine,0.0235 ppb,0.1 ppb,3 ppb
+University of Rhode Island,Barium,10.3 ppb,700 ppb,"2,000 ppb"
+University of Rhode Island,Bromoform,0.983 ppb,0.5 ppb,
+University of Rhode Island,Chlorate,17.9 ppb,210 ppb,
+University of Rhode Island,Chromium (total),0.707 ppb,,100 ppb
+University of Rhode Island,Dacthal,0.243 ppb,,
+University of Rhode Island,Ethylbenzene,0.110 ppb,300 ppb,700 ppb
+University of Rhode Island,Fluoride,0.344 ppm,,4 ppm
+University of Rhode Island,Manganese,57.7 ppb,100 ppb,
+University of Rhode Island,Perchlorate,1.61 ppb,1 ppb,
+University of Rhode Island,Perfluorohexane sulfonate (PFHXS),0.806 ppt,1 ppt,
+University of Rhode Island,Perfluorohexanoic Acid (PFHxA),1.97 ppt,,
+University of Rhode Island,Perfluoropentanoic Acid (PFPeA),1.43 ppt,,
+University of Rhode Island,Strontium,0.101 ppb,"1,500 ppb",
+University of Rhode Island,Vanadium,1.62 ppb,21 ppb,
+University of Rhode Island,Xylenes (total),0.751 ppb,"1,800 ppb","10,000 ppb"
+University of Rhode Island,None,,,
+Swansea Water District,Bromodichloromethane,8.68 ppb,0.06 ppb,
+Swansea Water District,Bromoform,11.0 ppb,0.5 ppb,
+Swansea Water District,Chloroform,16.0 ppb,0.4 ppb,
+Swansea Water District,Chromium (hexavalent),0.0535 ppb,0.02 ppb,
+Swansea Water District,Dibromoacetic acid,3.50 ppb,0.04 ppb,
+Swansea Water District,Dibromochloromethane,8.69 ppb,0.1 ppb,
+Swansea Water District,Dichloroacetic acid,7.87 ppb,0.2 ppb,
+Swansea Water District,Haloacetic acids (HAA5)†,23.6 ppb,0.1 ppb,60 ppb
+Swansea Water District,Haloacetic acids (HAA9)†,53.3 ppb,0.06 ppb,
+Swansea Water District,Nitrate,0.983 ppm,0.14 ppm,10 ppm
+Swansea Water District,"Radium, combined (-226 &amp; -228)",0.50 pCi/L,0.05 pCi/L,5 pCi/L
+Swansea Water District,Total trihalomethanes (TTHMs)†,56.6 ppb,0.15 ppb,80 ppb
+Swansea Water District,Trichloroacetic acid,10.7 ppb,0.1 ppb,
+Swansea Water District,Aluminum,10.6 ppb,600 ppb,
+Swansea Water District,Chlorate,398.9 ppb,210 ppb,
+Swansea Water District,Chromium (total),0.138 ppb,,100 ppb
+Swansea Water District,Cobalt,0.596 ppb,70 ppb,
+Swansea Water District,Dibromomethane,0.0206 ppb,,
+Swansea Water District,Fluoride,0.715 ppm,,4 ppm
+Swansea Water District,Manganese,174.8 ppb,100 ppb,
+Swansea Water District,Monobromoacetic acid,0.461 ppb,25 ppb,
+Swansea Water District,Monochloroacetic acid,0.855 ppb,53 ppb,
+Swansea Water District,Perchlorate,0.350 ppb,1 ppb,
+Swansea Water District,Strontium,0.120 ppb,"1,500 ppb",
+Swansea Water District,None,,,
+Blackstone Water Department,Bromodichloromethane,0.841 ppb,0.06 ppb,
+Blackstone Water Department,Dibromoacetic acid,0.793 ppb,0.04 ppb,
+Blackstone Water Department,Dibromochloromethane,0.849 ppb,0.1 ppb,
+Blackstone Water Department,Haloacetic acids (HAA5)†,1.59 ppb,0.1 ppb,60 ppb
+Blackstone Water Department,Manganese,214.8 ppb,100 ppb,
+Blackstone Water Department,Nitrate,1.34 ppm,0.14 ppm,10 ppm
+Blackstone Water Department,"Radium, combined (-226 &amp; -228)",0.46 pCi/L,0.05 pCi/L,5 pCi/L
+Blackstone Water Department,Total trihalomethanes (TTHMs)†,9.55 ppb,0.15 ppb,80 ppb
+Blackstone Water Department,Trichloroacetic acid,0.656 ppb,0.1 ppb,
+Blackstone Water Department,Barium,103.4 ppb,700 ppb,"2,000 ppb"
+Blackstone Water Department,Bromoform,0.236 ppb,0.5 ppb,
+Blackstone Water Department,Chloroform,0.518 ppb,0.4 ppb,
+Blackstone Water Department,Dibromomethane,0.0358 ppb,,
+Blackstone Water Department,Dichloroacetic acid,0.200 ppb,0.2 ppb,
+Blackstone Water Department,Monobromoacetic acid,0.124 ppb,25 ppb,
+Blackstone Water Department,Monochloroacetic acid,0.200 ppb,53 ppb,
+Blackstone Water Department,Perchlorate,0.0684 ppb,1 ppb,
+Blackstone Water Department,None,,,
+Bellingham Dpw Water Sewer Div.,Arsenic,0.265 ppb,0.004 ppb,10 ppb
+Bellingham Dpw Water Sewer Div.,Bromodichloromethane,8.25 ppb,0.06 ppb,
+Bellingham Dpw Water Sewer Div.,Chloroform,17.7 ppb,0.4 ppb,
+Bellingham Dpw Water Sewer Div.,Chromium (hexavalent),0.210 ppb,0.02 ppb,
+Bellingham Dpw Water Sewer Div.,Dibromoacetic acid,0.594 ppb,0.04 ppb,
+Bellingham Dpw Water Sewer Div.,Dibromochloromethane,2.66 ppb,0.1 ppb,
+Bellingham Dpw Water Sewer Div.,Dichloroacetic acid,9.12 ppb,0.2 ppb,
+Bellingham Dpw Water Sewer Div.,Haloacetic acids (HAA5)†,30.2 ppb,0.1 ppb,60 ppb
+Bellingham Dpw Water Sewer Div.,Haloacetic acids (HAA9)†,38.0 ppb,0.06 ppb,
+Bellingham Dpw Water Sewer Div.,Nitrate,1.00 ppm,0.14 ppm,10 ppm
+Bellingham Dpw Water Sewer Div.,Perfluorooctanoic acid (PFOA),0.532 ppt,0.007 ppt,
+Bellingham Dpw Water Sewer Div.,"Radium, combined (-226 &amp; -228)",0.60 pCi/L,0.05 pCi/L,5 pCi/L
+Bellingham Dpw Water Sewer Div.,Total trihalomethanes (TTHMs)†,49.7 ppb,0.15 ppb,80 ppb
+Bellingham Dpw Water Sewer Div.,Trichloroacetic acid,18.4 ppb,0.1 ppb,
+Bellingham Dpw Water Sewer Div.,Atrazine,0.00882 ppb,0.1 ppb,3 ppb
+Bellingham Dpw Water Sewer Div.,Barium,51.3 ppb,700 ppb,"2,000 ppb"
+Bellingham Dpw Water Sewer Div.,Bromoform,0.0666 ppb,0.5 ppb,
+Bellingham Dpw Water Sewer Div.,Chlorate,260.6 ppb,210 ppb,
+Bellingham Dpw Water Sewer Div.,Chlorodifluoromethane,0.0433 ppb,,
+Bellingham Dpw Water Sewer Div.,Chloromethane,0.00419 ppb,2.69 ppb,
+Bellingham Dpw Water Sewer Div.,Chromium (total),0.160 ppb,,100 ppb
+Bellingham Dpw Water Sewer Div.,Manganese,179.4 ppb,100 ppb,
+Bellingham Dpw Water Sewer Div.,Molybdenum,0.163 ppb,40 ppb,
+Bellingham Dpw Water Sewer Div.,Monobromoacetic acid,0.251 ppb,25 ppb,
+Bellingham Dpw Water Sewer Div.,Monochloroacetic acid,0.990 ppb,53 ppb,
+Bellingham Dpw Water Sewer Div.,Nitrite,0.000617 ppm,,1 ppm
+Bellingham Dpw Water Sewer Div.,Perchlorate,0.0448 ppb,1 ppb,
+Bellingham Dpw Water Sewer Div.,Perfluorobutane sulfonate (PFBS),0.185 ppt,1 ppt,
+Bellingham Dpw Water Sewer Div.,Perfluoroheptanoic acid (PFHPA),0.544 ppt,1 ppt,
+Bellingham Dpw Water Sewer Div.,Perfluorohexane sulfonate (PFHXS),0.335 ppt,1 ppt,
+Bellingham Dpw Water Sewer Div.,Perfluorohexanoic Acid (PFHxA),4.23 ppt,,
+Bellingham Dpw Water Sewer Div.,Perfluorooctane sulfonate (PFOS),0.696 ppt,1 ppt,
+Bellingham Dpw Water Sewer Div.,Strontium,0.128 ppb,"1,500 ppb",
+Bellingham Dpw Water Sewer Div.,Tetrachloroethylene (perchloroethylene),0.00918 ppb,0.06 ppb,5 ppb
+Bellingham Dpw Water Sewer Div.,Toluene,0.194 ppb,150 ppb,"1,000 ppb"
+Bellingham Dpw Water Sewer Div.,Vanadium,0.160 ppb,21 ppb,
+Bellingham Dpw Water Sewer Div.,Xylenes (total),0.0129 ppb,"1,800 ppb","10,000 ppb"
+Bellingham Dpw Water Sewer Div.,None,,,
+East Smithfield Water District - Whipple,Bromodichloromethane,3.44 ppb,0.06 ppb,
+East Smithfield Water District - Whipple,Chloroform,57.6 ppb,0.4 ppb,
+East Smithfield Water District - Whipple,Dibromoacetic acid,0.375 ppb,0.04 ppb,
+East Smithfield Water District - Whipple,Dichloroacetic acid,17.7 ppb,0.2 ppb,
+East Smithfield Water District - Whipple,Haloacetic acids (HAA5)†,22.5 ppb,0.1 ppb,60 ppb
+East Smithfield Water District - Whipple,Haloacetic acids (HAA9)*†,19.5 ppb,0.06 ppb,
+East Smithfield Water District - Whipple,Total trihalomethanes (TTHMs)†,65.3 ppb,0.15 ppb,80 ppb
+East Smithfield Water District - Whipple,Trichloroacetic acid,1.63 ppb,0.1 ppb,
+East Smithfield Water District - Whipple,Dibromochloromethane,0.0625 ppb,0.1 ppb,
+East Smithfield Water District - Whipple,Manganese*,1.03 ppb,100 ppb,
+East Smithfield Water District - Whipple,Monochloroacetic acid,1.40 ppb,53 ppb,
+East Smithfield Water District - Whipple,None,,,

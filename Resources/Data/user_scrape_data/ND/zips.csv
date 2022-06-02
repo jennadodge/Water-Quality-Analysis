@@ -1,0 +1,389 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+58001,46.44837,-96.74134,Abercrombie,ND,North Dakota,True,,,,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58002,46.97562,-97.40785,Absaraka,ND,North Dakota,True,,5.0,0.6,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58004,47.02713,-97.26212,Amenia,ND,North Dakota,True,,298.0,2.2,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58005,47.05261,-96.951,Argusville,ND,North Dakota,True,,1034.0,3.9,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58006,47.09682,-97.20359,Arthur,ND,North Dakota,True,,363.0,2.8,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58007,47.02519,-97.45724,Ayr,ND,North Dakota,True,,94.0,0.7,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58008,46.30816,-97.00237,Barney,ND,North Dakota,True,,172.0,1.2,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58009,47.32658,-97.24435,Blanchard,ND,North Dakota,True,,35.0,0.4,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58011,46.92711,-97.54465,Buffalo,ND,North Dakota,True,,527.0,1.8,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58012,46.93639,-97.16113,Casselton,ND,North Dakota,True,,3021.0,15.9,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58013,46.06037,-97.35877,Cayuga,ND,North Dakota,True,,130.0,0.7,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago
+58015,46.59225,-96.81544,Christine,ND,North Dakota,True,,229.0,4.2,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58016,47.36609,-97.46293,Clifford,ND,North Dakota,True,,191.0,1.1,38097,Traill,"{""38097"": 54.6, ""38091"": 45.4}",Traill|Steele,38097|38091,False,False,America/Chicago
+58017,46.04157,-97.84535,Cogswell,ND,North Dakota,True,,284.0,0.6,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago
+58018,46.43458,-96.8887,Colfax,ND,North Dakota,True,,495.0,2.6,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58021,46.73837,-97.08102,Davenport,ND,North Dakota,True,,501.0,3.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58027,46.63217,-97.61816,Enderlin,ND,North Dakota,True,,1375.0,2.9,38073,Ransom,"{""38073"": 44.5, ""38017"": 41.51, ""38003"": 13.99}",Ransom|Cass|Barnes,38073|38017|38003,False,False,America/Chicago
+58029,47.11726,-97.39001,Erie,ND,North Dakota,True,,47.0,0.4,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58030,46.03035,-96.66818,Fairmount,ND,North Dakota,True,,613.0,1.8,38077,Richland,"{""38077"": 98.67, ""27167"": 1.33}",Richland|Wilkin,38077|27167,False,False,America/Chicago
+58031,46.76222,-97.6686,Fingal,ND,North Dakota,True,,417.0,1.1,38017,Cass,"{""38017"": 53.79, ""38003"": 46.21}",Cass|Barnes,38017|38003,False,False,America/Chicago
+58032,46.07071,-97.64413,Forman,ND,North Dakota,True,,651.0,2.3,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago
+58033,46.44019,-97.92628,Fort Ransom,ND,North Dakota,True,,491.0,1.3,38073,Ransom,"{""38073"": 100}",Ransom,38073,False,False,America/Chicago
+58035,47.25599,-97.41589,Galesburg,ND,North Dakota,True,,244.0,1.0,38097,Traill,"{""38097"": 42.33, ""38017"": 33.66, ""38091"": 24.01}",Traill|Cass|Steele,38097|38017|38091,False,False,America/Chicago
+58036,47.15463,-96.96318,Gardner,ND,North Dakota,True,,221.0,1.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58038,47.24505,-96.99484,Grandin,ND,North Dakota,True,,251.0,1.2,38097,Traill,"{""38097"": 59.94, ""38017"": 40.06}",Traill|Cass,38097|38017,False,False,America/Chicago
+58040,46.21618,-97.75204,Gwinner,ND,North Dakota,True,,1187.0,6.1,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago
+58041,46.04775,-96.91006,Hankinson,ND,North Dakota,True,,1565.0,3.1,38077,Richland,"{""38077"": 99.24, ""46109"": 0.76}",Richland|Roberts,38077|46109,False,False,America/Chicago
+58042,46.96952,-96.95719,Harwood,ND,North Dakota,True,,1334.0,11.9,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58043,45.97356,-97.53205,Havana,ND,North Dakota,True,,197.0,1.3,38081,Sargent,"{""38081"": 95.17, ""46091"": 4.83}",Sargent|Marshall,38081|46091,False,False,America/Chicago
+58045,47.38241,-97.02686,Hillsboro,ND,North Dakota,True,,2003.0,3.7,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58046,47.32203,-97.72747,Hope,ND,North Dakota,True,,527.0,0.9,38091,Steele,"{""38091"": 85.34, ""38003"": 13.0, ""38017"": 1.66}",Steele|Barnes|Cass,38091|38003|38017,False,False,America/Chicago
+58047,46.7159,-96.87946,Horace,ND,North Dakota,True,,4075.0,22.4,38017,Cass,"{""38017"": 97.37, ""38077"": 2.63}",Cass|Richland,38017|38077,False,False,America/Chicago
+58048,47.19882,-97.22742,Hunter,ND,North Dakota,True,,484.0,1.7,38017,Cass,"{""38017"": 76.12, ""38097"": 23.88}",Cass|Traill,38017|38097,False,False,America/Chicago
+58049,46.66291,-98.00054,Kathryn,ND,North Dakota,True,,304.0,0.9,38003,Barnes,"{""38003"": 69.78, ""38073"": 22.68, ""38045"": 7.54}",Barnes|Ransom|LaMoure,38003|38073|38045,False,False,America/Chicago
+58051,46.63952,-97.0302,Kindred,ND,North Dakota,True,,1781.0,6.2,38017,Cass,"{""38017"": 59.32, ""38077"": 40.68}",Cass|Richland,38017|38077,False,False,America/Chicago
+58052,46.63552,-97.28011,Leonard,ND,North Dakota,True,,602.0,1.5,38017,Cass,"{""38017"": 55.98, ""38077"": 32.91, ""38073"": 11.11}",Cass|Richland|Ransom,38017|38077|38073,False,False,America/Chicago
+58053,46.05058,-97.18007,Lidgerwood,ND,North Dakota,True,,1184.0,2.0,38077,Richland,"{""38077"": 71.39, ""38081"": 20.86, ""46109"": 5.8, ""46091"": 1.95}",Richland|Sargent|Roberts|Marshall,38077|38081|46109|46091,False,False,America/Chicago
+58054,46.42622,-97.66845,Lisbon,ND,North Dakota,True,,2804.0,3.8,38073,Ransom,"{""38073"": 100}",Ransom,38073,False,False,America/Chicago
+58056,47.23868,-97.93621,Luverne,ND,North Dakota,True,,129.0,0.6,38003,Barnes,"{""38003"": 43.57, ""38091"": 43.43, ""38039"": 13.0}",Barnes|Steele|Griggs,38003|38091|38039,False,False,America/Chicago
+58057,46.42548,-97.26747,Mcleod,ND,North Dakota,True,,141.0,0.6,38077,Richland,"{""38077"": 58.57, ""38073"": 41.43}",Richland|Ransom,38077|38073,False,False,America/Chicago
+58058,46.1806,-96.97159,Mantador,ND,North Dakota,True,,118.0,2.0,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58059,46.83825,-97.11812,Mapleton,ND,North Dakota,True,,1632.0,5.6,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58060,46.26745,-97.43423,Milnor,ND,North Dakota,True,,1111.0,1.8,38081,Sargent,"{""38081"": 58.46, ""38073"": 41.17, ""38077"": 0.37}",Sargent|Ransom|Richland,38081|38073|38077,False,False,America/Chicago
+58061,46.27721,-96.89564,Mooreton,ND,North Dakota,True,,276.0,1.6,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58062,46.64361,-97.82937,Nome,ND,North Dakota,True,,176.0,1.4,38003,Barnes,"{""38003"": 58.86, ""38073"": 41.14}",Barnes|Ransom,38003|38073,False,False,America/Chicago
+58063,46.96773,-97.80471,Oriska,ND,North Dakota,True,,458.0,1.4,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago
+58064,47.15036,-97.62761,Page,ND,North Dakota,True,,534.0,1.2,38017,Cass,"{""38017"": 74.42, ""38003"": 23.88, ""38091"": 1.7}",Cass|Barnes|Steele,38017|38003|38091,False,False,America/Chicago
+58065,47.20035,-97.76612,Pillsbury,ND,North Dakota,True,,33.0,3.0,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago
+58067,46.06826,-97.48906,Rutland,ND,North Dakota,True,,244.0,1.6,38081,Sargent,"{""38081"": 100}",Sargent,38081,False,False,America/Chicago
+58068,46.54619,-97.40896,Sheldon,ND,North Dakota,True,,404.0,1.5,38073,Ransom,"{""38073"": 98.22, ""38017"": 1.78}",Ransom|Cass,38073|38017,False,False,America/Chicago
+58069,46.24102,-97.83194,Stirum,ND,North Dakota,True,,110.0,0.6,38081,Sargent,"{""38081"": 95.56, ""38073"": 4.44}",Sargent|Ransom,38081|38073,False,False,America/Chicago
+58071,46.9436,-97.68278,Tower City,ND,North Dakota,True,,410.0,1.5,38017,Cass,"{""38017"": 56.03, ""38003"": 43.97}",Cass|Barnes,38017|38003,False,False,America/Chicago
+58072,46.92731,-98.00791,Valley City,ND,North Dakota,True,,7514.0,8.9,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago
+58074,46.21807,-96.87603,Wahpeton,ND,North Dakota,True,,,,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58075,46.27426,-96.72211,Wahpeton,ND,North Dakota,True,,9300.0,15.3,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58076,46.27416,-96.60746,Wahpeton,ND,North Dakota,True,,334.0,1782.0,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58077,46.52457,-96.97593,Walcott,ND,North Dakota,True,,804.0,2.3,38077,Richland,"{""38077"": 100}",Richland,38077,False,False,America/Chicago
+58078,46.86276,-96.93125,West Fargo,ND,North Dakota,True,,36825.0,357.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58079,46.86816,-97.34827,Wheatland,ND,North Dakota,True,,414.0,1.1,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58081,46.31392,-97.14378,Wyndmere,ND,North Dakota,True,,835.0,1.8,38077,Richland,"{""38077"": 99.72, ""38081"": 0.28}",Richland|Sargent,38077|38081,False,False,America/Chicago
+58102,46.9207,-96.83175,Fargo,ND,North Dakota,True,,30329.0,370.1,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58103,46.85639,-96.82234,Fargo,ND,North Dakota,True,,49209.0,1658.6,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58104,46.79371,-96.83838,Fargo,ND,North Dakota,True,,43925.0,604.7,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58105,46.89586,-96.80363,Fargo,ND,North Dakota,True,,2242.0,3644.0,38017,Cass,"{""38017"": 100}",Cass,38017,False,False,America/Chicago
+58201,47.86938,-97.14013,Grand Forks,ND,North Dakota,True,,41096.0,229.8,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58202,47.92224,-97.07435,Grand Forks,ND,North Dakota,True,,1598.0,1427.5,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58203,47.97181,-97.15425,Grand Forks,ND,North Dakota,True,,16010.0,90.0,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58204,47.96046,-97.37079,Grand Forks Afb,ND,North Dakota,True,,2383.0,754.9,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58205,47.95475,-97.39525,Grand Forks Afb,ND,North Dakota,True,,,,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58210,48.4081,-98.11446,Adams,ND,North Dakota,True,,340.0,0.8,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago
+58212,47.6987,-97.99541,Aneta,ND,North Dakota,True,,382.0,0.7,38063,Nelson,"{""38063"": 47.33, ""38039"": 34.0, ""38035"": 12.32, ""38091"": 6.35}",Nelson|Griggs|Grand Forks|Steele,38063|38039|38035|38091,False,False,America/Chicago
+58214,47.92694,-97.49747,Arvilla,ND,North Dakota,True,,289.0,1.4,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58216,48.87937,-97.4429,Bathgate,ND,North Dakota,True,,239.0,1.3,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58218,47.59689,-97.05412,Buxton,ND,North Dakota,True,,810.0,2.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58219,47.47606,-96.87831,Caledonia,ND,North Dakota,True,,48.0,3.2,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58220,48.79446,-97.73789,Cavalier,ND,North Dakota,True,,2048.0,4.5,38067,Pembina,"{""38067"": 91.8, ""38019"": 8.2}",Pembina|Cavalier,38067|38019,False,False,America/Chicago
+58222,48.61853,-97.68221,Crystal,ND,North Dakota,True,,254.0,1.4,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58223,47.51384,-97.02573,Cummings,ND,North Dakota,True,,118.0,0.6,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58224,48.16777,-97.94307,Dahlen,ND,North Dakota,True,,41.0,1.1,38063,Nelson,"{""38063"": 100}",Nelson,38063,False,False,America/Chicago
+58225,48.61208,-97.21753,Drayton,ND,North Dakota,True,,1009.0,1.7,38067,Pembina,"{""38067"": 65.71, ""38099"": 22.91, ""27069"": 11.38}",Pembina|Walsh|Kittson,38067|38099|27069,False,False,America/Chicago
+58227,48.55247,-97.90549,Edinburg,ND,North Dakota,True,,515.0,1.8,38099,Walsh,"{""38099"": 49.25, ""38067"": 39.53, ""38019"": 11.23}",Walsh|Pembina|Cavalier,38099|38067|38019,False,False,America/Chicago
+58228,47.87394,-97.34278,Emerado,ND,North Dakota,True,,839.0,3.0,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58229,48.5182,-98.25087,Fairdale,ND,North Dakota,True,,74.0,0.3,38099,Walsh,"{""38099"": 60.65, ""38019"": 32.92, ""38071"": 6.43}",Walsh|Cavalier|Ramsey,38099|38019|38071,False,False,America/Chicago
+58230,47.49097,-97.82622,Finley,ND,North Dakota,True,,678.0,1.5,38091,Steele,"{""38091"": 100}",Steele,38091,False,False,America/Chicago
+58231,48.20208,-97.82544,Fordville,ND,North Dakota,True,,328.0,1.1,38099,Walsh,"{""38099"": 59.82, ""38035"": 40.18}",Walsh|Grand Forks,38099|38035,False,False,America/Chicago
+58233,48.20253,-97.54982,Forest River,ND,North Dakota,True,,241.0,0.9,38099,Walsh,"{""38099"": 61.6, ""38035"": 38.4}",Walsh|Grand Forks,38099|38035,False,False,America/Chicago
+58235,48.09007,-97.48307,Gilby,ND,North Dakota,True,,519.0,2.5,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58236,48.71848,-97.50479,Glasston,ND,North Dakota,True,,,,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58237,48.41522,-97.40086,Grafton,ND,North Dakota,True,,5116.0,7.9,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago
+58238,48.77953,-97.39791,Hamilton,ND,North Dakota,True,,149.0,0.7,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58239,48.93842,-98.70877,Hannah,ND,North Dakota,True,,8.0,0.0,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58240,47.63491,-97.47675,Hatton,ND,North Dakota,True,,1316.0,3.6,38091,Steele,"{""38091"": 47.77, ""38097"": 33.01, ""38035"": 19.22}",Steele|Traill|Grand Forks,38091|38097|38035,False,False,America/Chicago
+58241,48.70442,-97.69772,Hensel,ND,North Dakota,True,,137.0,0.9,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58243,48.51423,-97.67956,Hoople,ND,North Dakota,True,,634.0,2.9,38099,Walsh,"{""38099"": 79.48, ""38067"": 20.52}",Walsh|Pembina,38099|38067,False,False,America/Chicago
+58244,48.11035,-97.65752,Inkster,ND,North Dakota,True,,63.0,1.0,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58249,48.82113,-98.32514,Langdon,ND,North Dakota,True,,2459.0,2.2,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58250,48.27496,-98.02897,Lankin,ND,North Dakota,True,,257.0,1.1,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago
+58251,47.94945,-97.6906,Larimore,ND,North Dakota,True,,1955.0,4.1,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58254,47.77111,-98.14748,Mcville,ND,North Dakota,True,,452.0,1.6,38063,Nelson,"{""38063"": 100}",Nelson,38063,False,False,America/Chicago
+58255,48.99683,-98.35392,Maida,ND,North Dakota,True,,,,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Winnipeg
+58256,48.08739,-97.20203,Manvel,ND,North Dakota,True,,721.0,3.3,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58257,47.49033,-97.28505,Mayville,ND,North Dakota,True,,2177.0,6.8,38097,Traill,"{""38097"": 100}",Traill,38097,False,False,America/Chicago
+58258,48.01142,-97.33984,Mekinock,ND,North Dakota,True,,433.0,5.6,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58259,48.02053,-98.12168,Michigan,ND,North Dakota,True,,427.0,1.0,38063,Nelson,"{""38063"": 100}",Nelson,38063,False,False,America/Chicago
+58260,48.63254,-98.04709,Milton,ND,North Dakota,True,,164.0,0.5,38019,Cavalier,"{""38019"": 98.32, ""38099"": 1.68}",Cavalier|Walsh,38019|38099,False,False,America/Chicago
+58261,48.22385,-97.31663,Minto,ND,North Dakota,True,,1353.0,3.1,38099,Walsh,"{""38099"": 63.94, ""38035"": 36.06}",Walsh|Grand Forks,38099|38035,False,False,America/Chicago
+58262,48.681,-97.87759,Mountain,ND,North Dakota,True,,97.0,2.3,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58265,48.95321,-97.5959,Neche,ND,North Dakota,True,,479.0,2.2,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58266,48.00127,-97.84967,Niagara,ND,North Dakota,True,,131.0,0.4,38035,Grand Forks,"{""38035"": 71.88, ""38063"": 28.12}",Grand Forks|Nelson,38035|38063,False,False,America/Chicago
+58267,47.75614,-97.62651,Northwood,ND,North Dakota,True,,1325.0,2.2,38035,Grand Forks,"{""38035"": 96.31, ""38091"": 3.69}",Grand Forks|Steele,38035|38091,False,False,America/Chicago
+58269,48.70158,-98.15518,Osnabrock,ND,North Dakota,True,,239.0,1.4,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58270,48.39336,-97.78848,Park River,ND,North Dakota,True,,1836.0,4.6,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago
+58271,48.90905,-97.28932,Pembina,ND,North Dakota,True,,519.0,2.0,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58272,48.00868,-97.9854,Petersburg,ND,North Dakota,True,,228.0,0.7,38063,Nelson,"{""38063"": 100}",Nelson,38063,False,False,America/Chicago
+58273,48.29747,-97.66275,Pisek,ND,North Dakota,True,,146.0,0.9,38099,Walsh,"{""38099"": 100}",Walsh,38099,False,False,America/Chicago
+58274,47.49158,-97.48989,Portland,ND,North Dakota,True,,1025.0,3.0,38091,Steele,"{""38091"": 54.45, ""38097"": 45.55}",Steele|Traill,38091|38097,False,False,America/Chicago
+58275,47.68956,-97.10609,Reynolds,ND,North Dakota,True,,665.0,2.2,38035,Grand Forks,"{""38035"": 70.48, ""38097"": 29.52}",Grand Forks|Traill,38035|38097,False,False,America/Chicago
+58276,48.62239,-97.45675,Saint Thomas,ND,North Dakota,True,,504.0,1.7,38067,Pembina,"{""38067"": 100}",Pembina,38067,False,False,America/Chicago
+58277,47.61403,-97.83176,Sharon,ND,North Dakota,True,,167.0,0.8,38091,Steele,"{""38091"": 100}",Steele,38091,False,False,America/Chicago
+58278,47.77761,-97.13084,Thompson,ND,North Dakota,True,,1928.0,7.1,38035,Grand Forks,"{""38035"": 100}",Grand Forks,38035,False,False,America/Chicago
+58281,48.85941,-98.61086,Wales,ND,North Dakota,True,,88.0,0.3,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58282,48.90897,-97.93252,Walhalla,ND,North Dakota,True,,1295.0,2.3,38067,Pembina,"{""38067"": 55.81, ""38019"": 44.19}",Pembina|Cavalier,38067|38019,False,False,America/Chicago
+58301,48.13015,-98.88798,Devils Lake,ND,North Dakota,True,,10221.0,14.4,38071,Ramsey,"{""38071"": 92.56, ""38005"": 7.44}",Ramsey|Benson,38071|38005,False,False,America/Chicago
+58310,48.57485,-99.5307,Agate,ND,North Dakota,True,,,,38079,Rolette,"{""38079"": 93.05, ""38095"": 6.95}",Rolette|Towner,38079|38095,False,False,America/Chicago
+58311,48.65111,-98.57312,Alsen,ND,North Dakota,True,,60.0,0.2,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58313,48.16615,-100.03685,Balta,ND,North Dakota,True,,,,38069,Pierce,"{""38069"": 100}",Pierce,38069,False,False,America/Chicago
+58316,48.83532,-99.78207,Belcourt,ND,North Dakota,True,,6922.0,26.6,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago
+58317,48.62576,-99.38679,Bisbee,ND,North Dakota,True,,149.0,0.4,38095,Towner,"{""38095"": 95.21, ""38079"": 4.79}",Towner|Rolette,38095|38079,False,False,America/Chicago
+58318,48.85121,-100.40303,Bottineau,ND,North Dakota,True,,3865.0,5.0,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago
+58321,48.2025,-98.32707,Brocket,ND,North Dakota,True,,45.0,0.1,38071,Ramsey,"{""38071"": 45.6, ""38063"": 37.9, ""38099"": 16.49}",Ramsey|Nelson|Walsh,38071|38063|38099,False,False,America/Chicago
+58323,48.84252,-98.91923,Calvin,ND,North Dakota,True,,91.0,0.5,38019,Cavalier,"{""38019"": 81.58, ""38095"": 18.42}",Cavalier|Towner,38019|38095,False,False,America/Chicago
+58324,48.48213,-99.21931,Cando,ND,North Dakota,True,,1409.0,2.2,38095,Towner,"{""38095"": 99.1, ""38005"": 0.9}",Towner|Benson,38095|38005,False,False,America/Chicago
+58325,48.28613,-99.15569,Churchs Ferry,ND,North Dakota,True,,92.0,0.4,38071,Ramsey,"{""38071"": 70.28, ""38005"": 29.72}",Ramsey|Benson,38071|38005,False,False,America/Chicago
+58327,48.10137,-98.5731,Crary,ND,North Dakota,True,,319.0,0.7,38071,Ramsey,"{""38071"": 100}",Ramsey,38071,False,False,America/Chicago
+58329,48.8682,-100.08927,Dunseith,ND,North Dakota,True,,3211.0,6.1,38079,Rolette,"{""38079"": 86.38, ""38009"": 13.62}",Rolette|Bottineau,38079|38009,False,False,America/Chicago
+58330,48.44208,-98.48275,Edmore,ND,North Dakota,True,,435.0,0.9,38071,Ramsey,"{""38071"": 97.67, ""38019"": 2.33}",Ramsey|Cavalier,38071|38019,False,False,America/Chicago
+58331,48.64014,-99.09293,Egeland,ND,North Dakota,True,,118.0,0.4,38095,Towner,"{""38095"": 100}",Towner,38095,False,False,America/Chicago
+58332,48.04596,-99.76725,Esmond,ND,North Dakota,True,,299.0,0.5,38005,Benson,"{""38005"": 76.91, ""38069"": 23.09}",Benson|Pierce,38005|38069,False,False,America/Chicago
+58335,47.97229,-99.00412,Fort Totten,ND,North Dakota,True,,1818.0,25.0,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58338,48.52879,-98.6313,Hampden,ND,North Dakota,True,,92.0,0.4,38071,Ramsey,"{""38071"": 54.02, ""38019"": 45.98}",Ramsey|Cavalier,38071|38019,False,False,America/Chicago
+58339,48.97175,-99.32709,Hansboro,ND,North Dakota,True,,,,38095,Towner,"{""38095"": 100}",Towner,38095,False,False,America/Chicago
+58341,47.77117,-99.85599,Harvey,ND,North Dakota,True,,2525.0,2.2,38103,Wells,"{""38103"": 73.74, ""38069"": 20.88, ""38005"": 2.73, ""38083"": 2.65}",Wells|Pierce|Benson|Sheridan,38103|38069|38005|38083,False,False,America/Chicago
+58343,48.29643,-99.72583,Knox,ND,North Dakota,True,,33.0,0.2,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58344,48.01471,-98.33857,Lakota,ND,North Dakota,True,,991.0,1.8,38063,Nelson,"{""38063"": 93.35, ""38071"": 6.65}",Nelson|Ramsey,38063|38071,False,False,America/Chicago
+58345,48.30564,-98.37436,Lawton,ND,North Dakota,True,,135.0,0.4,38071,Ramsey,"{""38071"": 64.86, ""38099"": 35.14}",Ramsey|Walsh,38071|38099,False,False,America/Chicago
+58346,48.28953,-99.42218,Leeds,ND,North Dakota,True,,570.0,1.1,38005,Benson,"{""38005"": 86.07, ""38095"": 12.44, ""38069"": 1.49}",Benson|Towner|Pierce,38005|38095|38069,False,False,America/Chicago
+58348,47.95509,-99.52365,Maddock,ND,North Dakota,True,,904.0,1.4,38005,Benson,"{""38005"": 89.49, ""38103"": 10.51}",Benson|Wells,38005|38103,False,False,America/Chicago
+58351,48.10218,-99.31394,Minnewaukan,ND,North Dakota,True,,359.0,0.8,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58352,48.70188,-98.86099,Munich,ND,North Dakota,True,,446.0,0.8,38019,Cavalier,"{""38019"": 88.24, ""38095"": 11.76}",Cavalier|Towner,38019|38095,False,False,America/Chicago
+58353,48.64005,-99.59928,Mylo,ND,North Dakota,True,,138.0,0.8,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago
+58355,48.57504,-98.38528,Nekoma,ND,North Dakota,True,,66.0,1.0,38019,Cavalier,"{""38019"": 100}",Cavalier,38019,False,False,America/Chicago
+58356,47.67103,-99.07804,New Rockford,ND,North Dakota,True,,1674.0,2.3,38027,Eddy,"{""38027"": 81.29, ""38103"": 12.72, ""38031"": 5.99}",Eddy|Wells|Foster,38027|38103|38031,False,False,America/Chicago
+58357,47.94429,-99.21831,Oberon,ND,North Dakota,True,,365.0,1.1,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58361,47.75841,-98.35458,Pekin,ND,North Dakota,True,,246.0,0.7,38063,Nelson,"{""38063"": 100}",Nelson,38063,False,False,America/Chicago
+58362,48.23099,-99.0554,Penn,ND,North Dakota,True,,0.0,0.0,38071,Ramsey,"{""38071"": 100}",Ramsey,38071,False,False,America/Chicago
+58363,48.76417,-99.46669,Perth,ND,North Dakota,True,,122.0,0.7,38095,Towner,"{""38095"": 81.19, ""38079"": 18.81}",Towner|Rolette,38095|38079,False,False,America/Chicago
+58365,48.83655,-99.23626,Rocklake,ND,North Dakota,True,,218.0,0.4,38095,Towner,"{""38095"": 100}",Towner,38095,False,False,America/Chicago
+58366,48.65242,-99.86654,Rolette,ND,North Dakota,True,,1202.0,1.7,38079,Rolette,"{""38079"": 93.46, ""38069"": 6.54}",Rolette|Pierce,38079|38069,False,False,America/Chicago
+58367,48.88179,-99.55163,Rolla,ND,North Dakota,True,,1707.0,3.4,38079,Rolette,"{""38079"": 62.63, ""38095"": 37.37}",Rolette|Towner,38079|38095,False,False,America/Chicago
+58368,48.25124,-100.04105,Rugby,ND,North Dakota,True,,3427.0,2.1,38069,Pierce,"{""38069"": 88.06, ""38049"": 6.82, ""38005"": 5.12}",Pierce|McHenry|Benson,38069|38049|38005,False,False,America/Chicago
+58369,48.95257,-99.83603,Saint John,ND,North Dakota,True,,1308.0,6.0,38079,Rolette,"{""38079"": 100}",Rolette,38079,False,False,America/Chicago
+58370,47.9842,-98.85977,Saint Michael,ND,North Dakota,True,,1429.0,10.5,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58372,48.93906,-99.00628,Sarles,ND,North Dakota,True,,133.0,0.4,38095,Towner,"{""38095"": 56.89, ""38019"": 43.11}",Towner|Cavalier,38095|38019,False,False,America/Chicago
+58374,47.82865,-99.09171,Sheyenne,ND,North Dakota,True,,631.0,1.0,38027,Eddy,"{""38027"": 52.39, ""38005"": 35.6, ""38103"": 12.01}",Eddy|Benson|Wells,38027|38005|38103,False,False,America/Chicago
+58377,48.46481,-98.87416,Starkweather,ND,North Dakota,True,,301.0,0.6,38071,Ramsey,"{""38071"": 68.02, ""38095"": 17.47, ""38019"": 14.51}",Ramsey|Towner|Cavalier,38071|38095|38019,False,False,America/Chicago
+58379,47.90707,-98.81907,Tokio,ND,North Dakota,True,,360.0,20.5,38005,Benson,"{""38005"": 100}",Benson,38005,False,False,America/Chicago
+58380,47.82872,-98.52029,Tolna,ND,North Dakota,True,,344.0,0.9,38063,Nelson,"{""38063"": 51.46, ""38027"": 34.6, ""38005"": 13.94}",Nelson|Eddy|Benson,38063|38027|38005,False,False,America/Chicago
+58381,47.82731,-98.74476,Warwick,ND,North Dakota,True,,371.0,0.8,38027,Eddy,"{""38027"": 60.44, ""38005"": 39.56}",Eddy|Benson,38027|38005,False,False,America/Chicago
+58382,48.31727,-98.79252,Webster,ND,North Dakota,True,,121.0,0.4,38071,Ramsey,"{""38071"": 100}",Ramsey,38071,False,False,America/Chicago
+58384,48.59401,-100.26465,Willow City,ND,North Dakota,True,,386.0,0.4,38009,Bottineau,"{""38009"": 42.77, ""38049"": 22.36, ""38069"": 20.75, ""38079"": 14.11}",Bottineau|McHenry|Pierce|Rolette,38009|38049|38069|38079,False,False,America/Chicago
+58385,48.47945,-99.65989,Wolford,ND,North Dakota,True,,232.0,0.8,38069,Pierce,"{""38069"": 95.55, ""38079"": 4.45}",Pierce|Rolette,38069|38079,False,False,America/Chicago
+58386,48.31696,-99.59227,York,ND,North Dakota,True,,113.0,0.4,38005,Benson,"{""38005"": 67.33, ""38069"": 32.67}",Benson|Pierce,38005|38069,False,False,America/Chicago
+58401,46.88145,-98.76883,Jamestown,ND,North Dakota,True,,16957.0,15.3,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58402,46.88191,-98.68755,Jamestown,ND,North Dakota,True,,260.0,2443.3,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58405,46.91454,-98.69673,Jamestown,ND,North Dakota,True,,440.0,1028.5,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58413,46.02963,-99.34235,Ashley,ND,North Dakota,True,,987.0,0.8,38051,McIntosh,"{""38051"": 85.08, ""38021"": 8.35, ""46089"": 6.57}",McIntosh|Dickey|McPherson,38051|38021|46089,False,False,America/Chicago
+58415,46.36602,-98.48587,Berlin,ND,North Dakota,True,,215.0,1.4,38045,LaMoure,"{""38045"": 100}",LaMoure,38045,False,False,America/Chicago
+58416,47.54767,-98.35694,Binford,ND,North Dakota,True,,325.0,0.6,38039,Griggs,"{""38039"": 100}",Griggs,38039,False,False,America/Chicago
+58418,47.41493,-99.63524,Bowdon,ND,North Dakota,True,,355.0,0.6,38103,Wells,"{""38103"": 82.27, ""38043"": 17.73}",Wells|Kidder,38103|38043,False,False,America/Chicago
+58420,47.06072,-98.86734,Buchanan,ND,North Dakota,True,,254.0,0.7,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58421,47.43974,-99.06968,Carrington,ND,North Dakota,True,,2746.0,2.6,38031,Foster,"{""38031"": 82.9, ""38093"": 8.08, ""38103"": 5.63, ""38027"": 3.39}",Foster|Stutsman|Wells|Eddy,38031|38093|38103|38027,False,False,America/Chicago
+58422,47.59853,-99.39531,Cathay,ND,North Dakota,True,,114.0,0.3,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago
+58423,47.41899,-99.82951,Chaseley,ND,North Dakota,True,,52.0,0.2,38103,Wells,"{""38103"": 73.55, ""38043"": 26.45}",Wells|Kidder,38103|38043,False,False,America/Chicago
+58424,46.87554,-99.10217,Cleveland,ND,North Dakota,True,,314.0,0.7,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58425,47.45391,-98.12378,Cooperstown,ND,North Dakota,True,,1448.0,2.7,38039,Griggs,"{""38039"": 98.65, ""38091"": 1.35}",Griggs|Steele,38039|38091,False,False,America/Chicago
+58426,47.21972,-98.58075,Courtenay,ND,North Dakota,True,,311.0,0.9,38093,Stutsman,"{""38093"": 95.52, ""38031"": 4.48}",Stutsman|Foster,38093|38031,False,False,America/Chicago
+58428,46.81162,-99.75809,Dawson,ND,North Dakota,True,,197.0,0.5,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago
+58429,47.18768,-98.16282,Dazey,ND,North Dakota,True,,355.0,1.1,38003,Barnes,"{""38003"": 97.71, ""38039"": 2.29}",Barnes|Griggs,38003|38039,False,False,America/Chicago
+58430,47.50831,-100.25954,Denhoff,ND,North Dakota,True,,141.0,0.6,38083,Sheridan,"{""38083"": 100}",Sheridan,38083,False,False,America/Chicago
+58431,46.50522,-98.49658,Dickey,ND,North Dakota,True,,113.0,0.6,38045,LaMoure,"{""38045"": 100}",LaMoure,38045,False,False,America/Chicago
+58433,46.36989,-98.72157,Edgeley,ND,North Dakota,True,,1181.0,1.4,38045,LaMoure,"{""38045"": 80.27, ""38021"": 19.73}",LaMoure|Dickey,38045|38021,False,False,America/Chicago
+58436,46.08203,-98.58773,Ellendale,ND,North Dakota,True,,1581.0,1.9,38021,Dickey,"{""38021"": 95.42, ""46013"": 4.58}",Dickey|Brown,38021|46013,False,False,America/Chicago
+58438,47.66247,-99.57983,Fessenden,ND,North Dakota,True,,831.0,2.0,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago
+58439,45.96738,-98.82994,Forbes,ND,North Dakota,True,,114.0,0.2,38021,Dickey,"{""38021"": 62.89, ""46089"": 34.85, ""46013"": 2.26}",Dickey|McPherson|Brown,38021|46089|46013,False,False,America/Chicago
+58440,46.27941,-99.16324,Fredonia,ND,North Dakota,True,,93.0,0.2,38047,Logan,"{""38047"": 53.73, ""38051"": 46.27}",Logan|McIntosh,38047|38051,False,False,America/Chicago
+58441,46.17119,-98.37844,Fullerton,ND,North Dakota,True,,448.0,1.1,38021,Dickey,"{""38021"": 100}",Dickey,38021,False,False,America/Chicago
+58442,46.56518,-99.18184,Gackle,ND,North Dakota,True,,388.0,0.7,38047,Logan,"{""38047"": 79.45, ""38093"": 20.55}",Logan|Stutsman,38047|38093,False,False,America/Chicago
+58443,47.46374,-98.67239,Glenfield,ND,North Dakota,True,,161.0,0.6,38031,Foster,"{""38031"": 100}",Foster,38031,False,False,America/Chicago
+58444,47.48278,-100.13156,Goodrich,ND,North Dakota,True,,127.0,0.3,38083,Sheridan,"{""38083"": 100}",Sheridan,38083,False,False,America/Chicago
+58445,47.57036,-98.78869,Grace City,ND,North Dakota,True,,224.0,1.2,38031,Foster,"{""38031"": 65.43, ""38027"": 34.57}",Foster|Eddy,38031|38027,False,False,America/Chicago
+58448,47.30944,-98.21451,Hannaford,ND,North Dakota,True,,296.0,0.8,38039,Griggs,"{""38039"": 99.4, ""38003"": 0.6}",Griggs|Barnes,38039|38003,False,False,America/Chicago
+58451,47.45167,-99.95275,Hurdsfield,ND,North Dakota,True,,91.0,0.3,38103,Wells,"{""38103"": 100}",Wells,38103,False,False,America/Chicago
+58452,47.54019,-98.22911,Jessie,ND,North Dakota,True,,37.0,30.1,38039,Griggs,"{""38039"": 100}",Griggs,38039,False,False,America/Chicago
+58454,46.5978,-98.94038,Jud,ND,North Dakota,True,,349.0,0.6,38045,LaMoure,"{""38045"": 63.84, ""38093"": 36.16}",LaMoure|Stutsman,38045|38093,False,False,America/Chicago
+58455,47.30094,-98.72667,Kensal,ND,North Dakota,True,,429.0,1.1,38093,Stutsman,"{""38093"": 59.28, ""38031"": 40.72}",Stutsman|Foster,38093|38031,False,False,America/Chicago
+58456,46.25674,-98.95475,Kulm,ND,North Dakota,True,,583.0,1.0,38021,Dickey,"{""38021"": 44.05, ""38045"": 37.06, ""38051"": 18.89}",Dickey|LaMoure|McIntosh,38021|38045|38051,False,False,America/Chicago
+58458,46.36921,-98.29257,Lamoure,ND,North Dakota,True,,1203.0,2.5,38045,LaMoure,"{""38045"": 93.7, ""38021"": 6.3}",LaMoure|Dickey,38045|38021,False,False,America/Chicago
+58460,46.30991,-99.31907,Lehr,ND,North Dakota,True,,193.0,0.4,38047,Logan,"{""38047"": 59.55, ""38051"": 40.45}",Logan|McIntosh,38047|38051,False,False,America/Chicago
+58461,46.64958,-98.19248,Litchville,ND,North Dakota,True,,390.0,0.7,38003,Barnes,"{""38003"": 55.75, ""38045"": 44.25}",Barnes|LaMoure,38003|38045,False,False,America/Chicago
+58463,47.49662,-100.46281,Mcclusky,ND,North Dakota,True,,586.0,0.6,38083,Sheridan,"{""38083"": 100}",Sheridan,38083,False,False,America/Chicago
+58464,47.60786,-98.58849,Mchenry,ND,North Dakota,True,,199.0,0.5,38027,Eddy,"{""38027"": 54.97, ""38031"": 35.35, ""38039"": 9.68}",Eddy|Foster|Griggs,38027|38031|38039,False,False,America/Chicago
+58466,46.61489,-98.36493,Marion,ND,North Dakota,True,,515.0,1.2,38045,LaMoure,"{""38045"": 61.63, ""38003"": 35.93, ""38093"": 2.44}",LaMoure|Barnes|Stutsman,38045|38003|38093,False,False,America/Chicago
+58467,46.8746,-99.34103,Medina,ND,North Dakota,True,,752.0,1.3,38093,Stutsman,"{""38093"": 83.93, ""38043"": 16.07}",Stutsman|Kidder,38093|38043,False,False,America/Chicago
+58472,46.64135,-98.66055,Montpelier,ND,North Dakota,True,,465.0,1.1,38093,Stutsman,"{""38093"": 63.29, ""38045"": 36.71}",Stutsman|LaMoure,38093|38045,False,False,America/Chicago
+58474,46.09588,-98.13574,Oakes,ND,North Dakota,True,,2652.0,2.6,38021,Dickey,"{""38021"": 86.67, ""38081"": 12.6, ""38045"": 0.73}",Dickey|Sargent|LaMoure,38021|38081|38045,False,False,America/Chicago
+58475,47.14118,-99.53717,Pettibone,ND,North Dakota,True,,150.0,0.4,38043,Kidder,"{""38043"": 79.24, ""38093"": 20.76}",Kidder|Stutsman,38043|38093,False,False,America/Chicago
+58476,47.19398,-99.00263,Pingree,ND,North Dakota,True,,342.0,0.6,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58477,47.2208,-100.52294,Regan,ND,North Dakota,True,,143.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58478,47.16008,-99.74543,Robinson,ND,North Dakota,True,,121.0,0.3,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago
+58479,47.09254,-98.19948,Rogers,ND,North Dakota,True,,174.0,0.9,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago
+58480,46.94707,-98.25685,Sanborn,ND,North Dakota,True,,249.0,0.8,38003,Barnes,"{""38003"": 100}",Barnes,38003,False,False,America/Chicago
+58481,46.9346,-98.42814,Spiritwood,ND,North Dakota,True,,219.0,0.6,38003,Barnes,"{""38003"": 65.22, ""38093"": 34.78}",Barnes|Stutsman,38003|38093,False,False,America/Chicago
+58482,46.86669,-99.90465,Steele,ND,North Dakota,True,,1070.0,2.0,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago
+58483,46.66176,-99.42186,Streeter,ND,North Dakota,True,,294.0,0.7,38093,Stutsman,"{""38093"": 41.08, ""38043"": 30.71, ""38047"": 28.22}",Stutsman|Kidder|Logan,38093|38043|38047,False,False,America/Chicago
+58484,47.37821,-98.4687,Sutton,ND,North Dakota,True,,62.0,0.4,38039,Griggs,"{""38039"": 73.3, ""38031"": 26.7}",Griggs|Foster,38039|38031,False,False,America/Chicago
+58486,47.39421,-99.39279,Sykeston,ND,North Dakota,True,,226.0,0.6,38103,Wells,"{""38103"": 79.88, ""38093"": 20.12}",Wells|Stutsman,38103|38093,False,False,America/Chicago
+58487,46.85278,-99.60283,Tappen,ND,North Dakota,True,,518.0,0.9,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago
+58488,47.17552,-99.99709,Tuttle,ND,North Dakota,True,,134.0,0.2,38043,Kidder,"{""38043"": 100}",Kidder,38043,False,False,America/Chicago
+58490,46.38137,-98.06063,Verona,ND,North Dakota,True,,216.0,0.7,38045,LaMoure,"{""38045"": 70.46, ""38073"": 29.54}",LaMoure|Ransom,38045|38073,False,False,America/Chicago
+58492,47.15793,-98.43787,Wimbledon,ND,North Dakota,True,,424.0,1.2,38003,Barnes,"{""38003"": 54.64, ""38093"": 28.96, ""38039"": 16.4}",Barnes|Stutsman|Griggs,38003|38093|38039,False,False,America/Chicago
+58494,47.16306,-100.2744,Wing,ND,North Dakota,True,,412.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58495,46.27202,-99.60077,Wishek,ND,North Dakota,True,,1256.0,1.3,38051,McIntosh,"{""38051"": 60.35, ""38047"": 39.65}",McIntosh|Logan,38051|38047,False,False,America/Chicago
+58496,47.14063,-99.30794,Woodworth,ND,North Dakota,True,,132.0,0.2,38093,Stutsman,"{""38093"": 100}",Stutsman,38093,False,False,America/Chicago
+58497,46.76738,-98.54076,Ypsilanti,ND,North Dakota,True,,102.0,0.4,38093,Stutsman,"{""38093"": 92.1, ""38003"": 7.9}",Stutsman|Barnes,38093|38003,False,False,America/Chicago
+58501,46.8189,-100.70234,Bismarck,ND,North Dakota,True,,29419.0,498.1,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58503,46.90587,-100.75262,Bismarck,ND,North Dakota,True,,34970.0,99.6,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58504,46.7273,-100.6808,Bismarck,ND,North Dakota,True,,27607.0,103.2,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58505,46.82035,-100.78106,Bismarck,ND,North Dakota,True,,0.0,0.0,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58520,46.6758,-101.5409,Almont,ND,North Dakota,True,,223.0,0.4,38059,Morton,"{""38059"": 68.85, ""38037"": 31.15}",Morton|Grant,38059|38037,False,False,America/North_Dakota/New_Salem
+58521,47.0269,-100.66963,Baldwin,ND,North Dakota,True,,599.0,1.4,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58523,47.26581,-101.78138,Beulah,ND,North Dakota,True,,3607.0,5.6,38057,Mercer,"{""38057"": 72.5, ""38065"": 27.5}",Mercer|Oliver,38057|38065,False,False,America/North_Dakota/Beulah
+58524,46.61297,-100.07506,Braddock,ND,North Dakota,True,,68.0,0.2,38029,Emmons,"{""38029"": 56.65, ""38043"": 24.99, ""38015"": 18.36}",Emmons|Kidder|Burleigh,38029|38043|38015,False,False,America/Chicago
+58528,46.34174,-100.62751,Cannon Ball,ND,North Dakota,True,,779.0,5.1,38085,Sioux,"{""38085"": 100}",Sioux,38085,False,False,America/Chicago
+58529,46.30116,-101.56952,Carson,ND,North Dakota,True,,622.0,0.6,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver
+58530,47.13357,-101.15257,Center,ND,North Dakota,True,,1153.0,1.3,38065,Oliver,"{""38065"": 99.64, ""38057"": 0.36}",Oliver|Mercer,38065|38057,False,False,America/North_Dakota/Center
+58531,47.58387,-101.20289,Coleharbor,ND,North Dakota,True,,416.0,1.4,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58532,46.84571,-100.10631,Driscoll,ND,North Dakota,True,,278.0,0.5,38015,Burleigh,"{""38015"": 61.44, ""38043"": 38.56}",Burleigh|Kidder,38015|38043,False,False,America/Chicago
+58533,46.39433,-101.79598,Elgin,ND,North Dakota,True,,994.0,1.1,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver
+58535,46.48724,-101.24558,Flasher,ND,North Dakota,True,,434.0,0.5,38059,Morton,"{""38059"": 62.73, ""38037"": 37.27}",Morton|Grant,38059|38037,False,False,America/North_Dakota/New_Salem
+58538,46.08833,-100.66983,Fort Yates,ND,North Dakota,True,,2548.0,6.1,38085,Sioux,"{""38085"": 100}",Sioux,38085,False,False,America/Chicago
+58540,47.62427,-101.72538,Garrison,ND,North Dakota,True,,3065.0,3.3,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58541,47.33929,-102.05177,Golden Valley,ND,North Dakota,True,,632.0,1.1,38057,Mercer,"{""38057"": 100}",Mercer,38057,False,False,America/North_Dakota/Beulah
+58542,46.04976,-100.00269,Hague,ND,North Dakota,True,,278.0,0.6,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago
+58544,46.49833,-100.37062,Hazelton,ND,North Dakota,True,,544.0,0.7,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago
+58545,47.34916,-101.58921,Hazen,ND,North Dakota,True,,3327.0,4.1,38057,Mercer,"{""38057"": 77.69, ""38065"": 22.31}",Mercer|Oliver,38057|38065,False,False,America/North_Dakota/Beulah
+58549,46.46853,-99.93305,Kintyre,ND,North Dakota,True,,278.0,0.6,38029,Emmons,"{""38029"": 56.87, ""38047"": 40.09, ""38043"": 3.04}",Emmons|Logan|Kidder,38029|38047|38043,False,False,America/Chicago
+58552,46.26042,-100.29955,Linton,ND,North Dakota,True,,1538.0,1.2,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago
+58554,46.75148,-100.95036,Mandan,ND,North Dakota,True,,26551.0,17.9,38059,Morton,"{""38059"": 94.46, ""38065"": 5.54}",Morton|Oliver,38059|38065,False,False,America/North_Dakota/New_Salem
+58558,46.82106,-100.52127,Menoken,ND,North Dakota,True,,1202.0,3.4,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58559,47.4849,-100.71295,Mercer,ND,North Dakota,True,,208.0,0.5,38055,McLean,"{""38055"": 73.37, ""38083"": 26.63}",McLean|Sheridan,38055|38083,False,False,America/Chicago
+58560,46.65182,-100.32407,Moffit,ND,North Dakota,True,,195.0,0.6,38015,Burleigh,"{""38015"": 64.19, ""38029"": 35.81}",Burleigh|Emmons,38015|38029,False,False,America/Chicago
+58561,46.49706,-99.68118,Napoleon,ND,North Dakota,True,,972.0,1.1,38047,Logan,"{""38047"": 100}",Logan,38047,False,False,America/Chicago
+58562,46.36354,-102.01095,New Leipzig,ND,North Dakota,True,,403.0,0.5,38037,Grant,"{""38037"": 62.95, ""38041"": 28.67, ""38001"": 8.38}",Grant|Hettinger|Adams,38037|38041|38001,False,False,America/Denver
+58563,46.90178,-101.43257,New Salem,ND,North Dakota,True,,2261.0,1.5,38059,Morton,"{""38059"": 68.14, ""38065"": 30.17, ""38037"": 1.69}",Morton|Oliver|Grant,38059|38065|38037,False,False,America/North_Dakota/New_Salem
+58564,46.26252,-101.35,Raleigh,ND,North Dakota,True,,69.0,0.3,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver
+58565,47.49639,-101.37148,Riverdale,ND,North Dakota,True,,192.0,46.2,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58566,46.57835,-100.90673,Saint Anthony,ND,North Dakota,True,,144.0,0.5,38059,Morton,"{""38059"": 100}",Morton,38059,False,False,America/North_Dakota/New_Salem
+58568,46.09274,-101.01538,Selfridge,ND,North Dakota,True,,728.0,0.7,38085,Sioux,"{""38085"": 99.62, ""46031"": 0.38}",Sioux|Corson,38085|46031,False,False,America/Chicago
+58569,46.25777,-101.19276,Shields,ND,North Dakota,True,,82.0,0.2,38037,Grant,"{""38037"": 100}",Grant,38037,False,False,America/Denver
+58570,46.37243,-100.87237,Solen,ND,North Dakota,True,,493.0,0.6,38059,Morton,"{""38059"": 51.53, ""38085"": 48.47}",Morton|Sioux,38059|38085,False,False,America/North_Dakota/New_Salem
+58571,47.29134,-101.41043,Stanton,ND,North Dakota,True,,569.0,1.9,38057,Mercer,"{""38057"": 70.39, ""38065"": 29.61}",Mercer|Oliver,38057|38065,False,False,America/North_Dakota/Beulah
+58572,46.86455,-100.34313,Sterling,ND,North Dakota,True,,280.0,0.5,38015,Burleigh,"{""38015"": 100}",Burleigh,38015,False,False,America/Chicago
+58573,46.12542,-100.20709,Strasburg,ND,North Dakota,True,,650.0,1.3,38029,Emmons,"{""38029"": 100}",Emmons,38029,False,False,America/Chicago
+58575,47.55749,-100.89971,Turtle Lake,ND,North Dakota,True,,796.0,1.3,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58576,47.4406,-101.21597,Underwood,ND,North Dakota,True,,999.0,2.3,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58577,47.31983,-101.05319,Washburn,ND,North Dakota,True,,1828.0,3.6,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58579,47.18059,-100.74422,Wilton,ND,North Dakota,True,,1258.0,2.0,38015,Burleigh,"{""38015"": 69.52, ""38055"": 30.48}",Burleigh|McLean,38015|38055,False,False,America/Chicago
+58580,47.2665,-101.93301,Zap,ND,North Dakota,True,,318.0,0.8,38057,Mercer,"{""38057"": 100}",Mercer,38057,False,False,America/North_Dakota/Beulah
+58581,46.04646,-99.7983,Zeeland,ND,North Dakota,True,,235.0,0.7,38051,McIntosh,"{""38051"": 100}",McIntosh,38051,False,False,America/Chicago
+58601,46.90964,-102.82766,Dickinson,ND,North Dakota,True,,27075.0,18.3,38089,Stark,"{""38089"": 66.21, ""38025"": 33.79}",Stark|Dunn,38089|38025,False,False,America/Denver
+58620,46.49732,-103.3551,Amidon,ND,North Dakota,True,,132.0,0.2,38087,Slope,"{""38087"": 98.5, ""38007"": 1.5}",Slope|Billings,38087|38007,False,False,America/Denver
+58621,47.09771,-103.92652,Beach,ND,North Dakota,True,,1301.0,1.2,38033,Golden Valley,"{""38033"": 90.67, ""30109"": 4.38, ""38053"": 2.85, ""38007"": 2.1}",Golden Valley|Wibaux|McKenzie|Billings,38033|30109|38053|38007,False,False,America/Denver
+58622,46.88035,-103.24434,Belfield,ND,North Dakota,True,,1795.0,1.3,38007,Billings,"{""38007"": 70.96, ""38089"": 28.6, ""38087"": 0.44}",Billings|Stark|Slope,38007|38089|38087,False,False,America/Denver
+58623,46.16001,-103.42168,Bowman,ND,North Dakota,True,,2083.0,1.5,38011,Bowman,"{""38011"": 72.6, ""38087"": 25.46, ""46063"": 1.94}",Bowman|Slope|Harding,38011|38087|46063,False,False,America/Denver
+58625,47.28146,-102.19748,Dodge,ND,North Dakota,True,,261.0,1.0,38025,Dunn,"{""38025"": 72.37, ""38057"": 27.63}",Dunn|Mercer,38025|38057,False,False,America/Denver
+58626,47.37739,-102.60575,Dunn Center,ND,North Dakota,True,,648.0,1.4,38025,Dunn,"{""38025"": 100}",Dunn,38025,False,False,America/Denver
+58627,47.23532,-103.29713,Fairfield,ND,North Dakota,True,,182.0,0.2,38007,Billings,"{""38007"": 100}",Billings,38007,False,False,America/Denver
+58630,46.91981,-102.57603,Gladstone,ND,North Dakota,True,,704.0,1.6,38089,Stark,"{""38089"": 62.3, ""38025"": 37.7}",Stark|Dunn,38089|38025,False,False,America/Denver
+58631,46.7969,-101.82156,Glen Ullin,ND,North Dakota,True,,1027.0,1.1,38059,Morton,"{""38059"": 61.44, ""38037"": 29.75, ""38057"": 8.81}",Morton|Grant|Mercer,38059|38037|38057,False,False,America/North_Dakota/New_Salem
+58632,46.68316,-103.95078,Golva,ND,North Dakota,True,,197.0,1.1,38033,Golden Valley,"{""38033"": 100}",Golden Valley,38033,False,False,America/Denver
+58634,47.43683,-103.35647,Grassy Butte,ND,North Dakota,True,,255.0,0.3,38053,McKenzie,"{""38053"": 97.6, ""38007"": 2.4}",McKenzie|Billings,38053|38007,False,False,America/Denver
+58636,47.38924,-102.35351,Halliday,ND,North Dakota,True,,1016.0,1.0,38025,Dunn,"{""38025"": 94.09, ""38057"": 5.91}",Dunn|Mercer,38025|38057,False,False,America/Denver
+58638,46.92201,-102.04867,Hebron,ND,North Dakota,True,,996.0,1.2,38059,Morton,"{""38059"": 42.58, ""38057"": 30.27, ""38089"": 16.44, ""38037"": 6.63, ""38025"": 4.08}",Morton|Mercer|Stark|Grant|Dunn,38059|38057|38089|38037|38025,False,False,America/North_Dakota/New_Salem
+58639,46.04056,-102.63905,Hettinger,ND,North Dakota,True,,1725.0,1.2,38001,Adams,"{""38001"": 78.81, ""46105"": 21.19}",Adams|Perkins,38001|46105,False,False,America/Denver
+58640,47.44409,-102.89681,Killdeer,ND,North Dakota,True,,1436.0,1.3,38025,Dunn,"{""38025"": 97.96, ""38007"": 1.18, ""38053"": 0.86}",Dunn|Billings|McKenzie,38025|38007|38053,False,False,America/Denver
+58641,46.66732,-102.48551,Lefor,ND,North Dakota,True,,87.0,0.4,38089,Stark,"{""38089"": 100}",Stark,38089,False,False,America/Denver
+58642,47.20145,-102.83667,Manning,ND,North Dakota,True,,332.0,0.7,38025,Dunn,"{""38025"": 94.65, ""38007"": 5.35}",Dunn|Billings,38025|38007,False,False,America/Denver
+58643,46.22974,-103.95091,Marmarth,ND,North Dakota,True,,180.0,0.5,38011,Bowman,"{""38011"": 70.28, ""38087"": 29.72}",Bowman|Slope,38011|38087,False,False,America/Denver
+58644,47.14095,-102.35867,Marshall,ND,North Dakota,True,,,,38025,Dunn,"{""38025"": 100}",Dunn,38025,False,False,America/Denver
+58645,46.95845,-103.52945,Medora,ND,North Dakota,True,,227.0,0.2,38007,Billings,"{""38007"": 92.08, ""38033"": 7.92}",Billings|Golden Valley,38007|38033,False,False,America/Denver
+58646,46.39826,-102.28782,Mott,ND,North Dakota,True,,1114.0,0.7,38041,Hettinger,"{""38041"": 89.66, ""38001"": 8.94, ""38089"": 1.4}",Hettinger|Adams|Stark,38041|38001|38089,False,False,America/Denver
+58647,46.51695,-102.93466,New England,ND,North Dakota,True,,1367.0,1.0,38087,Slope,"{""38087"": 47.37, ""38041"": 44.44, ""38089"": 8.19}",Slope|Hettinger|Stark,38087|38041|38089,False,False,America/Denver
+58649,46.13762,-102.90857,Reeder,ND,North Dakota,True,,319.0,0.5,38001,Adams,"{""38001"": 72.68, ""38041"": 11.1, ""46063"": 9.4, ""38011"": 4.71, ""38087"": 2.11}",Adams|Hettinger|Harding|Bowman|Slope,38001|38041|46063|38011|38087,False,False,America/Denver
+58650,46.43241,-102.59033,Regent,ND,North Dakota,True,,307.0,0.4,38041,Hettinger,"{""38041"": 93.08, ""38001"": 6.92}",Hettinger|Adams,38041|38001,False,False,America/Denver
+58651,46.26201,-103.74228,Rhame,ND,North Dakota,True,,538.0,0.3,38011,Bowman,"{""38011"": 55.01, ""38087"": 44.99}",Bowman|Slope,38011|38087,False,False,America/Denver
+58652,46.88854,-102.27037,Richardton,ND,North Dakota,True,,1371.0,1.3,38089,Stark,"{""38089"": 72.44, ""38025"": 27.56}",Stark|Dunn,38089|38025,False,False,America/Denver
+58653,46.09645,-103.12946,Scranton,ND,North Dakota,True,,763.0,0.8,38011,Bowman,"{""38011"": 71.3, ""46063"": 14.58, ""38087"": 14.12}",Bowman|Harding|Slope,38011|46063|38087,False,False,America/Denver
+58654,46.77817,-103.81757,Sentinel Butte,ND,North Dakota,True,,304.0,0.2,38033,Golden Valley,"{""38033"": 79.91, ""38087"": 20.09}",Golden Valley|Slope,38033|38087,False,False,America/Denver
+58655,46.77921,-103.03163,South Heart,ND,North Dakota,True,,625.0,2.2,38089,Stark,"{""38089"": 100}",Stark,38089,False,False,America/Denver
+58656,46.95207,-102.46801,Taylor,ND,North Dakota,True,,423.0,0.9,38089,Stark,"{""38089"": 63.42, ""38025"": 36.58}",Stark|Dunn,38089|38025,False,False,America/Denver
+58701,48.14027,-101.32406,Minot,ND,North Dakota,True,,32112.0,52.6,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58703,48.32646,-101.31637,Minot,ND,North Dakota,True,,22524.0,55.7,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58704,48.4232,-101.33152,Minot Afb,ND,North Dakota,True,,5086.0,415.0,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58705,48.41608,-101.35182,Minot Afb,ND,North Dakota,True,,,,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58707,48.24767,-101.30127,Minot,ND,North Dakota,True,,424.0,1431.4,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58710,47.86959,-100.23912,Anamoose,ND,North Dakota,True,,730.0,1.5,38049,McHenry,"{""38049"": 40.06, ""38083"": 38.32, ""38069"": 21.63}",McHenry|Sheridan|Pierce,38049|38083|38069,False,False,America/Chicago
+58711,48.93262,-101.2752,Antler,ND,North Dakota,True,,271.0,0.9,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago
+58712,47.96799,-100.54559,Balfour,ND,North Dakota,True,,77.0,0.3,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago
+58713,48.51876,-100.60497,Bantry,ND,North Dakota,True,,218.0,4.5,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago
+58716,47.80049,-101.06003,Benedict,ND,North Dakota,True,,146.0,0.7,38055,McLean,"{""38055"": 61.42, ""38101"": 38.58}",McLean|Ward,38055|38101,False,False,America/Chicago
+58718,48.31128,-101.82989,Berthold,ND,North Dakota,True,,1178.0,1.1,38101,Ward,"{""38101"": 63.98, ""38061"": 31.91, ""38075"": 4.11}",Ward|Mountrail|Renville,38101|38061|38075,False,False,America/Chicago
+58721,48.82069,-102.25667,Bowbells,ND,North Dakota,True,,426.0,0.8,38013,Burke,"{""38013"": 94.69, ""38101"": 5.31}",Burke|Ward,38013|38101,False,False,America/Chicago
+58722,48.25238,-101.50079,Burlington,ND,North Dakota,True,,1685.0,9.9,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58723,47.75433,-100.60281,Butte,ND,North Dakota,True,,183.0,0.4,38055,McLean,"{""38055"": 54.59, ""38083"": 44.45, ""38049"": 0.96}",McLean|Sheridan|McHenry,38055|38083|38049,False,False,America/Chicago
+58725,48.48699,-101.68361,Carpio,ND,North Dakota,True,,350.0,0.9,38075,Renville,"{""38075"": 61.1, ""38101"": 38.9}",Renville|Ward,38075|38101,False,False,America/Chicago
+58727,48.85542,-102.80479,Columbus,ND,North Dakota,True,,173.0,0.3,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago
+58730,48.86171,-103.30652,Crosby,ND,North Dakota,True,,1535.0,2.3,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago
+58731,48.44752,-100.98029,Deering,ND,North Dakota,True,,305.0,1.2,38049,McHenry,"{""38049"": 89.97, ""38101"": 10.03}",McHenry|Ward,38049|38101,False,False,America/Chicago
+58733,48.16911,-101.59463,Des Lacs,ND,North Dakota,True,,435.0,2.0,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58734,48.51508,-101.95757,Donnybrook,ND,North Dakota,True,,381.0,0.7,38101,Ward,"{""38101"": 41.04, ""38061"": 37.58, ""38075"": 21.38}",Ward|Mountrail|Renville,38101|38061|38075,False,False,America/Chicago
+58735,47.87771,-101.48366,Douglas,ND,North Dakota,True,,549.0,1.1,38101,Ward,"{""38101"": 59.86, ""38055"": 40.14}",Ward|McLean,38101|38055,False,False,America/Chicago
+58736,47.92804,-100.38732,Drake,ND,North Dakota,True,,540.0,1.3,38049,McHenry,"{""38049"": 72.85, ""38083"": 27.15}",McHenry|Sheridan,38049|38083,False,False,America/Chicago
+58737,48.90743,-102.39392,Flaxton,ND,North Dakota,True,,155.0,0.4,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago
+58740,48.4711,-101.22744,Glenburn,ND,North Dakota,True,,720.0,1.7,38075,Renville,"{""38075"": 58.31, ""38101"": 37.0, ""38009"": 2.38, ""38049"": 2.31}",Renville|Ward|Bottineau|McHenry,38075|38101|38009|38049,False,False,America/Chicago
+58741,48.27336,-100.83352,Granville,ND,North Dakota,True,,646.0,1.4,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago
+58744,48.12073,-100.58774,Karlsruhe,ND,North Dakota,True,,93.0,0.4,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago
+58746,48.71921,-102.10115,Kenmare,ND,North Dakota,True,,1335.0,1.2,38101,Ward,"{""38101"": 46.76, ""38013"": 33.79, ""38075"": 19.45}",Ward|Burke|Renville,38101|38013|38075,False,False,America/Chicago
+58748,48.66895,-100.64487,Kramer,ND,North Dakota,True,,114.0,0.4,38009,Bottineau,"{""38009"": 78.81, ""38049"": 21.19}",Bottineau|McHenry,38009|38049,False,False,America/Chicago
+58750,48.6166,-101.39941,Lansford,ND,North Dakota,True,,386.0,0.6,38009,Bottineau,"{""38009"": 59.97, ""38075"": 40.03}",Bottineau|Renville,38009|38075,False,False,America/Chicago
+58752,48.82146,-102.59927,Lignite,ND,North Dakota,True,,292.0,1.4,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago
+58755,48.62857,-102.94666,Mcgregor,ND,North Dakota,True,,182.0,0.8,38105,Williams,"{""38105"": 43.92, ""38023"": 43.01, ""38013"": 13.07}",Williams|Divide|Burke,38105|38023|38013,False,False,America/Chicago
+58756,47.96746,-101.81431,Makoti,ND,North Dakota,True,,198.0,0.7,38101,Ward,"{""38101"": 75.41, ""38061"": 20.87, ""38055"": 3.72}",Ward|Mountrail|McLean,38101|38061|38055,False,False,America/Chicago
+58757,47.67643,-102.54685,Mandaree,ND,North Dakota,True,,821.0,0.9,38025,Dunn,"{""38025"": 82.01, ""38053"": 17.99}",Dunn|McKenzie,38025|38053,False,False,America/Chicago
+58758,47.76643,-100.10424,Martin,ND,North Dakota,True,,261.0,0.8,38083,Sheridan,"{""38083"": 67.53, ""38103"": 17.32, ""38069"": 15.15}",Sheridan|Wells|Pierce,38083|38103|38069,False,False,America/Chicago
+58759,47.84776,-101.25026,Max,ND,North Dakota,True,,794.0,1.3,38055,McLean,"{""38055"": 52.87, ""38101"": 47.13}",McLean|Ward,38055|38101,False,False,America/Chicago
+58760,48.69854,-101.14158,Maxbass,ND,North Dakota,True,,257.0,0.7,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago
+58761,48.78736,-101.53019,Mohall,ND,North Dakota,True,,885.0,1.2,38075,Renville,"{""38075"": 60.46, ""38009"": 39.54}",Renville|Bottineau,38075|38009,False,False,America/Chicago
+58762,48.67409,-100.94225,Newburg,ND,North Dakota,True,,286.0,1.2,38009,Bottineau,"{""38009"": 76.85, ""38049"": 23.15}",Bottineau|McHenry,38009|38049,False,False,America/Chicago
+58763,47.98362,-102.58401,New Town,ND,North Dakota,True,,4001.0,2.9,38061,Mountrail,"{""38061"": 61.28, ""38053"": 38.72}",Mountrail|McKenzie,38061|38053,False,False,America/Chicago
+58765,48.87261,-103.03805,Noonan,ND,North Dakota,True,,277.0,0.7,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago
+58768,48.25115,-101.01456,Norwich,ND,North Dakota,True,,249.0,1.3,38049,McHenry,"{""38049"": 50.06, ""38101"": 49.94}",McHenry|Ward,38049|38101,False,False,America/Chicago
+58769,48.30082,-102.22721,Palermo,ND,North Dakota,True,,277.0,0.6,38061,Mountrail,"{""38061"": 100}",Mountrail,38061,False,False,America/Chicago
+58770,47.86531,-102.16251,Parshall,ND,North Dakota,True,,1677.0,2.4,38061,Mountrail,"{""38061"": 55.27, ""38055"": 44.73}",Mountrail|McLean,38061|38055,False,False,America/Chicago
+58771,48.08711,-101.98534,Plaza,ND,North Dakota,True,,505.0,0.8,38061,Mountrail,"{""38061"": 76.19, ""38101"": 20.52, ""38055"": 3.29}",Mountrail|Ward|McLean,38061|38101|38055,False,False,America/Chicago
+58772,48.96035,-102.61236,Portal,ND,North Dakota,True,,139.0,0.9,38013,Burke,"{""38013"": 100}",Burke,38013,False,False,America/Chicago
+58773,48.58631,-102.66852,Powers Lake,ND,North Dakota,True,,1078.0,1.4,38013,Burke,"{""38013"": 68.91, ""38061"": 31.09}",Burke|Mountrail,38013|38061,False,False,America/Chicago
+58775,47.71424,-101.85203,Roseglen,ND,North Dakota,True,,123.0,0.6,38055,McLean,"{""38055"": 100}",McLean,38055,False,False,America/Chicago
+58776,48.25079,-102.61543,Ross,ND,North Dakota,True,,352.0,0.9,38061,Mountrail,"{""38061"": 100}",Mountrail,38061,False,False,America/Chicago
+58778,47.78307,-100.91268,Ruso,ND,North Dakota,True,,111.0,0.3,38055,McLean,"{""38055"": 92.19, ""38049"": 7.81}",McLean|McHenry,38055|38049,False,False,America/Chicago
+58779,47.85507,-101.7621,Ryder,ND,North Dakota,True,,256.0,0.4,38055,McLean,"{""38055"": 53.27, ""38101"": 46.73}",McLean|Ward,38055|38101,False,False,America/Chicago
+58781,48.02451,-101.13468,Sawyer,ND,North Dakota,True,,695.0,2.4,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58782,48.94055,-101.71325,Sherwood,ND,North Dakota,True,,605.0,1.2,38075,Renville,"{""38075"": 92.68, ""38009"": 7.32}",Renville|Bottineau,38075|38009,False,False,America/Chicago
+58783,48.88375,-100.75035,Souris,ND,North Dakota,True,,405.0,0.5,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago
+58784,48.36212,-102.42273,Stanley,ND,North Dakota,True,,3262.0,3.6,38061,Mountrail,"{""38061"": 89.78, ""38013"": 10.22}",Mountrail|Burke,38061|38013,False,False,America/Chicago
+58785,48.31121,-101.09706,Surrey,ND,North Dakota,True,,1130.0,10.7,38101,Ward,"{""38101"": 100}",Ward,38101,False,False,America/Chicago
+58787,48.76057,-101.80832,Tolley,ND,North Dakota,True,,140.0,0.5,38075,Renville,"{""38075"": 100}",Renville,38075,False,False,America/Chicago
+58788,48.33198,-100.48045,Towner,ND,North Dakota,True,,1038.0,0.8,38049,McHenry,"{""38049"": 96.88, ""38069"": 3.12}",McHenry|Pierce,38049|38069,False,False,America/Chicago
+58789,48.54778,-100.81898,Upham,ND,North Dakota,True,,297.0,0.7,38049,McHenry,"{""38049"": 90.31, ""38009"": 9.69}",McHenry|Bottineau,38049|38009,False,False,America/Chicago
+58790,48.03071,-100.93952,Velva,ND,North Dakota,True,,1736.0,3.6,38049,McHenry,"{""38049"": 78.71, ""38101"": 21.29}",McHenry|Ward,38049|38101,False,False,America/Chicago
+58792,47.97385,-100.7424,Voltaire,ND,North Dakota,True,,175.0,0.4,38049,McHenry,"{""38049"": 100}",McHenry,38049,False,False,America/Chicago
+58793,48.86442,-101.05424,Westhope,ND,North Dakota,True,,483.0,1.1,38009,Bottineau,"{""38009"": 100}",Bottineau,38009,False,False,America/Chicago
+58794,48.25916,-102.76683,White Earth,ND,North Dakota,True,,258.0,1.0,38061,Mountrail,"{""38061"": 100}",Mountrail,38061,False,False,America/Chicago
+58795,48.64198,-103.15094,Wildrose,ND,North Dakota,True,,109.0,0.2,38023,Divide,"{""38023"": 53.85, ""38105"": 46.15}",Divide|Williams,38023|38105,False,False,America/Chicago
+58801,48.23522,-103.76747,Williston,ND,North Dakota,True,,32297.0,17.4,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago
+58830,48.60272,-103.46608,Alamo,ND,North Dakota,True,,242.0,0.3,38105,Williams,"{""38105"": 59.81, ""38023"": 40.19}",Williams|Divide,38105|38023,False,False,America/Chicago
+58831,47.84878,-103.65843,Alexander,ND,North Dakota,True,,668.0,0.6,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago
+58833,48.89186,-103.52517,Ambrose,ND,North Dakota,True,,209.0,0.8,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago
+58835,47.7328,-103.45268,Arnegard,ND,North Dakota,True,,580.0,0.9,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago
+58838,47.7721,-103.90289,Cartwright,ND,North Dakota,True,,237.0,0.4,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Denver
+58843,48.23141,-103.38142,Epping,ND,North Dakota,True,,650.0,1.1,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago
+58844,48.89167,-103.74304,Fortuna,ND,North Dakota,True,,47.0,0.1,38023,Divide,"{""38023"": 100}",Divide,38023,False,False,America/Chicago
+58845,48.63928,-103.92207,Grenora,ND,North Dakota,True,,433.0,0.7,38105,Williams,"{""38105"": 50.29, ""38023"": 49.71}",Williams|Divide,38105|38023,False,False,America/Chicago
+58847,47.89012,-102.90094,Keene,ND,North Dakota,True,,516.0,1.1,38053,McKenzie,"{""38053"": 100}",McKenzie,38053,False,False,America/Chicago
+58849,48.30906,-103.15697,Ray,ND,North Dakota,True,,959.0,1.2,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago
+58852,48.38037,-102.93276,Tioga,ND,North Dakota,True,,1283.0,1.6,38105,Williams,"{""38105"": 78.94, ""38061"": 21.06}",Williams|Mountrail,38105|38061,False,False,America/Chicago
+58853,48.06237,-103.78588,Trenton,ND,North Dakota,True,,198.0,5.2,38105,Williams,"{""38105"": 100}",Williams,38105,False,False,America/Chicago
+58854,47.81412,-103.15229,Watford City,ND,North Dakota,True,,9737.0,5.6,38053,McKenzie,"{""38053"": 92.37, ""38025"": 7.63}",McKenzie|Dunn,38053|38025,False,False,America/Chicago
+58856,48.59123,-103.72546,Zahl,ND,North Dakota,True,,54.0,0.1,38105,Williams,"{""38105"": 66.33, ""38023"": 33.67}",Williams|Divide,38105|38023,False,False,America/Chicago

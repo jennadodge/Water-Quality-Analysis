@@ -1,0 +1,637 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+37010,36.5675,-87.10894,Adams,TN,Tennessee,True,,5096.0,24.9,47147,Robertson,"{""47147"": 61.24, ""47125"": 38.76}",Robertson|Montgomery,47147|47125,False,False,America/Chicago
+37012,36.07112,-86.00563,Alexandria,TN,Tennessee,True,,1954.0,20.5,47041,DeKalb,"{""47041"": 57.58, ""47189"": 21.98, ""47159"": 20.44}",DeKalb|Wilson|Smith,47041|47189|47159,False,False,America/Chicago
+37013,36.04658,-86.63445,Antioch,TN,Tennessee,True,,99109.0,976.0,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37014,35.8725,-86.6532,Arrington,TN,Tennessee,True,,2858.0,50.2,47187,Williamson,"{""47187"": 69.4, ""47149"": 30.6}",Williamson|Rutherford,47187|47149,False,False,America/Chicago
+37015,36.28798,-87.08113,Ashland City,TN,Tennessee,True,,17835.0,44.2,47021,Cheatham,"{""47021"": 92.85, ""47037"": 5.7, ""47125"": 1.45}",Cheatham|Davidson|Montgomery,47021|47037|47125,False,False,America/Chicago
+37016,35.96355,-86.11364,Auburntown,TN,Tennessee,True,,955.0,11.0,47189,Wilson,"{""47189"": 59.14, ""47015"": 40.86}",Wilson|Cannon,47189|47015,False,False,America/Chicago
+37018,35.64255,-86.19876,Beechgrove,TN,Tennessee,True,,2494.0,23.9,47031,Coffee,"{""47031"": 90.59, ""47003"": 9.41}",Coffee|Bedford,47031|47003,False,False,America/Chicago
+37019,35.39094,-86.70943,Belfast,TN,Tennessee,True,,676.0,14.7,47117,Marshall,"{""47117"": 100}",Marshall,47117,False,False,America/Chicago
+37020,35.62563,-86.39927,Bell Buckle,TN,Tennessee,True,,6036.0,25.4,47003,Bedford,"{""47003"": 75.67, ""47149"": 24.33}",Bedford|Rutherford,47003|47149,False,False,America/Chicago
+37022,36.4997,-86.31017,Bethpage,TN,Tennessee,True,,6694.0,29.7,47165,Sumner,"{""47165"": 85.07, ""47169"": 13.34, ""47111"": 1.59}",Sumner|Trousdale|Macon,47165|47169|47111,False,False,America/Chicago
+37023,36.58409,-87.78302,Big Rock,TN,Tennessee,True,,1408.0,31.0,47161,Stewart,"{""47161"": 100}",Stewart,47161,False,False,America/Chicago
+37025,35.95263,-87.30855,Bon Aqua,TN,Tennessee,True,,5923.0,35.8,47081,Hickman,"{""47081"": 72.82, ""47043"": 23.99, ""47187"": 3.19}",Hickman|Dickson|Williamson,47081|47043|47187,False,False,America/Chicago
+37026,35.69578,-86.10746,Bradyville,TN,Tennessee,True,,2117.0,16.0,47015,Cannon,"{""47015"": 96.34, ""47031"": 3.66}",Cannon|Coffee,47015|47031,False,False,America/Chicago
+37027,35.99978,-86.78439,Brentwood,TN,Tennessee,True,,57096.0,386.7,47187,Williamson,"{""47187"": 86.44, ""47037"": 13.56}",Williamson|Davidson,47187|47037,False,False,America/Chicago
+37028,36.62793,-87.85723,Bumpus Mills,TN,Tennessee,True,,434.0,10.8,47161,Stewart,"{""47161"": 100}",Stewart,47161,False,False,America/Chicago
+37029,36.04253,-87.2678,Burns,TN,Tennessee,True,,7166.0,63.5,47043,Dickson,"{""47043"": 100}",Dickson,47043,False,False,America/Chicago
+37030,36.27374,-85.95035,Carthage,TN,Tennessee,True,,7674.0,45.6,47159,Smith,"{""47159"": 99.79, ""47087"": 0.21}",Smith|Jackson,47159|47087,False,False,America/Chicago
+37031,36.3721,-86.30328,Castalian Springs,TN,Tennessee,True,,4149.0,41.9,47165,Sumner,"{""47165"": 78.43, ""47169"": 21.57}",Sumner|Trousdale,47165|47169,False,False,America/Chicago
+37032,36.52518,-87.01647,Cedar Hill,TN,Tennessee,True,,5227.0,25.5,47147,Robertson,"{""47147"": 98.42, ""47021"": 1.47, ""47125"": 0.11}",Robertson|Cheatham|Montgomery,47147|47021|47125,False,False,America/Chicago
+37033,35.73493,-87.55365,Centerville,TN,Tennessee,True,,7604.0,11.0,47081,Hickman,"{""47081"": 98.04, ""47135"": 1.96}",Hickman|Perry,47081|47135,False,False,America/Chicago
+37034,35.63977,-86.69158,Chapel Hill,TN,Tennessee,True,,7576.0,40.1,47117,Marshall,"{""47117"": 76.85, ""47003"": 23.15}",Marshall|Bedford,47117|47003,False,False,America/Chicago
+37035,36.3849,-87.12602,Chapmansboro,TN,Tennessee,True,,3709.0,48.7,47021,Cheatham,"{""47021"": 100}",Cheatham,47021,False,False,America/Chicago
+37036,36.23979,-87.27182,Charlotte,TN,Tennessee,True,,6437.0,25.0,47043,Dickson,"{""47043"": 93.35, ""47021"": 6.65}",Dickson|Cheatham,47043|47021,False,False,America/Chicago
+37037,35.70272,-86.35318,Christiana,TN,Tennessee,True,,8570.0,42.7,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37040,36.52408,-87.33287,Clarksville,TN,Tennessee,True,,52736.0,219.4,47125,Montgomery,"{""47125"": 100}",Montgomery,47125,False,False,America/Chicago
+37042,36.56894,-87.41225,Clarksville,TN,Tennessee,True,,80661.0,547.6,47125,Montgomery,"{""47125"": 100}",Montgomery,47125,False,False,America/Chicago
+37043,36.49842,-87.23197,Clarksville,TN,Tennessee,True,,49669.0,176.8,47125,Montgomery,"{""47125"": 98.31, ""47021"": 1.69}",Montgomery|Cheatham,47125|47021,False,False,America/Chicago
+37046,35.77995,-86.71582,College Grove,TN,Tennessee,True,,5669.0,30.7,47187,Williamson,"{""47187"": 91.95, ""47149"": 6.32, ""47117"": 1.73}",Williamson|Rutherford|Marshall,47187|47149|47117,False,False,America/Chicago
+37047,35.31291,-86.83191,Cornersville,TN,Tennessee,True,,2315.0,13.6,47117,Marshall,"{""47117"": 78.22, ""47055"": 19.93, ""47103"": 1.85}",Marshall|Giles|Lincoln,47117|47055|47103,False,False,America/Chicago
+37048,36.4904,-86.59112,Cottontown,TN,Tennessee,True,,6229.0,51.8,47165,Sumner,"{""47165"": 95.75, ""47147"": 4.25}",Sumner|Robertson,47165|47147,False,False,America/Chicago
+37049,36.55985,-86.67887,Cross Plains,TN,Tennessee,True,,4035.0,58.2,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago
+37050,36.3713,-87.63586,Cumberland City,TN,Tennessee,True,,1712.0,12.5,47161,Stewart,"{""47161"": 52.76, ""47083"": 26.13, ""47125"": 21.11}",Stewart|Houston|Montgomery,47161|47083|47125,False,False,America/Chicago
+37051,36.30426,-87.41405,Cumberland Furnace,TN,Tennessee,True,,3237.0,15.5,47043,Dickson,"{""47043"": 72.33, ""47125"": 23.77, ""47083"": 3.9}",Dickson|Montgomery|Houston,47043|47125|47083,False,False,America/Chicago
+37052,36.37534,-87.40095,Cunningham,TN,Tennessee,True,,2458.0,27.2,47125,Montgomery,"{""47125"": 98.2, ""47043"": 1.8}",Montgomery|Dickson,47125|47043,False,False,America/Chicago
+37055,36.07921,-87.44238,Dickson,TN,Tennessee,True,,27410.0,52.5,47043,Dickson,"{""47043"": 91.59, ""47081"": 8.41}",Dickson|Hickman,47043|47081,False,False,America/Chicago
+37057,36.40466,-86.02726,Dixon Springs,TN,Tennessee,True,,660.0,8.7,47169,Trousdale,"{""47169"": 38.14, ""47159"": 31.37, ""47111"": 30.49}",Trousdale|Smith|Macon,47169|47159|47111,False,False,America/Chicago
+37058,36.47872,-87.8807,Dover,TN,Tennessee,True,,7817.0,16.4,47161,Stewart,"{""47161"": 100}",Stewart,47161,False,False,America/Chicago
+37059,35.98611,-85.90798,Dowelltown,TN,Tennessee,True,,1336.0,18.3,47041,DeKalb,"{""47041"": 100}",DeKalb,47041,False,False,America/Chicago
+37060,35.74924,-86.63428,Eagleville,TN,Tennessee,True,,2807.0,26.8,47149,Rutherford,"{""47149"": 74.76, ""47187"": 12.71, ""47003"": 11.51, ""47117"": 1.02}",Rutherford|Williamson|Bedford|Marshall,47149|47187|47003|47117,False,False,America/Chicago
+37061,36.28918,-87.66528,Erin,TN,Tennessee,True,,5179.0,22.5,47083,Houston,"{""47083"": 98.55, ""47125"": 0.9, ""47161"": 0.55}",Houston|Montgomery|Stewart,47083|47125|47161,False,False,America/Chicago
+37062,35.98833,-87.13483,Fairview,TN,Tennessee,True,,12971.0,72.4,47187,Williamson,"{""47187"": 93.19, ""47043"": 6.81}",Williamson|Dickson,47187|47043,False,False,America/Chicago
+37064,35.88966,-86.96112,Franklin,TN,Tennessee,True,,60272.0,126.5,47187,Williamson,"{""47187"": 99.22, ""47037"": 0.78}",Williamson|Davidson,47187|47037,False,False,America/Chicago
+37066,36.39871,-86.45594,Gallatin,TN,Tennessee,True,,54377.0,180.5,47165,Sumner,"{""47165"": 100}",Sumner,47165,False,False,America/Chicago
+37067,35.91314,-86.77461,Franklin,TN,Tennessee,True,,31681.0,376.0,47187,Williamson,"{""47187"": 100}",Williamson,47187,False,False,America/Chicago
+37069,35.98753,-86.90664,Franklin,TN,Tennessee,True,,20093.0,215.8,47187,Williamson,"{""47187"": 100}",Williamson,47187,False,False,America/Chicago
+37072,36.35686,-86.74494,Goodlettsville,TN,Tennessee,True,,31134.0,155.0,47037,Davidson,"{""47037"": 50.71, ""47165"": 34.45, ""47147"": 14.84}",Davidson|Sumner|Robertson,47037|47165|47147,False,False,America/Chicago
+37073,36.42834,-86.81414,Greenbrier,TN,Tennessee,True,,14569.0,109.8,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago
+37074,36.41552,-86.14724,Hartsville,TN,Tennessee,True,,9967.0,38.5,47169,Trousdale,"{""47169"": 74.2, ""47111"": 25.8}",Trousdale|Macon,47169|47111,False,False,America/Chicago
+37075,36.34085,-86.60845,Hendersonville,TN,Tennessee,True,,68336.0,446.9,47165,Sumner,"{""47165"": 100}",Sumner,47165,False,False,America/Chicago
+37076,36.14512,-86.57977,Hermitage,TN,Tennessee,True,,38647.0,536.5,47037,Davidson,"{""47037"": 93.74, ""47189"": 6.26}",Davidson|Wilson,47037|47189,False,False,America/Chicago
+37078,35.92366,-87.77138,Hurricane Mills,TN,Tennessee,True,,341.0,1.4,47085,Humphreys,"{""47085"": 97.58, ""47081"": 2.42}",Humphreys|Hickman,47085|47081,False,False,America/Chicago
+37079,36.4826,-87.65939,Indian Mound,TN,Tennessee,True,,2915.0,14.3,47161,Stewart,"{""47161"": 80.08, ""47125"": 19.92}",Stewart|Montgomery,47161|47125,False,False,America/Chicago
+37080,36.32901,-86.91633,Joelton,TN,Tennessee,True,,7537.0,59.2,47037,Davidson,"{""47037"": 59.47, ""47021"": 39.8, ""47147"": 0.73}",Davidson|Cheatham|Robertson,47037|47021|47147,False,False,America/Chicago
+37082,36.09717,-87.11484,Kingston Springs,TN,Tennessee,True,,5734.0,52.2,47021,Cheatham,"{""47021"": 100}",Cheatham,47021,False,False,America/Chicago
+37083,36.54357,-86.00149,Lafayette,TN,Tennessee,True,,14847.0,38.8,47111,Macon,"{""47111"": 100}",Macon,47111,False,False,America/Chicago
+37085,35.95308,-86.27912,Lascassas,TN,Tennessee,True,,5220.0,36.7,47149,Rutherford,"{""47149"": 72.56, ""47189"": 27.44}",Rutherford|Wilson,47149|47189,False,False,America/Chicago
+37086,36.02177,-86.55971,La Vergne,TN,Tennessee,True,,34362.0,535.5,47149,Rutherford,"{""47149"": 94.89, ""47037"": 5.11}",Rutherford|Davidson,47149|47037,False,False,America/Chicago
+37087,36.2733,-86.27224,Lebanon,TN,Tennessee,True,,48478.0,113.5,47189,Wilson,"{""47189"": 87.0, ""47159"": 7.42, ""47169"": 5.58}",Wilson|Smith|Trousdale,47189|47159|47169,False,False,America/Chicago
+37090,36.12439,-86.29707,Lebanon,TN,Tennessee,True,,15143.0,35.1,47189,Wilson,"{""47189"": 96.29, ""47159"": 2.73, ""47149"": 0.98}",Wilson|Smith|Rutherford,47189|47159|47149,False,False,America/Chicago
+37091,35.48546,-86.76405,Lewisburg,TN,Tennessee,True,,23052.0,43.2,47117,Marshall,"{""47117"": 91.1, ""47003"": 7.81, ""47119"": 1.09}",Marshall|Bedford|Maury,47117|47003|47119,False,False,America/Chicago
+37095,35.98295,-85.95919,Liberty,TN,Tennessee,True,,3142.0,15.7,47041,DeKalb,"{""47041"": 76.38, ""47015"": 21.58, ""47189"": 2.04}",DeKalb|Cannon|Wilson,47041|47015|47189,False,False,America/Chicago
+37096,35.60487,-87.86054,Linden,TN,Tennessee,True,,5947.0,7.4,47135,Perry,"{""47135"": 97.4, ""47181"": 2.14, ""47101"": 0.46}",Perry|Wayne|Lewis,47135|47181|47101,False,False,America/Chicago
+37097,35.7785,-87.8303,Lobelville,TN,Tennessee,True,,2005.0,8.3,47135,Perry,"{""47135"": 100}",Perry,47135,False,False,America/Chicago
+37098,35.87142,-87.31075,Lyles,TN,Tennessee,True,,5904.0,39.0,47081,Hickman,"{""47081"": 100}",Hickman,47081,False,False,America/Chicago
+37101,36.06625,-87.63741,McEwen,TN,Tennessee,True,,7032.0,13.6,47085,Humphreys,"{""47085"": 86.93, ""47081"": 8.82, ""47083"": 4.25}",Humphreys|Hickman|Houston,47085|47081|47083,False,False,America/Chicago
+37110,35.6436,-85.74314,Mcminnville,TN,Tennessee,True,,32731.0,33.8,47177,Warren,"{""47177"": 78.62, ""47061"": 14.89, ""47175"": 3.02, ""47015"": 1.93, ""47153"": 1.54}",Warren|Grundy|Van Buren|Cannon|Sequatchie,47177|47061|47175|47015|47153,False,False,America/Chicago
+37115,36.25444,-86.69636,Madison,TN,Tennessee,True,,39573.0,712.1,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37118,35.92569,-86.18903,Milton,TN,Tennessee,True,,1052.0,12.4,47149,Rutherford,"{""47149"": 69.32, ""47189"": 22.65, ""47015"": 8.03}",Rutherford|Wilson|Cannon,47149|47189|47015,False,False,America/Chicago
+37122,36.17791,-86.48872,Mount Juliet,TN,Tennessee,True,,61002.0,211.0,47189,Wilson,"{""47189"": 90.35, ""47149"": 8.74, ""47037"": 0.91}",Wilson|Rutherford|Davidson,47189|47149|47037,False,False,America/Chicago
+37127,35.77947,-86.32723,Murfreesboro,TN,Tennessee,True,,19817.0,162.5,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37128,35.80343,-86.47483,Murfreesboro,TN,Tennessee,True,,60038.0,409.1,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37129,35.92556,-86.44098,Murfreesboro,TN,Tennessee,True,,60516.0,292.1,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37130,35.8809,-86.33003,Murfreesboro,TN,Tennessee,True,,57068.0,407.0,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37132,35.84873,-86.36284,Murfreesboro,TN,Tennessee,True,,2414.0,1509.8,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37134,36.0014,-87.95063,New Johnsonville,TN,Tennessee,True,,3109.0,30.7,47085,Humphreys,"{""47085"": 100}",Humphreys,47085,False,False,America/Chicago
+37135,35.93562,-86.6625,Nolensville,TN,Tennessee,True,,17318.0,181.3,47187,Williamson,"{""47187"": 88.54, ""47037"": 8.22, ""47149"": 3.24}",Williamson|Davidson|Rutherford,47187|47037|47149,False,False,America/Chicago
+37137,35.87912,-87.50276,Nunnelly,TN,Tennessee,True,,2679.0,12.0,47081,Hickman,"{""47081"": 100}",Hickman,47081,False,False,America/Chicago
+37138,36.24652,-86.61938,Old Hickory,TN,Tennessee,True,,23789.0,512.4,47037,Davidson,"{""47037"": 69.19, ""47189"": 30.81}",Davidson|Wilson,47037|47189,False,False,America/Chicago
+37140,35.86345,-87.65245,Only,TN,Tennessee,True,,1613.0,24.1,47081,Hickman,"{""47081"": 100}",Hickman,47081,False,False,America/Chicago
+37141,36.6145,-86.69894,Orlinda,TN,Tennessee,True,,1476.0,28.1,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago
+37142,36.41164,-87.50112,Palmyra,TN,Tennessee,True,,1747.0,18.1,47125,Montgomery,"{""47125"": 100}",Montgomery,47125,False,False,America/Chicago
+37143,36.13137,-87.03038,Pegram,TN,Tennessee,True,,3905.0,45.5,47021,Cheatham,"{""47021"": 81.41, ""47037"": 18.59}",Cheatham|Davidson,47021|47037,False,False,America/Chicago
+37144,35.30516,-86.65585,Petersburg,TN,Tennessee,True,,3088.0,9.1,47103,Lincoln,"{""47103"": 58.79, ""47117"": 28.0, ""47003"": 8.27, ""47127"": 3.28, ""47055"": 1.66}",Lincoln|Marshall|Bedford|Moore|Giles,47103|47117|47003|47127|47055,False,False,America/Chicago
+37145,36.38179,-85.91203,Pleasant Shade,TN,Tennessee,True,,2323.0,11.3,47159,Smith,"{""47159"": 70.9, ""47111"": 18.67, ""47087"": 10.43}",Smith|Macon|Jackson,47159|47111|47087,False,False,America/Chicago
+37146,36.4047,-87.03123,Pleasant View,TN,Tennessee,True,,7396.0,93.3,47147,Robertson,"{""47147"": 53.58, ""47021"": 46.42}",Robertson|Cheatham,47147|47021,False,False,America/Chicago
+37148,36.57694,-86.50224,Portland,TN,Tennessee,True,,24747.0,72.5,47165,Sumner,"{""47165"": 85.19, ""47147"": 14.81}",Sumner|Robertson,47165|47147,False,False,America/Chicago
+37149,35.80876,-86.19311,Readyville,TN,Tennessee,True,,2500.0,15.0,47149,Rutherford,"{""47149"": 57.26, ""47015"": 42.74}",Rutherford|Cannon,47149|47015,False,False,America/Chicago
+37150,36.54437,-85.81082,Red Boiling Springs,TN,Tennessee,True,,5031.0,18.8,47111,Macon,"{""47111"": 54.17, ""47027"": 40.53, ""47087"": 5.3}",Macon|Clay|Jackson,47111|47027|47087,False,False,America/Chicago
+37151,36.31288,-86.04536,Riddleton,TN,Tennessee,True,,609.0,13.8,47159,Smith,"{""47159"": 100}",Smith,47159,False,False,America/Chicago
+37153,35.7645,-86.55531,Rockvale,TN,Tennessee,True,,6132.0,45.3,47149,Rutherford,"{""47149"": 90.1, ""47003"": 9.9}",Rutherford|Bedford,47149|47003,False,False,America/Chicago
+37160,35.46562,-86.48268,Shelbyville,TN,Tennessee,True,,33606.0,55.6,47003,Bedford,"{""47003"": 97.91, ""47127"": 2.09}",Bedford|Moore,47003|47127,False,False,America/Chicago
+37165,36.29005,-87.46943,Slayden,TN,Tennessee,True,,31.0,35.4,47043,Dickson,"{""47043"": 100}",Dickson,47043,False,False,America/Chicago
+37166,35.92444,-85.78978,Smithville,TN,Tennessee,True,,14310.0,35.7,47041,DeKalb,"{""47041"": 91.48, ""47177"": 6.93, ""47015"": 1.59}",DeKalb|Warren|Cannon,47041|47177|47015,False,False,America/Chicago
+37167,35.96325,-86.52922,Smyrna,TN,Tennessee,True,,61176.0,429.5,47149,Rutherford,"{""47149"": 100}",Rutherford,47149,False,False,America/Chicago
+37171,36.36442,-87.30365,Southside,TN,Tennessee,True,,874.0,14.1,47125,Montgomery,"{""47125"": 99.9, ""47043"": 0.1}",Montgomery|Dickson,47125|47043,False,False,America/Chicago
+37172,36.53661,-86.86005,Springfield,TN,Tennessee,True,,30261.0,65.0,47147,Robertson,"{""47147"": 100}",Robertson,47147,False,False,America/Chicago
+37174,35.72197,-86.8995,Spring Hill,TN,Tennessee,True,,38793.0,214.9,47119,Maury,"{""47119"": 74.83, ""47187"": 23.69, ""47117"": 1.48}",Maury|Williamson|Marshall,47119|47187|47117,False,False,America/Chicago
+37175,36.32349,-87.89678,Stewart,TN,Tennessee,True,,738.0,3.8,47083,Houston,"{""47083"": 58.89, ""47161"": 41.11}",Houston|Stewart,47083|47161,False,False,America/Chicago
+37178,36.3195,-87.78694,Tennessee Ridge,TN,Tennessee,True,,1842.0,16.8,47083,Houston,"{""47083"": 60.92, ""47161"": 39.08}",Houston|Stewart,47083|47161,False,False,America/Chicago
+37179,35.8073,-86.91517,Thompsons Station,TN,Tennessee,True,,15860.0,115.4,47187,Williamson,"{""47187"": 100}",Williamson,47187,False,False,America/Chicago
+37180,35.6189,-86.57679,Unionville,TN,Tennessee,True,,4454.0,51.0,47003,Bedford,"{""47003"": 92.27, ""47149"": 7.23, ""47117"": 0.5}",Bedford|Rutherford|Marshall,47003|47149|47117,False,False,America/Chicago
+37181,36.241,-87.49706,Vanleer,TN,Tennessee,True,,1652.0,12.2,47043,Dickson,"{""47043"": 65.38, ""47083"": 34.62}",Dickson|Houston,47043|47083,False,False,America/Chicago
+37183,35.5104,-86.30162,Wartrace,TN,Tennessee,True,,3270.0,15.3,47003,Bedford,"{""47003"": 79.52, ""47031"": 15.44, ""47127"": 5.04}",Bedford|Coffee|Moore,47003|47031|47127,False,False,America/Chicago
+37184,36.08682,-86.14524,Watertown,TN,Tennessee,True,,6884.0,24.1,47189,Wilson,"{""47189"": 96.51, ""47159"": 3.49}",Wilson|Smith,47189|47159,False,False,America/Chicago
+37185,36.07118,-87.8392,Waverly,TN,Tennessee,True,,8381.0,14.4,47085,Humphreys,"{""47085"": 99.73, ""47083"": 0.27}",Humphreys|Houston,47085|47083,False,False,America/Chicago
+37186,36.58644,-86.22868,Westmoreland,TN,Tennessee,True,,10597.0,37.9,47165,Sumner,"{""47165"": 54.03, ""47111"": 45.97}",Sumner|Macon,47165|47111,False,False,America/Chicago
+37187,36.1471,-87.19885,White Bluff,TN,Tennessee,True,,7745.0,42.0,47043,Dickson,"{""47043"": 77.63, ""47021"": 22.37}",Dickson|Cheatham,47043|47021,False,False,America/Chicago
+37188,36.48048,-86.68101,White House,TN,Tennessee,True,,16034.0,201.4,47147,Robertson,"{""47147"": 73.04, ""47165"": 26.96}",Robertson|Sumner,47147|47165,False,False,America/Chicago
+37189,36.27875,-86.82983,Whites Creek,TN,Tennessee,True,,4453.0,68.1,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37190,35.82599,-86.0424,Woodbury,TN,Tennessee,True,,8611.0,23.9,47015,Cannon,"{""47015"": 98.46, ""47177"": 1.54}",Cannon|Warren,47015|47177,False,False,America/Chicago
+37191,36.50726,-87.52392,Woodlawn,TN,Tennessee,True,,4545.0,38.2,47125,Montgomery,"{""47125"": 100}",Montgomery,47125,False,False,America/Chicago
+37201,36.16662,-86.77799,Nashville,TN,Tennessee,True,,1745.0,2098.5,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37203,36.14937,-86.78986,Nashville,TN,Tennessee,True,,16772.0,1543.9,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37204,36.10669,-86.77463,Nashville,TN,Tennessee,True,,15908.0,842.1,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37205,36.11075,-86.87274,Nashville,TN,Tennessee,True,,23680.0,641.0,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37206,36.18085,-86.73117,Nashville,TN,Tennessee,True,,27055.0,1347.8,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37207,36.23278,-86.77765,Nashville,TN,Tennessee,True,,39151.0,781.4,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37208,36.17691,-86.80901,Nashville,TN,Tennessee,True,,18375.0,1473.2,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37209,36.15591,-86.91638,Nashville,TN,Tennessee,True,,37852.0,434.3,47037,Davidson,"{""47037"": 99.68, ""47021"": 0.32}",Davidson|Cheatham,47037|47021,False,False,America/Chicago
+37210,36.1442,-86.73374,Nashville,TN,Tennessee,True,,16810.0,699.4,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37211,36.06704,-86.72345,Nashville,TN,Tennessee,True,,75199.0,1336.4,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37212,36.13376,-86.80167,Nashville,TN,Tennessee,True,,20672.0,2902.4,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37213,36.16654,-86.76731,Nashville,TN,Tennessee,True,,40.0,21.8,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37214,36.16789,-86.66296,Nashville,TN,Tennessee,True,,30217.0,531.5,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37215,36.08197,-86.83492,Nashville,TN,Tennessee,True,,23044.0,580.5,47037,Davidson,"{""47037"": 98.32, ""47187"": 1.68}",Davidson|Williamson,47037|47187,False,False,America/Chicago
+37216,36.21589,-86.72676,Nashville,TN,Tennessee,True,,18081.0,1037.5,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37217,36.10836,-86.66178,Nashville,TN,Tennessee,True,,30947.0,672.8,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37218,36.20814,-86.89158,Nashville,TN,Tennessee,True,,15582.0,154.1,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37219,36.1663,-86.78299,Nashville,TN,Tennessee,True,,1043.0,1868.2,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37220,36.06759,-86.78127,Nashville,TN,Tennessee,True,,5894.0,295.1,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37221,36.05991,-86.97189,Nashville,TN,Tennessee,True,,41736.0,326.6,47037,Davidson,"{""47037"": 91.34, ""47187"": 8.66}",Davidson|Williamson,47037|47187,False,False,America/Chicago
+37228,36.19513,-86.80418,Nashville,TN,Tennessee,True,,1528.0,404.7,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37232,36.1411,-86.8029,Nashville,TN,Tennessee,True,,,,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37238,36.1657,-86.77946,Nashville,TN,Tennessee,True,,,,47037,Davidson,"{""47037"": 100}",Davidson,47037,False,False,America/Chicago
+37301,35.42765,-85.80295,Altamont,TN,Tennessee,True,,959.0,6.0,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago
+37302,35.01303,-85.01961,Apison,TN,Tennessee,True,,5139.0,114.9,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37303,35.4403,-84.64051,Athens,TN,Tennessee,True,,25062.0,65.0,47107,McMinn,"{""47107"": 100}",McMinn,47107,False,False,America/New_York
+37305,35.45795,-85.70195,Beersheba Springs,TN,Tennessee,True,,1157.0,27.4,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago
+37306,35.09776,-86.18928,Belvidere,TN,Tennessee,True,,2027.0,6.6,47051,Franklin,"{""47051"": 90.6, ""47127"": 9.4}",Franklin|Moore,47051|47127,False,False,America/Chicago
+37307,35.16676,-84.62158,Benton,TN,Tennessee,True,,4806.0,32.3,47139,Polk,"{""47139"": 99.01, ""47011"": 0.99}",Polk|Bradley,47139|47011,False,False,America/New_York
+37308,35.3476,-84.99728,Birchwood,TN,Tennessee,True,,2644.0,27.6,47065,Hamilton,"{""47065"": 56.76, ""47121"": 43.24}",Hamilton|Meigs,47065|47121,False,False,America/New_York
+37309,35.30595,-84.74453,Calhoun,TN,Tennessee,True,,2280.0,22.3,47107,McMinn,"{""47107"": 88.75, ""47139"": 11.25}",McMinn|Polk,47107|47139,False,False,America/New_York
+37310,35.26237,-84.77767,Charleston,TN,Tennessee,True,,3786.0,34.2,47011,Bradley,"{""47011"": 89.42, ""47139"": 10.58}",Bradley|Polk,47011|47139,False,False,America/New_York
+37311,35.10054,-84.92298,Cleveland,TN,Tennessee,True,,29139.0,224.6,47011,Bradley,"{""47011"": 97.91, ""47065"": 2.09}",Bradley|Hamilton,47011|47065,False,False,America/New_York
+37312,35.2286,-84.87344,Cleveland,TN,Tennessee,True,,35877.0,215.0,47011,Bradley,"{""47011"": 100}",Bradley,47011,False,False,America/New_York
+37313,35.37703,-85.70245,Coalmont,TN,Tennessee,True,,1558.0,29.7,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago
+37315,35.04722,-85.05158,Collegedale,TN,Tennessee,True,,1640.0,4996.9,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37316,35.00161,-84.72975,Conasauga,TN,Tennessee,True,,,,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37317,35.03079,-84.44341,Copperhill,TN,Tennessee,True,,2936.0,15.1,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37318,35.17879,-85.97994,Cowan,TN,Tennessee,True,,1720.0,53.5,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago
+37321,35.50239,-85.00801,Dayton,TN,Tennessee,True,,20191.0,68.4,47143,Rhea,"{""47143"": 95.36, ""47007"": 4.64}",Rhea|Bledsoe,47143|47007,False,False,America/New_York
+37322,35.49562,-84.81512,Decatur,TN,Tennessee,True,,8270.0,23.7,47121,Meigs,"{""47121"": 92.03, ""47107"": 7.97}",Meigs|McMinn,47121|47107,False,False,America/New_York
+37323,35.09627,-84.81984,Cleveland,TN,Tennessee,True,,31202.0,105.1,47011,Bradley,"{""47011"": 99.66, ""47139"": 0.34}",Bradley|Polk,47011|47139,False,False,America/New_York
+37324,35.25251,-86.00044,Decherd,TN,Tennessee,True,,5551.0,32.2,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago
+37325,35.24726,-84.61108,Delano,TN,Tennessee,True,,1646.0,29.4,47139,Polk,"{""47139"": 87.92, ""47107"": 12.08}",Polk|McMinn,47139|47107,False,False,America/New_York
+37326,35.04023,-84.38329,Ducktown,TN,Tennessee,True,,547.0,119.1,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37327,35.42251,-85.39993,Dunlap,TN,Tennessee,True,,11569.0,23.3,47153,Sequatchie,"{""47153"": 82.17, ""47007"": 16.21, ""47175"": 1.62}",Sequatchie|Bledsoe|Van Buren,47153|47007|47175,False,False,America/Chicago
+37328,35.02825,-86.36876,Elora,TN,Tennessee,True,,1408.0,17.0,47103,Lincoln,"{""47103"": 95.18, ""47051"": 4.82}",Lincoln|Franklin,47103|47051,False,False,America/Chicago
+37329,35.39201,-84.46017,Englewood,TN,Tennessee,True,,5877.0,38.3,47107,McMinn,"{""47107"": 84.47, ""47123"": 15.53}",McMinn|Monroe,47107|47123,False,False,America/New_York
+37330,35.28411,-86.12967,Estill Springs,TN,Tennessee,True,,6639.0,66.0,47051,Franklin,"{""47051"": 92.85, ""47031"": 7.15}",Franklin|Coffee,47051|47031,False,False,America/Chicago
+37331,35.31662,-84.5336,Etowah,TN,Tennessee,True,,6849.0,67.2,47107,McMinn,"{""47107"": 100}",McMinn,47107,False,False,America/New_York
+37332,35.59418,-84.96277,Evensville,TN,Tennessee,True,,2497.0,14.1,47143,Rhea,"{""47143"": 94.18, ""47007"": 5.82}",Rhea|Bledsoe,47143|47007,False,False,America/New_York
+37333,35.14844,-84.35981,Farner,TN,Tennessee,True,,474.0,9.1,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37334,35.16532,-86.57966,Fayetteville,TN,Tennessee,True,,23398.0,35.5,47103,Lincoln,"{""47103"": 93.11, ""47127"": 6.52, ""47003"": 0.37}",Lincoln|Moore|Bedford,47103|47127|47003,False,False,America/Chicago
+37335,35.06584,-86.40548,Flintville,TN,Tennessee,True,,2626.0,22.9,47103,Lincoln,"{""47103"": 97.23, ""47051"": 2.77}",Lincoln|Franklin,47103|47051,False,False,America/Chicago
+37336,35.30117,-84.93413,Georgetown,TN,Tennessee,True,,4726.0,41.7,47121,Meigs,"{""47121"": 35.91, ""47065"": 33.35, ""47011"": 30.74}",Meigs|Hamilton|Bradley,47121|47065|47011,False,False,America/New_York
+37337,35.78594,-84.86651,Grandview,TN,Tennessee,True,,1330.0,8.5,47143,Rhea,"{""47143"": 50.23, ""47035"": 43.86, ""47007"": 5.91}",Rhea|Cumberland|Bledsoe,47143|47035|47007,False,False,America/Chicago
+37338,35.42356,-85.20942,Graysville,TN,Tennessee,True,,2983.0,15.9,47007,Bledsoe,"{""47007"": 58.52, ""47153"": 20.37, ""47065"": 16.01, ""47143"": 5.1}",Bledsoe|Sequatchie|Hamilton|Rhea,47007|47153|47065|47143,False,False,America/Chicago
+37339,35.37386,-85.63222,Gruetli Laager,TN,Tennessee,True,,2110.0,20.7,47061,Grundy,"{""47061"": 100}",Grundy,47061,False,False,America/Chicago
+37340,35.02085,-85.53179,Guild,TN,Tennessee,True,,480.0,21.9,47115,Marion,"{""47115"": 100}",Marion,47115,False,False,America/Chicago
+37341,35.21386,-85.0834,Harrison,TN,Tennessee,True,,12010.0,137.4,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37342,35.38175,-85.94937,Hillsboro,TN,Tennessee,True,,4286.0,24.2,47031,Coffee,"{""47031"": 100}",Coffee,47031,False,False,America/Chicago
+37343,35.16904,-85.20899,Hixson,TN,Tennessee,True,,42120.0,386.3,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37345,35.0366,-86.24299,Huntland,TN,Tennessee,True,,2715.0,18.6,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago
+37347,35.06088,-85.61894,Jasper,TN,Tennessee,True,,8135.0,64.2,47115,Marion,"{""47115"": 100}",Marion,47115,False,False,America/Chicago
+37348,35.11935,-86.44222,Kelso,TN,Tennessee,True,,785.0,10.1,47103,Lincoln,"{""47103"": 100}",Lincoln,47103,False,False,America/Chicago
+37350,34.99445,-85.3516,Lookout Mountain,TN,Tennessee,True,,2013.0,578.7,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37351,35.10073,-85.26135,Lupton City,TN,Tennessee,True,,318.0,281.6,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37352,35.27981,-86.35417,Lynchburg,TN,Tennessee,True,,3440.0,26.6,47127,Moore,"{""47127"": 99.17, ""47051"": 0.83}",Moore|Franklin,47127|47051,False,False,America/Chicago
+37353,35.12288,-84.9855,McDonald,TN,Tennessee,True,,4921.0,47.0,47011,Bradley,"{""47011"": 87.25, ""47065"": 12.75}",Bradley|Hamilton,47011|47065,False,False,America/New_York
+37354,35.50195,-84.34387,Madisonville,TN,Tennessee,True,,17029.0,55.9,47123,Monroe,"{""47123"": 97.02, ""47107"": 2.98}",Monroe|McMinn,47123|47107,False,False,America/New_York
+37355,35.50843,-86.07866,Manchester,TN,Tennessee,True,,27203.0,50.7,47031,Coffee,"{""47031"": 100}",Coffee,47031,False,False,America/Chicago
+37356,35.22952,-85.82393,Monteagle,TN,Tennessee,True,,2680.0,42.1,47115,Marion,"{""47115"": 55.81, ""47061"": 42.88, ""47051"": 1.31}",Marion|Grundy|Franklin,47115|47061|47051,False,False,America/Chicago
+37357,35.59454,-85.92003,Morrison,TN,Tennessee,True,,5633.0,16.1,47177,Warren,"{""47177"": 54.32, ""47031"": 28.6, ""47061"": 10.4, ""47015"": 6.68}",Warren|Coffee|Grundy|Cannon,47177|47031|47061|47015,False,False,America/Chicago
+37359,35.19776,-86.4119,Mulberry,TN,Tennessee,True,,1033.0,10.3,47103,Lincoln,"{""47103"": 80.52, ""47127"": 19.48}",Lincoln|Moore,47103|47127,False,False,America/Chicago
+37360,35.44702,-86.25586,Normandy,TN,Tennessee,True,,2042.0,28.5,47003,Bedford,"{""47003"": 58.79, ""47031"": 37.04, ""47127"": 4.17}",Bedford|Coffee|Moore,47003|47031|47127,False,False,America/Chicago
+37361,35.08543,-84.6551,Ocoee,TN,Tennessee,True,,1763.0,23.9,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37362,35.03152,-84.70028,Old Fort,TN,Tennessee,True,,3178.0,18.4,47139,Polk,"{""47139"": 79.26, ""47011"": 20.74}",Polk|Bradley,47139|47011,False,False,America/New_York
+37363,35.11551,-85.0549,Ooltewah,TN,Tennessee,True,,41503.0,266.5,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37365,35.37287,-85.54013,Palmer,TN,Tennessee,True,,1263.0,8.6,47061,Grundy,"{""47061"": 70.6, ""47153"": 29.4}",Grundy|Sequatchie,47061|47153,False,False,America/Chicago
+37366,35.32054,-85.84224,Pelham,TN,Tennessee,True,,991.0,7.3,47061,Grundy,"{""47061"": 99.54, ""47051"": 0.46}",Grundy|Franklin,47061|47051,False,False,America/Chicago
+37367,35.62959,-85.21832,Pikeville,TN,Tennessee,True,,12045.0,15.7,47007,Bledsoe,"{""47007"": 91.77, ""47035"": 4.41, ""47175"": 3.82}",Bledsoe|Cumberland|Van Buren,47007|47035|47175,False,False,America/Chicago
+37369,35.19908,-84.47707,Reliance,TN,Tennessee,True,,693.0,2.5,47139,Polk,"{""47139"": 90.45, ""47123"": 9.55}",Polk|Monroe,47139|47123,False,False,America/New_York
+37370,35.35903,-84.70064,Riceville,TN,Tennessee,True,,4965.0,31.0,47107,McMinn,"{""47107"": 100}",McMinn,47107,False,False,America/New_York
+37373,35.39476,-85.10373,Sale Creek,TN,Tennessee,True,,3107.0,29.6,47065,Hamilton,"{""47065"": 99.61, ""47143"": 0.39}",Hamilton|Rhea,47065|47143,False,False,America/New_York
+37374,35.16404,-85.65818,Sequatchie,TN,Tennessee,True,,1886.0,12.6,47115,Marion,"{""47115"": 100}",Marion,47115,False,False,America/Chicago
+37375,35.15355,-85.88173,Sewanee,TN,Tennessee,True,,4026.0,22.7,47051,Franklin,"{""47051"": 67.71, ""47115"": 32.29}",Franklin|Marion,47051|47115,False,False,America/Chicago
+37376,35.04748,-85.95834,Sherwood,TN,Tennessee,True,,439.0,2.1,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago
+37377,35.21243,-85.3389,Signal Mountain,TN,Tennessee,True,,15496.0,74.4,47065,Hamilton,"{""47065"": 50.17, ""47153"": 46.24, ""47115"": 3.59}",Hamilton|Sequatchie|Marion,47065|47153|47115,False,False,America/Chicago
+37379,35.29407,-85.17429,Soddy Daisy,TN,Tennessee,True,,28115.0,102.0,47065,Hamilton,"{""47065"": 88.6, ""47153"": 6.08, ""47007"": 5.32}",Hamilton|Sequatchie|Bledsoe,47065|47153|47007,False,False,America/New_York
+37380,35.07265,-85.75754,South Pittsburg,TN,Tennessee,True,,6505.0,19.9,47115,Marion,"{""47115"": 98.16, ""47051"": 1.84}",Marion|Franklin,47115|47051,False,False,America/Chicago
+37381,35.68533,-84.8775,Spring City,TN,Tennessee,True,,9574.0,27.1,47143,Rhea,"{""47143"": 81.59, ""47007"": 18.41}",Rhea|Bledsoe,47143|47007,False,False,America/New_York
+37383,35.20984,-85.91373,Sewanee,TN,Tennessee,True,,,,47051,Franklin,"{""47051"": 100}",Franklin,47051,False,False,America/Chicago
+37385,35.33494,-84.22933,Tellico Plains,TN,Tennessee,True,,9292.0,13.4,47123,Monroe,"{""47123"": 100}",Monroe,47123,False,False,America/New_York
+37387,35.27745,-85.71427,Tracy City,TN,Tennessee,True,,3358.0,17.5,47061,Grundy,"{""47061"": 68.72, ""47115"": 31.28}",Grundy|Marion,47061|47115,False,False,America/Chicago
+37388,35.35141,-86.19747,Tullahoma,TN,Tennessee,True,,25462.0,83.4,47031,Coffee,"{""47031"": 42.98, ""47051"": 33.95, ""47127"": 19.73, ""47003"": 3.34}",Coffee|Franklin|Moore|Bedford,47031|47051|47127|47003,False,False,America/Chicago
+37391,35.09049,-84.35327,Turtletown,TN,Tennessee,True,,1474.0,22.2,47139,Polk,"{""47139"": 100}",Polk,47139,False,False,America/New_York
+37394,35.53918,-85.86047,Viola,TN,Tennessee,True,,120.0,323.1,47177,Warren,"{""47177"": 100}",Warren,47177,False,False,America/Chicago
+37396,35.00198,-85.50353,Whiteside,TN,Tennessee,True,,221.0,17.2,47115,Marion,"{""47115"": 100}",Marion,47115,False,False,America/New_York
+37397,35.21046,-85.51819,Whitwell,TN,Tennessee,True,,10101.0,26.1,47115,Marion,"{""47115"": 84.66, ""47153"": 15.34}",Marion|Sequatchie,47115|47153,False,False,America/Chicago
+37398,35.18182,-86.13808,Winchester,TN,Tennessee,True,,15020.0,53.0,47051,Franklin,"{""47051"": 94.38, ""47127"": 5.62}",Franklin|Moore,47051|47127,False,False,America/Chicago
+37402,35.04672,-85.31553,Chattanooga,TN,Tennessee,True,,4100.0,1231.2,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37403,35.0476,-85.29448,Chattanooga,TN,Tennessee,True,,7484.0,1694.7,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37404,35.02827,-85.27331,Chattanooga,TN,Tennessee,True,,12168.0,906.7,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37405,35.11757,-85.40429,Chattanooga,TN,Tennessee,True,,18231.0,129.6,47115,Marion,"{""47115"": 73.25, ""47065"": 26.75}",Marion|Hamilton,47115|47065,False,False,America/Chicago
+37406,35.07246,-85.24541,Chattanooga,TN,Tennessee,True,,14259.0,453.7,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37407,35.002,-85.28941,Chattanooga,TN,Tennessee,True,,11126.0,1263.6,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37408,35.03048,-85.31237,Chattanooga,TN,Tennessee,True,,2033.0,369.4,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37409,35.0012,-85.34466,Chattanooga,TN,Tennessee,True,,3399.0,297.1,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37410,35.002,-85.31366,Chattanooga,TN,Tennessee,True,,3709.0,473.6,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37411,35.02655,-85.23026,Chattanooga,TN,Tennessee,True,,16801.0,883.8,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37412,34.9974,-85.22726,Chattanooga,TN,Tennessee,True,,21220.0,946.2,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37415,35.12735,-85.27932,Chattanooga,TN,Tennessee,True,,23693.0,522.2,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37416,35.09856,-85.15751,Chattanooga,TN,Tennessee,True,,15307.0,287.7,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37419,35.04052,-85.41734,Chattanooga,TN,Tennessee,True,,6557.0,51.7,47115,Marion,"{""47115"": 53.89, ""47065"": 46.11}",Marion|Hamilton,47115|47065,False,False,America/Chicago
+37421,35.02915,-85.153,Chattanooga,TN,Tennessee,True,,53050.0,646.1,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37450,35.04897,-85.31217,Chattanooga,TN,Tennessee,True,,,,47065,Hamilton,"{""47065"": 100}",Hamilton,47065,False,False,America/New_York
+37601,36.32838,-82.31974,Johnson City,TN,Tennessee,True,,35963.0,291.0,47179,Washington,"{""47179"": 53.43, ""47019"": 44.08, ""47171"": 2.49}",Washington|Carter|Unicoi,47179|47019|47171,False,False,America/New_York
+37604,36.29923,-82.38302,Johnson City,TN,Tennessee,True,,36203.0,423.3,47179,Washington,"{""47179"": 94.35, ""47019"": 5.65}",Washington|Carter,47179|47019,False,False,America/New_York
+37614,36.30097,-82.36741,Johnson City,TN,Tennessee,True,,1909.0,1494.0,47179,Washington,"{""47179"": 100}",Washington,47179,False,False,America/New_York
+37615,36.39771,-82.45246,Johnson City,TN,Tennessee,True,,22064.0,226.6,47179,Washington,"{""47179"": 100}",Washington,47179,False,False,America/New_York
+37616,36.22619,-82.7498,Afton,TN,Tennessee,True,,5101.0,44.4,47059,Greene,"{""47059"": 100}",Greene,47059,False,False,America/New_York
+37617,36.53155,-82.37248,Blountville,TN,Tennessee,True,,14596.0,96.5,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York
+37618,36.46555,-82.20833,Bluff City,TN,Tennessee,True,,13592.0,75.7,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York
+37620,36.55124,-82.09867,Bristol,TN,Tennessee,True,,37760.0,113.7,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York
+37640,36.33023,-81.9773,Butler,TN,Tennessee,True,,3494.0,12.8,47091,Johnson,"{""47091"": 63.03, ""47019"": 36.97}",Johnson|Carter,47091|47019,False,False,America/New_York
+37641,36.20015,-82.66306,Chuckey,TN,Tennessee,True,,9491.0,39.1,47059,Greene,"{""47059"": 82.38, ""47179"": 17.62}",Greene|Washington,47059|47179,False,False,America/New_York
+37642,36.53261,-82.7267,Church Hill,TN,Tennessee,True,,14658.0,100.7,47073,Hawkins,"{""47073"": 99.53, ""51169"": 0.47}",Hawkins|Scott,47073|51169,False,False,America/New_York
+37643,36.37513,-82.13729,Elizabethton,TN,Tennessee,True,,33413.0,98.4,47019,Carter,"{""47019"": 98.8, ""47171"": 1.2}",Carter|Unicoi,47019|47171,False,False,America/New_York
+37645,36.56275,-82.66243,Mount Carmel,TN,Tennessee,True,,5080.0,313.8,47073,Hawkins,"{""47073"": 100}",Hawkins,47073,False,False,America/New_York
+37650,36.10416,-82.45938,Erwin,TN,Tennessee,True,,12960.0,51.6,47171,Unicoi,"{""47171"": 96.06, ""47179"": 3.94}",Unicoi|Washington,47171|47179,False,False,America/New_York
+37656,36.39997,-82.63075,Fall Branch,TN,Tennessee,True,,3423.0,45.4,47179,Washington,"{""47179"": 62.88, ""47059"": 28.82, ""47163"": 8.3}",Washington|Greene|Sullivan,47179|47059|47163,False,False,America/New_York
+37657,36.01725,-82.56057,Flag Pond,TN,Tennessee,True,,955.0,10.0,47171,Unicoi,"{""47171"": 100}",Unicoi,47171,False,False,America/New_York
+37658,36.26352,-82.1535,Hampton,TN,Tennessee,True,,4027.0,34.6,47019,Carter,"{""47019"": 99.75, ""47171"": 0.25}",Carter|Unicoi,47019|47171,False,False,America/New_York
+37659,36.28074,-82.4938,Jonesborough,TN,Tennessee,True,,27813.0,84.6,47179,Washington,"{""47179"": 99.31, ""47163"": 0.69}",Washington|Sullivan,47179|47163,False,False,America/New_York
+37660,36.52938,-82.57339,Kingsport,TN,Tennessee,True,,39638.0,232.9,47163,Sullivan,"{""47163"": 90.54, ""47073"": 9.46}",Sullivan|Hawkins,47163|47073,False,False,America/New_York
+37663,36.46466,-82.48525,Kingsport,TN,Tennessee,True,,13672.0,205.0,47163,Sullivan,"{""47163"": 95.26, ""47179"": 4.74}",Sullivan|Washington,47163|47179,False,False,America/New_York
+37664,36.51163,-82.50729,Kingsport,TN,Tennessee,True,,28040.0,319.1,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York
+37665,36.57951,-82.57304,Kingsport,TN,Tennessee,True,,5202.0,663.5,47163,Sullivan,"{""47163"": 100}",Sullivan,47163,False,False,America/New_York
+37680,36.57462,-81.72556,Laurel Bloomery,TN,Tennessee,True,,485.0,6.4,47091,Johnson,"{""47091"": 100}",Johnson,47091,False,False,America/New_York
+37681,36.25465,-82.62672,Limestone,TN,Tennessee,True,,6446.0,38.2,47179,Washington,"{""47179"": 62.73, ""47059"": 37.27}",Washington|Greene,47179|47059,False,False,America/New_York
+37682,36.30035,-82.29169,Milligan College,TN,Tennessee,True,,577.0,2185.0,47019,Carter,"{""47019"": 100}",Carter,47019,False,False,America/New_York
+37683,36.45303,-81.82233,Mountain City,TN,Tennessee,True,,13496.0,38.9,47091,Johnson,"{""47091"": 100}",Johnson,47091,False,False,America/New_York
+37686,36.44175,-82.34639,Piney Flats,TN,Tennessee,True,,8470.0,111.0,47163,Sullivan,"{""47163"": 99.61, ""47179"": 0.39}",Sullivan|Washington,47163|47179,False,False,America/New_York
+37687,36.18667,-82.09667,Roan Mountain,TN,Tennessee,True,,4428.0,17.9,47019,Carter,"{""47019"": 100}",Carter,47019,False,False,America/New_York
+37688,36.54548,-81.88281,Shady Valley,TN,Tennessee,True,,1012.0,7.2,47091,Johnson,"{""47091"": 100}",Johnson,47091,False,False,America/New_York
+37690,36.25124,-82.55895,Telford,TN,Tennessee,True,,4599.0,70.3,47179,Washington,"{""47179"": 100}",Washington,47179,False,False,America/New_York
+37691,36.36792,-81.75519,Trade,TN,Tennessee,True,,583.0,15.7,47091,Johnson,"{""47091"": 100}",Johnson,47091,False,False,America/New_York
+37692,36.18456,-82.30413,Unicoi,TN,Tennessee,True,,4780.0,34.8,47171,Unicoi,"{""47171"": 100}",Unicoi,47171,False,False,America/New_York
+37694,36.3849,-82.27588,Watauga,TN,Tennessee,True,,2264.0,69.2,47019,Carter,"{""47019"": 79.42, ""47163"": 17.62, ""47179"": 2.96}",Carter|Sullivan|Washington,47019|47163|47179,False,False,America/New_York
+37701,35.79393,-83.98461,Alcoa,TN,Tennessee,True,,7509.0,269.9,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37705,36.22862,-84.00947,Andersonville,TN,Tennessee,True,,4388.0,38.0,47001,Anderson,"{""47001"": 67.49, ""47173"": 32.51}",Anderson|Union,47001|47173,False,False,America/New_York
+37708,36.32312,-83.33588,Bean Station,TN,Tennessee,True,,6078.0,56.8,47057,Grainger,"{""47057"": 100}",Grainger,47057,False,False,America/New_York
+37709,36.16798,-83.66479,Blaine,TN,Tennessee,True,,3876.0,36.1,47057,Grainger,"{""47057"": 98.65, ""47093"": 1.35}",Grainger|Knox,47057|47093,False,False,America/New_York
+37710,36.15802,-84.3177,Briceville,TN,Tennessee,True,,1161.0,5.6,47001,Anderson,"{""47001"": 100}",Anderson,47001,False,False,America/New_York
+37711,36.28102,-83.03885,Bulls Gap,TN,Tennessee,True,,5496.0,40.7,47073,Hawkins,"{""47073"": 55.13, ""47059"": 41.08, ""47063"": 3.79}",Hawkins|Greene|Hamblen,47073|47059|47063,False,False,America/New_York
+37713,36.09073,-83.13373,Bybee,TN,Tennessee,True,,1364.0,17.6,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York
+37714,36.26656,-84.25277,Caryville,TN,Tennessee,True,,4485.0,26.9,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37715,36.55323,-83.95894,Clairfield,TN,Tennessee,True,,838.0,12.6,47025,Claiborne,"{""47025"": 73.22, ""47013"": 26.78}",Claiborne|Campbell,47025|47013,False,False,America/New_York
+37716,36.09919,-84.16822,Clinton,TN,Tennessee,True,,27768.0,128.5,47001,Anderson,"{""47001"": 100}",Anderson,47001,False,False,America/New_York
+37719,36.02196,-84.42815,Coalfield,TN,Tennessee,True,,330.0,194.9,47129,Morgan,"{""47129"": 100}",Morgan,47129,False,False,America/New_York
+37721,36.13155,-83.80829,Corryton,TN,Tennessee,True,,14024.0,109.9,47093,Knox,"{""47093"": 90.09, ""47173"": 9.91}",Knox|Union,47093|47173,False,False,America/New_York
+37722,35.80611,-83.23339,Cosby,TN,Tennessee,True,,6759.0,29.1,47029,Cocke,"{""47029"": 85.67, ""47155"": 14.33}",Cocke|Sevier,47029|47155,False,False,America/New_York
+37723,35.96044,-84.82171,Crab Orchard,TN,Tennessee,True,,1038.0,7.1,47035,Cumberland,"{""47035"": 100}",Cumberland,47035,False,False,America/Chicago
+37724,36.54457,-83.69328,Cumberland Gap,TN,Tennessee,True,,2378.0,42.6,47025,Claiborne,"{""47025"": 100}",Claiborne,47025,False,False,America/New_York
+37725,35.99778,-83.39678,Dandridge,TN,Tennessee,True,,18514.0,76.5,47089,Jefferson,"{""47089"": 98.92, ""47155"": 1.08}",Jefferson|Sevier,47089|47155,False,False,America/New_York
+37726,36.20464,-84.8386,Deer Lodge,TN,Tennessee,True,,1792.0,7.6,47129,Morgan,"{""47129"": 87.58, ""47049"": 12.42}",Morgan|Fentress,47129|47049,False,False,America/New_York
+37727,35.88885,-83.00651,Del Rio,TN,Tennessee,True,,2450.0,8.5,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York
+37729,36.51412,-84.03276,Duff,TN,Tennessee,True,,1937.0,15.2,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37730,36.56837,-83.97357,Eagan,TN,Tennessee,True,,,,47025,Claiborne,"{""47025"": 99.58, ""47013"": 0.42}",Claiborne|Campbell,47025|47013,False,False,America/New_York
+37731,36.54383,-83.00873,Eidson,TN,Tennessee,True,,433.0,3.4,47073,Hawkins,"{""47073"": 50.11, ""47067"": 49.89}",Hawkins|Hancock,47073|47067,False,False,America/New_York
+37732,36.32792,-84.6282,Elgin,TN,Tennessee,True,,,,47151,Scott,"{""47151"": 100}",Scott,47151,False,False,America/New_York
+37733,36.35676,-84.69497,Rugby,TN,Tennessee,True,,37.0,17.6,47129,Morgan,"{""47129"": 99.47, ""47151"": 0.53}",Morgan|Scott,47129|47151,False,False,America/New_York
+37737,35.75778,-84.11913,Friendsville,TN,Tennessee,True,,6058.0,87.7,47009,Blount,"{""47009"": 93.62, ""47105"": 6.38}",Blount|Loudon,47009|47105,False,False,America/New_York
+37738,35.67125,-83.47641,Gatlinburg,TN,Tennessee,True,,5343.0,9.6,47155,Sevier,"{""47155"": 100}",Sevier,47155,False,False,America/New_York
+37742,35.67548,-84.18049,Greenback,TN,Tennessee,True,,6362.0,49.7,47105,Loudon,"{""47105"": 69.37, ""47009"": 30.63}",Loudon|Blount,47105|47009,False,False,America/New_York
+37743,36.06663,-82.85659,Greeneville,TN,Tennessee,True,,24791.0,43.1,47059,Greene,"{""47059"": 98.14, ""47029"": 1.86}",Greene|Cocke,47059|47029,False,False,America/New_York
+37745,36.2784,-82.82631,Greeneville,TN,Tennessee,True,,18233.0,57.7,47059,Greene,"{""47059"": 96.62, ""47073"": 3.38}",Greene|Hawkins,47059|47073,False,False,America/New_York
+37748,35.94797,-84.51413,Harriman,TN,Tennessee,True,,16745.0,60.7,47145,Roane,"{""47145"": 71.47, ""47129"": 28.53}",Roane|Morgan,47145|47129,False,False,America/New_York
+37752,36.56735,-83.55422,Harrogate,TN,Tennessee,True,,6460.0,52.8,47025,Claiborne,"{""47025"": 99.42, ""51105"": 0.58}",Claiborne|Lee,47025|51105,False,False,America/New_York
+37753,35.82276,-83.098,Hartford,TN,Tennessee,True,,833.0,10.0,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York
+37754,36.13059,-84.03305,Heiskell,TN,Tennessee,True,,3951.0,39.9,47001,Anderson,"{""47001"": 68.37, ""47093"": 27.18, ""47173"": 4.45}",Anderson|Knox|Union,47001|47093|47173,False,False,America/New_York
+37755,36.42249,-84.53166,Helenwood,TN,Tennessee,True,,2652.0,27.0,47151,Scott,"{""47151"": 100}",Scott,47151,False,False,America/New_York
+37756,36.30165,-84.40704,Huntsville,TN,Tennessee,True,,2973.0,9.7,47151,Scott,"{""47151"": 87.44, ""47013"": 12.56}",Scott|Campbell,47151|47013,False,False,America/New_York
+37757,36.30182,-84.14371,Jacksboro,TN,Tennessee,True,,10096.0,137.8,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37760,36.10773,-83.46443,Jefferson City,TN,Tennessee,True,,13550.0,128.5,47089,Jefferson,"{""47089"": 100}",Jefferson,47089,False,False,America/New_York
+37762,36.57657,-84.12323,Jellico,TN,Tennessee,True,,2630.0,66.7,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37763,35.82344,-84.49356,Kingston,TN,Tennessee,True,,15959.0,71.7,47145,Roane,"{""47145"": 100}",Roane,47145,False,False,America/New_York
+37764,35.97074,-83.61585,Kodak,TN,Tennessee,True,,10448.0,118.4,47155,Sevier,"{""47155"": 87.4, ""47093"": 12.39, ""47089"": 0.21}",Sevier|Knox|Jefferson,47155|47093|47089,False,False,America/New_York
+37765,36.57219,-83.06534,Kyles Ford,TN,Tennessee,True,,601.0,11.9,47067,Hancock,"{""47067"": 100}",Hancock,47067,False,False,America/New_York
+37766,36.39958,-84.07275,La Follette,TN,Tennessee,True,,17169.0,48.3,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37769,36.21799,-84.15532,Rocky Top,TN,Tennessee,True,,5839.0,75.1,47001,Anderson,"{""47001"": 81.23, ""47013"": 18.77}",Anderson|Campbell,47001|47013,False,False,America/New_York
+37770,36.15239,-84.6418,Lancing,TN,Tennessee,True,,2835.0,8.0,47129,Morgan,"{""47129"": 100}",Morgan,47129,False,False,America/New_York
+37771,35.8382,-84.31748,Lenoir City,TN,Tennessee,True,,17730.0,136.5,47105,Loudon,"{""47105"": 74.89, ""47145"": 25.11}",Loudon|Roane,47105|47145,False,False,America/New_York
+37772,35.78775,-84.21876,Lenoir City,TN,Tennessee,True,,13106.0,130.9,47105,Loudon,"{""47105"": 99.88, ""47093"": 0.12}",Loudon|Knox,47105|47093,False,False,America/New_York
+37774,35.7317,-84.35526,Loudon,TN,Tennessee,True,,18340.0,80.3,47105,Loudon,"{""47105"": 86.78, ""47145"": 12.08, ""47123"": 1.14}",Loudon|Roane|Monroe,47105|47145|47123,False,False,America/New_York
+37777,35.82742,-84.05186,Louisville,TN,Tennessee,True,,12763.0,149.9,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37779,36.21093,-83.75793,Luttrell,TN,Tennessee,True,,3598.0,40.2,47173,Union,"{""47173"": 95.74, ""47093"": 4.05, ""47057"": 0.21}",Union|Knox|Grainger,47173|47093|47057,False,False,America/New_York
+37801,35.67134,-84.08453,Maryville,TN,Tennessee,True,,27102.0,150.8,47009,Blount,"{""47009"": 87.63, ""47123"": 12.37}",Blount|Monroe,47009|47123,False,False,America/New_York
+37803,35.67115,-83.97761,Maryville,TN,Tennessee,True,,32016.0,140.9,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37804,35.79228,-83.89311,Maryville,TN,Tennessee,True,,27040.0,299.5,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37806,36.08645,-83.72368,Mascot,TN,Tennessee,True,,2925.0,62.1,47093,Knox,"{""47093"": 88.47, ""47057"": 11.53}",Knox|Grainger,47093|47057,False,False,America/New_York
+37807,36.25955,-83.82702,Maynardville,TN,Tennessee,True,,11397.0,55.0,47173,Union,"{""47173"": 99.37, ""47093"": 0.63}",Union|Knox,47173|47093,False,False,America/New_York
+37809,36.15431,-83.03611,Midway,TN,Tennessee,True,,2584.0,32.2,47059,Greene,"{""47059"": 100}",Greene,47059,False,False,America/New_York
+37810,36.17984,-83.10296,Mohawk,TN,Tennessee,True,,1981.0,22.8,47059,Greene,"{""47059"": 100}",Greene,47059,False,False,America/New_York
+37811,36.35558,-83.2144,Mooresburg,TN,Tennessee,True,,3926.0,39.2,47073,Hawkins,"{""47073"": 98.39, ""47057"": 1.61}",Hawkins|Grainger,47073|47057,False,False,America/New_York
+37813,36.17644,-83.26542,Morristown,TN,Tennessee,True,,17946.0,119.5,47063,Hamblen,"{""47063"": 97.36, ""47089"": 2.64}",Hamblen|Jefferson,47063|47089,False,False,America/New_York
+37814,36.23604,-83.3317,Morristown,TN,Tennessee,True,,34359.0,302.5,47063,Hamblen,"{""47063"": 100}",Hamblen,47063,False,False,America/New_York
+37818,36.18581,-82.97233,Mosheim,TN,Tennessee,True,,5328.0,44.6,47059,Greene,"{""47059"": 99.77, ""47029"": 0.23}",Greene|Cocke,47059|47029,False,False,America/New_York
+37819,36.55649,-84.21169,Newcomb,TN,Tennessee,True,,665.0,12.2,47013,Campbell,"{""47013"": 100}",Campbell,47013,False,False,America/New_York
+37820,36.08364,-83.56715,New Market,TN,Tennessee,True,,7715.0,44.1,47089,Jefferson,"{""47089"": 100}",Jefferson,47089,False,False,America/New_York
+37821,35.97688,-83.19506,Newport,TN,Tennessee,True,,21657.0,64.4,47029,Cocke,"{""47029"": 99.8, ""47089"": 0.2}",Cocke|Jefferson,47029|47089,False,False,America/New_York
+37825,36.41221,-83.68196,New Tazewell,TN,Tennessee,True,,8291.0,36.8,47025,Claiborne,"{""47025"": 94.81, ""47173"": 5.19}",Claiborne|Union,47025|47173,False,False,America/New_York
+37826,35.55825,-84.58984,Niota,TN,Tennessee,True,,4930.0,35.4,47107,McMinn,"{""47107"": 98.73, ""47121"": 1.27}",McMinn|Meigs,47107|47121,False,False,America/New_York
+37828,36.19788,-84.06889,Norris,TN,Tennessee,True,,1457.0,175.5,47001,Anderson,"{""47001"": 100}",Anderson,47001,False,False,America/New_York
+37829,36.00094,-84.61331,Oakdale,TN,Tennessee,True,,1731.0,15.1,47129,Morgan,"{""47129"": 100}",Morgan,47129,False,False,America/New_York
+37830,35.96431,-84.29221,Oak Ridge,TN,Tennessee,True,,29569.0,134.6,47001,Anderson,"{""47001"": 52.24, ""47145"": 47.23, ""47093"": 0.53}",Anderson|Roane|Knox,47001|47145|47093,False,False,America/New_York
+37840,36.05849,-84.37047,Oliver Springs,TN,Tennessee,True,,10092.0,48.3,47129,Morgan,"{""47129"": 44.27, ""47001"": 36.8, ""47145"": 18.92}",Morgan|Anderson|Roane,47129|47001|47145,False,False,America/New_York
+37841,36.5088,-84.54665,Oneida,TN,Tennessee,True,,9966.0,26.1,47151,Scott,"{""47151"": 100}",Scott,47151,False,False,America/New_York
+37843,36.01137,-83.04979,Parrottsville,TN,Tennessee,True,,4245.0,31.1,47029,Cocke,"{""47029"": 100}",Cocke,47029,False,False,America/New_York
+37845,36.10369,-84.45022,Petros,TN,Tennessee,True,,479.0,46.3,47129,Morgan,"{""47129"": 100}",Morgan,47129,False,False,America/New_York
+37846,35.68008,-84.48505,Philadelphia,TN,Tennessee,True,,4002.0,21.3,47105,Loudon,"{""47105"": 42.7, ""47145"": 38.7, ""47123"": 14.53, ""47107"": 3.94, ""47121"": 0.13}",Loudon|Roane|Monroe|McMinn|Meigs,47105|47145|47123|47107|47121,False,False,America/New_York
+37847,36.43156,-84.27346,Pioneer,TN,Tennessee,True,,3172.0,8.4,47013,Campbell,"{""47013"": 81.65, ""47151"": 18.35}",Campbell|Scott,47013|47151,False,False,America/New_York
+37848,36.23701,-83.68179,Powder Springs,TN,Tennessee,True,,103.0,5.0,47057,Grainger,"{""47057"": 74.67, ""47173"": 25.33}",Grainger|Union,47057|47173,False,False,America/New_York
+37849,36.0578,-84.04476,Powell,TN,Tennessee,True,,28109.0,273.1,47093,Knox,"{""47093"": 70.8, ""47001"": 29.2}",Knox|Anderson,47093|47001,False,False,America/New_York
+37851,36.56558,-83.79244,Pruden,TN,Tennessee,True,,,,47025,Claiborne,"{""47025"": 100}",Claiborne,47025,False,False,America/New_York
+37852,36.32365,-84.57454,Robbins,TN,Tennessee,True,,2941.0,10.8,47151,Scott,"{""47151"": 90.73, ""47129"": 9.27}",Scott|Morgan,47151|47129,False,False,America/New_York
+37853,35.83723,-83.90854,Rockford,TN,Tennessee,True,,3474.0,80.1,47009,Blount,"{""47009"": 91.21, ""47093"": 8.79}",Blount|Knox,47009|47093,False,False,America/New_York
+37854,35.88004,-84.71454,Rockwood,TN,Tennessee,True,,12690.0,35.9,47145,Roane,"{""47145"": 47.68, ""47035"": 39.66, ""47129"": 12.66}",Roane|Cumberland|Morgan,47145|47035|47129,False,False,America/Chicago
+37857,36.42145,-82.94269,Rogersville,TN,Tennessee,True,,20429.0,33.5,47073,Hawkins,"{""47073"": 99.4, ""47163"": 0.6}",Hawkins|Sullivan,47073|47163,False,False,America/New_York
+37860,36.24492,-83.18441,Russellville,TN,Tennessee,True,,3613.0,58.0,47063,Hamblen,"{""47063"": 100}",Hamblen,47063,False,False,America/New_York
+37861,36.24516,-83.51421,Rutledge,TN,Tennessee,True,,8980.0,35.2,47057,Grainger,"{""47057"": 100}",Grainger,47057,False,False,America/New_York
+37862,35.78314,-83.61232,Sevierville,TN,Tennessee,True,,22731.0,107.3,47155,Sevier,"{""47155"": 100}",Sevier,47155,False,False,America/New_York
+37863,35.7864,-83.56367,Pigeon Forge,TN,Tennessee,True,,6932.0,155.3,47155,Sevier,"{""47155"": 100}",Sevier,47155,False,False,America/New_York
+37865,35.84609,-83.73974,Seymour,TN,Tennessee,True,,24638.0,129.7,47155,Sevier,"{""47155"": 69.3, ""47009"": 30.7}",Sevier|Blount,47155|47009,False,False,America/New_York
+37866,36.35017,-83.8517,Sharps Chapel,TN,Tennessee,True,,1508.0,10.5,47173,Union,"{""47173"": 100}",Union,47173,False,False,America/New_York
+37869,36.51555,-83.24579,Sneedville,TN,Tennessee,True,,4624.0,13.4,47067,Hancock,"{""47067"": 88.44, ""47073"": 6.7, ""47025"": 4.86}",Hancock|Hawkins|Claiborne,47067|47073|47025,False,False,America/New_York
+37870,36.46319,-83.83562,Speedwell,TN,Tennessee,True,,4278.0,19.9,47025,Claiborne,"{""47025"": 73.21, ""47013"": 15.26, ""47173"": 11.53}",Claiborne|Campbell|Union,47025|47013|47173,False,False,America/New_York
+37871,36.04693,-83.67932,Strawberry Plains,TN,Tennessee,True,,8524.0,84.2,47093,Knox,"{""47093"": 45.44, ""47089"": 42.93, ""47155"": 11.63}",Knox|Jefferson|Sevier,47093|47089|47155,False,False,America/New_York
+37872,36.26869,-84.68119,Sunbright,TN,Tennessee,True,,1710.0,7.2,47129,Morgan,"{""47129"": 86.35, ""47151"": 13.65}",Morgan|Scott,47129|47151,False,False,America/New_York
+37873,36.52446,-82.84754,Surgoinsville,TN,Tennessee,True,,4362.0,26.9,47073,Hawkins,"{""47073"": 100}",Hawkins,47073,False,False,America/New_York
+37874,35.59749,-84.45823,Sweetwater,TN,Tennessee,True,,15765.0,59.2,47123,Monroe,"{""47123"": 70.29, ""47107"": 20.58, ""47105"": 8.72, ""47145"": 0.41}",Monroe|McMinn|Loudon|Roane,47123|47107|47105|47145,False,False,America/New_York
+37876,35.8645,-83.47876,Sevierville,TN,Tennessee,True,,32142.0,66.4,47155,Sevier,"{""47155"": 91.46, ""47089"": 8.54}",Sevier|Jefferson,47155|47089,False,False,America/New_York
+37877,36.15176,-83.40503,Talbott,TN,Tennessee,True,,8893.0,129.8,47089,Jefferson,"{""47089"": 55.45, ""47063"": 44.55}",Jefferson|Hamblen,47089|47063,False,False,America/New_York
+37878,35.59406,-83.98358,Tallassee,TN,Tennessee,True,,350.0,5.2,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37879,36.48403,-83.48705,Tazewell,TN,Tennessee,True,,11501.0,25.3,47025,Claiborne,"{""47025"": 80.38, ""47067"": 19.62}",Claiborne|Hancock,47025|47067,False,False,America/New_York
+37880,35.7012,-84.66453,Ten Mile,TN,Tennessee,True,,3772.0,19.8,47121,Meigs,"{""47121"": 56.61, ""47145"": 42.93, ""47107"": 0.46}",Meigs|Roane|McMinn,47121|47145|47107,False,False,America/New_York
+37881,36.39861,-83.34393,Thorn Hill,TN,Tennessee,True,,2023.0,10.9,47057,Grainger,"{""47057"": 56.61, ""47067"": 35.83, ""47073"": 6.99, ""47025"": 0.57}",Grainger|Hancock|Hawkins|Claiborne,47057|47067|47073|47025,False,False,America/New_York
+37882,35.60335,-83.82118,Townsend,TN,Tennessee,True,,3036.0,6.4,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37885,35.50392,-84.12539,Vonore,TN,Tennessee,True,,5854.0,15.6,47123,Monroe,"{""47123"": 97.86, ""47105"": 2.14}",Monroe|Loudon,47123|47105,False,False,America/New_York
+37886,35.74142,-83.80747,Walland,TN,Tennessee,True,,4594.0,41.9,47009,Blount,"{""47009"": 100}",Blount,47009,False,False,America/New_York
+37887,36.0772,-84.61573,Wartburg,TN,Tennessee,True,,7651.0,36.3,47129,Morgan,"{""47129"": 100}",Morgan,47129,False,False,America/New_York
+37888,36.31063,-83.61266,Washburn,TN,Tennessee,True,,3406.0,23.6,47057,Grainger,"{""47057"": 90.97, ""47173"": 9.03}",Grainger|Union,47057|47173,False,False,America/New_York
+37890,36.08144,-83.29299,White Pine,TN,Tennessee,True,,7208.0,80.7,47089,Jefferson,"{""47089"": 94.09, ""47063"": 5.91}",Jefferson|Hamblen,47089|47063,False,False,America/New_York
+37891,36.29172,-83.13992,Whitesburg,TN,Tennessee,True,,3628.0,40.2,47063,Hamblen,"{""47063"": 64.91, ""47073"": 35.09}",Hamblen|Hawkins,47063|47073,False,False,America/New_York
+37892,36.55666,-84.37132,Winfield,TN,Tennessee,True,,2034.0,11.1,47151,Scott,"{""47151"": 100}",Scott,47151,False,False,America/New_York
+37902,35.96203,-83.92039,Knoxville,TN,Tennessee,True,,2463.0,2151.4,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37909,35.94716,-84.02275,Knoxville,TN,Tennessee,True,,16321.0,926.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37912,36.00849,-83.98465,Knoxville,TN,Tennessee,True,,22154.0,810.1,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37914,35.97988,-83.79937,Knoxville,TN,Tennessee,True,,19912.0,193.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37915,35.97057,-83.90002,Knoxville,TN,Tennessee,True,,5055.0,1035.7,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37916,35.95309,-83.9335,Knoxville,TN,Tennessee,True,,13711.0,3757.0,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37917,36.00156,-83.91265,Knoxville,TN,Tennessee,True,,25048.0,1017.8,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37918,36.0599,-83.91082,Knoxville,TN,Tennessee,True,,45107.0,504.0,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37919,35.91429,-84.00106,Knoxville,TN,Tennessee,True,,29637.0,598.9,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37920,35.91084,-83.85909,Knoxville,TN,Tennessee,True,,40678.0,217.2,47093,Knox,"{""47093"": 99.33, ""47009"": 0.67}",Knox|Blount,47093|47009,False,False,America/New_York
+37921,35.97877,-84.00028,Knoxville,TN,Tennessee,True,,27522.0,668.3,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37922,35.86124,-84.10127,Knoxville,TN,Tennessee,True,,37709.0,525.1,47093,Knox,"{""47093"": 99.35, ""47105"": 0.65}",Knox|Loudon,47093|47105,False,False,America/New_York
+37923,35.92697,-84.08076,Knoxville,TN,Tennessee,True,,31548.0,1098.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37924,36.03554,-83.80211,Knoxville,TN,Tennessee,True,,12312.0,170.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37929,35.96241,-83.91597,Knoxville,TN,Tennessee,True,,,,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37931,35.97611,-84.12496,Knoxville,TN,Tennessee,True,,28440.0,387.1,47093,Knox,"{""47093"": 91.49, ""47001"": 8.51}",Knox|Anderson,47093|47001,False,False,America/New_York
+37932,35.92273,-84.19562,Knoxville,TN,Tennessee,True,,19206.0,255.8,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37934,35.87338,-84.17882,Farragut,TN,Tennessee,True,,27152.0,601.6,47093,Knox,"{""47093"": 100}",Knox,47093,False,False,America/New_York
+37938,36.12499,-83.93815,Knoxville,TN,Tennessee,True,,17230.0,205.6,47093,Knox,"{""47093"": 99.02, ""47173"": 0.6, ""47001"": 0.38}",Knox|Union|Anderson,47093|47173|47001,False,False,America/New_York
+38001,35.81323,-89.15505,Alamo,TN,Tennessee,True,,4350.0,24.9,47033,Crockett,"{""47033"": 100}",Crockett,47033,False,False,America/Chicago
+38002,35.28854,-89.70926,Arlington,TN,Tennessee,True,,40070.0,133.0,47157,Shelby,"{""47157"": 86.87, ""47047"": 13.13}",Shelby|Fayette,47157|47047,False,False,America/Chicago
+38004,35.41909,-89.76687,Atoka,TN,Tennessee,True,,11094.0,156.6,47167,Tipton,"{""47167"": 79.21, ""47157"": 20.79}",Tipton|Shelby,47167|47157,False,False,America/Chicago
+38006,35.69507,-89.09761,Bells,TN,Tennessee,True,,5530.0,21.0,47075,Haywood,"{""47075"": 48.5, ""47033"": 45.32, ""47113"": 6.18}",Haywood|Crockett|Madison,47075|47033|47113,False,False,America/Chicago
+38007,36.16422,-89.43925,Bogota,TN,Tennessee,True,,69.0,478.8,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago
+38008,35.24455,-88.99879,Bolivar,TN,Tennessee,True,,8726.0,21.9,47069,Hardeman,"{""47069"": 100}",Hardeman,47069,False,False,America/Chicago
+38011,35.47266,-89.71415,Brighton,TN,Tennessee,True,,9429.0,63.8,47167,Tipton,"{""47167"": 96.84, ""47157"": 3.16}",Tipton|Shelby,47167|47157,False,False,America/Chicago
+38012,35.60959,-89.27085,Brownsville,TN,Tennessee,True,,12658.0,17.9,47075,Haywood,"{""47075"": 100}",Haywood,47075,False,False,America/Chicago
+38015,35.55948,-89.82436,Burlison,TN,Tennessee,True,,2249.0,20.5,47167,Tipton,"{""47167"": 100}",Tipton,47167,False,False,America/Chicago
+38016,35.17956,-89.76046,Cordova,TN,Tennessee,True,,45424.0,968.3,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38017,35.06722,-89.65347,Collierville,TN,Tennessee,True,,55884.0,263.3,47157,Shelby,"{""47157"": 56.55, ""47047"": 43.45}",Shelby|Fayette,47157|47047,False,False,America/Chicago
+38018,35.13781,-89.76647,Cordova,TN,Tennessee,True,,37269.0,771.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38019,35.56114,-89.6304,Covington,TN,Tennessee,True,,16137.0,44.3,47167,Tipton,"{""47167"": 100}",Tipton,47167,False,False,America/Chicago
+38021,35.87042,-89.18411,Crockett Mills,TN,Tennessee,True,,,,47033,Crockett,"{""47033"": 100}",Crockett,47033,False,False,America/Chicago
+38023,35.47468,-89.95114,Drummonds,TN,Tennessee,True,,6683.0,34.2,47167,Tipton,"{""47167"": 100}",Tipton,47167,False,False,America/Chicago
+38024,36.03743,-89.38511,Dyersburg,TN,Tennessee,True,,26627.0,71.9,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago
+38028,35.18486,-89.63474,Eads,TN,Tennessee,True,,7478.0,48.8,47047,Fayette,"{""47047"": 53.22, ""47157"": 46.78}",Fayette|Shelby,47047|47157,False,False,America/Chicago
+38029,35.24205,-89.82351,Ellendale,TN,Tennessee,True,,27.0,78.0,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38030,35.99942,-89.59981,Finley,TN,Tennessee,True,,444.0,1.6,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago
+38034,35.91273,-89.236,Friendship,TN,Tennessee,True,,2968.0,11.1,47033,Crockett,"{""47033"": 65.63, ""47045"": 34.37}",Crockett|Dyer,47033|47045,False,False,America/Chicago
+38036,35.32715,-89.61941,Gallaway,TN,Tennessee,True,,612.0,1038.1,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38037,35.79433,-89.39232,Gates,TN,Tennessee,True,,1558.0,13.0,47075,Haywood,"{""47075"": 59.14, ""47097"": 40.86}",Haywood|Lauderdale,47075|47097,False,False,America/Chicago
+38039,35.0571,-89.18545,Grand Junction,TN,Tennessee,True,,1882.0,10.8,47069,Hardeman,"{""47069"": 57.53, ""47047"": 42.47}",Hardeman|Fayette,47069|47047,False,False,America/Chicago
+38040,35.88185,-89.48065,Halls,TN,Tennessee,True,,4574.0,13.4,47097,Lauderdale,"{""47097"": 72.73, ""47033"": 18.74, ""47045"": 8.53}",Lauderdale|Crockett|Dyer,47097|47033|47045,False,False,America/Chicago
+38041,35.64397,-89.70204,Henning,TN,Tennessee,True,,4752.0,18.0,47097,Lauderdale,"{""47097"": 100}",Lauderdale,47097,False,False,America/Chicago
+38042,35.15059,-89.13848,Hickory Valley,TN,Tennessee,True,,672.0,5.1,47069,Hardeman,"{""47069"": 85.22, ""47047"": 14.78}",Hardeman|Fayette,47069|47047,False,False,America/Chicago
+38044,35.20736,-88.80244,Hornsby,TN,Tennessee,True,,638.0,5.8,47069,Hardeman,"{""47069"": 81.28, ""47109"": 13.35, ""47023"": 5.37}",Hardeman|McNairy|Chester,47069|47109|47023,False,False,America/Chicago
+38046,35.04598,-89.24408,La Grange,TN,Tennessee,True,,60.0,263.6,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38047,36.06499,-89.55569,Lenox,TN,Tennessee,True,,,,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago
+38049,35.38689,-89.544,Mason,TN,Tennessee,True,,4271.0,14.8,47047,Fayette,"{""47047"": 62.51, ""47167"": 37.49}",Fayette|Tipton,47047|47167,False,False,America/Chicago
+38050,35.81635,-89.22712,Maury City,TN,Tennessee,True,,733.0,486.5,47033,Crockett,"{""47033"": 100}",Crockett,47033,False,False,America/Chicago
+38052,35.08574,-88.91308,Middleton,TN,Tennessee,True,,4023.0,12.3,47069,Hardeman,"{""47069"": 100}",Hardeman,47069,False,False,America/Chicago
+38053,35.33583,-89.95,Millington,TN,Tennessee,True,,25816.0,61.4,47157,Shelby,"{""47157"": 92.6, ""47167"": 7.4}",Shelby|Tipton,47157|47167,False,False,America/Chicago
+38054,35.3358,-89.8744,Millington,TN,Tennessee,True,,289.0,358.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38057,35.05381,-89.36772,Moscow,TN,Tennessee,True,,3595.0,13.1,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38058,35.45861,-89.81933,Munford,TN,Tennessee,True,,9981.0,148.6,47167,Tipton,"{""47167"": 100}",Tipton,47167,False,False,America/Chicago
+38059,36.11132,-89.24113,Newbern,TN,Tennessee,True,,7928.0,23.3,47045,Dyer,"{""47045"": 86.64, ""47053"": 13.36}",Dyer|Gibson,47045|47053,False,False,America/Chicago
+38060,35.21214,-89.50468,Oakland,TN,Tennessee,True,,10403.0,89.5,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38061,35.06704,-88.7647,Pocahontas,TN,Tennessee,True,,1185.0,6.7,47109,McNairy,"{""47109"": 71.68, ""47069"": 28.32}",McNairy|Hardeman,47109|47069,False,False,America/Chicago
+38063,35.74598,-89.63412,Ripley,TN,Tennessee,True,,16154.0,21.9,47097,Lauderdale,"{""47097"": 90.91, ""47075"": 9.09}",Lauderdale|Haywood,47097|47075,False,False,America/Chicago
+38066,35.07421,-89.53944,Rossville,TN,Tennessee,True,,2786.0,18.7,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38067,35.08561,-89.04804,Saulsbury,TN,Tennessee,True,,1230.0,8.1,47069,Hardeman,"{""47069"": 100}",Hardeman,47069,False,False,America/Chicago
+38068,35.25972,-89.3349,Somerville,TN,Tennessee,True,,10850.0,16.2,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38069,35.46209,-89.37151,Stanton,TN,Tennessee,True,,2146.0,5.9,47075,Haywood,"{""47075"": 84.29, ""47167"": 12.79, ""47047"": 2.92}",Haywood|Tipton|Fayette,47075|47167|47047,False,False,America/Chicago
+38070,35.94045,-89.24915,Tigrett,TN,Tennessee,True,,94.0,21.5,47045,Dyer,"{""47045"": 100}",Dyer,47045,False,False,America/Chicago
+38075,35.37197,-89.15569,Whiteville,TN,Tennessee,True,,6744.0,19.8,47069,Hardeman,"{""47069"": 58.96, ""47075"": 28.58, ""47047"": 12.46}",Hardeman|Haywood|Fayette,47069|47075|47047,False,False,America/Chicago
+38076,35.12301,-89.45633,Williston,TN,Tennessee,True,,1154.0,15.6,47047,Fayette,"{""47047"": 100}",Fayette,47047,False,False,America/Chicago
+38077,36.32852,-89.4744,Wynnburg,TN,Tennessee,True,,38.0,615.4,47095,Lake,"{""47095"": 100}",Lake,47095,False,False,America/Chicago
+38079,36.41378,-89.47032,Tiptonville,TN,Tennessee,True,,5023.0,17.6,47095,Lake,"{""47095"": 87.04, ""21075"": 12.96}",Lake|Fulton,47095|21075,False,False,America/Chicago
+38080,36.20295,-89.52142,Ridgely,TN,Tennessee,True,,2441.0,6.8,47095,Lake,"{""47095"": 52.4, ""47045"": 45.36, ""47131"": 2.24}",Lake|Dyer|Obion,47095|47045|47131,False,False,America/Chicago
+38103,35.15308,-90.05518,Memphis,TN,Tennessee,True,,14713.0,2141.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38104,35.13253,-90.00435,Memphis,TN,Tennessee,True,,23812.0,1856.6,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38105,35.1512,-90.03541,Memphis,TN,Tennessee,True,,5638.0,1287.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38106,35.10067,-90.0375,Memphis,TN,Tennessee,True,,24256.0,900.7,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38107,35.17054,-90.02397,Memphis,TN,Tennessee,True,,15477.0,1096.6,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38108,35.1763,-89.96382,Memphis,TN,Tennessee,True,,17258.0,877.3,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38109,35.0341,-90.13533,Memphis,TN,Tennessee,True,,44846.0,290.0,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38111,35.11014,-89.94429,Memphis,TN,Tennessee,True,,42146.0,1664.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38112,35.14791,-89.97661,Memphis,TN,Tennessee,True,,16046.0,1289.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38113,35.10198,-90.13285,Memphis,TN,Tennessee,True,,,,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38114,35.09648,-89.98596,Memphis,TN,Tennessee,True,,23940.0,1216.7,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38115,35.05499,-89.86362,Memphis,TN,Tennessee,True,,38817.0,1746.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38116,35.03213,-90.01001,Memphis,TN,Tennessee,True,,42057.0,827.0,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38117,35.11504,-89.90551,Memphis,TN,Tennessee,True,,27162.0,1116.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38118,35.03655,-89.93021,Memphis,TN,Tennessee,True,,40156.0,508.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38119,35.07986,-89.84593,Memphis,TN,Tennessee,True,,24818.0,1086.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38120,35.12344,-89.85237,Memphis,TN,Tennessee,True,,15485.0,621.5,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38122,35.1571,-89.92247,Memphis,TN,Tennessee,True,,23955.0,1356.8,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38125,35.02537,-89.78936,Memphis,TN,Tennessee,True,,39315.0,798.8,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38126,35.12695,-90.04378,Memphis,TN,Tennessee,True,,5844.0,1214.5,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38127,35.23795,-90.01753,Memphis,TN,Tennessee,True,,43240.0,442.1,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38128,35.22623,-89.92612,Memphis,TN,Tennessee,True,,46158.0,753.9,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38131,35.06603,-89.99266,Memphis,TN,Tennessee,True,,0.0,0.0,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38132,35.07069,-90.00033,Memphis,TN,Tennessee,True,,0.0,0.0,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38133,35.21292,-89.79474,Memphis,TN,Tennessee,True,,22155.0,658.8,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38134,35.17674,-89.85992,Memphis,TN,Tennessee,True,,45184.0,939.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38135,35.23876,-89.8497,Memphis,TN,Tennessee,True,,29719.0,890.4,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38138,35.08477,-89.7993,Germantown,TN,Tennessee,True,,24143.0,786.1,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38139,35.08615,-89.75581,Germantown,TN,Tennessee,True,,15986.0,709.1,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38141,35.01599,-89.85472,Memphis,TN,Tennessee,True,,23443.0,1159.2,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38152,35.11843,-89.93743,Memphis,TN,Tennessee,True,,870.0,3400.3,47157,Shelby,"{""47157"": 100}",Shelby,47157,False,False,America/Chicago
+38201,36.12335,-88.53131,McKenzie,TN,Tennessee,True,,10755.0,29.8,47017,Carroll,"{""47017"": 59.19, ""47183"": 27.38, ""47079"": 13.43}",Carroll|Weakley|Henry,47017|47183|47079,False,False,America/Chicago
+38220,35.98836,-88.673,Atwood,TN,Tennessee,True,,1565.0,15.7,47017,Carroll,"{""47017"": 72.09, ""47053"": 27.91}",Carroll|Gibson,47017|47053,False,False,America/Chicago
+38221,36.24552,-88.03685,Big Sandy,TN,Tennessee,True,,3289.0,11.7,47005,Benton,"{""47005"": 100}",Benton,47005,False,False,America/Chicago
+38222,36.44512,-88.16288,Buchanan,TN,Tennessee,True,,2109.0,11.8,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago
+38224,36.39172,-88.48774,Cottage Grove,TN,Tennessee,True,,791.0,5.1,47079,Henry,"{""47079"": 88.06, ""47183"": 11.94}",Henry|Weakley,47079|47183,False,False,America/Chicago
+38225,36.31764,-88.67937,Dresden,TN,Tennessee,True,,5398.0,19.8,47183,Weakley,"{""47183"": 100}",Weakley,47183,False,False,America/Chicago
+38226,36.47722,-88.66382,Dukedom,TN,Tennessee,True,,288.0,4.6,47183,Weakley,"{""47183"": 100}",Weakley,47183,False,False,America/Chicago
+38229,36.22108,-88.60939,Gleason,TN,Tennessee,True,,3121.0,19.8,47183,Weakley,"{""47183"": 98.61, ""47079"": 1.39}",Weakley|Henry,47183|47079,False,False,America/Chicago
+38230,36.15592,-88.77154,Greenfield,TN,Tennessee,True,,3704.0,16.7,47183,Weakley,"{""47183"": 100}",Weakley,47183,False,False,America/Chicago
+38231,36.21277,-88.42442,Henry,TN,Tennessee,True,,1610.0,10.6,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago
+38232,36.34828,-89.32295,Hornbeak,TN,Tennessee,True,,2173.0,16.2,47131,Obion,"{""47131"": 100}",Obion,47131,False,False,America/Chicago
+38233,36.20411,-89.04622,Kenton,TN,Tennessee,True,,2880.0,12.0,47053,Gibson,"{""47053"": 51.33, ""47131"": 48.67}",Gibson|Obion,47053|47131,False,False,America/Chicago
+38235,35.99116,-88.58109,McLemoresville,TN,Tennessee,True,,511.0,143.7,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago
+38236,36.17572,-88.26463,Mansfield,TN,Tennessee,True,,512.0,4.8,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago
+38237,36.36406,-88.83162,Martin,TN,Tennessee,True,,15281.0,42.7,47183,Weakley,"{""47183"": 96.53, ""47131"": 3.47}",Weakley|Obion,47183|47131,False,False,America/Chicago
+38240,36.25091,-89.32045,Obion,TN,Tennessee,True,,2236.0,10.1,47131,Obion,"{""47131"": 89.43, ""47045"": 10.57}",Obion|Dyer,47131|47045,False,False,America/Chicago
+38241,36.42852,-88.58964,Palmersville,TN,Tennessee,True,,1099.0,7.1,47183,Weakley,"{""47183"": 100}",Weakley,47183,False,False,America/Chicago
+38242,36.3076,-88.33244,Paris,TN,Tennessee,True,,20274.0,44.6,47079,Henry,"{""47079"": 93.6, ""47183"": 6.4}",Henry|Weakley,47079|47183,False,False,America/Chicago
+38251,36.44636,-88.3539,Puryear,TN,Tennessee,True,,3225.0,13.9,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago
+38253,36.29821,-89.05822,Rives,TN,Tennessee,True,,1180.0,8.6,47131,Obion,"{""47131"": 100}",Obion,47131,False,False,America/Chicago
+38254,36.37444,-89.34662,Samburg,TN,Tennessee,True,,70.0,45.4,47131,Obion,"{""47131"": 100}",Obion,47131,False,False,America/Chicago
+38255,36.23954,-88.86483,Sharon,TN,Tennessee,True,,2478.0,19.4,47183,Weakley,"{""47183"": 97.37, ""47131"": 2.63}",Weakley|Obion,47183|47131,False,False,America/Chicago
+38256,36.31388,-88.12539,Springville,TN,Tennessee,True,,3316.0,18.9,47079,Henry,"{""47079"": 100}",Henry,47079,False,False,America/Chicago
+38257,36.46386,-88.88397,South Fulton,TN,Tennessee,True,,4310.0,30.0,47131,Obion,"{""47131"": 85.93, ""47183"": 14.07}",Obion|Weakley,47131|47183,False,False,America/Chicago
+38258,36.02094,-88.61188,Trezevant,TN,Tennessee,True,,1430.0,17.1,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago
+38259,36.20204,-89.18439,Trimble,TN,Tennessee,True,,815.0,11.4,47131,Obion,"{""47131"": 50.85, ""47045"": 36.84, ""47053"": 12.31}",Obion|Dyer|Gibson,47131|47045|47053,False,False,America/Chicago
+38260,36.36961,-89.21128,Troy,TN,Tennessee,True,,3652.0,19.7,47131,Obion,"{""47131"": 100}",Obion,47131,False,False,America/Chicago
+38261,36.43214,-89.11583,Union City,TN,Tennessee,True,,15511.0,33.9,47131,Obion,"{""47131"": 99.65, ""47183"": 0.35}",Obion|Weakley,47131|47183,False,False,America/Chicago
+38301,35.5908,-88.8531,Jackson,TN,Tennessee,True,,34534.0,88.4,47113,Madison,"{""47113"": 100}",Madison,47113,False,False,America/Chicago
+38305,35.70108,-88.76779,Jackson,TN,Tennessee,True,,52092.0,157.1,47113,Madison,"{""47113"": 97.34, ""47017"": 2.66}",Madison|Carroll,47113|47017,False,False,America/Chicago
+38310,35.26175,-88.39832,Adamsville,TN,Tennessee,True,,6135.0,23.1,47109,McNairy,"{""47109"": 68.78, ""47071"": 31.22}",McNairy|Hardin,47109|47071,False,False,America/Chicago
+38311,35.43842,-88.09737,Bath Springs,TN,Tennessee,True,,907.0,6.3,47039,Decatur,"{""47039"": 100}",Decatur,47039,False,False,America/Chicago
+38313,35.60107,-88.62541,Beech Bluff,TN,Tennessee,True,,3533.0,18.0,47113,Madison,"{""47113"": 55.58, ""47077"": 22.32, ""47023"": 22.1}",Madison|Henderson|Chester,47113|47077|47023,False,False,America/Chicago
+38315,35.26918,-88.6241,Bethel Springs,TN,Tennessee,True,,4044.0,14.0,47109,McNairy,"{""47109"": 90.97, ""47023"": 9.03}",McNairy|Chester,47109|47023,False,False,America/Chicago
+38316,36.06873,-88.81547,Bradford,TN,Tennessee,True,,3031.0,18.6,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38317,36.05425,-88.26965,Bruceton,TN,Tennessee,True,,2556.0,25.4,47017,Carroll,"{""47017"": 94.07, ""47005"": 5.93}",Carroll|Benton,47017|47005,False,False,America/Chicago
+38318,35.95687,-88.26189,Buena Vista,TN,Tennessee,True,,398.0,3.6,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago
+38320,36.04764,-88.1095,Camden,TN,Tennessee,True,,10593.0,27.9,47005,Benton,"{""47005"": 100}",Benton,47005,False,False,America/Chicago
+38321,35.83341,-88.53013,Cedar Grove,TN,Tennessee,True,,2330.0,9.8,47017,Carroll,"{""47017"": 57.92, ""47077"": 42.08}",Carroll|Henderson,47017|47077,False,False,America/Chicago
+38326,35.04419,-88.27514,Counce,TN,Tennessee,True,,2804.0,25.4,47071,Hardin,"{""47071"": 98.7, ""28141"": 1.3}",Hardin|Tishomingo,47071|28141,False,False,America/Chicago
+38327,35.22348,-88.30085,Crump,TN,Tennessee,True,,427.0,66.2,47071,Hardin,"{""47071"": 100}",Hardin,47071,False,False,America/Chicago
+38328,35.67601,-88.21222,Darden,TN,Tennessee,True,,913.0,11.8,47077,Henderson,"{""47077"": 84.39, ""47039"": 15.61}",Henderson|Decatur,47077|47039,False,False,America/Chicago
+38329,35.54541,-88.11283,Decaturville,TN,Tennessee,True,,3255.0,11.5,47039,Decatur,"{""47039"": 94.68, ""47077"": 5.32}",Decatur|Henderson,47039|47077,False,False,America/Chicago
+38330,36.0675,-89.03316,Dyer,TN,Tennessee,True,,4338.0,25.5,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38332,35.41978,-88.42934,Enville,TN,Tennessee,True,,1203.0,8.8,47023,Chester,"{""47023"": 86.9, ""47109"": 13.1}",Chester|McNairy,47023|47109,False,False,America/Chicago
+38333,36.12236,-87.9709,Eva,TN,Tennessee,True,,162.0,2.5,47005,Benton,"{""47005"": 100}",Benton,47005,False,False,America/Chicago
+38334,35.35342,-88.58977,Finger,TN,Tennessee,True,,2052.0,16.6,47109,McNairy,"{""47109"": 70.13, ""47023"": 29.87}",McNairy|Chester,47109|47023,False,False,America/Chicago
+38337,35.78515,-89.01149,Gadsden,TN,Tennessee,True,,1556.0,22.5,47033,Crockett,"{""47033"": 100}",Crockett,47033,False,False,America/Chicago
+38338,35.87483,-88.84863,Gibson,TN,Tennessee,True,,,,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38339,35.0524,-88.5147,Guys,TN,Tennessee,True,,674.0,13.1,47109,McNairy,"{""47109"": 100}",McNairy,47109,False,False,America/Chicago
+38340,35.40021,-88.68226,Henderson,TN,Tennessee,True,,12379.0,27.5,47023,Chester,"{""47023"": 87.74, ""47069"": 12.16, ""47109"": 0.1}",Chester|Hardeman|McNairy,47023|47069|47109,False,False,America/Chicago
+38341,35.87677,-88.08888,Holladay,TN,Tennessee,True,,2302.0,6.6,47005,Benton,"{""47005"": 77.09, ""47039"": 20.88, ""47017"": 2.03}",Benton|Decatur|Carroll,47005|47039|47017,False,False,America/Chicago
+38342,36.10766,-88.29024,Hollow Rock,TN,Tennessee,True,,1387.0,15.9,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago
+38343,35.82727,-88.92819,Humboldt,TN,Tennessee,True,,15438.0,42.0,47053,Gibson,"{""47053"": 60.98, ""47033"": 21.32, ""47113"": 17.7}",Gibson|Crockett|Madison,47053|47033|47113,False,False,America/Chicago
+38344,35.97716,-88.43066,Huntingdon,TN,Tennessee,True,,7868.0,18.3,47017,Carroll,"{""47017"": 100}",Carroll,47017,False,False,America/Chicago
+38345,35.59109,-88.51163,Huron,TN,Tennessee,True,,1723.0,13.5,47077,Henderson,"{""47077"": 100}",Henderson,47077,False,False,America/Chicago
+38347,35.47632,-88.49846,Jacks Creek,TN,Tennessee,True,,157.0,13.8,47023,Chester,"{""47023"": 100}",Chester,47023,False,False,America/Chicago
+38348,35.86893,-88.65198,Lavinia,TN,Tennessee,True,,887.0,6.3,47017,Carroll,"{""47017"": 98.66, ""47113"": 1.34}",Carroll|Madison,47017|47113,False,False,America/Chicago
+38351,35.66324,-88.40401,Lexington,TN,Tennessee,True,,18050.0,33.5,47077,Henderson,"{""47077"": 99.43, ""47113"": 0.57}",Henderson|Madison,47077|47113,False,False,America/Chicago
+38352,35.53037,-88.53308,Luray,TN,Tennessee,True,,562.0,12.0,47023,Chester,"{""47023"": 67.73, ""47077"": 32.27}",Chester|Henderson,47023|47077,False,False,America/Chicago
+38355,35.78637,-88.76942,Medina,TN,Tennessee,True,,7041.0,72.7,47113,Madison,"{""47113"": 63.19, ""47053"": 36.81}",Madison|Gibson,47113|47053,False,False,America/Chicago
+38356,35.43877,-88.89029,Medon,TN,Tennessee,True,,2736.0,13.6,47113,Madison,"{""47113"": 57.9, ""47069"": 35.58, ""47023"": 6.52}",Madison|Hardeman|Chester,47113|47069|47023,False,False,America/Chicago
+38357,35.04888,-88.4112,Michie,TN,Tennessee,True,,2813.0,16.5,47109,McNairy,"{""47109"": 75.18, ""47071"": 24.82}",McNairy|Hardin,47109|47071,False,False,America/Chicago
+38358,35.91661,-88.75934,Milan,TN,Tennessee,True,,11619.0,54.3,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38359,35.37222,-88.35109,Milledgeville,TN,Tennessee,True,,298.0,18.9,47071,Hardin,"{""47071"": 81.75, ""47109"": 14.58, ""47023"": 3.67}",Hardin|McNairy|Chester,47071|47109|47023,False,False,America/Chicago
+38361,35.31897,-88.29232,Morris Chapel,TN,Tennessee,True,,1001.0,8.6,47071,Hardin,"{""47071"": 91.92, ""47109"": 8.08}",Hardin|McNairy,47071|47109,False,False,America/Chicago
+38362,35.72696,-88.78508,Oakfield,TN,Tennessee,True,,1167.0,52.1,47113,Madison,"{""47113"": 100}",Madison,47113,False,False,America/Chicago
+38363,35.68625,-88.11051,Parsons,TN,Tennessee,True,,5326.0,23.8,47039,Decatur,"{""47039"": 96.05, ""47077"": 3.95}",Decatur|Henderson,47039|47077,False,False,America/Chicago
+38365,35.05383,-88.23627,Pickwick Dam,TN,Tennessee,True,,0.0,0.0,47071,Hardin,"{""47071"": 100}",Hardin,47071,False,False,America/Chicago
+38366,35.47797,-88.74461,Pinson,TN,Tennessee,True,,1877.0,15.3,47113,Madison,"{""47113"": 72.93, ""47023"": 27.07}",Madison|Chester,47113|47023,False,False,America/Chicago
+38367,35.05266,-88.62728,Ramer,TN,Tennessee,True,,2730.0,13.8,47109,McNairy,"{""47109"": 100}",McNairy,47109,False,False,America/Chicago
+38368,35.50191,-88.35659,Reagan,TN,Tennessee,True,,2154.0,15.8,47077,Henderson,"{""47077"": 82.69, ""47023"": 17.31}",Henderson|Chester,47077|47023,False,False,America/Chicago
+38369,36.13253,-88.9652,Rutherford,TN,Tennessee,True,,1466.0,14.1,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38370,35.38942,-88.2465,Saltillo,TN,Tennessee,True,,772.0,13.7,47071,Hardin,"{""47071"": 88.4, ""47077"": 11.5, ""47039"": 0.1}",Hardin|Henderson|Decatur,47071|47077|47039,False,False,America/Chicago
+38371,35.42346,-88.2967,Sardis,TN,Tennessee,True,,951.0,8.6,47077,Henderson,"{""47077"": 53.39, ""47071"": 42.52, ""47039"": 4.09}",Henderson|Hardin|Decatur,47077|47071|47039,False,False,America/Chicago
+38372,35.16516,-88.14523,Savannah,TN,Tennessee,True,,17192.0,21.5,47071,Hardin,"{""47071"": 100}",Hardin,47071,False,False,America/Chicago
+38374,35.51192,-88.23469,Scotts Hill,TN,Tennessee,True,,2373.0,20.4,47039,Decatur,"{""47039"": 51.42, ""47077"": 48.58}",Decatur|Henderson,47039|47077,False,False,America/Chicago
+38375,35.16142,-88.58811,Selmer,TN,Tennessee,True,,8088.0,27.7,47109,McNairy,"{""47109"": 100}",McNairy,47109,False,False,America/Chicago
+38376,35.12974,-88.34447,Shiloh,TN,Tennessee,True,,133.0,4.0,47071,Hardin,"{""47071"": 96.07, ""47109"": 3.93}",Hardin|McNairy,47071|47109,False,False,America/Chicago
+38379,35.16388,-88.42825,Stantonville,TN,Tennessee,True,,1459.0,16.5,47109,McNairy,"{""47109"": 90.42, ""47071"": 9.58}",McNairy|Hardin,47109|47071,False,False,America/Chicago
+38380,35.79114,-88.03263,Sugar Tree,TN,Tennessee,True,,505.0,5.1,47039,Decatur,"{""47039"": 87.66, ""47005"": 12.34}",Decatur|Benton,47039|47005,False,False,America/Chicago
+38381,35.35144,-88.96205,Toone,TN,Tennessee,True,,1416.0,9.6,47069,Hardeman,"{""47069"": 100}",Hardeman,47069,False,False,America/Chicago
+38382,35.96925,-88.99186,Trenton,TN,Tennessee,True,,8559.0,19.3,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38387,35.86573,-88.26968,Westport,TN,Tennessee,True,,209.0,1.9,47017,Carroll,"{""47017"": 89.25, ""47005"": 10.75}",Carroll|Benton,47017|47005,False,False,America/Chicago
+38388,35.77672,-88.31535,Wildersville,TN,Tennessee,True,,1956.0,10.5,47077,Henderson,"{""47077"": 99.35, ""47039"": 0.65}",Henderson|Decatur,47077|47039,False,False,America/Chicago
+38389,36.10315,-89.12134,Yorkville,TN,Tennessee,True,,,,47053,Gibson,"{""47053"": 100}",Gibson,47053,False,False,America/Chicago
+38390,35.83845,-88.37797,Yuma,TN,Tennessee,True,,1195.0,15.1,47017,Carroll,"{""47017"": 80.74, ""47077"": 19.26}",Carroll|Henderson,47017|47077,False,False,America/Chicago
+38391,35.55026,-88.99033,Denmark,TN,Tennessee,True,,1088.0,6.2,47113,Madison,"{""47113"": 100}",Madison,47113,False,False,America/Chicago
+38392,35.45908,-89.03709,Mercer,TN,Tennessee,True,,709.0,7.6,47113,Madison,"{""47113"": 74.47, ""47069"": 25.53}",Madison|Hardeman,47113|47069,False,False,America/Chicago
+38401,35.62955,-87.02097,Columbia,TN,Tennessee,True,,64822.0,84.4,47119,Maury,"{""47119"": 96.06, ""47187"": 2.11, ""47117"": 1.83}",Maury|Williamson|Marshall,47119|47187|47117,False,False,America/Chicago
+38425,35.40706,-87.96588,Clifton,TN,Tennessee,True,,3803.0,14.2,47181,Wayne,"{""47181"": 58.83, ""47071"": 26.49, ""47135"": 14.68}",Wayne|Hardin|Perry,47181|47071|47135,False,False,America/Chicago
+38449,35.05231,-86.82954,Ardmore,TN,Tennessee,True,,2713.0,17.9,47103,Lincoln,"{""47103"": 52.62, ""47055"": 47.38}",Lincoln|Giles,47103|47055,False,False,America/Chicago
+38450,35.18523,-87.80143,Collinwood,TN,Tennessee,True,,3130.0,11.4,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago
+38451,35.46706,-86.99573,Culleoka,TN,Tennessee,True,,4107.0,18.9,47119,Maury,"{""47119"": 81.08, ""47117"": 16.84, ""47055"": 2.08}",Maury|Marshall|Giles,47119|47117|47055,False,False,America/Chicago
+38452,35.07898,-87.79239,Cypress Inn,TN,Tennessee,True,,945.0,6.9,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago
+38453,35.11923,-86.81472,Dellrose,TN,Tennessee,True,,373.0,8.3,47103,Lincoln,"{""47103"": 75.76, ""47055"": 24.24}",Lincoln|Giles,47103|47055,False,False,America/Chicago
+38454,35.72334,-87.35538,Duck River,TN,Tennessee,True,,1128.0,7.4,47081,Hickman,"{""47081"": 100}",Hickman,47081,False,False,America/Chicago
+38455,35.06199,-86.89366,Elkton,TN,Tennessee,True,,,,47055,Giles,"{""47055"": 100}",Giles,47055,False,False,America/Chicago
+38456,35.33464,-87.26559,Ethridge,TN,Tennessee,True,,4997.0,27.8,47099,Lawrence,"{""47099"": 70.64, ""47055"": 29.36}",Lawrence|Giles,47099|47055,False,False,America/Chicago
+38457,35.0297,-87.28482,Five Points,TN,Tennessee,True,,780.0,11.4,47099,Lawrence,"{""47099"": 100}",Lawrence,47099,False,False,America/Chicago
+38459,35.19135,-86.80219,Frankewing,TN,Tennessee,True,,296.0,5.5,47103,Lincoln,"{""47103"": 89.1, ""47055"": 10.9}",Lincoln|Giles,47103|47055,False,False,America/Chicago
+38460,35.10116,-87.15937,Goodspring,TN,Tennessee,True,,1713.0,25.1,47055,Giles,"{""47055"": 100}",Giles,47055,False,False,America/Chicago
+38461,35.59514,-87.33987,Hampshire,TN,Tennessee,True,,1240.0,6.6,47101,Lewis,"{""47101"": 56.86, ""47119"": 41.48, ""47081"": 1.66}",Lewis|Maury|Hickman,47101|47119|47081,False,False,America/Chicago
+38462,35.53142,-87.54869,Hohenwald,TN,Tennessee,True,,10204.0,20.4,47101,Lewis,"{""47101"": 98.32, ""47081"": 1.68}",Lewis|Hickman,47101|47081,False,False,America/Chicago
+38463,35.06802,-87.64494,Iron City,TN,Tennessee,True,,2205.0,7.4,47181,Wayne,"{""47181"": 77.16, ""47099"": 22.84}",Wayne|Lawrence,47181|47099,False,False,America/Chicago
+38464,35.29035,-87.42845,Lawrenceburg,TN,Tennessee,True,,22412.0,32.1,47099,Lawrence,"{""47099"": 81.22, ""47181"": 12.12, ""47055"": 6.28, ""47101"": 0.38}",Lawrence|Wayne|Giles|Lewis,47099|47181|47055|47101,False,False,America/Chicago
+38468,35.13083,-87.29072,Leoma,TN,Tennessee,True,,5738.0,22.3,47099,Lawrence,"{""47099"": 92.26, ""47055"": 7.74}",Lawrence|Giles,47099|47055,False,False,America/Chicago
+38469,35.0741,-87.42765,Loretto,TN,Tennessee,True,,4291.0,23.9,47099,Lawrence,"{""47099"": 100}",Lawrence,47099,False,False,America/Chicago
+38471,35.0771,-87.92134,Lutts,TN,Tennessee,True,,403.0,2.1,47181,Wayne,"{""47181"": 100}",Wayne,47181,False,False,America/Chicago
+38472,35.3773,-87.03873,Lynnville,TN,Tennessee,True,,2708.0,10.4,47055,Giles,"{""47055"": 96.36, ""47117"": 3.64}",Giles|Marshall,47055|47117,False,False,America/Chicago
+38473,35.02775,-87.17057,Minor Hill,TN,Tennessee,True,,1074.0,14.9,47055,Giles,"{""47055"": 98.31, ""47099"": 1.69}",Giles|Lawrence,47055|47099,False,False,America/Chicago
+38474,35.51848,-87.22966,Mount Pleasant,TN,Tennessee,True,,8518.0,31.6,47119,Maury,"{""47119"": 86.85, ""47101"": 9.29, ""47055"": 2.22, ""47099"": 1.64}",Maury|Lewis|Giles|Lawrence,47119|47101|47055|47099,False,False,America/Chicago
+38475,35.2624,-88.02336,Olivehill,TN,Tennessee,True,,805.0,4.9,47071,Hardin,"{""47071"": 77.53, ""47181"": 22.47}",Hardin|Wayne,47071|47181,False,False,America/Chicago
+38476,35.84341,-87.20984,Primm Springs,TN,Tennessee,True,,1352.0,12.8,47187,Williamson,"{""47187"": 42.39, ""47081"": 40.42, ""47119"": 17.19}",Williamson|Hickman|Maury,47187|47081|47119,False,False,America/Chicago
+38477,35.05075,-87.00932,Prospect,TN,Tennessee,True,,2914.0,11.5,47055,Giles,"{""47055"": 100}",Giles,47055,False,False,America/Chicago
+38478,35.21565,-87.01329,Pulaski,TN,Tennessee,True,,17618.0,26.5,47055,Giles,"{""47055"": 100}",Giles,47055,False,False,America/Chicago
+38481,35.02813,-87.48863,Saint Joseph,TN,Tennessee,True,,1062.0,39.1,47099,Lawrence,"{""47099"": 100}",Lawrence,47099,False,False,America/Chicago
+38482,35.76792,-87.14574,Santa Fe,TN,Tennessee,True,,1701.0,14.8,47119,Maury,"{""47119"": 100}",Maury,47119,False,False,America/Chicago
+38483,35.43411,-87.33476,Summertown,TN,Tennessee,True,,5933.0,22.6,47099,Lawrence,"{""47099"": 56.77, ""47101"": 35.42, ""47055"": 7.17, ""47119"": 0.64}",Lawrence|Lewis|Giles|Maury,47099|47101|47055|47119,False,False,America/Chicago
+38485,35.33281,-87.77659,Waynesboro,TN,Tennessee,True,,6384.0,8.7,47181,Wayne,"{""47181"": 99.02, ""47101"": 0.98}",Wayne|Lewis,47181|47101,False,False,America/Chicago
+38486,35.17306,-87.54029,Westpoint,TN,Tennessee,True,,1000.0,4.7,47099,Lawrence,"{""47099"": 79.59, ""47181"": 20.41}",Lawrence|Wayne,47099|47181,False,False,America/Chicago
+38487,35.72163,-87.23589,Williamsport,TN,Tennessee,True,,978.0,7.4,47119,Maury,"{""47119"": 65.07, ""47081"": 34.93}",Maury|Hickman,47119|47081,False,False,America/Chicago
+38488,35.03906,-86.68569,Taft,TN,Tennessee,True,,2228.0,14.8,47103,Lincoln,"{""47103"": 100}",Lincoln,47103,False,False,America/Chicago
+38501,36.22682,-85.53841,Cookeville,TN,Tennessee,True,,39013.0,173.0,47141,Putnam,"{""47141"": 63.55, ""47087"": 35.09, ""47133"": 1.36}",Putnam|Jackson|Overton,47141|47087|47133,False,False,America/Chicago
+38503,36.16333,-85.50588,Cookeville,TN,Tennessee,True,,,,47141,Putnam,"{""47141"": 100}",Putnam,47141,False,False,America/Chicago
+38504,36.39314,-84.73528,Allardt,TN,Tennessee,True,,670.0,5.7,47049,Fentress,"{""47049"": 84.27, ""47151"": 15.73}",Fentress|Scott,47049|47151,False,False,America/Chicago
+38505,36.17316,-85.50559,Cookeville,TN,Tennessee,True,,2028.0,15570.2,47141,Putnam,"{""47141"": 100}",Putnam,47141,False,False,America/Chicago
+38506,36.18334,-85.44246,Cookeville,TN,Tennessee,True,,28818.0,67.7,47141,Putnam,"{""47141"": 70.19, ""47133"": 25.33, ""47185"": 4.02, ""47087"": 0.46}",Putnam|Overton|White|Jackson,47141|47133|47185|47087,False,False,America/Chicago
+38541,36.52903,-85.33767,Allons,TN,Tennessee,True,,1810.0,13.9,47027,Clay,"{""47027"": 57.11, ""47133"": 42.89}",Clay|Overton,47027|47133,False,False,America/Chicago
+38542,36.31576,-85.20113,Allred,TN,Tennessee,True,,16.0,2.0,47133,Overton,"{""47133"": 100}",Overton,47133,False,False,America/Chicago
+38543,36.37514,-85.15931,Alpine,TN,Tennessee,True,,339.0,3.2,47133,Overton,"{""47133"": 88.08, ""47137"": 11.92}",Overton|Pickett,47133|47137,False,False,America/Chicago
+38544,36.11605,-85.66238,Baxter,TN,Tennessee,True,,7450.0,36.3,47141,Putnam,"{""47141"": 87.98, ""47041"": 12.02}",Putnam|DeKalb,47141|47041,False,False,America/Chicago
+38545,36.23133,-85.65964,Bloomington Springs,TN,Tennessee,True,,1625.0,27.3,47087,Jackson,"{""47087"": 67.2, ""47141"": 32.8}",Jackson|Putnam,47087|47141,False,False,America/Chicago
+38547,36.14954,-86.00833,Brush Creek,TN,Tennessee,True,,1992.0,24.8,47159,Smith,"{""47159"": 100}",Smith,47159,False,False,America/Chicago
+38548,36.17252,-85.79197,Buffalo Valley,TN,Tennessee,True,,1149.0,15.7,47141,Putnam,"{""47141"": 64.01, ""47159"": 33.14, ""47041"": 2.85}",Putnam|Smith|DeKalb,47141|47159|47041,False,False,America/Chicago
+38549,36.5617,-85.15243,Byrdstown,TN,Tennessee,True,,4040.0,21.2,47137,Pickett,"{""47137"": 93.7, ""47049"": 4.45, ""21053"": 1.85}",Pickett|Fentress|Clinton,47137|47049|21053,False,False,America/Chicago
+38550,35.76982,-85.63268,Campaign,TN,Tennessee,True,,,,47177,Warren,"{""47177"": 100}",Warren,47177,False,False,America/Chicago
+38551,36.55804,-85.48699,Celina,TN,Tennessee,True,,4213.0,18.2,47027,Clay,"{""47027"": 97.82, ""47087"": 2.18}",Clay|Jackson,47027|47087,False,False,America/Chicago
+38552,36.2166,-85.81195,Chestnut Mound,TN,Tennessee,True,,253.0,13.4,47159,Smith,"{""47159"": 100}",Smith,47159,False,False,America/Chicago
+38553,36.20322,-85.00442,Clarkrange,TN,Tennessee,True,,2827.0,22.7,47049,Fentress,"{""47049"": 100}",Fentress,47049,False,False,America/Chicago
+38554,36.25131,-85.16095,Crawford,TN,Tennessee,True,,842.0,10.1,47133,Overton,"{""47133"": 100}",Overton,47133,False,False,America/Chicago
+38555,35.88956,-84.97537,Crossville,TN,Tennessee,True,,20371.0,85.2,47035,Cumberland,"{""47035"": 100}",Cumberland,47035,False,False,America/Chicago
+38556,36.41016,-84.9249,Jamestown,TN,Tennessee,True,,11592.0,14.2,47049,Fentress,"{""47049"": 99.37, ""47137"": 0.63}",Fentress|Pickett,47049|47137,False,False,America/Chicago
+38558,36.00532,-84.87374,Crossville,TN,Tennessee,True,,9572.0,183.3,47035,Cumberland,"{""47035"": 100}",Cumberland,47035,False,False,America/Chicago
+38559,35.80692,-85.51334,Doyle,TN,Tennessee,True,,1302.0,25.0,47175,Van Buren,"{""47175"": 69.54, ""47185"": 30.46}",Van Buren|White,47175|47185,False,False,America/Chicago
+38560,36.23458,-85.8713,Elmwood,TN,Tennessee,True,,1491.0,17.5,47159,Smith,"{""47159"": 100}",Smith,47159,False,False,America/Chicago
+38562,36.35173,-85.65932,Gainesboro,TN,Tennessee,True,,6552.0,18.1,47087,Jackson,"{""47087"": 100}",Jackson,47087,False,False,America/Chicago
+38563,36.19658,-86.0147,Gordonsville,TN,Tennessee,True,,2989.0,34.8,47159,Smith,"{""47159"": 100}",Smith,47159,False,False,America/Chicago
+38564,36.27144,-85.75364,Granville,TN,Tennessee,True,,477.0,6.4,47087,Jackson,"{""47087"": 90.73, ""47141"": 9.27}",Jackson|Putnam,47087|47141,False,False,America/Chicago
+38565,36.26296,-85.00992,Grimsley,TN,Tennessee,True,,1023.0,38.2,47049,Fentress,"{""47049"": 100}",Fentress,47049,False,False,America/Chicago
+38567,36.13392,-85.91518,Hickman,TN,Tennessee,True,,723.0,13.5,47159,Smith,"{""47159"": 87.58, ""47041"": 12.42}",Smith|DeKalb,47159|47041,False,False,America/Chicago
+38568,36.43594,-85.46907,Hilham,TN,Tennessee,True,,1807.0,10.3,47133,Overton,"{""47133"": 53.13, ""47027"": 37.16, ""47087"": 9.71}",Overton|Clay|Jackson,47133|47027|47087,False,False,America/Chicago
+38569,36.10887,-85.85647,Lancaster,TN,Tennessee,True,,197.0,5.7,47159,Smith,"{""47159"": 52.98, ""47041"": 47.02}",Smith|DeKalb,47159|47041,False,False,America/Chicago
+38570,36.37678,-85.31983,Livingston,TN,Tennessee,True,,9802.0,31.8,47133,Overton,"{""47133"": 100}",Overton,47133,False,False,America/Chicago
+38571,36.0513,-85.01374,Crossville,TN,Tennessee,True,,14180.0,24.1,47035,Cumberland,"{""47035"": 100}",Cumberland,47035,False,False,America/Chicago
+38572,35.84764,-85.12778,Crossville,TN,Tennessee,True,,11123.0,27.1,47035,Cumberland,"{""47035"": 91.41, ""47007"": 8.59}",Cumberland|Bledsoe,47035|47007,False,False,America/Chicago
+38573,36.48945,-85.21931,Monroe,TN,Tennessee,True,,1872.0,10.8,47133,Overton,"{""47133"": 61.66, ""47137"": 36.75, ""47027"": 1.59}",Overton|Pickett|Clay,47133|47137|47027,False,False,America/Chicago
+38574,36.141,-85.22498,Monterey,TN,Tennessee,True,,9093.0,20.7,47141,Putnam,"{""47141"": 48.63, ""47133"": 32.93, ""47035"": 13.84, ""47049"": 4.6}",Putnam|Overton|Cumberland|Fentress,47141|47133|47035|47049,False,False,America/Chicago
+38575,36.55848,-85.63515,Moss,TN,Tennessee,True,,1097.0,8.8,47027,Clay,"{""47027"": 100}",Clay,47027,False,False,America/Chicago
+38577,36.56453,-84.94651,Pall Mall,TN,Tennessee,True,,1661.0,7.3,47137,Pickett,"{""47137"": 56.95, ""47049"": 43.05}",Pickett|Fentress,47137|47049,False,False,America/Chicago
+38578,35.98031,-85.19886,Pleasant Hill,TN,Tennessee,True,,174.0,203.4,47035,Cumberland,"{""47035"": 100}",Cumberland,47035,False,False,America/Chicago
+38579,35.83218,-85.54919,Quebeck,TN,Tennessee,True,,1286.0,27.1,47185,White,"{""47185"": 100}",White,47185,False,False,America/Chicago
+38580,36.27729,-85.29522,Rickman,TN,Tennessee,True,,1731.0,19.2,47133,Overton,"{""47133"": 100}",Overton,47133,False,False,America/Chicago
+38581,35.73834,-85.62141,Rock Island,TN,Tennessee,True,,3850.0,15.2,47177,Warren,"{""47177"": 53.67, ""47175"": 44.91, ""47041"": 1.42}",Warren|Van Buren|DeKalb,47177|47175|47041,False,False,America/Chicago
+38582,36.09431,-85.75382,Silver Point,TN,Tennessee,True,,1733.0,14.5,47141,Putnam,"{""47141"": 52.76, ""47041"": 47.24}",Putnam|DeKalb,47141|47041,False,False,America/Chicago
+38583,35.94649,-85.43781,Sparta,TN,Tennessee,True,,24906.0,26.4,47185,White,"{""47185"": 81.3, ""47041"": 5.87, ""47141"": 5.59, ""47035"": 4.88, ""47175"": 2.36}",White|DeKalb|Putnam|Cumberland|Van Buren,47185|47041|47141|47035|47175,False,False,America/Chicago
+38585,35.68995,-85.42274,Spencer,TN,Tennessee,True,,4461.0,9.3,47175,Van Buren,"{""47175"": 97.72, ""47153"": 2.28}",Van Buren|Sequatchie,47175|47153,False,False,America/Chicago
+38587,35.8677,-85.61723,Walling,TN,Tennessee,True,,1037.0,13.4,47185,White,"{""47185"": 100}",White,47185,False,False,America/Chicago
+38588,36.45613,-85.7189,Whitleyville,TN,Tennessee,True,,922.0,4.1,47087,Jackson,"{""47087"": 84.92, ""47027"": 12.47, ""47111"": 2.61}",Jackson|Clay|Macon,47087|47027|47111,False,False,America/Chicago
+38589,36.28551,-85.07624,Wilder,TN,Tennessee,True,,241.0,3.1,47049,Fentress,"{""47049"": 90.75, ""47133"": 9.25}",Fentress|Overton,47049|47133,False,False,America/Chicago

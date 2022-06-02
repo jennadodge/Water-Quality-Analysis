@@ -1,0 +1,133 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+VT,5001,Ludlow Village Water Department,2818,78,50027
+VT,5001,Woodstock Aqueduct Corporation,2473,58,50027
+VT,5001,Windsor Water Department,2350,18,50027
+VT,5033,Armstrongs Mobile Home Park,45,11,50017
+VT,5033,Chelsea Elderly Housing,68,7,50017
+VT,5033,Chelsea Family Housing,44,36,50017
+VT,5033,East Thetford Water Company,250,25,50017
+VT,5033,Fairlee Town Water,967,51,50017
+VT,5033,Greenes Mobile Home Park,39,1,50017
+VT,5033,Limehurst Mobile Home Park,87,39,50017
+VT,5033,Mobile Acres Mobile Home Park,252,13,50017
+VT,5033,Newbury Village Inc.,480,1072,50017
+VT,5033,Randolph Center Water System,1138,20,50017
+VT,5033,Randolph Village,2700,104,50017
+VT,5033,Union Water Company,61,148,50017
+VT,5033,Washington Fire District,170,0,50017
+VT,5033,Washington North Mobile Home Park,63,2,50017
+VT,5033,Wells River Water System,490,248,50017
+VT,5033,West Fairlee Mobile Home Park,50,47,50017
+VT,5033,Williamstown Water Department,985,402,50017
+VT,5042,Barnet Fire District #2,205,182,50005
+VT,5042,Burke Fire District 1,142,41,50005
+VT,5042,Karme Choling,140,40,50005
+VT,5042,Mcindoe Falls Fire District 3,176,1301,50005
+VT,5042,Northeast Kingdom Mobile Home Park,156,123,50005
+VT,5042,Qburke Mountain Resort LLC,1058,5,50005
+VT,5042,Ryegate Fire District 2,131,2,50005
+VT,5042,Sheffield Fire District 1,50,0,50005
+VT,5042,St. Johnsbury Center F D 1,370,1335,50005
+VT,5042,St. Johnsbury Water System,5000,1174,50005
+VT,5042,Sutton Water System,185,62,50005
+VT,5101,Brattleboro Water Department,12200,1219,50025
+VT,5101,Winhall Stratton F D 1,6200,168,50025
+VT,5101,Bellows Falls Water Department,3700,685,50025
+VT,5101,Chimney Hill,2580,195,50025
+VT,5152,Arlington Water Department,1250,165,50003
+VT,5152,Bennington College,1000,877,50003
+VT,5152,Bennington Water Department,13250,3,50003
+VT,5152,Dorset Community Housing,50,10,50003
+VT,5152,Dorset Fire District 1,530,59,50003
+VT,5152,East Dorset Fire District 1,192,130,50003
+VT,5152,East Mountain Mobile Home Park,76,1184,50003
+VT,5152,Intervale At Stratton,241,2,50003
+VT,5152,Leisure Lodge Corporation,75,1,50003
+VT,5152,Ormsby Hill Water System,52,28,50003
+VT,5152,Pownal Fire District 2,400,117,50003
+VT,5152,Royal Pine Villa,100,15,50003
+VT,5401,Champlain Water District,70000,714,50007
+VT,5401,Burlington Department Public Works Water Div,42000,1795,50007
+VT,5401,South Burlington City Water System,15296,1122,50007
+VT,5401,Essex Jct Water Department,9331,714,50007
+VT,5440,Alburgh Fire District 1,87,1475,50013
+VT,5440,South Alburgh Fire District 2,150,892,50013
+VT,5440,Alburgh Village Water System,576,717,50013
+VT,5440,Grand Isle Consolidated Water District,1493,995,50013
+VT,5440,Grand Isle Fire District 4,1063,1182,50013
+VT,5441,Dairy Center,109,50,50011
+VT,5441,East Berkshire Fire District 1,184,230,50011
+VT,5441,East Fairfield Fire District 1,184,1647,50011
+VT,5441,Eastfield Condominium Association Inc.,63,22,50011
+VT,5441,Enosburg Falls Water System,1700,26,50011
+VT,5441,Fairfax Fire District 1,80,74,50011
+VT,5441,Fairfax Heights Water Cooperative,100,17,50011
+VT,5441,Fairfax Water Department,1550,692,50011
+VT,5441,Georgia Station,120,0,50011
+VT,5441,Rhodeside Acres,65,163,50011
+VT,5441,Sheldon Water System,480,93,50011
+VT,5441,South Georgia Fire District,460,45,50011
+VT,5441,Sunset Terrace Estates,45,193,50011
+VT,5442,Hyde Park Fire District 1,275,500,50015
+VT,5442,Johnson Village Water Department,1350,65,50015
+VT,5442,Mansfield View Water Corporation,121,4,50015
+VT,5442,Morristown Corner Water Corporation,150,687,50015
+VT,5442,Morrisville Water and Light,2935,80,50015
+VT,5442,Mountainside Resort,240,170,50015
+VT,5442,Notchbrook Condominium,201,556,50015
+VT,5442,Notchbrook III,39,3,50015
+VT,5442,Pinecrest Mobile Home Park,139,79,50015
+VT,5442,River Road Apartments,50,2,50015
+VT,5442,Sterling View Senior Mobile Home Park,290,27,50015
+VT,5442,Stowe F D 2 Gold Brook Circle,86,4,50015
+VT,5442,Topnotch,350,56,50015
+VT,5442,Waterville Fire District 1,84,19,50015
+VT,5443,Bristol Water Department,1985,1467,50001
+VT,5443,Kilbourn Mobile Home Park,118,128,50001
+VT,5443,Lindale Mobile Home Park,179,53,50001
+VT,5443,Middlebury Water Department,5806,447,50001
+VT,5443,Otter Creek Mobile Home Park,180,1239,50001
+VT,5443,Starksboro Village Water Co-op,350,14,50001
+VT,5443,Vergennes Panton Water District,5300,1384,50001
+VT,5444,Winooski Water Department,8500,1187,50015
+VT,5444,Williston Water Department,7690,714,50015
+VT,5444,Shelburne Water Department,5764,714,50015
+VT,5602,Barre City Water System,14000,998,50023
+VT,5602,Edward Farrar Utility District,6003,699,50023
+VT,5701,Rutland City Water Department,18500,2003,50021
+VT,5701,Brandon Fire District 1,3865,8,50021
+VT,5701,Fair Haven Water Department,3076,773,50021
+VT,5701,West Rutland Town,2400,87,50021
+VT,5701,Poultney Water Department,2400,19,50021
+VT,5701,Proctor Water Department,2000,742,50021
+VT,5701,Castleton Fire District 1,1940,17,50021
+VT,5701,Pittsford Florence Water Department,1923,25,50021
+VT,5701,Mountain Green Condominium,1300,318,50021
+VT,5701,Wallingford Fire District 1,956,72,50021
+VT,5767,Quechee Central,2262,60,50027
+VT,5820,Albany Water System,200,292,50019
+VT,5820,Alpine Haven,250,0,50019
+VT,5820,Barton Water System,950,1308,50019
+VT,5820,Coventry Fire District 1,251,2224,50019
+VT,5820,Craftsbury Fire District 2,420,53,50019
+VT,5820,Derby Center Water System,1400,338,50019
+VT,5820,Derby Mobile Home Park,265,416,50019
+VT,5820,Greensboro Bend Fire District #2,71,7,50019
+VT,5820,Greensboro Fire District 1,551,36,50019
+VT,5820,Holbrook Bay Commons,95,4,50019
+VT,5820,Irasburg Fd #1,200,16,50019
+VT,5820,Jay Peak Subdivision II,66,19,50019
+VT,5820,Jay Peak Water System,6740,75,50019
+VT,5820,Maple Lane Nursing Home,181,1,50019
+VT,5820,Newport Center Water System,330,761,50019
+VT,5820,Newport City Water System,4766,1000,50019
+VT,5820,North Troy Water System,860,7,50019
+VT,5820,Orleans Water System,846,822,50019
+VT,5820,Shattuck Hill Mobile Home Park,129,371,50019
+VT,5820,Westfield Fire District 1,120,42,50019
+VT,5824,Aqua Haven,150,30,50009
+VT,5824,Brighton Water System,1782,172,50009
+VT,5824,Canaan Fire District #2,350,145,50009
+VT,5824,Guildhall Water System,136,24,50009
+VT,5824,Lunenburg Fire District 1,250,9,50009
+VT,5824,North Concord LLC,60,4,50009

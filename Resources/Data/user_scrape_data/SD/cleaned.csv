@@ -1,0 +1,209 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+SD,57001,Beresford,2005,2122,46127
+SD,57001,Canton,3057,301,46127
+SD,57001,Dakota Dunes Cid,2750,378,46127
+SD,57001,Elk Point,1963,3,46127
+SD,57001,Harrisburg,4300,703,46127
+SD,57001,Lennox,2111,319,46127
+SD,57001,North Sioux City,2530,131,46127
+SD,57002,Brookings Municipal Utilities,22298,1093,46011
+SD,57002,Colman,594,522,46011
+SD,57002,Elkton,736,65,46011
+SD,57002,Flandreau,2341,499,46011
+SD,57002,Kingbrook I Rural Water System,4078,325,46011
+SD,57002,Southbrook Estates,75,302,46011
+SD,57003,Baltic,1089,178,46099
+SD,57003,Brandon,8785,84,46099
+SD,57003,Crooks,1269,378,46099
+SD,57003,Dell Rapids,3708,188,46099
+SD,57003,Garretson,1166,244,46099
+SD,57003,Humboldt,589,1510,46099
+SD,57003,Pine Lake Hills,320,106,46099
+SD,57003,Sioux Falls,158800,1066,46099
+SD,57003,Skyline Heights,126,1026,46099
+SD,57003,Valley Springs,759,711,46099
+SD,57003,Valley View Estates,205,1023,46099
+SD,57004,Vermillion,10571,199,46083
+SD,57004,Wakonda,321,267,46083
+SD,57005,Alvord Municipal Water Supply,196,685,46099
+SD,57005,Doon Water Supply,577,806,46099
+SD,57005,George Water Supply,1088,404,46099
+SD,57005,Inwood Water Supply,814,945,46099
+SD,57005,Larchwood Water Supply,866,480,46099
+SD,57005,Lester Water Supply,295,843,46099
+SD,57005,Little Rock Water Supply,461,1322,46099
+SD,57005,Lyon-sioux Rural Water System-big Sioux,1330,3675,46099
+SD,57005,Rock Rapids Municipal Water Works,2574,625,46099
+SD,57012,Canistota,656,692,46087
+SD,57014,Centerville,882,43,46125
+SD,57014,Chancellor,264,173,46125
+SD,57014,Hurley,415,716,46125
+SD,57014,Viborg,782,800,46125
+SD,57016,Chester Sanitary District,363,658,46079
+SD,57016,Kingbrook III Rural Water System,2738,441,46079
+SD,57016,Ramona,174,611,46079
+SD,57026,Lincoln-pipestone Rural Water System,13644,2064,46011
+SD,57029,Freeman,1306,1243,46067
+SD,57029,Parkston,1508,1148,46067
+SD,57029,Tripp,647,4,46067
+SD,57030,Beaver Creek,297,1555,46099
+SD,57030,Kenneth,56,952,46099
+SD,57030,Luverne,4688,1138,46099
+SD,57030,Rock County Rural Water System,2256,698,46099
+SD,57030,Steen,180,432,46099
+SD,57031,Country Acres Mobile Home Park,70,983,46135
+SD,57031,East Winds Court Inc.,180,1075,46135
+SD,57031,Gayville,407,357,46135
+SD,57031,Lesterville,127,1062,46135
+SD,57031,Mission Hill,177,1079,46135
+SD,57031,Northern Lights Mobile Home Park,57,416,46135
+SD,57031,Timberland Park,140,1077,46135
+SD,57031,Volin,161,1112,46135
+SD,57034,Alton Municipal Water Department,1246,273,46083
+SD,57034,Boyden Municipal Water Supply,712,1075,46083
+SD,57034,Granville Water Supply,314,1355,46083
+SD,57034,Hawarden Water Supply,2546,903,46083
+SD,57034,Hospers Municipal Water Department,706,1125,46083
+SD,57034,Hull Water Supply,2185,690,46083
+SD,57034,Ireton Water Supply,615,130,46083
+SD,57034,Matlock Water Supply,87,910,46083
+SD,57034,Maurice Municipal Water Supply,275,229,46083
+SD,57034,Orange City Municipal Water Department,6004,228,46083
+SD,57034,Rock Valley Rural Water District,2165,697,46083
+SD,57034,Sioux Center Municipal Water Department,7050,818,46083
+SD,57034,Southern Sioux County Rural Water,4542,164,46083
+SD,57040,Avon,590,1170,46135
+SD,57040,Maxwell Colony,200,252,46135
+SD,57040,Tyndall,1067,1110,46135
+SD,57051,Arlington,915,47,46077
+SD,57051,Badger,107,788,46077
+SD,57051,Canova,105,15,46077
+SD,57051,Desmet,1089,789,46077
+SD,57051,Kingbrook II Rural Water System,2898,476,46077
+SD,57051,Lake Preston,599,448,46077
+SD,57051,Oldham,133,558,46077
+SD,57201,Bryant,456,790,46029
+SD,57201,Castlewood,627,375,46029
+SD,57201,Estelline,768,97,46029
+SD,57201,Hayti,381,385,46029
+SD,57201,Lake Norden,467,603,46029
+SD,57201,Pelican Plaza,100,38,46029
+SD,57201,Watertown Municipal Utilities,21482,864,46029
+SD,57213,Clear Lake,1273,664,46039
+SD,57213,Gary,227,109,46039
+SD,57216,Big Stone City,467,262,46051
+SD,57216,Milbank,3353,417,46051
+SD,57216,New Effington,256,76,46051
+SD,57216,Peever,168,35,46051
+SD,57216,Rosholt,408,57,46051
+SD,57216,Sisseton,2470,240,46051
+SD,57216,White Rock Colony,100,750,46051
+SD,57216,Wilmot,492,50,46051
+SD,57217,Bradley,72,310,46025
+SD,57217,Willow Lake,285,1272,46025
+SD,57232,Newport Colony,116,2018,46091
+SD,57232,Sunset Colony,140,133,46091
+SD,57258,Brentford,90,627,46025
+SD,57258,Doland,180,682,46025
+SD,57258,Mellette,248,683,46025
+SD,57260,Barney City of,52,2778,46109
+SD,57260,Hankinson City of,919,2717,46109
+SD,57260,Lidgerwood City of,652,2975,46109
+SD,57260,Mantador City of,64,2560,46109
+SD,57270,Rutland City of,163,2750,46091
+SD,57312,Pearl Creek Colony,94,125,46005
+SD,57312,Wessington Springs,956,39,46005
+SD,57313,Lake Andes,879,1302,46043
+SD,57313,Randall Community Water District,4238,1394,46043
+SD,57325,Chamberlain,2387,401,46015
+SD,57325,Pukwana,285,298,46015
+SD,57328,Plankinton,726,675,46043
+SD,57328,White Lake,372,239,46043
+SD,57345,Brentwood Colony,110,0,46069
+SD,57345,Faulkton,736,607,46069
+SD,57345,Sunshine Bible Academy,140,1545,46069
+SD,57365,Kennebec,240,571,46085
+SD,57365,Oacoma,451,390,46085
+SD,57401,Aberdeen,26091,667,46013
+SD,57401,Groton,1458,635,46013
+SD,57401,Hutterville Hutterian Brethren,130,1,46013
+SD,57401,Long Lake Colony,95,0,46013
+SD,57401,Northwood First Subdivision,55,614,46013
+SD,57401,Prairiewood Property Owners,288,637,46013
+SD,57428,Bowdle,484,486,46045
+SD,57428,Mina Lake Sanitary District,838,495,46045
+SD,57437,Ashley City of,749,753,46089
+SD,57437,Herreid,438,608,46089
+SD,57441,Forbes City of,53,734,46013
+SD,57441,Maple River Hutterian Association,140,21,46013
+SD,57441,Monango City of,36,1570,46013
+SD,57442,Hoven,406,1420,46107
+SD,57442,Tolstoy,36,1427,46107
+SD,57501,Oahe Acres,93,1446,46065
+SD,57501,Spring Creek Sanitary District,380,1400,46065
+SD,57521,Long Valley Elementary School,48,21,46095
+SD,57531,Murdo,488,470,46075
+SD,57601,Mcintosh,173,1,46041
+SD,57601,Mclaughlin,663,64,46041
+SD,57601,Morristown,55,530,46041
+SD,57620,Lemmon,1227,241,46105
+SD,57623,Eagle Butte,4000,335,46137
+SD,57623,Isabel,135,205,46137
+SD,57623,Timber Lake,435,38,46137
+SD,57626,Sturgis,6627,97,46105
+SD,57632,Hague City of,71,987,46021
+SD,57632,Hazelton City of,235,237,46021
+SD,57632,State Line Water Coop Inc.,405,365,46021
+SD,57632,Strasburg City of,409,873,46021
+SD,57645,Carson City of,293,316,46031
+SD,57645,Elgin City of,642,334,46031
+SD,57645,New Leipzig City of,221,343,46031
+SD,57649,Buffalo,330,224,46105
+SD,57701,Rapid City,66481,219,46103
+SD,57701,Rapid Valley Sanitary District,9075,556,46103
+SD,57701,Box Elder,7800,56,46103
+SD,57701,Ellsworth Air Force Base,6827,219,46103
+SD,57701,Chapel Lane Water Company,1200,49,46103
+SD,57701,Colonial Pine Hills Sanitary Distric,1200,110,46103
+SD,57701,Hill City,950,81,46103
+SD,57703,New Underwood,660,9,46103
+SD,57706,Wonderland Homes,750,21,46093
+SD,57716,Batesland,108,17,46102
+SD,57717,Spearfish,10697,517,46019
+SD,57717,Belle Fourche,5594,246,46019
+SD,57717,Deadwood,1270,232,46019
+SD,57717,Sundance City Of,1279,733,46019
+SD,57717,Whitewood,927,24,46019
+SD,57717,Moorcroft Town Of,1009,464,46019
+SD,57717,Pine Haven Town Of,498,521,46019
+SD,57717,Dingerville USA Park,447,165,46019
+SD,57722,Buffalo Gap,126,91,46102
+SD,57722,Csp-game Lodge,751,30,46102
+SD,57722,Custer,2067,585,46102
+SD,57722,Edgemont,774,1367,46102
+SD,57722,Fairburn Water Association,65,1564,46102
+SD,57722,Fall River Wud-north,100,4535,46102
+SD,57722,Green Acres Estates,31,18,46102
+SD,57722,Heartland Country Ranchettes,95,50,46102
+SD,57722,Hermosa Water Users Association,108,1516,46102
+SD,57722,Hermosa-old System,451,78,46102
+SD,57722,Laughing Water Restaurant At Crazy H,2055,62,46102
+SD,57722,Oelrichs,126,1472,46102
+SD,57722,Paramount Point,35,40,46102
+SD,57722,Provo Area Water System,42,1686,46102
+SD,57722,Spring Creek Acres,80,96,46102
+SD,57722,Star Academy-east Campus,45,284,46102
+SD,57722,Star Academy-main Campus,269,130,46102
+SD,57722,Triple T Mobile Home Park,74,132,46102
+SD,57722,United Order of South Dakota,75,1275,46102
+SD,57724,Ekalaka Town of,400,31,46063
+SD,57732,Terry Trojan Water District,400,126,46081
+SD,57735,Harrison Village of,251,656,46047
+SD,57760,Weston Heights Homeowners Association,441,35,46019
+SD,57762,Black Hills Water Distribution LLC,0,11,46019
+SD,57762,Fruitdale,64,19,46019
+SD,57762,Hay Creek Water Company,300,11,46019
+SD,57762,Riverside Mobile Home Court,60,372,46019
+SD,57762,Sandstone Water-west Addition,300,22,46019
+SD,57762,Vale Sanitary District,120,175,46019
+SD,57762,Wilen Enterprises Water,0,22,46019

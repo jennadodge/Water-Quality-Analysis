@@ -1,0 +1,822 @@
+Utility,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit
+Artesian Water Company,Bromodichloromethane,3.85 ppb,0.06 ppb,
+Artesian Water Company,Chloroform,17.7 ppb,0.4 ppb,
+Artesian Water Company,Chromium (hexavalent),0.524 ppb,0.02 ppb,
+Artesian Water Company,Dibromochloromethane,0.496 ppb,0.1 ppb,
+Artesian Water Company,Dichloroacetic acid,15.8 ppb,0.2 ppb,
+Artesian Water Company,Haloacetic acids (HAA5)†,30.2 ppb,0.1 ppb,60 ppb
+Artesian Water Company,Haloacetic acids (HAA9)†,24.9 ppb,0.06 ppb,
+Artesian Water Company,Nitrate,4.22 ppm,0.14 ppm,10 ppm
+Artesian Water Company,Nitrate and nitrite,3.23 ppm,0.14 ppm,10 ppm
+Artesian Water Company,Perfluoroheptanoic acid (PFHPA),8.06 ppt,1 ppt,
+Artesian Water Company,Perfluorohexane sulfonate (PFHXS),35.0 ppt,1 ppt,
+Artesian Water Company,Perfluorooctane sulfonate (PFOS),49.9 ppt,1 ppt,
+Artesian Water Company,Perfluorooctanoic acid (PFOA),10.8 ppt,0.007 ppt,
+Artesian Water Company,"Radium, combined (-226 &amp; -228)",3.01 pCi/L,0.05 pCi/L,5 pCi/L
+Artesian Water Company,Total trihalomethanes (TTHMs)†,41.1 ppb,0.15 ppb,80 ppb
+Artesian Water Company,Trichloroacetic acid,14.3 ppb,0.1 ppb,
+Artesian Water Company,"1,1-Dichloroethane",0.000986 ppb,3 ppb,
+Artesian Water Company,"1,4-Dioxane",0.669 ppb,0.35 ppb,
+Artesian Water Company,"4-Androstene-3,17-dione",0.00800 ppt,,
+Artesian Water Company,Acetone,0.372 ppb,,
+Artesian Water Company,Aluminum,4.50 ppb,600 ppb,
+Artesian Water Company,Atrazine,0.00898 ppb,0.1 ppb,3 ppb
+Artesian Water Company,Barium,92.4 ppb,700 ppb,"2,000 ppb"
+Artesian Water Company,bis(2-chloroethyl) ether,0.0211 ppb,,
+Artesian Water Company,Bromoform,0.0336 ppb,0.5 ppb,
+Artesian Water Company,Chlorate,22.6 ppb,210 ppb,
+Artesian Water Company,Chlordane,0.0154 ppb,0.03 ppb,2 ppb
+Artesian Water Company,Chlorodifluoromethane,0.00861 ppb,,
+Artesian Water Company,Chromium (total),0.626 ppb,,100 ppb
+Artesian Water Company,"cis-1,2-Dichloroethylene",0.0513 ppb,,70 ppb
+Artesian Water Company,Cobalt,0.352 ppb,70 ppb,
+Artesian Water Company,Di(2-ethylhexyl) phthalate,0.0236 ppb,3 ppb,6 ppb
+Artesian Water Company,Di-n-butyl phthalate,0.0433 ppb,,
+Artesian Water Company,Dibromoacetic acid,0.0286 ppb,0.04 ppb,
+Artesian Water Company,Dicamba,0.000781 ppb,,
+Artesian Water Company,Dieldrin,0.0163 ppb,,
+Artesian Water Company,Fluoride,0.582 ppm,,4 ppm
+Artesian Water Company,gamma-Chlordane,0.000176 ppb,,
+Artesian Water Company,Heptachlor epoxide,0.000296 ppb,0.006 ppb,0.2 ppb
+Artesian Water Company,Manganese,11.4 ppb,100 ppb,
+Artesian Water Company,Mercury (inorganic),0.00842 ppb,1.2 ppb,2 ppb
+Artesian Water Company,Monochloroacetic acid,0.127 ppb,53 ppb,
+Artesian Water Company,MTBE,0.374 ppb,13 ppb,
+Artesian Water Company,Pentachlorophenol,0.00269 ppb,0.3 ppb,1 ppb
+Artesian Water Company,Selenium,2.27 ppb,30 ppb,50 ppb
+Artesian Water Company,Silver,0.516 ppb,,
+Artesian Water Company,Strontium,0.132 ppb,"1,500 ppb",
+Artesian Water Company,Tetrachloroethylene (perchloroethylene),0.0728 ppb,0.06 ppb,5 ppb
+Artesian Water Company,Toluene,0.00671 ppb,150 ppb,"1,000 ppb"
+Artesian Water Company,Trichloroethylene,0.00248 ppb,0.4 ppb,5 ppb
+Artesian Water Company,Trichlorofluoromethane,0.00136 ppb,"1,300 ppb",
+Artesian Water Company,Vanadium,0.106 ppb,21 ppb,
+Artesian Water Company,Xylenes (total),0.00327 ppb,"1,800 ppb","10,000 ppb"
+Artesian Water Company,None,,,
+Augustine Creek,Bromodichloromethane,2.35 ppb,0.06 ppb,
+Augustine Creek,Chloroform,11.8 ppb,0.4 ppb,
+Augustine Creek,Dibromochloromethane,0.609 ppb,0.1 ppb,
+Augustine Creek,Dichloroacetic acid,4.86 ppb,0.2 ppb,
+Augustine Creek,Haloacetic acids (HAA5)†,6.41 ppb,0.1 ppb,60 ppb
+Augustine Creek,"Radium, combined (-226 &amp; -228)",0.40 pCi/L,0.05 pCi/L,5 pCi/L
+Augustine Creek,Total trihalomethanes (TTHMs)†,25.3 ppb,0.15 ppb,80 ppb
+Augustine Creek,Trichloroacetic acid,1.55 ppb,0.1 ppb,
+Augustine Creek,Barium,53.3 ppb,700 ppb,"2,000 ppb"
+Augustine Creek,Chromium (total),0.0167 ppb,,100 ppb
+Augustine Creek,Fluoride,0.223 ppm,,4 ppm
+Augustine Creek,Manganese,2.40 ppb,100 ppb,
+Augustine Creek,Silver,0.667 ppb,,
+Augustine Creek,None,,,
+Bayview Improvement Company,Arsenic,0.333 ppb,0.004 ppb,10 ppb
+Bayview Improvement Company,Bromodichloromethane,1.74 ppb,0.06 ppb,
+Bayview Improvement Company,Chloroform,2.39 ppb,0.4 ppb,
+Bayview Improvement Company,Dibromochloromethane,1.03 ppb,0.1 ppb,
+Bayview Improvement Company,Dichloroacetic acid,1.07 ppb,0.2 ppb,
+Bayview Improvement Company,Haloacetic acids (HAA5)†,1.44 ppb,0.1 ppb,60 ppb
+Bayview Improvement Company,"Radium, combined (-226 &amp; -228)",1.15 pCi/L,0.05 pCi/L,5 pCi/L
+Bayview Improvement Company,Total trihalomethanes (TTHMs)†,8.48 ppb,0.15 ppb,80 ppb
+Bayview Improvement Company,Trichloroacetic acid,0.375 ppb,0.1 ppb,
+Bayview Improvement Company,Barium,85.8 ppb,700 ppb,"2,000 ppb"
+Bayview Improvement Company,Chromium (total),0.167 ppb,,100 ppb
+Bayview Improvement Company,Fluoride,0.608 ppm,,4 ppm
+Bayview Improvement Company,Manganese,0.417 ppb,100 ppb,
+Bayview Improvement Company,Nitrate,0.00915 ppm,0.14 ppm,10 ppm
+Bayview Improvement Company,Nitrate and nitrite,0.00915 ppm,0.14 ppm,10 ppm
+Bayview Improvement Company,None,,,
+Carpenters Row,Bromodichloromethane,0.273 ppb,0.06 ppb,
+Carpenters Row,Chloroform,3.80 ppb,0.4 ppb,
+Carpenters Row,Dichloroacetic acid,1.20 ppb,0.2 ppb,
+Carpenters Row,Haloacetic acids (HAA5)†,1.20 ppb,0.1 ppb,60 ppb
+Carpenters Row,Nitrate,2.81 ppm,0.14 ppm,10 ppm
+Carpenters Row,Nitrate and nitrite,2.81 ppm,0.14 ppm,10 ppm
+Carpenters Row,"Radium, combined (-226 &amp; -228)",0.44 pCi/L,0.05 pCi/L,5 pCi/L
+Carpenters Row,Total trihalomethanes (TTHMs)†,5.65 ppb,0.15 ppb,80 ppb
+Carpenters Row,"1,2-Dichloropropane",0.380 ppb,0.5 ppb,5 ppb
+Carpenters Row,Barium,13.0 ppb,700 ppb,"2,000 ppb"
+Carpenters Row,Chromium (total),0.700 ppb,,100 ppb
+Carpenters Row,Dibromochloromethane,0.167 ppb,0.1 ppb,
+Carpenters Row,Manganese,3.50 ppb,100 ppb,
+Carpenters Row,None,,,
+Ananda Village,Arsenic,0.337 ppb,0.004 ppb,10 ppb
+Ananda Village,Cadmium,0.320 ppb,0.04 ppb,5 ppb
+Ananda Village,Chloroform,10.6 ppb,0.4 ppb,
+Ananda Village,Nitrate,0.703 ppm,0.14 ppm,10 ppm
+Ananda Village,Nitrate and nitrite,0.885 ppm,0.14 ppm,10 ppm
+Ananda Village,"Radium, combined (-226 &amp; -228)",1.56 pCi/L,0.05 pCi/L,5 pCi/L
+Ananda Village,Uranium,0.97 pCi/L,0.43 pCi/L,20 pCi/L
+Ananda Village,Aluminum,20.4 ppb,600 ppb,
+Ananda Village,Barium,23.4 ppb,700 ppb,"2,000 ppb"
+Ananda Village,Carbon tetrachloride,0.124 ppb,0.1 ppb,5 ppb
+Ananda Village,Chromium (total),0.155 ppb,,100 ppb
+Ananda Village,Manganese,6.12 ppb,100 ppb,
+Ananda Village,Mercury (inorganic),0.102 ppb,1.2 ppb,2 ppb
+Ananda Village,Selenium,0.255 ppb,30 ppb,50 ppb
+Ananda Village,Silver,0.609 ppb,,
+Ananda Village,None,,,
+Delaware City Water Department,Bromodichloromethane,4.21 ppb,0.06 ppb,
+Delaware City Water Department,Chloroform,4.79 ppb,0.4 ppb,
+Delaware City Water Department,Dibromoacetic acid,1.01 ppb,0.04 ppb,
+Delaware City Water Department,Dibromochloromethane,3.34 ppb,0.1 ppb,
+Delaware City Water Department,Dichloroacetic acid,2.28 ppb,0.2 ppb,
+Delaware City Water Department,Haloacetic acids (HAA5)†,4.27 ppb,0.1 ppb,60 ppb
+Delaware City Water Department,"Radium, combined (-226 &amp; -228)",0.71 pCi/L,0.05 pCi/L,5 pCi/L
+Delaware City Water Department,Total trihalomethanes (TTHMs)†,14.4 ppb,0.15 ppb,80 ppb
+Delaware City Water Department,Trichloroacetic acid,0.979 ppb,0.1 ppb,
+Delaware City Water Department,Barium,26.0 ppb,700 ppb,"2,000 ppb"
+Delaware City Water Department,Bromoform,0.363 ppb,0.5 ppb,
+Delaware City Water Department,Fluoride,0.746 ppm,,4 ppm
+Delaware City Water Department,Manganese,19.5 ppb,100 ppb,
+Delaware City Water Department,None,,,
+Delaware Correctional Center,Arsenic,2.77 ppb,0.004 ppb,10 ppb
+Delaware Correctional Center,Bromodichloromethane,0.221 ppb,0.06 ppb,
+Delaware Correctional Center,Chloroform,1.07 ppb,0.4 ppb,
+Delaware Correctional Center,Dichloroacetic acid,0.568 ppb,0.2 ppb,
+Delaware Correctional Center,Haloacetic acids (HAA5)†,0.717 ppb,0.1 ppb,60 ppb
+Delaware Correctional Center,"Radium, combined (-226 &amp; -228)",0.67 pCi/L,0.05 pCi/L,5 pCi/L
+Delaware Correctional Center,Total trihalomethanes (TTHMs)†,3.11 ppb,0.15 ppb,80 ppb
+Delaware Correctional Center,Aluminum,2.94 ppb,600 ppb,
+Delaware Correctional Center,Barium,56.2 ppb,700 ppb,"2,000 ppb"
+Delaware Correctional Center,Bromoform,0.0692 ppb,0.5 ppb,
+Delaware Correctional Center,Fluoride,0.479 ppm,,4 ppm
+Delaware Correctional Center,Manganese,1.27 ppb,100 ppb,
+Delaware Correctional Center,Nitrate,0.00569 ppm,0.14 ppm,10 ppm
+Delaware Correctional Center,Nitrate and nitrite,0.00569 ppm,0.14 ppm,10 ppm
+Delaware Correctional Center,Trichloroacetic acid,0.149 ppb,0.1 ppb,
+Delaware Correctional Center,None,,,
+Drawyers Creek Pump District,Bromodichloromethane,1.05 ppb,0.06 ppb,
+Drawyers Creek Pump District,Chloroform,1.25 ppb,0.4 ppb,
+Drawyers Creek Pump District,Dibromochloromethane,0.715 ppb,0.1 ppb,
+Drawyers Creek Pump District,Dichloroacetic acid,0.511 ppb,0.2 ppb,
+Drawyers Creek Pump District,Haloacetic acids (HAA5)†,0.511 ppb,0.1 ppb,60 ppb
+Drawyers Creek Pump District,Total trihalomethanes (TTHMs)†,4.87 ppb,0.15 ppb,80 ppb
+Drawyers Creek Pump District,Fluoride,0.276 ppm,,4 ppm
+Drawyers Creek Pump District,None,,,
+East Ncc District,Arsenic,0.167 ppb,0.004 ppb,10 ppb
+East Ncc District,Bromodichloromethane,0.600 ppb,0.06 ppb,
+East Ncc District,Chloroform,0.912 ppb,0.4 ppb,
+East Ncc District,Haloacetic acids (HAA5)†,0.265 ppb,0.1 ppb,60 ppb
+East Ncc District,Nitrate,0.562 ppm,0.14 ppm,10 ppm
+East Ncc District,Nitrate and nitrite,0.632 ppm,0.14 ppm,10 ppm
+East Ncc District,Total trihalomethanes (TTHMs)†,2.51 ppb,0.15 ppb,80 ppb
+East Ncc District,Barium,47.7 ppb,700 ppb,"2,000 ppb"
+East Ncc District,Chromium (total),1.63 ppb,,100 ppb
+East Ncc District,Dibromochloromethane,0.181 ppb,0.1 ppb,
+East Ncc District,Dichloroacetic acid,0.265 ppb,0.2 ppb,
+East Ncc District,Fluoride,0.273 ppm,,4 ppm
+East Ncc District,Manganese,11.5 ppb,100 ppb,
+East Ncc District,Toluene,0.0720 ppb,150 ppb,"1,000 ppb"
+East Ncc District,None,,,
+Fort Dupont,Arsenic,0.125 ppb,0.004 ppb,10 ppb
+Fort Dupont,Bromodichloromethane,5.58 ppb,0.06 ppb,
+Fort Dupont,Bromoform,2.47 ppb,0.5 ppb,
+Fort Dupont,Chloroform,7.99 ppb,0.4 ppb,
+Fort Dupont,Dibromoacetic acid,0.400 ppb,0.04 ppb,
+Fort Dupont,Dibromochloromethane,4.72 ppb,0.1 ppb,
+Fort Dupont,Dichloroacetic acid,3.12 ppb,0.2 ppb,
+Fort Dupont,Haloacetic acids (HAA5)†,4.88 ppb,0.1 ppb,60 ppb
+Fort Dupont,"Radium, combined (-226 &amp; -228)",1.50 pCi/L,0.05 pCi/L,5 pCi/L
+Fort Dupont,Total trihalomethanes (TTHMs)†,21.4 ppb,0.15 ppb,80 ppb
+Fort Dupont,Trichloroacetic acid,1.36 ppb,0.1 ppb,
+Fort Dupont,Barium,8.38 ppb,700 ppb,"2,000 ppb"
+Fort Dupont,Chloroethane,0.122 ppb,,
+Fort Dupont,Chloromethane,0.110 ppb,2.69 ppb,
+Fort Dupont,Chromium (total),0.700 ppb,,100 ppb
+Fort Dupont,Dibromomethane,0.112 ppb,,
+Fort Dupont,Dichloromethane (methylene chloride),0.0983 ppb,4 ppb,5 ppb
+Fort Dupont,Ethylbenzene,0.333 ppb,300 ppb,700 ppb
+Fort Dupont,Fluoride,0.104 ppm,,4 ppm
+Fort Dupont,Manganese,0.650 ppb,100 ppb,
+Fort Dupont,Selenium,0.200 ppb,30 ppb,50 ppb
+Fort Dupont,Vanadium,1.000 ppb,21 ppb,
+Fort Dupont,Xylenes (total),1.01 ppb,"1,800 ppb","10,000 ppb"
+Fort Dupont,None,,,
+Fox Hunter Crossing,Bromodichloromethane,3.21 ppb,0.06 ppb,
+Fox Hunter Crossing,Chloroform,20.9 ppb,0.4 ppb,
+Fox Hunter Crossing,Dibromochloromethane,0.572 ppb,0.1 ppb,
+Fox Hunter Crossing,Dichloroacetic acid,3.82 ppb,0.2 ppb,
+Fox Hunter Crossing,Haloacetic acids (HAA5)†,6.01 ppb,0.1 ppb,60 ppb
+Fox Hunter Crossing,"Radium, combined (-226 &amp; -228)",1.18 pCi/L,0.05 pCi/L,5 pCi/L
+Fox Hunter Crossing,Total trihalomethanes (TTHMs)†,28.9 ppb,0.15 ppb,80 ppb
+Fox Hunter Crossing,Trichloroacetic acid,2.35 ppb,0.1 ppb,
+Fox Hunter Crossing,Barium,78.5 ppb,700 ppb,"2,000 ppb"
+Fox Hunter Crossing,Di-n-butyl phthalate,0.0629 ppb,,
+Fox Hunter Crossing,Fluoride,0.629 ppm,,4 ppm
+Fox Hunter Crossing,Manganese,2.58 ppb,100 ppb,
+Fox Hunter Crossing,Nitrate,0.00458 ppm,0.14 ppm,10 ppm
+Fox Hunter Crossing,Nitrate and nitrite,0.0338 ppm,0.14 ppm,10 ppm
+Fox Hunter Crossing,Nitrite,0.0292 ppm,,1 ppm
+Fox Hunter Crossing,Silver,0.250 ppb,,
+Fox Hunter Crossing,None,,,
+Frederick Lodge Pump District,Arsenic,0.250 ppb,0.004 ppb,10 ppb
+Frederick Lodge Pump District,Bromodichloromethane,0.555 ppb,0.06 ppb,
+Frederick Lodge Pump District,Chloroform,1.53 ppb,0.4 ppb,
+Frederick Lodge Pump District,Dichloroacetic acid,0.628 ppb,0.2 ppb,
+Frederick Lodge Pump District,Haloacetic acids (HAA5)†,2.00 ppb,0.1 ppb,60 ppb
+Frederick Lodge Pump District,"Radium, combined (-226 &amp; -228)",0.25 pCi/L,0.05 pCi/L,5 pCi/L
+Frederick Lodge Pump District,Total trihalomethanes (TTHMs)†,3.61 ppb,0.15 ppb,80 ppb
+Frederick Lodge Pump District,Trichloroacetic acid,1.37 ppb,0.1 ppb,
+Frederick Lodge Pump District,Chromium (total),0.750 ppb,,100 ppb
+Frederick Lodge Pump District,Fluoride,0.179 ppm,,4 ppm
+Frederick Lodge Pump District,None,,,
+Middletown Water Department,Arsenic,0.250 ppb,0.004 ppb,10 ppb
+Middletown Water Department,Bromodichloromethane,8.90 ppb,0.06 ppb,
+Middletown Water Department,Chloroform,36.9 ppb,0.4 ppb,
+Middletown Water Department,Chromium (hexavalent),0.0458 ppb,0.02 ppb,
+Middletown Water Department,Dibromoacetic acid,0.128 ppb,0.04 ppb,
+Middletown Water Department,Dibromochloromethane,1.58 ppb,0.1 ppb,
+Middletown Water Department,Dichloroacetic acid,12.4 ppb,0.2 ppb,
+Middletown Water Department,Haloacetic acids (HAA5)†,26.4 ppb,0.1 ppb,60 ppb
+Middletown Water Department,Haloacetic acids (HAA9)†,30.7 ppb,0.06 ppb,
+Middletown Water Department,Total trihalomethanes (TTHMs)†,50.5 ppb,0.15 ppb,80 ppb
+Middletown Water Department,Trichloroacetic acid,13.0 ppb,0.1 ppb,
+Middletown Water Department,Barium,20.2 ppb,700 ppb,"2,000 ppb"
+Middletown Water Department,Bromoform,0.0129 ppb,0.5 ppb,
+Middletown Water Department,Chromium (total),0.101 ppb,,100 ppb
+Middletown Water Department,Fluoride,0.453 ppm,,4 ppm
+Middletown Water Department,Manganese,0.157 ppb,100 ppb,
+Middletown Water Department,Monobromoacetic acid,0.0284 ppb,25 ppb,
+Middletown Water Department,Monochloroacetic acid,0.794 ppb,53 ppb,
+Middletown Water Department,Nitrate,0.148 ppm,0.14 ppm,10 ppm
+Middletown Water Department,Nitrate and nitrite,0.147 ppm,0.14 ppm,10 ppm
+Middletown Water Department,Strontium,0.0503 ppb,"1,500 ppb",
+Middletown Water Department,Vanadium,0.153 ppb,21 ppb,
+Middletown Water Department,Xylenes (total),0.145 ppb,"1,800 ppb","10,000 ppb"
+Middletown Water Department,None,,,
+Grove Municipal Services Auth.,Bromodichloromethane,11.4 ppb,0.06 ppb,
+Grove Municipal Services Auth.,Chloroform,34.8 ppb,0.4 ppb,
+Grove Municipal Services Auth.,Dibromoacetic acid,0.127 ppb,0.04 ppb,
+Grove Municipal Services Auth.,Dibromochloromethane,2.50 ppb,0.1 ppb,
+Grove Municipal Services Auth.,Dichloroacetic acid,15.8 ppb,0.2 ppb,
+Grove Municipal Services Auth.,Haloacetic acids (HAA5)†,36.2 ppb,0.1 ppb,60 ppb
+Grove Municipal Services Auth.,Haloacetic acids (HAA9)†,56.6 ppb,0.06 ppb,
+Grove Municipal Services Auth.,Nitrate and nitrite,0.594 ppm,0.14 ppm,10 ppm
+Grove Municipal Services Auth.,Total trihalomethanes (TTHMs)†,49.5 ppb,0.15 ppb,80 ppb
+Grove Municipal Services Auth.,Trichloroacetic acid,19.4 ppb,0.1 ppb,
+Grove Municipal Services Auth.,Barium,53.0 ppb,700 ppb,"2,000 ppb"
+Grove Municipal Services Auth.,Chromium (hexavalent),0.0233 ppb,0.02 ppb,
+Grove Municipal Services Auth.,Fluoride,0.130 ppm,,4 ppm
+Grove Municipal Services Auth.,Manganese,4.40 ppb,100 ppb,
+Grove Municipal Services Auth.,Monochloroacetic acid,0.896 ppb,53 ppb,
+Grove Municipal Services Auth.,Strontium,0.185 ppb,"1,500 ppb",
+Grove Municipal Services Auth.,Vanadium,0.806 ppb,21 ppb,
+Grove Municipal Services Auth.,None,,,
+East Newark Water Department,Bromodichloromethane,11.3 ppb,0.06 ppb,
+East Newark Water Department,Chloroform,42.5 ppb,0.4 ppb,
+East Newark Water Department,Dibromochloromethane,1.88 ppb,0.1 ppb,
+East Newark Water Department,Dichloroacetic acid,14.2 ppb,0.2 ppb,
+East Newark Water Department,Haloacetic acids (HAA5)†,32.7 ppb,0.1 ppb,60 ppb
+East Newark Water Department,Haloacetic acids (HAA9)†,32.5 ppb,0.06 ppb,
+East Newark Water Department,Total trihalomethanes (TTHMs)†,55.7 ppb,0.15 ppb,80 ppb
+East Newark Water Department,Trichloroacetic acid,16.4 ppb,0.1 ppb,
+East Newark Water Department,Alpha-hexachlorocyclohexane*,0.00250 ppb,,
+East Newark Water Department,Chlorate*,101.8 ppb,210 ppb,
+East Newark Water Department,Chromium (hexavalent)*,0.0246 ppb,0.02 ppb,
+East Newark Water Department,Dibromoacetic acid,0.0450 ppb,0.04 ppb,
+East Newark Water Department,Manganese,109.5 ppb,100 ppb,
+East Newark Water Department,Monobromoacetic acid,0.0775 ppb,25 ppb,
+East Newark Water Department,Monochloroacetic acid,1.92 ppb,53 ppb,
+East Newark Water Department,Strontium*,0.0482 ppb,"1,500 ppb",
+East Newark Water Department,None,,,
+North West Pump District,Bromodichloromethane,0.724 ppb,0.06 ppb,
+North West Pump District,Chloroform,1.39 ppb,0.4 ppb,
+North West Pump District,Dichloroacetic acid,1.11 ppb,0.2 ppb,
+North West Pump District,Haloacetic acids (HAA5)†,1.11 ppb,0.1 ppb,60 ppb
+North West Pump District,"Radium, combined (-226 &amp; -228)",0.94 pCi/L,0.05 pCi/L,5 pCi/L
+North West Pump District,Total trihalomethanes (TTHMs)†,2.99 ppb,0.15 ppb,80 ppb
+North West Pump District,Dibromochloromethane,0.160 ppb,0.1 ppb,
+North West Pump District,Fluoride,0.0710 ppm,,4 ppm
+North West Pump District,None,,,
+Ponds Of Odessa (awc),Arsenic,0.733 ppb,0.004 ppb,10 ppb
+Ponds Of Odessa (awc),Bromodichloromethane,3.45 ppb,0.06 ppb,
+Ponds Of Odessa (awc),Chloroform,10.7 ppb,0.4 ppb,
+Ponds Of Odessa (awc),Dibromochloromethane,1.40 ppb,0.1 ppb,
+Ponds Of Odessa (awc),Dichloroacetic acid,3.20 ppb,0.2 ppb,
+Ponds Of Odessa (awc),Haloacetic acids (HAA5)†,5.20 ppb,0.1 ppb,60 ppb
+Ponds Of Odessa (awc),"Radium, combined (-226 &amp; -228)",1.20 pCi/L,0.05 pCi/L,5 pCi/L
+Ponds Of Odessa (awc),Total trihalomethanes (TTHMs)†,18.6 ppb,0.15 ppb,80 ppb
+Ponds Of Odessa (awc),Trichloroacetic acid,2.00 ppb,0.1 ppb,
+Ponds Of Odessa (awc),Barium,77.3 ppb,700 ppb,"2,000 ppb"
+Ponds Of Odessa (awc),Fluoride,0.353 ppm,,4 ppm
+Ponds Of Odessa (awc),Manganese,1.80 ppb,100 ppb,
+Ponds Of Odessa (awc),Toluene,0.250 ppb,150 ppb,"1,000 ppb"
+Ponds Of Odessa (awc),None,,,
+South East Pump District,Bromodichloromethane,1.54 ppb,0.06 ppb,
+South East Pump District,Chloroform,2.82 ppb,0.4 ppb,
+South East Pump District,Dibromochloromethane,0.733 ppb,0.1 ppb,
+South East Pump District,Dichloroacetic acid,1.03 ppb,0.2 ppb,
+South East Pump District,Haloacetic acids (HAA5)†,1.03 ppb,0.1 ppb,60 ppb
+South East Pump District,Total trihalomethanes (TTHMs)†,5.52 ppb,0.15 ppb,80 ppb
+South East Pump District,Fluoride,0.283 ppm,,4 ppm
+South East Pump District,"Radium, combined (-226 &amp; -228)",0.03 pCi/L,0.05 pCi/L,5 pCi/L
+South East Pump District,None,,,
+Summit Pond Pump District,Bromodichloromethane,0.709 ppb,0.06 ppb,
+Summit Pond Pump District,Chloroform,1.30 ppb,0.4 ppb,
+Summit Pond Pump District,Dichloroacetic acid,0.822 ppb,0.2 ppb,
+Summit Pond Pump District,Haloacetic acids (HAA5)†,0.822 ppb,0.1 ppb,60 ppb
+Summit Pond Pump District,"Radium, combined (-226 &amp; -228)",2.26 pCi/L,0.05 pCi/L,5 pCi/L
+Summit Pond Pump District,Total trihalomethanes (TTHMs)†,3.60 ppb,0.15 ppb,80 ppb
+Summit Pond Pump District,Barium,170.4 ppb,700 ppb,"2,000 ppb"
+Summit Pond Pump District,Chromium (total),0.800 ppb,,100 ppb
+Summit Pond Pump District,Dibromochloromethane,0.0725 ppb,0.1 ppb,
+Summit Pond Pump District,Ethylbenzene,0.238 ppb,300 ppb,700 ppb
+Summit Pond Pump District,Fluoride,0.212 ppm,,4 ppm
+Summit Pond Pump District,Manganese,7.70 ppb,100 ppb,
+Summit Pond Pump District,Mercury (inorganic),0.340 ppb,1.2 ppb,2 ppb
+Summit Pond Pump District,Vanadium,0.1000 ppb,21 ppb,
+Summit Pond Pump District,Xylenes (total),2.48 ppb,"1,800 ppb","10,000 ppb"
+Summit Pond Pump District,None,,,
+Thomas Cove,Bromodichloromethane,0.869 ppb,0.06 ppb,
+Thomas Cove,Chloroform,4.33 ppb,0.4 ppb,
+Thomas Cove,Dichloroacetic acid,1.46 ppb,0.2 ppb,
+Thomas Cove,Haloacetic acids (HAA5)†,2.73 ppb,0.1 ppb,60 ppb
+Thomas Cove,Nitrate,0.580 ppm,0.14 ppm,10 ppm
+Thomas Cove,Nitrate and nitrite,0.580 ppm,0.14 ppm,10 ppm
+Thomas Cove,"Radium, combined (-226 &amp; -228)",1.27 pCi/L,0.05 pCi/L,5 pCi/L
+Thomas Cove,Total trihalomethanes (TTHMs)†,9.63 ppb,0.15 ppb,80 ppb
+Thomas Cove,Trichloroacetic acid,0.817 ppb,0.1 ppb,
+Thomas Cove,"1,2,4-Trichlorobenzene",0.0421 ppb,5 ppb,70 ppb
+Thomas Cove,Aluminum,2.17 ppb,600 ppb,
+Thomas Cove,Barium,48.8 ppb,700 ppb,"2,000 ppb"
+Thomas Cove,Chlorate,217.5 ppb,210 ppb,
+Thomas Cove,Chromium (hexavalent),0.0144 ppb,0.02 ppb,
+Thomas Cove,Chromium (total),0.781 ppb,,100 ppb
+Thomas Cove,Cyanide,0.636 ppb,,200 ppb
+Thomas Cove,Di(2-ethylhexyl) phthalate,0.173 ppb,3 ppb,6 ppb
+Thomas Cove,Dibromochloromethane,0.0714 ppb,0.1 ppb,
+Thomas Cove,Fluoride,0.611 ppm,,4 ppm
+Thomas Cove,Manganese,0.338 ppb,100 ppb,
+Thomas Cove,Molybdenum,0.542 ppb,40 ppb,
+Thomas Cove,Silver,0.167 ppb,,
+Thomas Cove,Strontium,0.386 ppb,"1,500 ppb",
+Thomas Cove,Vanadium,0.0696 ppb,21 ppb,
+Thomas Cove,None,,,
+Suez Water Delaware,Bromochloroacetic acid,4.20 ppb,0.02 ppb,
+Suez Water Delaware,Bromodichloromethane,10.8 ppb,0.06 ppb,
+Suez Water Delaware,Chloroform,25.0 ppb,0.4 ppb,
+Suez Water Delaware,Chromium (hexavalent),0.0615 ppb,0.02 ppb,
+Suez Water Delaware,Dibromoacetic acid,0.407 ppb,0.04 ppb,
+Suez Water Delaware,Dibromochloromethane,3.34 ppb,0.1 ppb,
+Suez Water Delaware,Dichloroacetic acid,14.6 ppb,0.2 ppb,
+Suez Water Delaware,Haloacetic acids (HAA5)†,27.7 ppb,0.1 ppb,60 ppb
+Suez Water Delaware,Haloacetic acids (HAA9)†,41.1 ppb,0.06 ppb,
+Suez Water Delaware,Nitrate,2.75 ppm,0.14 ppm,10 ppm
+Suez Water Delaware,Nitrate and nitrite,2.97 ppm,0.14 ppm,10 ppm
+Suez Water Delaware,Perfluoroheptanoic acid (PFHPA),28.8 ppt,1 ppt,
+Suez Water Delaware,Perfluorononanoic acid (PFNA),13.5 ppt,1 ppt,
+Suez Water Delaware,Perfluorooctanoic acid (PFOA),19.1 ppt,0.007 ppt,
+Suez Water Delaware,Total trihalomethanes (TTHMs)†,40.0 ppb,0.15 ppb,80 ppb
+Suez Water Delaware,Trichloroacetic acid,11.8 ppb,0.1 ppb,
+Suez Water Delaware,Barium,41.7 ppb,700 ppb,"2,000 ppb"
+Suez Water Delaware,Bromoform,0.0409 ppb,0.5 ppb,
+Suez Water Delaware,Chlorate,173.6 ppb,210 ppb,
+Suez Water Delaware,Chromium (total),0.654 ppb,,100 ppb
+Suez Water Delaware,Di(2-ethylhexyl) adipate,0.00677 ppb,200 ppb,400 ppb
+Suez Water Delaware,Di(2-ethylhexyl) phthalate,0.0469 ppb,3 ppb,6 ppb
+Suez Water Delaware,Fluoride,0.892 ppm,,4 ppm
+Suez Water Delaware,Manganese,0.688 ppb,100 ppb,
+Suez Water Delaware,Monochloroacetic acid,0.950 ppb,53 ppb,
+Suez Water Delaware,Strontium,0.167 ppb,"1,500 ppb",
+Suez Water Delaware,None,,,
+Wilmington Water Department,Bromochloroacetic acid,4.18 ppb,0.02 ppb,
+Wilmington Water Department,Bromodichloromethane,10.3 ppb,0.06 ppb,
+Wilmington Water Department,Chloroform,30.6 ppb,0.4 ppb,
+Wilmington Water Department,Chromium (hexavalent),0.316 ppb,0.02 ppb,
+Wilmington Water Department,Dibromoacetic acid,0.249 ppb,0.04 ppb,
+Wilmington Water Department,Dibromochloromethane,2.89 ppb,0.1 ppb,
+Wilmington Water Department,Dichloroacetic acid,16.3 ppb,0.2 ppb,
+Wilmington Water Department,Haloacetic acids (HAA5)†,32.6 ppb,0.1 ppb,60 ppb
+Wilmington Water Department,Haloacetic acids (HAA9)†,43.0 ppb,0.06 ppb,
+Wilmington Water Department,Nitrate,2.30 ppm,0.14 ppm,10 ppm
+Wilmington Water Department,Nitrate and nitrite,2.30 ppm,0.14 ppm,10 ppm
+Wilmington Water Department,"Radium, combined (-226 &amp; -228)",0.49 pCi/L,0.05 pCi/L,5 pCi/L
+Wilmington Water Department,Total trihalomethanes (TTHMs)†,45.2 ppb,0.15 ppb,80 ppb
+Wilmington Water Department,Trichloroacetic acid,13.1 ppb,0.1 ppb,
+Wilmington Water Department,"1,4-Dioxane",0.0125 ppb,0.35 ppb,
+Wilmington Water Department,Atrazine,0.00517 ppb,0.1 ppb,3 ppb
+Wilmington Water Department,Barium,36.6 ppb,700 ppb,"2,000 ppb"
+Wilmington Water Department,Bromide,6.57 ppb,,
+Wilmington Water Department,Bromoform,0.0228 ppb,0.5 ppb,
+Wilmington Water Department,Chlorate,266.1 ppb,210 ppb,
+Wilmington Water Department,Chromium (total),0.563 ppb,,100 ppb
+Wilmington Water Department,Dalapon,0.399 ppb,,200 ppb
+Wilmington Water Department,Di(2-ethylhexyl) phthalate,0.0917 ppb,3 ppb,6 ppb
+Wilmington Water Department,Fluoride,0.765 ppm,,4 ppm
+Wilmington Water Department,Hexachlorocyclopentadiene,0.00963 ppb,2 ppb,50 ppb
+Wilmington Water Department,Manganese,3.26 ppb,100 ppb,
+Wilmington Water Department,Molybdenum,1.54 ppb,40 ppb,
+Wilmington Water Department,Monobromoacetic acid,0.0179 ppb,25 ppb,
+Wilmington Water Department,Monochloroacetic acid,1.85 ppb,53 ppb,
+Wilmington Water Department,Simazine,0.0120 ppb,0.1 ppb,4 ppb
+Wilmington Water Department,Strontium,0.128 ppb,"1,500 ppb",
+Wilmington Water Department,Vanadium,0.0638 ppb,21 ppb,
+Wilmington Water Department,None,,,
+Winterthur,Bromodichloromethane,1.47 ppb,0.06 ppb,
+Winterthur,Chloroform,1.57 ppb,0.4 ppb,
+Winterthur,Dibromochloromethane,1.24 ppb,0.1 ppb,
+Winterthur,Dichloroacetic acid,0.620 ppb,0.2 ppb,
+Winterthur,Haloacetic acids (HAA5)†,0.620 ppb,0.1 ppb,60 ppb
+Winterthur,Nitrate,0.863 ppm,0.14 ppm,10 ppm
+Winterthur,Nitrate and nitrite,0.863 ppm,0.14 ppm,10 ppm
+Winterthur,"Radium, combined (-226 &amp; -228)",0.31 pCi/L,0.05 pCi/L,5 pCi/L
+Winterthur,Total trihalomethanes (TTHMs)†,4.92 ppb,0.15 ppb,80 ppb
+Winterthur,Barium,18.6 ppb,700 ppb,"2,000 ppb"
+Winterthur,Manganese,18.9 ppb,100 ppb,
+Winterthur,None,,,
+Andover Water Department,Bromate,1.08 ppb,0.1 ppb,10 ppb
+Andover Water Department,Bromodichloromethane,3.63 ppb,0.06 ppb,
+Andover Water Department,Chloroform,2.56 ppb,0.4 ppb,
+Andover Water Department,Chromium (hexavalent),0.0599 ppb,0.02 ppb,
+Andover Water Department,Dibromochloromethane,2.54 ppb,0.1 ppb,
+Andover Water Department,Haloacetic acids (HAA5)†,2.92 ppb,0.1 ppb,60 ppb
+Andover Water Department,Haloacetic acids (HAA9)†,7.43 ppb,0.06 ppb,
+Andover Water Department,"Radium, combined (-226 &amp; -228)",0.67 pCi/L,0.05 pCi/L,5 pCi/L
+Andover Water Department,Total trihalomethanes (TTHMs)†,32.3 ppb,0.15 ppb,80 ppb
+Andover Water Department,"1,2-Dichloroethane",0.700 ppb,0.4 ppb,5 ppb
+Andover Water Department,Aluminum,103.5 ppb,600 ppb,
+Andover Water Department,Barium,3.40 ppb,700 ppb,"2,000 ppb"
+Andover Water Department,Bromide,51.3 ppb,,
+Andover Water Department,Bromoform,0.547 ppb,0.5 ppb,
+Andover Water Department,Chlorate,153.5 ppb,210 ppb,
+Andover Water Department,Fluoride,0.667 ppm,,4 ppm
+Andover Water Department,Manganese,31.9 ppb,100 ppb,
+Andover Water Department,Nitrate,0.0580 ppm,0.14 ppm,10 ppm
+Andover Water Department,Perchlorate,0.111 ppb,1 ppb,
+Andover Water Department,Strontium,0.0749 ppb,"1,500 ppb",
+Andover Water Department,Vanadium,0.348 ppb,21 ppb,
+Andover Water Department,None,,,
+Camden District,Bromochloroacetic acid,0.808 ppb,0.02 ppb,
+Camden District,Bromodichloromethane,3.37 ppb,0.06 ppb,
+Camden District,Chloroform,14.6 ppb,0.4 ppb,
+Camden District,Chromium (hexavalent),0.104 ppb,0.02 ppb,
+Camden District,Dibromochloromethane,0.628 ppb,0.1 ppb,
+Camden District,Dichloroacetic acid,5.09 ppb,0.2 ppb,
+Camden District,Haloacetic acids (HAA5)†,11.4 ppb,0.1 ppb,60 ppb
+Camden District,Haloacetic acids (HAA9)†,14.8 ppb,0.06 ppb,
+Camden District,"Radium, combined (-226 &amp; -228)",1.13 pCi/L,0.05 pCi/L,5 pCi/L
+Camden District,Total trihalomethanes (TTHMs)†,19.6 ppb,0.15 ppb,80 ppb
+Camden District,Trichloroacetic acid,6.20 ppb,0.1 ppb,
+Camden District,Chlorate,203.5 ppb,210 ppb,
+Camden District,Chromium (total),0.452 ppb,,100 ppb
+Camden District,Cyanide,19.5 ppb,,200 ppb
+Camden District,Fluoride,0.0720 ppm,,4 ppm
+Camden District,Manganese,4.05 ppb,100 ppb,
+Camden District,Monochloroacetic acid,0.0869 ppb,53 ppb,
+Camden District,Strontium,0.201 ppb,"1,500 ppb",
+Camden District,None,,,
+Smyrna Water Department,Bromochloroacetic acid,0.267 ppb,0.02 ppb,
+Smyrna Water Department,Bromodichloromethane,2.70 ppb,0.06 ppb,
+Smyrna Water Department,Bromoform,1.56 ppb,0.5 ppb,
+Smyrna Water Department,Chloroform,3.49 ppb,0.4 ppb,
+Smyrna Water Department,Chromium (hexavalent),0.286 ppb,0.02 ppb,
+Smyrna Water Department,Dibromoacetic acid,0.604 ppb,0.04 ppb,
+Smyrna Water Department,Dibromochloromethane,2.93 ppb,0.1 ppb,
+Smyrna Water Department,Dichloroacetic acid,0.694 ppb,0.2 ppb,
+Smyrna Water Department,Haloacetic acids (HAA5)†,1.35 ppb,0.1 ppb,60 ppb
+Smyrna Water Department,Haloacetic acids (HAA9)†,3.13 ppb,0.06 ppb,
+Smyrna Water Department,Nitrate,4.04 ppm,0.14 ppm,10 ppm
+Smyrna Water Department,Nitrate and nitrite,4.04 ppm,0.14 ppm,10 ppm
+Smyrna Water Department,"Radium, combined (-226 &amp; -228)",1.62 pCi/L,0.05 pCi/L,5 pCi/L
+Smyrna Water Department,Total trihalomethanes (TTHMs)†,11.3 ppb,0.15 ppb,80 ppb
+Smyrna Water Department,"1,4-Dioxane",0.110 ppb,0.35 ppb,
+Smyrna Water Department,Barium,89.8 ppb,700 ppb,"2,000 ppb"
+Smyrna Water Department,Chlordane,0.0488 ppb,0.03 ppb,2 ppb
+Smyrna Water Department,Chromium (total),0.193 ppb,,100 ppb
+Smyrna Water Department,Di(2-ethylhexyl) phthalate,0.104 ppb,3 ppb,6 ppb
+Smyrna Water Department,Dieldrin,0.0121 ppb,,
+Smyrna Water Department,Fluoride,0.908 ppm,,4 ppm
+Smyrna Water Department,Manganese,8.79 ppb,100 ppb,
+Smyrna Water Department,Metolachlor,0.00820 ppb,,
+Smyrna Water Department,Monochloroacetic acid,0.0273 ppb,53 ppb,
+Smyrna Water Department,Selenium,0.838 ppb,30 ppb,50 ppb
+Smyrna Water Department,Strontium,0.136 ppb,"1,500 ppb",
+Smyrna Water Department,Trichloroacetic acid,0.0273 ppb,0.1 ppb,
+Smyrna Water Department,Xylenes (total),0.00594 ppb,"1,800 ppb","10,000 ppb"
+Smyrna Water Department,None,,,
+Milford Water Department,Bromochloroacetic acid,1.40 ppb,0.02 ppb,
+Milford Water Department,Bromodichloromethane,2.24 ppb,0.06 ppb,
+Milford Water Department,Chloroform,8.11 ppb,0.4 ppb,
+Milford Water Department,Dibromoacetic acid,0.303 ppb,0.04 ppb,
+Milford Water Department,Dibromochloromethane,0.646 ppb,0.1 ppb,
+Milford Water Department,Dichloroacetic acid,3.97 ppb,0.2 ppb,
+Milford Water Department,Haloacetic acids (HAA5)†,6.33 ppb,0.1 ppb,60 ppb
+Milford Water Department,"Radium, combined (-226 &amp; -228)",0.50 pCi/L,0.05 pCi/L,5 pCi/L
+Milford Water Department,Total trihalomethanes (TTHMs)†,18.6 ppb,0.15 ppb,80 ppb
+Milford Water Department,Trichloroacetic acid,1.82 ppb,0.1 ppb,
+Milford Water Department,Barium,0.925 ppb,700 ppb,"2,000 ppb"
+Milford Water Department,Fluoride,0.747 ppm,,4 ppm
+Milford Water Department,Manganese,20.8 ppb,100 ppb,
+Milford Water Department,Monochloroacetic acid,0.225 ppb,53 ppb,
+Milford Water Department,Xylenes (total),0.0700 ppb,"1,800 ppb","10,000 ppb"
+Milford Water Department,None,,,
+Garrison Lake Pump District,Bromodichloromethane,1.97 ppb,0.06 ppb,
+Garrison Lake Pump District,Cadmium,0.200 ppb,0.04 ppb,5 ppb
+Garrison Lake Pump District,Chloroform,3.65 ppb,0.4 ppb,
+Garrison Lake Pump District,Dibromoacetic acid,0.177 ppb,0.04 ppb,
+Garrison Lake Pump District,Dibromochloromethane,1.21 ppb,0.1 ppb,
+Garrison Lake Pump District,Dichloroacetic acid,2.16 ppb,0.2 ppb,
+Garrison Lake Pump District,Haloacetic acids (HAA5)†,4.51 ppb,0.1 ppb,60 ppb
+Garrison Lake Pump District,Nitrate,5.14 ppm,0.14 ppm,10 ppm
+Garrison Lake Pump District,Nitrate and nitrite,5.12 ppm,0.14 ppm,10 ppm
+Garrison Lake Pump District,"Radium, combined (-226 &amp; -228)",0.64 pCi/L,0.05 pCi/L,5 pCi/L
+Garrison Lake Pump District,Total trihalomethanes (TTHMs)†,13.7 ppb,0.15 ppb,80 ppb
+Garrison Lake Pump District,Trichloroacetic acid,2.17 ppb,0.1 ppb,
+Garrison Lake Pump District,Barium,36.8 ppb,700 ppb,"2,000 ppb"
+Garrison Lake Pump District,Bromoform,0.146 ppb,0.5 ppb,
+Garrison Lake Pump District,Chromium (total),0.300 ppb,,100 ppb
+Garrison Lake Pump District,Fluoride,0.0314 ppm,,4 ppm
+Garrison Lake Pump District,Manganese,9.30 ppb,100 ppb,
+Garrison Lake Pump District,Metolachlor,0.0795 ppb,,
+Garrison Lake Pump District,Pentachlorophenol,0.0933 ppb,0.3 ppb,1 ppb
+Garrison Lake Pump District,Selenium,0.517 ppb,30 ppb,50 ppb
+Garrison Lake Pump District,Xylenes (total),0.511 ppb,"1,800 ppb","10,000 ppb"
+Garrison Lake Pump District,None,,,
+Dover Air Force Base,Bromodichloromethane,7.70 ppb,0.06 ppb,
+Dover Air Force Base,Chloroform,21.6 ppb,0.4 ppb,
+Dover Air Force Base,Dibromochloromethane,1.57 ppb,0.1 ppb,
+Dover Air Force Base,Dichloroacetic acid,5.39 ppb,0.2 ppb,
+Dover Air Force Base,Haloacetic acids (HAA5)†,11.5 ppb,0.1 ppb,60 ppb
+Dover Air Force Base,"Radium, combined (-226 &amp; -228)",0.29 pCi/L,0.05 pCi/L,5 pCi/L
+Dover Air Force Base,Total trihalomethanes (TTHMs)†,31.5 ppb,0.15 ppb,80 ppb
+Dover Air Force Base,Trichloroacetic acid,5.79 ppb,0.1 ppb,
+Dover Air Force Base,Beryllium,0.415 ppb,1 ppb,4 ppb
+Dover Air Force Base,Fluoride,0.855 ppm,,4 ppm
+Dover Air Force Base,Manganese,17.5 ppb,100 ppb,
+Dover Air Force Base,Monochloroacetic acid,0.312 ppb,53 ppb,
+Dover Air Force Base,Xylenes (total),0.0786 ppb,"1,800 ppb","10,000 ppb"
+Dover Air Force Base,None,,,
+Church Creek,Bromodichloromethane,1.90 ppb,0.06 ppb,
+Church Creek,Chloroform,11.4 ppb,0.4 ppb,
+Church Creek,Dichloroacetic acid,4.84 ppb,0.2 ppb,
+Church Creek,Haloacetic acids (HAA5)†,9.24 ppb,0.1 ppb,60 ppb
+Church Creek,"Radium, combined (-226 &amp; -228)",0.13 pCi/L,0.05 pCi/L,5 pCi/L
+Church Creek,Total trihalomethanes (TTHMs)†,20.0 ppb,0.15 ppb,80 ppb
+Church Creek,Trichloroacetic acid,4.40 ppb,0.1 ppb,
+Church Creek,Aluminum,0.565 ppb,600 ppb,
+Church Creek,Chromium (total),0.0417 ppb,,100 ppb
+Church Creek,Di(2-ethylhexyl) phthalate,0.0237 ppb,3 ppb,6 ppb
+Church Creek,Di-n-butyl phthalate,0.164 ppb,,
+Church Creek,Dibromochloromethane,0.129 ppb,0.1 ppb,
+Church Creek,Fluoride,0.0151 ppm,,4 ppm
+Church Creek,Manganese,40.0 ppb,100 ppb,
+Church Creek,Silver,0.125 ppb,,
+Church Creek,None,,,
+Clayton Water Department,Arsenic,5.34 ppb,0.004 ppb,10 ppb
+Clayton Water Department,Bromodichloromethane,0.604 ppb,0.06 ppb,
+Clayton Water Department,Chloroform,2.19 ppb,0.4 ppb,
+Clayton Water Department,Dibromochloromethane,0.243 ppb,0.1 ppb,
+Clayton Water Department,Dichloroacetic acid,0.421 ppb,0.2 ppb,
+Clayton Water Department,Haloacetic acids (HAA5)†,0.501 ppb,0.1 ppb,60 ppb
+Clayton Water Department,"Radium, combined (-226 &amp; -228)",0.51 pCi/L,0.05 pCi/L,5 pCi/L
+Clayton Water Department,Total trihalomethanes (TTHMs)†,3.52 ppb,0.15 ppb,80 ppb
+Clayton Water Department,Barium,17.6 ppb,700 ppb,"2,000 ppb"
+Clayton Water Department,Bromoform,0.131 ppb,0.5 ppb,
+Clayton Water Department,Chromium (total),1.04 ppb,,100 ppb
+Clayton Water Department,Di(2-ethylhexyl) phthalate,0.125 ppb,3 ppb,6 ppb
+Clayton Water Department,Fluoride,0.850 ppm,,4 ppm
+Clayton Water Department,Manganese,5.70 ppb,100 ppb,
+Clayton Water Department,Trichloroacetic acid,0.0800 ppb,0.1 ppb,
+Clayton Water Department,Vanadium,0.111 ppb,21 ppb,
+Clayton Water Department,None,,,
+Camden Wyoming Sewer and Water Authority,Arsenic,1.03 ppb,0.004 ppb,10 ppb
+Camden Wyoming Sewer and Water Authority,Bromodichloromethane,2.00 ppb,0.06 ppb,
+Camden Wyoming Sewer and Water Authority,Chloroform,8.58 ppb,0.4 ppb,
+Camden Wyoming Sewer and Water Authority,Dibromochloromethane,0.456 ppb,0.1 ppb,
+Camden Wyoming Sewer and Water Authority,Dichloroacetic acid,3.99 ppb,0.2 ppb,
+Camden Wyoming Sewer and Water Authority,Haloacetic acids (HAA5)†,8.26 ppb,0.1 ppb,60 ppb
+Camden Wyoming Sewer and Water Authority,"Radium, combined (-226 &amp; -228)",0.64 pCi/L,0.05 pCi/L,5 pCi/L
+Camden Wyoming Sewer and Water Authority,Total trihalomethanes (TTHMs)†,20.1 ppb,0.15 ppb,80 ppb
+Camden Wyoming Sewer and Water Authority,Trichloroacetic acid,4.27 ppb,0.1 ppb,
+Camden Wyoming Sewer and Water Authority,Barium,0.367 ppb,700 ppb,"2,000 ppb"
+Camden Wyoming Sewer and Water Authority,Cyanide,34.0 ppb,,200 ppb
+Camden Wyoming Sewer and Water Authority,Dichloromethane (methylene chloride),0.0338 ppb,4 ppb,5 ppb
+Camden Wyoming Sewer and Water Authority,Fluoride,0.349 ppm,,4 ppm
+Camden Wyoming Sewer and Water Authority,Manganese,33.9 ppb,100 ppb,
+Camden Wyoming Sewer and Water Authority,Nitrate,0.0477 ppm,0.14 ppm,10 ppm
+Camden Wyoming Sewer and Water Authority,Nitrate and nitrite,0.0483 ppm,0.14 ppm,10 ppm
+Camden Wyoming Sewer and Water Authority,Nitrite,0.000541 ppm,,1 ppm
+Camden Wyoming Sewer and Water Authority,Xylenes (total),0.0888 ppb,"1,800 ppb","10,000 ppb"
+Camden Wyoming Sewer and Water Authority,None,,,
+Harrington Water Department,Bromodichloromethane,1.43 ppb,0.06 ppb,
+Harrington Water Department,Chloroform,6.70 ppb,0.4 ppb,
+Harrington Water Department,Dichloroacetic acid,2.51 ppb,0.2 ppb,
+Harrington Water Department,Haloacetic acids (HAA5)†,5.01 ppb,0.1 ppb,60 ppb
+Harrington Water Department,Total trihalomethanes (TTHMs)†,10.7 ppb,0.15 ppb,80 ppb
+Harrington Water Department,Trichloroacetic acid,2.50 ppb,0.1 ppb,
+Harrington Water Department,Bromoform,0.104 ppb,0.5 ppb,
+Harrington Water Department,Dibromochloromethane,0.151 ppb,0.1 ppb,
+Harrington Water Department,Fluoride,0.404 ppm,,4 ppm
+Harrington Water Department,None,,,
+Bethany Bay Ocean View,Arsenic,0.314 ppb,0.004 ppb,10 ppb
+Bethany Bay Ocean View,Bromochloroacetic acid,1.15 ppb,0.02 ppb,
+Bethany Bay Ocean View,Bromodichloromethane,5.30 ppb,0.06 ppb,
+Bethany Bay Ocean View,Chloroform,10.4 ppb,0.4 ppb,
+Bethany Bay Ocean View,Dibromoacetic acid,1.66 ppb,0.04 ppb,
+Bethany Bay Ocean View,Dibromochloromethane,2.72 ppb,0.1 ppb,
+Bethany Bay Ocean View,Dichloroacetic acid,8.37 ppb,0.2 ppb,
+Bethany Bay Ocean View,Haloacetic acids (HAA5)†,19.4 ppb,0.1 ppb,60 ppb
+Bethany Bay Ocean View,Nitrate,2.89 ppm,0.14 ppm,10 ppm
+Bethany Bay Ocean View,Nitrate and nitrite,2.89 ppm,0.14 ppm,10 ppm
+Bethany Bay Ocean View,"Radium, combined (-226 &amp; -228)",1.07 pCi/L,0.05 pCi/L,5 pCi/L
+Bethany Bay Ocean View,Total trihalomethanes (TTHMs)†,23.6 ppb,0.15 ppb,80 ppb
+Bethany Bay Ocean View,Trichloroacetic acid,8.30 ppb,0.1 ppb,
+Bethany Bay Ocean View,"2,4-D",0.00474 ppb,20 ppb,70 ppb
+Bethany Bay Ocean View,Barium,51.0 ppb,700 ppb,"2,000 ppb"
+Bethany Bay Ocean View,Bromoform,0.726 ppb,0.5 ppb,
+Bethany Bay Ocean View,Chloromethane,0.104 ppb,2.69 ppb,
+Bethany Bay Ocean View,Chromium (total),0.821 ppb,,100 ppb
+Bethany Bay Ocean View,DCPA mono- and di-acid degradates,0.400 ppb,,
+Bethany Bay Ocean View,Fluoride,0.0148 ppm,,4 ppm
+Bethany Bay Ocean View,Manganese,2.96 ppb,100 ppb,
+Bethany Bay Ocean View,Monobromoacetic acid,0.0265 ppb,25 ppb,
+Bethany Bay Ocean View,Monochloroacetic acid,1.07 ppb,53 ppb,
+Bethany Bay Ocean View,Pentachlorophenol,0.00168 ppb,0.3 ppb,1 ppb
+Bethany Bay Ocean View,Selenium,0.160 ppb,30 ppb,50 ppb
+Bethany Bay Ocean View,Xylenes (total),0.00718 ppb,"1,800 ppb","10,000 ppb"
+Bethany Bay Ocean View,None,,,
+Rehoboth District,Bromodichloromethane,0.666 ppb,0.06 ppb,
+Rehoboth District,Chromium (hexavalent),0.707 ppb,0.02 ppb,
+Rehoboth District,Dibromochloromethane,1.14 ppb,0.1 ppb,
+Rehoboth District,Haloacetic acids (HAA9)†,0.959 ppb,0.06 ppb,
+Rehoboth District,Nitrate,2.94 ppm,0.14 ppm,10 ppm
+Rehoboth District,Nitrate and nitrite,2.94 ppm,0.14 ppm,10 ppm
+Rehoboth District,"Radium, combined (-226 &amp; -228)",0.60 pCi/L,0.05 pCi/L,5 pCi/L
+Rehoboth District,Thallium,0.242 ppb,0.1 ppb,2 ppb
+Rehoboth District,Total trihalomethanes (TTHMs)†,3.24 ppb,0.15 ppb,80 ppb
+Rehoboth District,Barium,75.2 ppb,700 ppb,"2,000 ppb"
+Rehoboth District,Beryllium,0.0358 ppb,1 ppb,4 ppb
+Rehoboth District,Bromoform,0.563 ppb,0.5 ppb,
+Rehoboth District,Cadmium,0.0453 ppb,0.04 ppb,5 ppb
+Rehoboth District,Chlorate,114.5 ppb,210 ppb,
+Rehoboth District,Chlorodifluoromethane,0.0517 ppb,,
+Rehoboth District,Chloroform,0.377 ppb,0.4 ppb,
+Rehoboth District,Chromium (total),0.606 ppb,,100 ppb
+Rehoboth District,Cobalt,0.488 ppb,70 ppb,
+Rehoboth District,DCPA mono- and di-acid degradates,0.0529 ppb,,
+Rehoboth District,Di(2-ethylhexyl) adipate,0.00379 ppb,200 ppb,400 ppb
+Rehoboth District,Di(2-ethylhexyl) phthalate,0.0338 ppb,3 ppb,6 ppb
+Rehoboth District,Dibromoacetic acid,0.0464 ppb,0.04 ppb,
+Rehoboth District,Dichloroacetic acid,0.0125 ppb,0.2 ppb,
+Rehoboth District,Haloacetic acids (HAA5)†,0.0589 ppb,0.1 ppb,60 ppb
+Rehoboth District,Manganese,12.5 ppb,100 ppb,
+Rehoboth District,Selenium,0.393 ppb,30 ppb,50 ppb
+Rehoboth District,Strontium,0.0748 ppb,"1,500 ppb",
+Rehoboth District,Vanadium,0.442 ppb,21 ppb,
+Rehoboth District,None,,,
+Rehoboth Beach Water Department,Bromodichloromethane,0.591 ppb,0.06 ppb,
+Rehoboth Beach Water Department,Bromoform,2.36 ppb,0.5 ppb,
+Rehoboth Beach Water Department,Dibromochloromethane,1.78 ppb,0.1 ppb,
+Rehoboth Beach Water Department,Haloacetic acids (HAA5)†,0.317 ppb,0.1 ppb,60 ppb
+Rehoboth Beach Water Department,Nitrate,5.87 ppm,0.14 ppm,10 ppm
+Rehoboth Beach Water Department,Nitrate and nitrite,5.87 ppm,0.14 ppm,10 ppm
+Rehoboth Beach Water Department,"Radium, combined (-226 &amp; -228)",0.78 pCi/L,0.05 pCi/L,5 pCi/L
+Rehoboth Beach Water Department,Total trihalomethanes (TTHMs)†,10.5 ppb,0.15 ppb,80 ppb
+Rehoboth Beach Water Department,Atrazine,0.0300 ppb,0.1 ppb,3 ppb
+Rehoboth Beach Water Department,Barium,104.2 ppb,700 ppb,"2,000 ppb"
+Rehoboth Beach Water Department,Chloroform,0.0720 ppb,0.4 ppb,
+Rehoboth Beach Water Department,Di(2-ethylhexyl) adipate,0.0540 ppb,200 ppb,400 ppb
+Rehoboth Beach Water Department,Di(2-ethylhexyl) phthalate,0.1000 ppb,3 ppb,6 ppb
+Rehoboth Beach Water Department,Fluoride,0.324 ppm,,4 ppm
+Rehoboth Beach Water Department,Metolachlor,0.0420 ppb,,
+Rehoboth Beach Water Department,Monochloroacetic acid,0.475 ppb,53 ppb,
+Rehoboth Beach Water Department,Selenium,1.22 ppb,30 ppb,50 ppb
+Rehoboth Beach Water Department,None,,,
+Dewey Beach Water Department,Bromodichloromethane,5.83 ppb,0.06 ppb,
+Dewey Beach Water Department,Bromoform,4.96 ppb,0.5 ppb,
+Dewey Beach Water Department,Chloroform,11.7 ppb,0.4 ppb,
+Dewey Beach Water Department,Dibromoacetic acid,1.90 ppb,0.04 ppb,
+Dewey Beach Water Department,Dibromochloromethane,5.62 ppb,0.1 ppb,
+Dewey Beach Water Department,Dichloroacetic acid,1.33 ppb,0.2 ppb,
+Dewey Beach Water Department,Haloacetic acids (HAA5)†,2.88 ppb,0.1 ppb,60 ppb
+Dewey Beach Water Department,Nitrate,5.09 ppm,0.14 ppm,10 ppm
+Dewey Beach Water Department,Nitrate and nitrite,5.09 ppm,0.14 ppm,10 ppm
+Dewey Beach Water Department,"Radium, combined (-226 &amp; -228)*",0.78 pCi/L,0.05 pCi/L,5 pCi/L
+Dewey Beach Water Department,Total trihalomethanes (TTHMs)†,22.1 ppb,0.15 ppb,80 ppb
+Dewey Beach Water Department,Trichloroacetic acid,0.798 ppb,0.1 ppb,
+Dewey Beach Water Department,Atrazine*,0.0300 ppb,0.1 ppb,3 ppb
+Dewey Beach Water Department,Barium*,104.2 ppb,700 ppb,"2,000 ppb"
+Dewey Beach Water Department,Di(2-ethylhexyl) adipate*,0.0540 ppb,200 ppb,400 ppb
+Dewey Beach Water Department,Di(2-ethylhexyl) phthalate*,0.1000 ppb,3 ppb,6 ppb
+Dewey Beach Water Department,Fluoride,0.400 ppm,,4 ppm
+Dewey Beach Water Department,Metolachlor*,0.0420 ppb,,
+Dewey Beach Water Department,Monochloroacetic acid*,0.475 ppb,53 ppb,
+Dewey Beach Water Department,Selenium*,1.22 ppb,30 ppb,50 ppb
+Dewey Beach Water Department,None,,,
+South Bethany,Arsenic,0.177 ppb,0.004 ppb,10 ppb
+South Bethany,Bromodichloromethane,15.4 ppb,0.06 ppb,
+South Bethany,Chloroform,30.3 ppb,0.4 ppb,
+South Bethany,Chromium (hexavalent),0.0813 ppb,0.02 ppb,
+South Bethany,Dibromoacetic acid,0.724 ppb,0.04 ppb,
+South Bethany,Dibromochloromethane,5.42 ppb,0.1 ppb,
+South Bethany,Dichloroacetic acid,10.2 ppb,0.2 ppb,
+South Bethany,Haloacetic acids (HAA5)†,25.7 ppb,0.1 ppb,60 ppb
+South Bethany,"Radium, combined (-226 &amp; -228)",1.05 pCi/L,0.05 pCi/L,5 pCi/L
+South Bethany,Total trihalomethanes (TTHMs)†,54.2 ppb,0.15 ppb,80 ppb
+South Bethany,Trichloroacetic acid,14.8 ppb,0.1 ppb,
+South Bethany,"1,2,3-Trichloropropane",0.00135 ppb,0.0007 ppb,
+South Bethany,Acetone,1.33 ppb,,
+South Bethany,Aluminum,1.77 ppb,600 ppb,
+South Bethany,Barium,17.4 ppb,700 ppb,"2,000 ppb"
+South Bethany,Bromoform,0.0371 ppb,0.5 ppb,
+South Bethany,Carbon tetrachloride,0.0669 ppb,0.1 ppb,5 ppb
+South Bethany,Chlorate,33.4 ppb,210 ppb,
+South Bethany,Chromium (total),0.0571 ppb,,100 ppb
+South Bethany,Di(2-ethylhexyl) phthalate,0.0265 ppb,3 ppb,6 ppb
+South Bethany,Di-n-butyl phthalate,0.105 ppb,,
+South Bethany,Fluoride,0.582 ppm,,4 ppm
+South Bethany,Manganese,17.1 ppb,100 ppb,
+South Bethany,Nitrate,0.0247 ppm,0.14 ppm,10 ppm
+South Bethany,Nitrate and nitrite,0.0247 ppm,0.14 ppm,10 ppm
+South Bethany,Selenium,0.192 ppb,30 ppb,50 ppb
+South Bethany,Strontium,0.120 ppb,"1,500 ppb",
+South Bethany,None,,,
+Sussex Shores Water Company,Bromodichloromethane,2.19 ppb,0.06 ppb,
+Sussex Shores Water Company,Bromoform,5.49 ppb,0.5 ppb,
+Sussex Shores Water Company,Chloroform,1.65 ppb,0.4 ppb,
+Sussex Shores Water Company,Dibromoacetic acid,2.25 ppb,0.04 ppb,
+Sussex Shores Water Company,Dibromochloromethane,4.47 ppb,0.1 ppb,
+Sussex Shores Water Company,Dichloroacetic acid,0.897 ppb,0.2 ppb,
+Sussex Shores Water Company,Haloacetic acids (HAA5)†,3.93 ppb,0.1 ppb,60 ppb
+Sussex Shores Water Company,Nitrate,3.73 ppm,0.14 ppm,10 ppm
+Sussex Shores Water Company,Nitrate and nitrite,3.73 ppm,0.14 ppm,10 ppm
+Sussex Shores Water Company,Total trihalomethanes (TTHMs)†,4.12 ppb,0.15 ppb,80 ppb
+Sussex Shores Water Company,Trichloroacetic acid,0.780 ppb,0.1 ppb,
+Sussex Shores Water Company,Fluoride,0.0150 ppm,,4 ppm
+Sussex Shores Water Company,Xylenes (total),0.120 ppb,"1,800 ppb","10,000 ppb"
+Sussex Shores Water Company,None,,,
+Bethany Beach Water Department,Bromochloroacetic acid,3.28 ppb,0.02 ppb,
+Bethany Beach Water Department,Bromodichloromethane,9.60 ppb,0.06 ppb,
+Bethany Beach Water Department,Chloroform,22.6 ppb,0.4 ppb,
+Bethany Beach Water Department,Dibromoacetic acid,0.157 ppb,0.04 ppb,
+Bethany Beach Water Department,Dibromochloromethane,1.97 ppb,0.1 ppb,
+Bethany Beach Water Department,Dichloroacetic acid,9.65 ppb,0.2 ppb,
+Bethany Beach Water Department,Haloacetic acids (HAA5)†,21.6 ppb,0.1 ppb,60 ppb
+Bethany Beach Water Department,"Radium, combined (-226 &amp; -228)",2.10 pCi/L,0.05 pCi/L,5 pCi/L
+Bethany Beach Water Department,Total trihalomethanes (TTHMs)†,34.4 ppb,0.15 ppb,80 ppb
+Bethany Beach Water Department,Trichloroacetic acid,11.6 ppb,0.1 ppb,
+Bethany Beach Water Department,Antimony,1.02 ppb,1 ppb,6 ppb
+Bethany Beach Water Department,Barium,20.9 ppb,700 ppb,"2,000 ppb"
+Bethany Beach Water Department,Bromoform,0.0158 ppb,0.5 ppb,
+Bethany Beach Water Department,Cyanide,83.0 ppb,,200 ppb
+Bethany Beach Water Department,Fluoride,1.03 ppm,,4 ppm
+Bethany Beach Water Department,Monobromoacetic acid,0.0200 ppb,25 ppb,
+Bethany Beach Water Department,Monochloroacetic acid,0.327 ppb,53 ppb,
+Bethany Beach Water Department,Nitrate,0.00801 ppm,0.14 ppm,10 ppm
+Bethany Beach Water Department,Nitrate and nitrite,0.00801 ppm,0.14 ppm,10 ppm
+Bethany Beach Water Department,None,,,
+Long Neck Water Company,Bromodichloromethane,0.389 ppb,0.06 ppb,
+Long Neck Water Company,Chloroform,1.33 ppb,0.4 ppb,
+Long Neck Water Company,Dibromochloromethane,0.717 ppb,0.1 ppb,
+Long Neck Water Company,Nitrate,2.78 ppm,0.14 ppm,10 ppm
+Long Neck Water Company,Nitrate and nitrite,2.78 ppm,0.14 ppm,10 ppm
+Long Neck Water Company,"Radium, combined (-226 &amp; -228)",0.67 pCi/L,0.05 pCi/L,5 pCi/L
+Long Neck Water Company,Total trihalomethanes (TTHMs)†,3.03 ppb,0.15 ppb,80 ppb
+Long Neck Water Company,Barium,63.7 ppb,700 ppb,"2,000 ppb"
+Long Neck Water Company,Bromoform,0.147 ppb,0.5 ppb,
+Long Neck Water Company,Chromium (total),0.806 ppb,,100 ppb
+Long Neck Water Company,Dacthal,0.550 ppb,,
+Long Neck Water Company,Manganese,5.98 ppb,100 ppb,
+Long Neck Water Company,Mercury (inorganic),0.0465 ppb,1.2 ppb,2 ppb
+Long Neck Water Company,Selenium,0.315 ppb,30 ppb,50 ppb
+Long Neck Water Company,Vanadium,0.217 ppb,21 ppb,
+Long Neck Water Company,None,,,
+Meadow District,Bromodichloromethane,0.886 ppb,0.06 ppb,
+Meadow District,Dibromoacetic acid,0.196 ppb,0.04 ppb,
+Meadow District,Dibromochloromethane,1.13 ppb,0.1 ppb,
+Meadow District,Nitrate,4.50 ppm,0.14 ppm,10 ppm
+Meadow District,Nitrate and nitrite,4.50 ppm,0.14 ppm,10 ppm
+Meadow District,Total trihalomethanes (TTHMs)†,4.62 ppb,0.15 ppb,80 ppb
+Meadow District,Barium,86.1 ppb,700 ppb,"2,000 ppb"
+Meadow District,Bromoform,0.465 ppb,0.5 ppb,
+Meadow District,Butyl benzyl phthalate,0.0283 ppb,,
+Meadow District,Chloroform,0.472 ppb,0.4 ppb,
+Meadow District,Chromium (total),0.720 ppb,,100 ppb
+Meadow District,Di(2-ethylhexyl) adipate,0.00324 ppb,200 ppb,400 ppb
+Meadow District,Di(2-ethylhexyl) phthalate,0.171 ppb,3 ppb,6 ppb
+Meadow District,Haloacetic acids (HAA5)†,0.196 ppb,0.1 ppb,60 ppb
+Meadow District,Manganese,3.83 ppb,100 ppb,
+Meadow District,Xylenes (total),0.0291 ppb,"1,800 ppb","10,000 ppb"
+Meadow District,None,,,
+Lewes Board Of Public Works,Bromodichloromethane,2.28 ppb,0.06 ppb,
+Lewes Board Of Public Works,Bromoform,6.10 ppb,0.5 ppb,
+Lewes Board Of Public Works,Dibromoacetic acid,0.803 ppb,0.04 ppb,
+Lewes Board Of Public Works,Dibromochloromethane,5.08 ppb,0.1 ppb,
+Lewes Board Of Public Works,Haloacetic acids (HAA5)†,0.803 ppb,0.1 ppb,60 ppb
+Lewes Board Of Public Works,Nitrate,5.65 ppm,0.14 ppm,10 ppm
+Lewes Board Of Public Works,Nitrate and nitrite,5.65 ppm,0.14 ppm,10 ppm
+Lewes Board Of Public Works,"Radium, combined (-226 &amp; -228)",0.88 pCi/L,0.05 pCi/L,5 pCi/L
+Lewes Board Of Public Works,Total trihalomethanes (TTHMs)†,19.9 ppb,0.15 ppb,80 ppb
+Lewes Board Of Public Works,Atrazine,0.0280 ppb,0.1 ppb,3 ppb
+Lewes Board Of Public Works,Chloroform,0.750 ppb,0.4 ppb,
+Lewes Board Of Public Works,Fluoride,0.892 ppm,,4 ppm
+Lewes Board Of Public Works,Nitrite,0.00133 ppm,,1 ppm
+Lewes Board Of Public Works,None,,,
+City of Cambridge,Arsenic,1.16 ppb,0.004 ppb,10 ppb
+City of Cambridge,Haloacetic acids (HAA5)†,3.65 ppb,0.1 ppb,60 ppb
+City of Cambridge,Haloacetic acids (HAA9)†,4.70 ppb,0.06 ppb,
+City of Cambridge,Total trihalomethanes (TTHMs)†,12.8 ppb,0.15 ppb,80 ppb
+City of Cambridge,Chloroform,0.510 ppb,0.4 ppb,
+City of Cambridge,Fluoride,0.915 ppm,,4 ppm
+City of Cambridge,Manganese,3.93 ppb,100 ppb,
+City of Cambridge,Molybdenum,2.88 ppb,40 ppb,
+City of Cambridge,Strontium,0.0305 ppb,"1,500 ppb",
+City of Cambridge,None,,,

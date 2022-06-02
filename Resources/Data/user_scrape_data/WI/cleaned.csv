@@ -1,0 +1,526 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+WI,53001,Bains Country Estates Mobile Home Park,200,908,55117
+WI,53001,Cascade Waterworks,703,308,55117
+WI,53001,Elkhart Lake Waterworks,997,479,55117
+WI,53001,Glenbeulah Waterworks,456,222,55117
+WI,53001,Kettle Moraine Correctional Institution,1544,622,55117
+WI,53001,Kohler Waterworks,2114,1065,55117
+WI,53001,Lakeland University,800,1371,55117
+WI,53001,Oostburg Waterworks,2942,1473,55117
+WI,53001,Plymouth Utilities,8477,505,55117
+WI,53001,Random Lake Waterworks,1576,369,55117
+WI,53001,Rocky Knoll Health Care Fac,154,191,55117
+WI,53001,Sheboygan Falls Utilities,7837,1090,55117
+WI,53001,Sheboygan Tn Waterworks,4008,932,55117
+WI,53001,Sheboygan Water Utilities,49288,947,55117
+WI,53001,Waldo Waterworks,452,85,55117
+WI,53002,Hartford Waterworks,15384,358,55131
+WI,53002,Waupun Utilities,11340,169,55131
+WI,53003,Breezy Point Mobile Home Park 1,25,107,55027
+WI,53003,Clyman Waterworks,422,1002,55027
+WI,53003,Fox Lake Correctional Institution,1350,1558,55027
+WI,53003,Fox Lake Waterworks,1512,181,55027
+WI,53003,Horicon Waterworks,3682,245,55027
+WI,53003,Hustisford Waterworks,1151,632,55027
+WI,53003,Iron Ridge Waterworks,937,455,55027
+WI,53003,Juneau Waterworks,2627,112,55027
+WI,53003,Leroy Sanitary District 1,320,403,55027
+WI,53003,Lithostone Meadows,167,261,55027
+WI,53003,Lomira Waterworks,2461,415,55027
+WI,53003,Lowell Waterworks,337,292,55027
+WI,53003,Maple Grove Mobile Home Park,120,396,55027
+WI,53003,Marshview Terrace,40,137,55027
+WI,53003,Mayville Waterworks,5061,102,55027
+WI,53003,Reeseville Waterworks,707,26,55027
+WI,53003,Sunnyside Estates,130,63,55027
+WI,53003,Theresa Waterworks,1262,211,55027
+WI,53003,Waupun Correctional Inst,4901,228,55027
+WI,53004,Cedarburg L & W Commission,11900,525,55089
+WI,53004,Port Washington Waterworks,11762,1062,55089
+WI,53004,Grafton Waterworks,11745,666,55089
+WI,53004,Mequon Water Utility,11152,221,55089
+WI,53004,Saukville Waterworks,4465,1014,55089
+WI,53005,Waukesha Water Utility,70718,564,55133
+WI,53005,New Berlin Water Utility,27899,362,55133
+WI,53005,Hartland Waterworks,9212,176,55133
+WI,53005,Pewaukee City Water and Sewer Utility,8671,574,55133
+WI,53005,Pewaukee Village Waterworks,8166,210,55133
+WI,53006,Ripon Water Utility,7241,634,55027
+WI,53010,Jackson Waterworks,7803,1386,55039
+WI,53012,Slinger Water Utility,4569,1139,55089
+WI,53019,Ashwood Grove 1,62,976,55039
+WI,53019,Elmore Heights Trailer Court,30,198,55039
+WI,53019,Fond Du Lac Tn Water Utility,700,1059,55039
+WI,53019,Mary Hill Park Sanitary District,88,288,55039
+WI,53022,Cedar Lake Home 5,330,599,55131
+WI,53022,Reflections Village,47,668,55131
+WI,53022,Voigts Lakeside Estates,54,55,55131
+WI,53022,Wheel Estates Mobile Home Park,160,25,55131
+WI,53038,Autumn Ridge Water System Llc,575,1382,55055
+WI,53038,Hickory Hill Park Llc,31,781,55055
+WI,53038,Lake Mills Waterworks,5780,240,55055
+WI,53038,Oak Ridge Mobile Com 1 & 2,133,149,55055
+WI,53038,Palmyra Waterworks,1774,193,55055
+WI,53038,Parkview Apartments,40,755,55055
+WI,53038,River Valley Apts - North,48,2530,55055
+WI,53038,Rock River Mobile Home Park,30,9,55055
+WI,53038,Spacious Acres Mobile Hm Community,525,532,55055
+WI,53038,Stanton Place I,64,632,55055
+WI,53038,Tremain Mobile Home Park,475,1278,55055
+WI,53038,Waterloo Waterworks,3311,227,55055
+WI,53038,Wolfs Mobile Homes,40,56,55055
+WI,53049,Harrison Utilities - Fka Waverly SD,5500,1216,55039
+WI,53049,Chilton Waterworks,3933,1107,55039
+WI,53063,Chiara Convent,40,431,55071
+WI,53063,Holy Family Convent,195,4,55071
+WI,53063,Kellnersville Waterworks,400,206,55071
+WI,53063,Kiel Waterworks,3630,731,55071
+WI,53063,Maribel Waterworks,400,199,55071
+WI,53063,Mishicot Waterworks,1422,1288,55071
+WI,53063,Quiet Country Community Association,90,12,55071
+WI,53063,Reedsville Waterworks,1200,648,55071
+WI,53063,St Nazianz Waterworks,783,309,55071
+WI,53063,Valders Waterworks,958,251,55071
+WI,53063,Whitelaw Waterworks,757,225,55071
+WI,53079,New Holstein Waterworks,3213,268,55039
+WI,53088,Brillion Waterworks,3148,487,55015
+WI,53088,Country Aire Mobile Home Court Llc,98,282,55015
+WI,53088,Forest Junction Pub Util,320,551,55015
+WI,53088,Sherwood Waterworks,3114,1139,55015
+WI,53104,425 Holy Hill Apts,28,20,55059
+WI,53104,52nd Ave Water Group,35,135,55059
+WI,53104,Bristol Heights Mobile Home Park,45,349,55059
+WI,53104,Bristol Waterworks Village Of,598,472,55059
+WI,53104,Carefree Estates Mobile Home Park,300,61,55059
+WI,53104,Eagle Chateau Apts,125,242,55059
+WI,53104,Elizabeth Manor Apts,30,110,55059
+WI,53104,Kenosha Water Utility,99218,1245,55059
+WI,53104,Lake View Apts,30,0,55059
+WI,53104,Lakecrest Shores Llc,57,58,55059
+WI,53104,Lincoln Crest Apartments,32,38,55059
+WI,53104,Meadowview Village Apts,46,8,55059
+WI,53104,Paddock Lake Waterworks,945,440,55059
+WI,53104,Pleasant Prairie Mobile Home Park,35,76,55059
+WI,53104,Prairie Apts 1 & 2,150,763,55059
+WI,53104,Prairie Apts 3 & 4,125,684,55059
+WI,53104,Residences On Main,26,980,55059
+WI,53104,Silver Oak Apts,60,536,55059
+WI,53104,Silvercrest Apartments,80,171,55059
+WI,53104,Somers Water Utility,1930,1132,55059
+WI,53104,Twin Lakes Park Water Coop,40,68,55059
+WI,53104,Village Plaza Apts,28,472,55059
+WI,53104,Wheatland Estates,450,1108,55059
+WI,53105,Racine Waterworks,105100,1440,55101
+WI,53105,Village of Caledonia Water Utility,21819,1254,55101
+WI,53105,Whitewater Waterworks,14000,766,55101
+WI,53105,Elkhorn Waterworks,8820,4657,55101
+WI,53105,Delavan Waterworks,8128,111,55101
+WI,53105,Lake Geneva Utility Commission,7107,590,55101
+WI,53108,Browns Lake Mobile Home Ct,225,20,55101
+WI,53108,Eagle Lake Manor,200,1775,55101
+WI,53108,Harvest View Estates,400,1420,55101
+WI,53108,Hickory Haven,303,1057,55101
+WI,53108,Lakeview Specialty Hospital,384,178,55101
+WI,53108,River Springs Apartments Llc,38,665,55101
+WI,53108,Southern Wisconsin Center,950,166,55101
+WI,53108,Spring Green Subd 1,27,70,55101
+WI,53108,Wind Point Water Department,1804,1296,55101
+WI,53110,Milwaukee Waterworks,647290,309,55079
+WI,53110,South Milwaukee Waterworks,21340,1808,55079
+WI,53114,City of Beloit,37110,382,55127
+WI,53115,Artisan Senior Living,33,74,55127
+WI,53115,Bloomfield Village Of,4071,330,55127
+WI,53115,Coachmans Terrace Mobile Home Park,125,1582,55127
+WI,53115,Darien Waterworks,1643,203,55127
+WI,53115,Delavan Club Condos,25,57,55127
+WI,53115,East Troy S D 3,40,86,55127
+WI,53115,East Troy Waterworks,4414,648,55127
+WI,53115,Fontana Water Utility,1839,553,55127
+WI,53115,Geneva Landings,25,462,55127
+WI,53115,Geneva National Golf Club,1343,98,55127
+WI,53115,Genoa City Waterworks,2766,666,55127
+WI,53115,Inspiration Ministries & Meadows Apts,80,54,55127
+WI,53115,Interlaken Resort and Village,300,2261,55127
+WI,53115,Lake Como Sanitary District 1,3038,600,55127
+WI,53115,Ludwell Estates,100,524,55127
+WI,53115,Riverview Park,90,0,55127
+WI,53115,Sharon Waterworks,1549,388,55127
+WI,53115,Snug Harbor Inn Mobile Home Park,30,29,55127
+WI,53115,Town Hall Apts,90,52,55127
+WI,53115,Troy Center Sanitary District,170,788,55127
+WI,53115,Westshire Farms At The Lakes,300,622,55127
+WI,53115,Williams Bay Waterworks,2601,618,55127
+WI,53130,Hales Happiness Subdivision,400,99,55079
+WI,53130,Whitnall Garden Apartments,200,472,55079
+WI,53172,Cudahy Waterworks,18659,935,55079
+WI,53208,Wauwatosa Waterworks,49064,357,55079
+WI,53209,Glendale Waterworks,12883,742,55079
+WI,53211,Shorewood Waterworks,13189,368,55079
+WI,53211,Whitefish Bay Waterworks,14272,728,55079
+WI,53215,West Allis Waterworks,63240,390,55079
+WI,53501,Birchwood Trailer Court,30,111,55105
+WI,53501,Caravilla Education & Rehab Center,98,10,55105
+WI,53501,Clinton Waterworks,2119,591,55105
+WI,53501,Footville Waterworks,805,304,55105
+WI,53501,Fulton Utility District,200,251,55105
+WI,53501,Oakhill Waterworks,130,351,55105
+WI,53501,Orfordville Waterworks,1475,123,55105
+WI,53501,Pirates Cove Mobile Home Community,25,13,55105
+WI,53501,Rock River Leisure Estates Coop,50,107,55105
+WI,53501,Rock River Shores,75,567,55105
+WI,53501,Rockvale Mobile Home Park,1200,5,55105
+WI,53501,Shady Hill Mobile Home Park,140,2070,55105
+WI,53502,Albany Waterworks,1018,166,55045
+WI,53502,Brodhead Waterworks,3216,184,55045
+WI,53502,Brooklyn Waterworks,1401,140,55045
+WI,53502,Monroe Waterworks,10780,183,55045
+WI,53502,New Glarus Waterworks,2172,156,55045
+WI,53502,Pleasant View Nursing Home,260,48,55045
+WI,53503,Arena Waterworks,834,124,55049
+WI,53503,Avoca Waterworks,623,233,55049
+WI,53503,Bloomfield Healthcare and Rehabilitation Ctr,150,133,55049
+WI,53503,Dodgeville Waterworks,4583,351,55049
+WI,53503,Highland Waterworks,842,120,55049
+WI,53503,Linden Waterworks,547,623,55049
+WI,53503,Mineral Point Waterworks,2487,236,55049
+WI,53503,Rewey Waterworks,290,263,55049
+WI,53503,Ridgeway Waterworks,690,319,55049
+WI,53503,Zweifels Country View,40,225,55049
+WI,53504,Argyle Waterworks,823,200,55065
+WI,53504,Belmont Waterworks,991,721,55065
+WI,53504,Benton Waterworks,976,1100,55065
+WI,53504,Blanchardville Waterworks,802,109,55065
+WI,53504,Gratiot Waterworks,236,297,55065
+WI,53504,South Wayne Waterworks,478,108,55065
+WI,53507,Sun Prairie Utilities,32613,187,55049
+WI,53507,Fitchburg Utility District 1,15000,117,55049
+WI,53507,Waunakee Waterworks,13322,217,55049
+WI,53507,Verona Waterworks,10619,140,55049
+WI,53507,Oregon Waterworks,9797,88,55049
+WI,53507,Mcfarland Waterworks,7808,128,55049
+WI,53518,Platteville Waterworks,12268,309,55103
+WI,53518,Richland Center Waterworks,5100,52,55103
+WI,53518,Boscobel Waterworks,3419,488,55103
+WI,53540,Cazenovia Waterworks,351,314,55103
+WI,53540,Sextonville Waterworks,325,217,55103
+WI,53540,Yuba Waterworks,53,347,55103
+WI,53543,Fennimore Waterworks,2507,249,55049
+WI,53556,Baraboo Waterworks,12048,399,55103
+WI,53556,Bluffview Sanitary District,450,13,55103
+WI,53556,Christmas Mt Prv Site,36,85,55103
+WI,53556,Glacier View Subdivision,75,258,55103
+WI,53556,Ironton Waterworks,253,182,55103
+WI,53556,La Valle Waterworks,365,278,55103
+WI,53556,Lake Delton Waterworks,2914,296,55103
+WI,53556,Lower Dells Estates,75,130,55103
+WI,53556,Merrimac Waterworks,420,65,55103
+WI,53556,Plain Waterworks,792,133,55103
+WI,53556,Prairie Du Sac Waterworks,4006,75,55103
+WI,53556,Reedsburg Waterworks,9548,220,55103
+WI,53556,Rock Springs Waterworks,362,171,55103
+WI,53556,Sauk City Waterworks,3424,98,55103
+WI,53556,Spring Green Estates,300,81,55103
+WI,53556,Spring Green Waterworks,1626,174,55103
+WI,53556,Summer Oaks Condo Assoc,70,17,55103
+WI,53556,West Baraboo Waterworks,1414,366,55103
+WI,53801,Bagley Waterworks,353,121,55043
+WI,53801,Bloomington Waterworks,682,48,55043
+WI,53801,Cassville Waterworks,1052,439,55043
+WI,53801,Cozy Acres Mobile Home Park,80,84,55043
+WI,53801,Cuba City Waterworks,2141,131,55043
+WI,53801,Dickeyville Waterworks,1069,262,55043
+WI,53801,Hazel Green Waterworks,1256,177,55043
+WI,53801,Kieler SD No 1,500,147,55043
+WI,53801,Montfort Waterworks,718,154,55043
+WI,53801,Muscoda Waterworks,1453,232,55043
+WI,53801,Oak Park Community,90,23,55043
+WI,53801,Patch Grove Waterworks,160,194,55043
+WI,53801,Potosi Waterworks,718,388,55043
+WI,53801,Sinsinawa Dominicans Inc.,482,138,55043
+WI,53801,Stateline Mobile Home Park,37,61,55043
+WI,53801,Tennyson Waterworks,367,344,55043
+WI,53826,Eastman Waterworks,427,146,55023
+WI,53826,Gays Mills Waterworks,620,100,55023
+WI,53826,Homesteader Llc The,200,56,55023
+WI,53826,Wauzeka Waterworks,711,156,55023
+WI,53901,Wisconsin Dells Waterworks,2678,80,55021
+WI,53901,Poynette Waterworks,2520,351,55021
+WI,53910,Adams Waterworks,1847,408,55001
+WI,53910,Coons Mobile Home Park,75,83,55001
+WI,53910,Preston Pines,38,219,55001
+WI,53910,Rome Water Utility,2775,382,55001
+WI,53910,Westwind Mobile Home,90,800,55001
+WI,53919,Berlin Waterworks,5371,333,55039
+WI,53919,Green Lake Waterworks,960,379,55039
+WI,53919,Markesan Waterworks,1496,265,55039
+WI,53920,Duck Inn Mobile Home Park 2,25,1726,55001
+WI,53920,Fox Marquette Mobile Home Park,72,143,55001
+WI,53920,Harris Villa,25,410,55001
+WI,53920,Montello Waterworks,1329,152,55001
+WI,53923,Cambria Waterworks,767,732,55021
+WI,53923,Crystal Lake Rv Resort Llc,100,1777,55021
+WI,53923,Harmony Mobile Manor,45,45,55021
+WI,53923,Inch Heights Llc,47,61,55021
+WI,53923,Pine Vista Mobile Home Park 1,60,191,55021
+WI,53923,Saddle Ridge Estates,700,114,55021
+WI,53923,Wisconsin Academy Main Campus,115,471,55021
+WI,53929,Tomah Waterworks,9192,671,55057
+WI,53929,Mauston Waterworks,4456,261,55057
+WI,53948,Hustler Waterworks,170,162,55057
+WI,53948,Kountry Aire Est Mobile Home Park I,60,232,55057
+WI,53948,Lyndon Station Waterworks,474,202,55057
+WI,53948,Necedah Waterworks,844,295,55057
+WI,53948,New Lisbon Waterworks,2466,280,55057
+WI,53948,Pearces Mobile Home Estates,37,38,55057
+WI,53948,Union Center Waterworks,214,113,55057
+WI,53948,Wi Air National Guard Volk Field,400,224,55057
+WI,53948,Wonewoc Waterworks,834,168,55057
+WI,53964,Coloma Waterworks,454,195,55077
+WI,53964,Dakota Capital Park 2 Llc,102,75,55077
+WI,53964,Hancock Waterworks,462,134,55077
+WI,53964,Pineland Park 1,60,513,55077
+WI,53964,Redgranite Waterworks,2019,614,55077
+WI,53964,Rosemore Village,32,70,55077
+WI,53964,Wautoma Water Department,2110,232,55077
+WI,53968,Westby Waterworks,2228,132,55057
+WI,54001,Amani Village Sanitary District,100,40,55095
+WI,54001,Amery Waterworks,2962,314,55095
+WI,54001,Balsam Lake Waterworks,1031,216,55095
+WI,54001,Centuria Waterworks,900,290,55095
+WI,54001,Clayton Waterworks,765,712,55095
+WI,54001,Dresser Waterworks,897,30,55095
+WI,54001,Luck Waterworks,1150,737,55095
+WI,54001,Osceola Waterworks,2680,88,55095
+WI,54001,St Croix Falls Waterworks,2079,363,55095
+WI,54002,Baldwin Waterworks,3956,43,55109
+WI,54002,Country Cove Court Llc,150,142,55109
+WI,54002,Glenwood City Waterworks,1102,1067,55109
+WI,54002,Hudson Waterworks,17100,220,55109
+WI,54002,Huntington Mobile Home Park,52,419,55109
+WI,54002,New Richmond Estates,95,285,55109
+WI,54002,Roberts Waterworks,1651,137,55109
+WI,54002,Wall Street Village,191,169,55109
+WI,54002,Wilson Waterworks,170,114,55109
+WI,54003,Bay City Waterworks,499,315,55093
+WI,54003,Country Manor Apts,50,137,55093
+WI,54003,Plum City Care Center Nursing Home,120,157,55093
+WI,54003,Prescott Waterworks,4258,397,55093
+WI,54004,Almena Waterworks,677,236,55005
+WI,54004,Andersons Trailer Court,95,408,55005
+WI,54004,Barron Light & Water Department,3423,40,55005
+WI,54004,Cameron Waterworks,1787,82,55005
+WI,54004,Chetek Waterworks,1931,53,55005
+WI,54004,Haugen Waterworks,287,1126,55005
+WI,54004,Red Cedar Valley Estates Mobile Home Park,40,53,55005
+WI,54004,Rice Lake Waterworks,8300,879,55005
+WI,54101,Gillett Waterworks,1386,848,55083
+WI,54101,Habeck Mobile Home Park,35,47,55083
+WI,54102,Coleman Waterworks,727,685,55075
+WI,54102,Marinette Waterworks,10968,1850,55075
+WI,54102,Northland Mission,25,667,55075
+WI,54102,Peshtigo Waterworks,3449,339,55075
+WI,54102,Pound Waterworks,377,423,55075
+WI,54103,Crandon Waterworks,1958,64,55041
+WI,54103,Laona Sanitary District,950,288,55041
+WI,54103,Wabeno Sanitary District 1,750,459,55041
+WI,54106,Appleton Waterworks,72000,1216,55087
+WI,54106,Grand Chute Tn San District 1,21583,1242,55087
+WI,54106,Kaukauna Utilities,13430,372,55087
+WI,54106,Darboy Sanitary District 1,12000,473,55087
+WI,54106,Little Chute Waterworks,11040,419,55087
+WI,54110,Green Bay Waterworks,104057,1945,55015
+WI,54110,Howard Waterworks,18900,1611,55015
+WI,54110,Ashwaubenon Waterworks,17730,1264,55015
+WI,54111,Birnamwood Waterworks,832,444,55115
+WI,54111,Bonduel Waterworks,1475,1929,55115
+WI,54111,Bowler Waterworks,302,1096,55115
+WI,54111,Gresham Waterworks,534,506,55115
+WI,54111,Mattoon Waterworks,450,373,55115
+WI,54111,Shawano Lk San District 1,4950,1279,55115
+WI,54113,Seymour Waterworks,3478,467,55087
+WI,54113,Shiocton Utilities,921,1541,55087
+WI,54120,Florence Utility Commission,1809,1019,55037
+WI,54173,Annas House,32,301,55009
+WI,54173,Central Brown Co. Water Authority,25,1412,55009
+WI,54173,Denmark Waterworks,2100,428,55009
+WI,54173,Greenleaf Waterworks,650,1262,55009
+WI,54173,Hobart Waterworks S A 1,3162,4502,55009
+WI,54173,Lawrence Waterworks,3916,918,55009
+WI,54173,Pulaski Waterworks,3600,144,55009
+WI,54173,Scott Water Utility District,1875,1206,55009
+WI,54201,Algoma Waterworks,3022,601,55061
+WI,54201,Carlton Heights Mobile Home Park Ct 2,60,68,55061
+WI,54201,Lakeview Heights Mobile Home Park,66,274,55061
+WI,54201,Oaks The,40,96,55061
+WI,54201,Sister Bay Waterworks,1000,254,55061
+WI,54201,Sturgeon Bay Waterworks,9500,389,55061
+WI,54401,Boardwalk Mobile Home Park,96,26,55073
+WI,54401,Maine Water Utility,140,692,55073
+WI,54401,Deer Trail Village,120,36,55073
+WI,54401,Edgar Waterworks,1491,493,55073
+WI,54401,Edgewood Country Estates,70,86,55073
+WI,54401,Hatley Waterworks,385,191,55073
+WI,54401,Kronenwetter Water & Sewer Utility,6080,831,55073
+WI,54401,Maizefield Mhc (manufactured Home Community),145,113,55073
+WI,54401,Marathon City Waterworks,1695,992,55073
+WI,54401,Mosinee Waterworks,3208,764,55073
+WI,54401,Rib Mountain Sanitary District,5850,395,55073
+WI,54401,Schofield Waterworks,2117,304,55073
+WI,54401,Spencer Waterworks,1941,994,55073
+WI,54401,Wausau Waterworks,39106,692,55073
+WI,54401,West Gate Estates Mobile Hms,50,90,55073
+WI,54401,Weston Municipal Utilities,15045,625,55073
+WI,54406,Amherst Waterworks,1058,957,55097
+WI,54406,Whiting Waterworks,1743,470,55097
+WI,54410,Marshfield Utilities,18708,863,55141
+WI,54410,Milladore Waterworks,277,566,55141
+WI,54410,Nekoosa Waterworks,2557,341,55141
+WI,54410,Pirco Mobile Home Park,97,19,55141
+WI,54410,Pittsville Waterworks,838,628,55141
+WI,54410,Port Edwards Waterworks,1866,249,55141
+WI,54410,Prairie Meadow Estates 1,100,107,55141
+WI,54410,Vesper Waterworks,641,1281,55141
+WI,54410,Wisconsin Rapids Water Works & Lighting Comm.,20000,1814,55141
+WI,54420,Clark Co. Health Care Center,510,245,55019
+WI,54420,Curtiss Waterworks,216,1539,55019
+WI,54420,Granton Waterworks,349,555,55019
+WI,54420,Loyal Waterworks,1308,420,55019
+WI,54420,Neillsville Waterworks,2761,904,55019
+WI,54420,Withee Waterworks,480,484,55019
+WI,54422,Gilman Waterworks,372,236,55019
+WI,54422,Medford Waterworks,4318,600,55019
+WI,54422,Rib Lake Waterworks,945,824,55019
+WI,54422,Stetsonville Waterworks,563,709,55019
+WI,54428,Camp Mcnaughton,110,184,55067
+WI,54428,Harmony Hills Mh Village,100,27,55067
+WI,54428,Lakeland Sanitary District 1,2381,459,55067
+WI,54428,Northernaire Sanitary District,300,835,55067
+WI,54428,Patricia Lake Manufactured Housing Community,56,101,55067
+WI,54428,Pelican Ranch Court,38,627,55067
+WI,54428,Rhinelander Water & Wastewater,7427,1693,55067
+WI,54428,Rockwood Estates,47,38,55067
+WI,54428,Three Lakes Sanitary District,500,59,55067
+WI,54433,Bloomer Waterworks,3563,161,55119
+WI,54433,Boyd Waterworks,672,280,55119
+WI,54433,Cindy Lake Mobile Home Park,83,422,55119
+WI,54433,Cornell Waterworks,1390,624,55119
+WI,54433,Duncan Prairie Mhc,64,48,55119
+WI,54433,Hoffmanns Wissota Court,126,133,55119
+WI,54433,Lafayette Court,78,112,55119
+WI,54433,Lake Hallie Waterworks Village Of,6701,389,55119
+WI,54433,New Auburn Waterworks,549,69,55119
+WI,54433,Stanley Waterworks,3500,874,55119
+WI,54435,Lincoln Hills School,400,162,55069
+WI,54435,Little Florida,170,416,55069
+WI,54435,Tomahawk Waterworks,3770,49,55069
+WI,54459,Hilly Haven Llc,45,502,55099
+WI,54459,Park Falls Waterworks,2993,888,55099
+WI,54459,Phillips Waterworks,1675,663,55099
+WI,54459,Prentice Waterworks,660,369,55099
+WI,54466,Black River Falls Waterworks,3608,259,55141
+WI,54466,Brockway Sanitary District 1,2692,332,55141
+WI,54486,Boardwalk Mhc Llc,71,1617,55115
+WI,54486,Clintonville Utilities,4635,1716,55115
+WI,54486,Embarrass Waterworks,404,1019,55115
+WI,54486,Iola Waterworks,1300,292,55115
+WI,54486,Manawa Waterworks,1300,1550,55115
+WI,54486,Marion Waterworks,1293,279,55115
+WI,54486,Waupaca Waterworks,6062,398,55115
+WI,54486,Weyauwega Waterworks,1856,235,55115
+WI,54486,Wisconsin Veterans Home,1240,674,55115
+WI,54512,Baltic Rentals Llc,75,198,55125
+WI,54512,Conserve School,120,414,55125
+WI,54512,Eagle River Waterworks,1398,1710,55125
+WI,54512,Evergreen Estates,71,887,55125
+WI,54512,Hiawatha Mh Est Old Office,90,541,55125
+WI,54514,Ashland Water Utility,9115,1558,55003
+WI,54514,Hurley Waterworks,1515,1254,55003
+WI,54514,Mellen Water Utility,731,128,55003
+WI,54514,Montreal Waterworks,887,1067,55003
+WI,54514,Pence Waterworks,191,912,55003
+WI,54517,Exeland Waterworks,260,43,55003
+WI,54517,Flambeau Correctional Center,120,23,55003
+WI,54517,Hayward Area Mem Hospital,85,546,55003
+WI,54517,Hayward Water Utility,2340,349,55003
+WI,54517,Luedtkes Mobile Home Park,50,257,55003
+WI,54517,Radisson Waterworks,241,234,55003
+WI,54517,S & J Wild River Mobile Home Park,90,23,55003
+WI,54517,Winter Waterworks,344,158,55003
+WI,54526,Hawkins Waterworks,333,241,55107
+WI,54526,Ladysmith Waterworks,3184,318,55107
+WI,54526,Sheldon Water Utility,265,98,55107
+WI,54526,Tony Waterworks,105,149,55107
+WI,54540,Bessemer,1553,85,55125
+WI,54540,Bessemer Township,551,361,55125
+WI,54540,Gogebic Range Water Authority,177,481,55125
+WI,54540,Watersmeet Township,575,18,55125
+WI,54601,Bluffview Commons,57,80,55063
+WI,54601,Bostwick Valley Mobile Home Park,240,219,55063
+WI,54612,Eleva Waterworks,635,38,55121
+WI,54612,Ettrick Waterworks,536,323,55121
+WI,54612,Galesville Waterworks,1496,506,55121
+WI,54612,Lincoln Tn Of SD 1,300,445,55121
+WI,54612,Osseo Waterworks,1701,426,55121
+WI,54612,Strum Waterworks,1100,179,55121
+WI,54612,Trempealeau Waterworks,1616,127,55121
+WI,54615,Cortland Acres,145,7,55053
+WI,54615,Fort Mccoy South Post,250,649,55053
+WI,54615,Kendall Waterworks,479,165,55053
+WI,54615,Norwalk Waterworks,653,148,55053
+WI,54615,Oakdale Waterworks,317,192,55053
+WI,54615,Warrens Waterworks,315,152,55053
+WI,54615,Wilton Waterworks,503,165,55053
+WI,54621,Coon Valley Waterworks,765,166,55123
+WI,54621,Genoa Waterworks,264,236,55123
+WI,54621,Green Acres Mobile Estate,60,261,55123
+WI,54621,La Farge Waterworks,780,132,55123
+WI,54621,Marell Courts and Rentals Llc,60,33,55123
+WI,54621,Ontario Waterworks,554,221,55123
+WI,54621,Stoddard Waterworks,793,384,55123
+WI,54621,Viola Waterworks,667,10,55123
+WI,54701,Altoona Waterworks,7345,225,55035
+WI,54701,Augusta Waterworks,1450,241,55035
+WI,54701,Berghs Mobile Home Park,60,259,55035
+WI,54701,Bonnie Vale Park 1,70,183,55035
+WI,54701,Cozy Acres Llc Back,35,169,55035
+WI,54701,Eau Claire Waterworks,66060,1145,55035
+WI,54701,Priory The,150,47,55035
+WI,54721,Birch Terrace Mobile Home Community,700,58,55091
+WI,54721,Boyceville Waterworks,1043,140,55091
+WI,54721,Cedar Falls Acres Mobile Home Park,95,335,55091
+WI,54721,Colfax Waterworks,1123,29,55091
+WI,54721,Downsville Sanitary District,250,341,55091
+WI,54721,Knapp Waterworks,472,52,55091
+WI,54721,Marell Country Estates,150,215,55091
+WI,54721,Pepin Waterworks,940,408,55091
+WI,54721,Ridgeland Mobile Home Park,57,149,55091
+WI,54721,Shady Oaks Mobile Home Park,40,131,55091
+WI,54721,Tainter Woods Condominiums,85,514,55091
+WI,54721,Wheeler Waterworks Assoc,317,57,55091
+WI,54801,Beaver Brook Sanitary District,200,932,55129
+WI,54801,Birchwood Waterworks,442,143,55129
+WI,54801,Bistram Mobile Home Park,115,473,55129
+WI,54801,Buliks Mobile Home Park,93,67,55129
+WI,54801,Danbury Sanitary District,286,72,55129
+WI,54801,Grantsburg Waterworks,1460,1004,55129
+WI,54801,Minong Waterworks,561,649,55129
+WI,54801,Shell Lake Waterworks,950,165,55129
+WI,54801,Siren Waterworks,941,895,55129
+WI,54801,Spooner Waterworks,2653,980,55129
+WI,54801,Webster Waterworks,652,455,55129
+WI,54806,Bayfield Waterworks,488,352,55003
+WI,54806,Drummond Sanitary District,250,36,55003
+WI,54806,Iron River Sanitary District,600,527,55003
+WI,54806,Port Wing Sanitary District,400,242,55003
+WI,54806,Washburn Waterworks,2280,102,55003
+WI,54806,Waterford On The Bay,45,144,55003
+WI,54820,Gordon Correctional Center,25,3,55031
+WI,54820,Manitou Falls Sanitary District No 1,95,1959,55031
+WI,54820,Middle River Health & Rehab Center Inc.,200,549,55031
+WI,54820,Oliver Waterworks,120,1340,55031
+WI,54901,Algoma Tn Sanitary District 1,2000,274,55139
+WI,54901,Fox Crossing Utilities East-formerly Menasha Tn Of,8550,354,55139
+WI,54901,Menasha Elec & Water Util,14728,1090,55139
+WI,54901,Neenah Waterworks,25892,1560,55139
+WI,54901,Omro Waterworks,3558,483,55139
+WI,54901,Winneconne Waterworks,2377,239,55139

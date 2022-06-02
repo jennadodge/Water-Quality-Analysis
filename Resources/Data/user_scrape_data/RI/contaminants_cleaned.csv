@@ -1,0 +1,701 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Arsenic,0.325,0.004,10,ppb,81.25
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Nitrate,0.696,0.14,10,ppm,4.971428571428571
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Nitrate and nitrite,0.655,0.14,10,ppm,4.678571428571428
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Radium combined (-226 &amp; -228),2.59,0.05,5,pCi/L,51.8
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Barium,55.8,700.0,2000,ppb,0.07971428571428571
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Beryllium,0.25,1.0,4,ppb,0.25
+RI,Harwington CT,2804.0,Lindhbrook Water Company,200,Thallium,0.05,0.1,2,ppb,0.5
+RI,East Providence RI,2806.0,East Providence,48688,Bromodichloromethane,3.51,0.06,0,ppb,58.5
+RI,East Providence RI,2806.0,East Providence,48688,Chloroform,56.2,0.4,0,ppb,140.5
+RI,East Providence RI,2806.0,East Providence,48688,Dibromochloromethane,0.285,0.1,0,ppb,2.8499999999999996
+RI,East Providence RI,2806.0,East Providence,48688,Dichloroacetic acid,17.7,0.2,0,ppb,88.49999999999999
+RI,East Providence RI,2806.0,East Providence,48688,Haloacetic acids (HAA5)†,20.7,0.1,60,ppb,206.99999999999997
+RI,East Providence RI,2806.0,East Providence,48688,Haloacetic acids (HAA9)†,23.1,0.06,0,ppb,385.00000000000006
+RI,East Providence RI,2806.0,East Providence,48688,Total trihalomethanes (TTHMs)†,63.5,0.15,80,ppb,423.33333333333337
+RI,East Providence RI,2806.0,East Providence,48688,Trichloroacetic acid,1.83,0.1,0,ppb,18.3
+RI,East Providence RI,2806.0,East Providence,48688,Barium*,9.0,700.0,2000,ppb,0.012857142857142857
+RI,East Providence RI,2806.0,East Providence,48688,Chlorate,6.7,210.0,0,ppb,0.03190476190476191
+RI,East Providence RI,2806.0,East Providence,48688,Chromium (hexavalent),0.00413,0.02,0,ppb,0.2065
+RI,East Providence RI,2806.0,East Providence,48688,Manganese,0.916,100.0,0,ppb,0.00916
+RI,East Providence RI,2806.0,East Providence,48688,Monochloroacetic acid,2.4,53.0,0,ppb,0.045283018867924525
+RI,East Providence RI,2806.0,East Providence,48688,Nitrate*,0.0225,0.14,10,ppm,0.1607142857142857
+RI,East Providence RI,2806.0,East Providence,48688,Strontium,0.0311,1500.0,0,ppb,2.0733333333333334e-05
+RI,East Providence RI,2806.0,East Providence,48688,Vanadium,0.302,21.0,0,ppb,0.01438095238095238
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Nitrate,3.33,0.14,10,ppm,23.785714285714285
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Nitrate and nitrite,3.94,0.14,10,ppm,28.14285714285714
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Perfluorooctane sulfonate (PFOS),4.28,1.0,0,ppt,4.28
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Perfluorooctanoic acid (PFOA),5.14,0.007,0,ppt,734.2857142857142
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Total PFOS and PFOA,9.44,0.007,0,ppt,1348.5714285714284
+RI,Ridgefield CT,2813.0,Central Beach Fire District,470,Barium,40.0,700.0,2000,ppb,0.05714285714285714
+RI,Cranston RI,2813.0,Castle Rock Condominiums,292,Nitrate,0.924,0.14,10,ppm,6.6
+RI,Cranston RI,2813.0,Castle Rock Condominiums,292,Nitrate and nitrite,0.954,0.14,10,ppm,6.814285714285713
+RI,Cranston RI,2813.0,Castle Rock Condominiums,292,Barium,9.86,700.0,2000,ppb,0.014085714285714285
+RI,Cranston RI,2813.0,Castle Rock Condominiums,292,Chloroform,0.059,0.4,0,ppb,0.1475
+RI,Wakefield RI,2813.0,Indian Cedar Mobile Home Park,150,Nitrate,1.26,0.14,10,ppm,9.0
+RI,Wakefield RI,2813.0,Indian Cedar Mobile Home Park,150,Nitrate and nitrite,1.39,0.14,10,ppm,9.928571428571427
+RI,Wakefield RI,2813.0,Indian Cedar Mobile Home Park,150,Barium,13.8,700.0,2000,ppb,0.019714285714285715
+RI,Wakefield RI,2813.0,Indian Cedar Mobile Home Park,150,Chloroform,0.138,0.4,0,ppb,0.34500000000000003
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Bromodichloromethane,0.286,0.06,0,ppb,4.766666666666667
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Dibromochloromethane,0.343,0.1,0,ppb,3.43
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Barium,8.75,700.0,2000,ppb,0.0125
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Chloroform,0.686,0.4,0,ppb,1.715
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Nitrate,0.268,0.14,10,ppm,1.9142857142857141
+RI,Wyoming RI,2813.0,Richmond Town Of,2501,Nitrate and nitrite,0.226,0.14,10,ppm,1.614285714285714
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Bromodichloromethane,8.07,0.06,0,ppb,134.5
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Chloroform,24.2,0.4,0,ppb,60.49999999999999
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Chromium (hexavalent),0.0702,0.02,0,ppb,3.51
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Dibromoacetic acid,0.18,0.04,0,ppb,4.5
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Dibromochloromethane,1.88,0.1,0,ppb,18.799999999999997
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Dichloroacetic acid,5.48,0.2,0,ppb,27.400000000000002
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Haloacetic acids (HAA5)†,15.8,0.1,60,ppb,158.0
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Haloacetic acids (HAA9)†,23.3,0.06,0,ppb,388.33333333333337
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Nitrate,1.36,0.14,10,ppm,9.714285714285714
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Nitrate and nitrite,1.48,0.14,10,ppm,10.571428571428571
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Total trihalomethanes (TTHMs)†,55.2,0.15,80,ppb,368.00000000000006
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Trichloroacetic acid,10.6,0.1,0,ppb,105.99999999999999
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Barium,6.57,700.0,2000,ppb,0.009385714285714285
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Chlorate,69.7,210.0,0,ppb,0.3319047619047619
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Manganese,69.1,100.0,0,ppb,0.691
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Monochloroacetic acid,0.052,53.0,0,ppb,0.0009811320754716981
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Strontium,0.057,1500.0,0,ppb,3.8e-05
+RI,Wakefield RI,2813.0,United Water Rhode Island,21000,Vanadium,0.728,21.0,0,ppb,0.034666666666666665
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Chromium (hexavalent),0.116,0.02,0,ppb,5.8
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Haloacetic acids (HAA5)†,7.36,0.1,60,ppb,73.6
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Haloacetic acids (HAA9)†,14.4,0.06,0,ppb,240.00000000000003
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Nitrate,1.35,0.14,10,ppm,9.642857142857142
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Nitrate and nitrite,1.36,0.14,10,ppm,9.714285714285714
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluorooctanoic acid (PFOA),3.98,0.007,0,ppt,568.5714285714286
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Radon,1239.47,1.5,0,pCi/L,826.3133333333334
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Total PFOS and PFOA,2.63,0.007,0,ppt,375.71428571428567
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Total trihalomethanes (TTHMs)†,13.4,0.15,80,ppb,89.33333333333334
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Barium,38.3,700.0,2000,ppb,0.05471428571428571
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Beryllium,0.0125,1.0,4,ppb,0.0125
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Bromodichloromethane,0.0944,0.06,0,ppb,1.5733333333333333
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Bromoform,0.0268,0.5,0,ppb,0.0536
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Chlorate,41.1,210.0,0,ppb,0.19571428571428573
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Chloroform,0.473,0.4,0,ppb,1.1824999999999999
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Dibromochloromethane,0.0878,0.1,0,ppb,0.878
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Manganese,73.0,100.0,0,ppb,0.73
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Molybdenum,0.344,40.0,0,ppb,0.0086
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluorobutane sulfonate (PFBS),0.754,1.0,0,ppt,0.754
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluoroheptanoic acid (PFHPA),0.947,1.0,0,ppt,0.947
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluorohexane sulfonate (PFHXS),0.258,1.0,0,ppt,0.258
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluorononanoic acid (PFNA),0.651,1.0,0,ppt,0.651
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Perfluorooctane sulfonate (PFOS),1.48,1.0,0,ppt,1.48
+RI,Westerly RI,2813.0,Westerly Water Department,38000,Strontium,0.0682,1500.0,0,ppb,4.546666666666666e-05
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Arsenic,0.333,0.004,10,ppb,83.25
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Perfluorooctanoic acid (PFOA),4.11,0.007,0,ppt,587.1428571428572
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Total PFOS and PFOA,5.62,0.007,0,ppt,802.8571428571429
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Uranium,3.82,0.43,20,pCi/L,8.883720930232558
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Barium,15.8,700.0,2000,ppb,0.022571428571428572
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Di(2-ethylhexyl) phthalate,0.235,3.0,6,ppb,0.07833333333333332
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,MTBE,0.454,13.0,0,ppb,0.034923076923076925
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Nitrate,0.13,0.14,10,ppm,0.9285714285714285
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Nitrate and nitrite,0.124,0.14,10,ppm,0.8857142857142857
+RI,Middletown RI,2814.0,The Village On Chopmist Hill,250,Perfluorooctane sulfonate (PFOS),1.52,1.0,0,ppt,1.52
+RI,Chepachet RI,2814.0,Echo Lake Water District,200,Nitrate,1.36,0.14,10,ppm,9.714285714285714
+RI,Chepachet RI,2814.0,Echo Lake Water District,200,Nitrate and nitrite,1.27,0.14,10,ppm,9.071428571428571
+RI,Chepachet RI,2814.0,Echo Lake Water District,200,Barium,12.0,700.0,2000,ppb,0.017142857142857144
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Bromodichloromethane,5.21,0.06,0,ppb,86.83333333333334
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Bromoform,2.25,0.5,0,ppb,4.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chloroform,57.6,0.4,0,ppb,144.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dibromochloromethane,1.05,0.1,0,ppb,10.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dichloroacetic acid,14.9,0.2,0,ppb,74.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Haloacetic acids (HAA5)†,18.9,0.1,60,ppb,188.99999999999997
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Haloacetic acids (HAA9)*†,16.4,0.06,0,ppb,273.3333333333333
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Nitrate*,1.33,0.14,10,ppm,9.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Nitrate and nitrite*,1.88,0.14,10,ppm,13.428571428571427
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Perfluorooctanoic acid (PFOA)*,1.05,0.007,0,ppt,150.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Radium combined (-226 &amp; -228)*,0.24,0.05,5,pCi/L,4.8
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Total PFOS and PFOA*,6.58,0.007,0,ppt,940.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Total trihalomethanes (TTHMs)†,64.0,0.15,80,ppb,426.6666666666667
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Trichloroacetic acid,2.13,0.1,0,ppb,21.299999999999997
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,11-Dichloroethane*,0.00542,3.0,0,ppb,0.0018066666666666667
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,14-Dioxane*,0.0373,0.35,0,ppb,0.10657142857142858
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Barium*,7.67,700.0,2000,ppb,0.010957142857142856
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chlorate*,10.5,210.0,0,ppb,0.05
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chromium (hexavalent)*,0.016,0.02,0,ppb,0.8
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dibromoacetic acid,0.0545,0.04,0,ppb,1.3625
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Manganese*,46.1,100.0,0,ppb,0.461
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Molybdenum*,0.145,40.0,0,ppb,0.0036249999999999998
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Monobromoacetic acid*,0.0688,25.0,0,ppb,0.002752
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Monochloroacetic acid,1.25,53.0,0,ppb,0.02358490566037736
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Perfluorooctane sulfonate (PFOS)*,0.52,1.0,0,ppt,0.52
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Strontium*,0.0685,1500.0,0,ppb,4.566666666666667e-05
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Vanadium*,0.137,21.0,0,ppb,0.006523809523809525
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Bromodichloromethane,5.21,0.06,0,ppb,86.83333333333334
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Bromoform,2.25,0.5,0,ppb,4.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chloroform,57.6,0.4,0,ppb,144.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dibromochloromethane,1.05,0.1,0,ppb,10.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dichloroacetic acid,14.9,0.2,0,ppb,74.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Haloacetic acids (HAA5)†,18.9,0.1,60,ppb,188.99999999999997
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Haloacetic acids (HAA9)*†,16.4,0.06,0,ppb,273.3333333333333
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Nitrate*,1.33,0.14,10,ppm,9.5
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Nitrate and nitrite*,1.88,0.14,10,ppm,13.428571428571427
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Perfluorooctanoic acid (PFOA)*,1.05,0.007,0,ppt,150.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Radium combined (-226 &amp; -228)*,0.24,0.05,5,pCi/L,4.8
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Total PFOS and PFOA*,6.58,0.007,0,ppt,940.0
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Total trihalomethanes (TTHMs)†,64.0,0.15,80,ppb,426.6666666666667
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Trichloroacetic acid,2.13,0.1,0,ppb,21.299999999999997
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,11-Dichloroethane*,0.00542,3.0,0,ppb,0.0018066666666666667
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,14-Dioxane*,0.0373,0.35,0,ppb,0.10657142857142858
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Barium*,7.67,700.0,2000,ppb,0.010957142857142856
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chlorate*,10.5,210.0,0,ppb,0.05
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Chromium (hexavalent)*,0.016,0.02,0,ppb,0.8
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Dibromoacetic acid,0.0545,0.04,0,ppb,1.3625
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Manganese*,46.1,100.0,0,ppb,0.461
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Molybdenum*,0.145,40.0,0,ppb,0.0036249999999999998
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Monobromoacetic acid*,0.0688,25.0,0,ppb,0.002752
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Monochloroacetic acid,1.25,53.0,0,ppb,0.02358490566037736
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Perfluorooctane sulfonate (PFOS)*,0.52,1.0,0,ppt,0.52
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Strontium*,0.0685,1500.0,0,ppb,4.566666666666667e-05
+RI,Rumford,2815.0,Centre of New England Boulevard,9999,Vanadium*,0.137,21.0,0,ppb,0.006523809523809525
+RI,Warwick RI,2818.0,Warwick,75000,Bromodichloromethane,1.3,0.06,0,ppb,21.666666666666668
+RI,Warwick RI,2818.0,Warwick,75000,Chloroform,3.95,0.4,0,ppb,9.875
+RI,Warwick RI,2818.0,Warwick,75000,Dibromochloromethane,0.678,0.1,0,ppb,6.78
+RI,Warwick RI,2818.0,Warwick,75000,Nitrate and nitrite,0.957,0.14,10,ppm,6.8357142857142845
+RI,Warwick RI,2818.0,Warwick,75000,Radium combined (-226 &amp; -228),0.74,0.05,5,pCi/L,14.799999999999999
+RI,Warwick RI,2818.0,Warwick,75000,Total trihalomethanes (TTHMs)†,4.0,0.15,80,ppb,26.666666666666668
+RI,Warwick RI,2818.0,Warwick,75000,Barium,108.3,700.0,2000,ppb,0.15471428571428572
+RI,Warwick RI,2818.0,Warwick,75000,Bromoform,0.0883,0.5,0,ppb,0.1766
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Bromodichloromethane,4.66,0.06,0,ppb,77.66666666666667
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Chloroform,57.4,0.4,0,ppb,143.5
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Dibromoacetic acid,0.114,0.04,0,ppb,2.85
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Dibromochloromethane,1.16,0.1,0,ppb,11.599999999999998
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Dichloroacetic acid,8.46,0.2,0,ppb,42.300000000000004
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Haloacetic acids (HAA5)†,11.2,0.1,60,ppb,111.99999999999999
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Haloacetic acids (HAA9)*†,16.4,0.06,0,ppb,273.3333333333333
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Nitrate*,1.33,0.14,10,ppm,9.5
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Nitrate and nitrite*,1.88,0.14,10,ppm,13.428571428571427
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Perfluorooctanoic acid (PFOA)*,1.05,0.007,0,ppt,150.0
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Radium combined (-226 &amp; -228)*,0.24,0.05,5,pCi/L,4.8
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Total PFOS and PFOA*,6.58,0.007,0,ppt,940.0
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Total trihalomethanes (TTHMs)†,59.8,0.15,80,ppb,398.6666666666667
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Trichloroacetic acid,2.11,0.1,0,ppb,21.099999999999998
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,11-Dichloroethane*,0.00542,3.0,0,ppb,0.0018066666666666667
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,14-Dioxane*,0.0373,0.35,0,ppb,0.10657142857142858
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Barium*,7.67,700.0,2000,ppb,0.010957142857142856
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Bromoform,0.119,0.5,0,ppb,0.238
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Chlorate*,10.5,210.0,0,ppb,0.05
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Chromium (hexavalent)*,0.016,0.02,0,ppb,0.8
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Manganese*,46.1,100.0,0,ppb,0.461
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Molybdenum*,0.145,40.0,0,ppb,0.0036249999999999998
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Monobromoacetic acid*,0.0688,25.0,0,ppb,0.002752
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Monochloroacetic acid,0.452,53.0,0,ppb,0.008528301886792452
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Perfluorooctane sulfonate (PFOS)*,0.52,1.0,0,ppt,0.52
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Strontium*,0.0685,1500.0,0,ppb,4.566666666666667e-05
+RI,Warwick RI,2818.0,Warwick-potowomut,2357,Vanadium*,0.137,21.0,0,ppb,0.006523809523809525
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Bromodichloromethane,0.147,0.06,0,ppb,2.4499999999999997
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Chromium (hexavalent),0.0853,0.02,0,ppb,4.265
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Dibromoacetic acid,0.36,0.04,0,ppb,9.0
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Dibromochloromethane,0.376,0.1,0,ppb,3.76
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Haloacetic acids (HAA5)†,1.08,0.1,60,ppb,10.8
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Haloacetic acids (HAA9)†,2.04,0.06,0,ppb,34.0
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Nitrate,2.06,0.14,10,ppm,14.714285714285714
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Nitrate and nitrite,2.64,0.14,10,ppm,18.857142857142858
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Perfluorooctanoic acid (PFOA),1.23,0.007,0,ppt,175.7142857142857
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Total PFOS and PFOA,4.21,0.007,0,ppt,601.4285714285714
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Total trihalomethanes (TTHMs)†,5.84,0.15,80,ppb,38.93333333333334
+RI,North Kingstown RI,2818.0,North Kingstown,23568,14-Dioxane,0.0136,0.35,0,ppb,0.038857142857142854
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Barium,8.95,700.0,2000,ppb,0.012785714285714284
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Bromoform,0.364,0.5,0,ppb,0.728
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Chlorate,24.9,210.0,0,ppb,0.11857142857142856
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Chloroform,0.438,0.4,0,ppb,1.095
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Cobalt,0.305,70.0,0,ppb,0.004357142857142857
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Ethylbenzene,0.0375,300.0,700,ppb,0.000125
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Manganese,86.6,100.0,0,ppb,0.866
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Molybdenum,0.17,40.0,0,ppb,0.00425
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Monochloroacetic acid,0.72,53.0,0,ppb,0.013584905660377358
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Perfluorobutane sulfonate (PFBS),0.672,1.0,0,ppt,0.672
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Perfluoroheptanoic acid (PFHPA),0.161,1.0,0,ppt,0.161
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Perfluorooctane sulfonate (PFOS),0.367,1.0,0,ppt,0.367
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Strontium,0.0983,1500.0,0,ppb,6.553333333333333e-05
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Toluene,0.102,150.0,1000,ppb,0.0006799999999999999
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Vanadium,0.0435,21.0,0,ppb,0.0020714285714285713
+RI,North Kingstown RI,2818.0,North Kingstown,23568,Xylenes (total),0.225,1800.0,10000,ppb,0.000125
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Dibromochloromethane,0.368,0.1,0,ppb,3.6799999999999997
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Nitrate,2.0,0.14,10,ppm,14.285714285714285
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Total trihalomethanes (TTHMs)†,2.36,0.15,80,ppb,15.733333333333333
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Barium,12.9,700.0,2000,ppb,0.01842857142857143
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Bromodichloromethane,0.0526,0.06,0,ppb,0.8766666666666667
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Bromoform,0.453,0.5,0,ppb,0.906
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Haloacetic acids (HAA5)†,0.167,0.1,60,ppb,1.67
+RI,Douglas MA,2830.0,Douglas Water Department,3855,Perchlorate,0.264,1.0,0,ppb,0.264
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Bromodichloromethane,8.12,0.06,0,ppb,135.33333333333331
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Chloroform,21.0,0.4,0,ppb,52.5
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Dibromoacetic acid,0.573,0.04,0,ppb,14.325
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Dibromochloromethane,2.39,0.1,0,ppb,23.9
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Dichloroacetic acid,8.52,0.2,0,ppb,42.599999999999994
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Haloacetic acids (HAA5)†,17.9,0.1,60,ppb,178.99999999999997
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Total trihalomethanes (TTHMs)†,31.1,0.15,80,ppb,207.33333333333334
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Trichloroacetic acid,7.09,0.1,0,ppb,70.89999999999999
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Barium*,10.5,700.0,2000,ppb,0.015
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Benzo[a]pyrene*,0.00833,0.007,0.2,ppb,1.1900000000000002
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Bromoform,0.0146,0.5,0,ppb,0.0292
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Di(2-ethylhexyl) phthalate*,0.417,3.0,6,ppb,0.13899999999999998
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Monobromoacetic acid,0.339,25.0,0,ppb,0.013560000000000001
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Monochloroacetic acid,1.5,53.0,0,ppb,0.02830188679245283
+RI,Tiverton RI,2837.0,Tiverton Water Authority Town Hall,3213,Nitrate*,0.03,0.14,10,ppm,0.21428571428571425
+RI,Westport MA,2837.0,Town of Westport,250,Bromodichloromethane*,8.47,0.06,0,ppb,141.16666666666669
+RI,Westport MA,2837.0,Town of Westport,250,Chloroform*,38.3,0.4,0,ppb,95.74999999999999
+RI,Westport MA,2837.0,Town of Westport,250,Dibromoacetic acid*,0.11,0.04,0,ppb,2.75
+RI,Westport MA,2837.0,Town of Westport,250,Dibromochloromethane*,1.41,0.1,0,ppb,14.099999999999998
+RI,Westport MA,2837.0,Town of Westport,250,Dichloroacetic acid*,10.9,0.2,0,ppb,54.5
+RI,Westport MA,2837.0,Town of Westport,250,Haloacetic acids (HAA5)†,24.9,0.1,60,ppb,248.99999999999997
+RI,Westport MA,2837.0,Town of Westport,250,Haloacetic acids (HAA9)*†,23.7,0.06,0,ppb,395.0
+RI,Westport MA,2837.0,Town of Westport,250,Total trihalomethanes (TTHMs)†,66.7,0.15,80,ppb,444.6666666666667
+RI,Westport MA,2837.0,Town of Westport,250,Trichloroacetic acid*,7.67,0.1,0,ppb,76.69999999999999
+RI,Westport MA,2837.0,Town of Westport,250,Aluminum*,17.8,600.0,0,ppb,0.029666666666666668
+RI,Westport MA,2837.0,Town of Westport,250,Barium*,7.2,700.0,2000,ppb,0.010285714285714285
+RI,Westport MA,2837.0,Town of Westport,250,Chlorate*,20.4,210.0,0,ppb,0.09714285714285714
+RI,Westport MA,2837.0,Town of Westport,250,Manganese*,8.19,100.0,0,ppb,0.0819
+RI,Westport MA,2837.0,Town of Westport,250,Monobromoacetic acid*,0.0793,25.0,0,ppb,0.003172
+RI,Westport MA,2837.0,Town of Westport,250,Monochloroacetic acid*,0.549,53.0,0,ppb,0.010358490566037737
+RI,Westport MA,2837.0,Town of Westport,250,Nitrate*,0.0243,0.14,10,ppm,0.17357142857142854
+RI,Westport MA,2837.0,Town of Westport,250,Perchlorate*,0.04,1.0,0,ppb,0.04
+RI,Westport MA,2837.0,Town of Westport,250,Strontium*,0.0191,1500.0,0,ppb,1.2733333333333332e-05
+RI,Westport MA,2837.0,Town of Westport,250,Vanadium*,0.029,21.0,0,ppb,0.001380952380952381
+RI,Newport RI,2841.0,City of Newport,42000,Haloacetic acids (HAA5)†,12.6,0.1,60,ppb,125.99999999999999
+RI,Newport RI,2841.0,City of Newport,42000,Haloacetic acids (HAA9)†,23.3,0.06,0,ppb,388.33333333333337
+RI,Newport RI,2841.0,City of Newport,42000,Total trihalomethanes (TTHMs)†,45.9,0.15,80,ppb,306.0
+RI,Newport RI,2841.0,City of Newport,42000,Manganese,0.495,100.0,0,ppb,0.0049499999999999995
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Arsenic*,0.299,0.004,10,ppb,74.75
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Benzo[a]pyrene*,0.0181,0.007,0.2,ppb,2.585714285714286
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Bromodichloromethane,28.0,0.06,0,ppb,466.6666666666667
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Bromoform,4.25,0.5,0,ppb,8.5
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Chloroform,36.5,0.4,0,ppb,91.25
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Chromium (hexavalent)*,0.0497,0.02,0,ppb,2.485
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Dibromoacetic acid,2.85,0.04,0,ppb,71.25
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Dibromochloromethane,18.5,0.1,0,ppb,185.0
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Dichloroacetic acid,7.7,0.2,0,ppb,38.5
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Haloacetic acids (HAA5)†,12.0,0.1,60,ppb,120.0
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Haloacetic acids (HAA9)*†,23.3,0.06,0,ppb,388.33333333333337
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Nitrate*,0.545,0.14,10,ppm,3.892857142857143
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Perfluorooctane sulfonate (PFOS)*,2.24,1.0,0,ppt,2.24
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Perfluorooctanoic acid (PFOA)*,0.353,0.007,0,ppt,50.42857142857142
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Total PFOS and PFOA*,4.67,0.007,0,ppt,667.1428571428571
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Total trihalomethanes (TTHMs)†,64.9,0.15,80,ppb,432.66666666666674
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Trichloroacetic acid,3.0,0.1,0,ppb,30.0
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Barium*,7.77,700.0,2000,ppb,0.011099999999999999
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Chlorate*,360.5,210.0,0,ppb,1.7166666666666666
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Chlorite*,68.5,50.0,1000,ppb,1.37
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Di(2-ethylhexyl) phthalate*,0.664,3.0,6,ppb,0.22133333333333335
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Manganese*,26.0,100.0,0,ppb,0.26
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Monobromoacetic acid,0.305,25.0,0,ppb,0.012199999999999999
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Monochloroacetic acid,0.75,53.0,0,ppb,0.014150943396226415
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Selenium*,0.026,30.0,50,ppb,0.0008666666666666666
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Simazine*,0.00948,0.1,4,ppb,0.0948
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Strontium*,0.0655,1500.0,0,ppb,4.3666666666666666e-05
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Vanadium*,0.241,21.0,0,ppb,0.011476190476190477
+RI,Newport RI,2841.0,United States Navy -fort Adams,318,Vinyl chloride*,0.004,0.05,2,ppb,0.08
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Arsenic*,0.299,0.004,10,ppb,74.75
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Benzo[a]pyrene*,0.0181,0.007,0.2,ppb,2.585714285714286
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Bromodichloromethane,15.1,0.06,0,ppb,251.66666666666666
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Bromoform,2.35,0.5,0,ppb,4.7
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Chloroform,21.8,0.4,0,ppb,54.5
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Chromium (hexavalent),0.0975,0.02,0,ppb,4.875
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Dibromoacetic acid,2.29,0.04,0,ppb,57.25
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Dibromochloromethane,10.7,0.1,0,ppb,106.99999999999999
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Dichloroacetic acid,7.55,0.2,0,ppb,37.75
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Haloacetic acids (HAA5)†,14.6,0.1,60,ppb,146.0
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Haloacetic acids (HAA9)†,35.6,0.06,0,ppb,593.3333333333334
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Nitrate*,0.545,0.14,10,ppm,3.892857142857143
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Perfluorooctane sulfonate (PFOS)*,2.24,1.0,0,ppt,2.24
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Perfluorooctanoic acid (PFOA)*,0.353,0.007,0,ppt,50.42857142857142
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Total PFOS and PFOA*,4.67,0.007,0,ppt,667.1428571428571
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Total trihalomethanes (TTHMs)†,53.4,0.15,80,ppb,356.0
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Trichloroacetic acid,2.15,0.1,0,ppb,21.499999999999996
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Barium*,7.77,700.0,2000,ppb,0.011099999999999999
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Chlorate,196.9,210.0,0,ppb,0.9376190476190477
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Chlorite*,68.5,50.0,1000,ppb,1.37
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Di(2-ethylhexyl) phthalate*,0.664,3.0,6,ppb,0.22133333333333335
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Manganese,7.89,100.0,0,ppb,0.0789
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Monobromoacetic acid,0.16,25.0,0,ppb,0.0064
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Monochloroacetic acid,4.82,53.0,0,ppb,0.0909433962264151
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Selenium*,0.026,30.0,50,ppb,0.0008666666666666666
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Simazine*,0.00948,0.1,4,ppb,0.0948
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Strontium,0.0554,1500.0,0,ppb,3.6933333333333334e-05
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Vanadium,0.325,21.0,0,ppb,0.015476190476190477
+RI,Portsmouth RI,2842.0,Portsmouth Water & Fire District,16864,Vinyl chloride*,0.004,0.05,2,ppb,0.08
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Haloacetic acids (HAA5)†,7.76,0.1,60,ppb,77.6
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Nitrate,0.786,0.14,10,ppm,5.614285714285714
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Nitrate and nitrite,0.726,0.14,10,ppm,5.185714285714285
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Perfluorooctanoic acid (PFOA),0.808,0.007,0,ppt,115.42857142857143
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Total PFOS and PFOA,0.808,0.007,0,ppt,115.42857142857143
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Total trihalomethanes (TTHMs)†,14.6,0.15,80,ppb,97.33333333333333
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Barium,26.9,700.0,2000,ppb,0.03842857142857143
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Manganese,43.0,100.0,0,ppb,0.43
+RI,Harrisville RI,2858.0,Harrisville Fire District,2860,Perfluoroheptanoic acid (PFHPA),1.48,1.0,0,ppt,1.48
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Bromodichloromethane,3.42,0.06,0,ppb,57.0
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Chloroform,23.3,0.4,0,ppb,58.25
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Dibromochloromethane,0.233,0.1,0,ppb,2.33
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Dichloroacetic acid,12.3,0.2,0,ppb,61.5
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Haloacetic acids (HAA5)†,30.1,0.1,60,ppb,301.0
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Total trihalomethanes (TTHMs)†,37.0,0.15,80,ppb,246.66666666666669
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Trichloroacetic acid,17.3,0.1,0,ppb,173.0
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Barium,5.0,700.0,2000,ppb,0.007142857142857143
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Dibromoacetic acid,0.0632,0.04,0,ppb,1.58
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Monochloroacetic acid,0.779,53.0,0,ppb,0.014698113207547171
+RI,Providence RI,2859.0,Eleanor Slater Hospital Zambarano Unit,540,Nitrate,0.0113,0.14,10,ppm,0.0807142857142857
+RI,Providence RI,2860.0,City of Providence,310060,Haloacetic acids (HAA5)†,18.7,0.1,60,ppb,186.99999999999997
+RI,Providence RI,2860.0,City of Providence,310060,Haloacetic acids (HAA9)†,19.5,0.06,0,ppb,325.0
+RI,Providence RI,2860.0,City of Providence,310060,Total trihalomethanes (TTHMs)†,53.2,0.15,80,ppb,354.6666666666667
+RI,Providence RI,2860.0,City of Providence,310060,Barium,9.0,700.0,2000,ppb,0.012857142857142857
+RI,Providence RI,2860.0,City of Providence,310060,Chromium (hexavalent),0.00388,0.02,0,ppb,0.194
+RI,Providence RI,2860.0,City of Providence,310060,Manganese,0.795,100.0,0,ppb,0.00795
+RI,Providence RI,2860.0,City of Providence,310060,Nitrate,0.0225,0.14,10,ppm,0.1607142857142857
+RI,Providence RI,2860.0,City of Providence,310060,Strontium,0.0273,1500.0,0,ppb,1.8200000000000002e-05
+RI,Providence RI,2860.0,City of Providence,310060,Vanadium,0.227,21.0,0,ppb,0.01080952380952381
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Bromodichloromethane,4.27,0.06,0,ppb,71.16666666666666
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Bromoform,2.41,0.5,0,ppb,4.82
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Chloroform,57.6,0.4,0,ppb,144.0
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Dibromochloromethane,0.344,0.1,0,ppb,3.4399999999999995
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Dichloroacetic acid,8.48,0.2,0,ppb,42.4
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Haloacetic acids (HAA5)†,11.5,0.1,60,ppb,115.0
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Haloacetic acids (HAA9)†,15.4,0.06,0,ppb,256.6666666666667
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Total trihalomethanes (TTHMs)†,63.8,0.15,80,ppb,425.3333333333333
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Trichloroacetic acid,1.8,0.1,0,ppb,18.0
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Barium*,9.0,700.0,2000,ppb,0.012857142857142857
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Chromium (hexavalent),0.0313,0.02,0,ppb,1.565
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Dibromoacetic acid,0.0619,0.04,0,ppb,1.5474999999999999
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Manganese,1.45,100.0,0,ppb,0.014499999999999999
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Monobromoacetic acid,0.249,25.0,0,ppb,0.00996
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Monochloroacetic acid,0.52,53.0,0,ppb,0.009811320754716982
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Nitrate*,0.0225,0.14,10,ppm,0.1607142857142857
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Strontium,0.0314,1500.0,0,ppb,2.093333333333333e-05
+RI,Lincoln RI,2860.0,Lincoln Water Commission,21137,Vanadium,0.263,21.0,0,ppb,0.012523809523809524
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Bromodichloromethane,14.6,0.06,0,ppb,243.33333333333334
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Chloroform,31.8,0.4,0,ppb,79.5
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Chromium (hexavalent),0.0419,0.02,0,ppb,2.0949999999999998
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Dibromoacetic acid,0.579,0.04,0,ppb,14.474999999999998
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Dibromochloromethane,5.72,0.1,0,ppb,57.199999999999996
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Dichloroacetic acid,6.76,0.2,0,ppb,33.8
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Haloacetic acids (HAA5)†,23.7,0.1,60,ppb,236.99999999999997
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Haloacetic acids (HAA9)†,29.0,0.06,0,ppb,483.33333333333337
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Radium combined (-226 &amp; -228),0.71,0.05,5,pCi/L,14.2
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Total trihalomethanes (TTHMs)†,56.5,0.15,80,ppb,376.6666666666667
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Trichloroacetic acid,16.7,0.1,0,ppb,166.99999999999997
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,14-Dioxane,0.0483,0.35,0,ppb,0.138
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Aluminum,35.2,600.0,0,ppb,0.05866666666666667
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Barium,31.3,700.0,2000,ppb,0.04471428571428571
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Bromate,0.166,0.1,10,ppb,1.66
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Bromoform,0.856,0.5,0,ppb,1.712
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Chlorate,284.6,210.0,0,ppb,1.3552380952380954
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Manganese,78.0,100.0,0,ppb,0.78
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Monobromoacetic acid,0.037,25.0,0,ppb,0.00148
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Monochloroacetic acid,0.775,53.0,0,ppb,0.014622641509433962
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Nitrate,0.256,0.14,10,ppm,1.8285714285714285
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Perchlorate,0.225,1.0,0,ppb,0.225
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Strontium,0.0788,1500.0,0,ppb,5.253333333333333e-05
+RI,Attleboro MA,2860.0,Attleboro Water Department,43593,Vanadium,0.0529,21.0,0,ppb,0.002519047619047619
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Arsenic,0.333,0.004,10,ppb,83.25
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Bromodichloromethane,10.7,0.06,0,ppb,178.33333333333331
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Chloroform,15.5,0.4,0,ppb,38.75
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Chromium (hexavalent),0.1,0.02,0,ppb,5.0
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Dibromoacetic acid,1.5,0.04,0,ppb,37.5
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Dibromochloromethane,7.48,0.1,0,ppb,74.8
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Dichloroacetic acid,5.73,0.2,0,ppb,28.650000000000002
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Haloacetic acids (HAA5)†,12.2,0.1,60,ppb,121.99999999999999
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Haloacetic acids (HAA9)†,18.9,0.06,0,ppb,315.0
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Nitrate,2.58,0.14,10,ppm,18.428571428571427
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Perfluorooctanoic acid (PFOA),1.78,0.007,0,ppt,254.28571428571428
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Total trihalomethanes (TTHMs)†,35.3,0.15,80,ppb,235.33333333333331
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Trichloroacetic acid,4.26,0.1,0,ppb,42.599999999999994
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,14-Dioxane,0.12,0.35,0,ppb,0.34285714285714286
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Bromoform,0.758,0.5,0,ppb,1.516
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Chlorate,167.5,210.0,0,ppb,0.7976190476190477
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Manganese,4.78,100.0,0,ppb,0.0478
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Monobromoacetic acid,0.0285,25.0,0,ppb,0.00114
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Monochloroacetic acid,1.27,53.0,0,ppb,0.023962264150943397
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Perchlorate,0.0506,1.0,0,ppb,0.0506
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Perfluorobutane sulfonate (PFBS),0.67,1.0,0,ppt,0.67
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Perfluorohexane sulfonate (PFHXS),0.637,1.0,0,ppt,0.637
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Perfluorooctane sulfonate (PFOS),1.4,1.0,0,ppt,1.4
+RI,Seekonk MA,2861.0,Seekonk Water District,13627,Strontium,0.138,1500.0,0,ppb,9.200000000000001e-05
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Bromodichloromethane,2.29,0.06,0,ppb,38.16666666666667
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Chloroform,1.94,0.4,0,ppb,4.85
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Dibromochloromethane,2.68,0.1,0,ppb,26.8
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Dichloroacetic acid,2.25,0.2,0,ppb,11.25
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Haloacetic acids (HAA5)†,4.7,0.1,60,ppb,47.0
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Nitrate,1.01,0.14,10,ppm,7.2142857142857135
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Total trihalomethanes (TTHMs)†,17.1,0.15,80,ppb,114.00000000000001
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Trichloroacetic acid,0.668,0.1,0,ppb,6.68
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Barium,22.0,700.0,2000,ppb,0.03142857142857143
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Bromoform,0.938,0.5,0,ppb,1.876
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Manganese,82.2,100.0,0,ppb,0.8220000000000001
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Monochloroacetic acid,0.208,53.0,0,ppb,0.0039245283018867925
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,o-Dichlorobenzene,0.2,600.0,600,ppb,0.0003333333333333334
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Pentachlorophenol,0.00769,0.3,1,ppb,0.025633333333333334
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Perchlorate,0.121,1.0,0,ppb,0.121
+RI,Wrentham MA,2864.0,Wrentham Water Division,11686,Tetrachloroethylene (perchloroethylene),0.0667,0.06,5,ppb,1.1116666666666666
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Haloacetic acids (HAA9)†,29.7,0.06,0,ppb,495.0
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Chlorate,13.2,210.0,0,ppb,0.06285714285714285
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Chromium (hexavalent),0.0135,0.02,0,ppb,0.6749999999999999
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Manganese,91.4,100.0,0,ppb,0.914
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Strontium,0.0508,1500.0,0,ppb,3.3866666666666665e-05
+RI,Woonsocket RI,2864.0,Woonsocket Water Department,42856,Vanadium,0.555,21.0,0,ppb,0.02642857142857143
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Bromodichloromethane,6.31,0.06,0,ppb,105.16666666666666
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Bromoform,1.11,0.5,0,ppb,2.22
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Chloroform,7.3,0.4,0,ppb,18.25
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Chromium (hexavalent),0.0724,0.02,0,ppb,3.62
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Dibromoacetic acid,2.18,0.04,0,ppb,54.5
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Dibromochloromethane,4.66,0.1,0,ppb,46.6
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Dichloroacetic acid,4.9,0.2,0,ppb,24.5
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Haloacetic acids (HAA5)†,12.4,0.1,60,ppb,124.0
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Haloacetic acids (HAA9)†,11.5,0.06,0,ppb,191.66666666666669
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Nitrate,2.46,0.14,10,ppm,17.57142857142857
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Total trihalomethanes (TTHMs)†,25.2,0.15,80,ppb,168.0
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Trichloroacetic acid,4.69,0.1,0,ppb,46.9
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,11-Dichloroethane,0.00756,3.0,0,ppb,0.00252
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,14-Dioxane,0.046,0.35,0,ppb,0.13142857142857142
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Aluminum,2.67,600.0,0,ppb,0.00445
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Barium,39.1,700.0,2000,ppb,0.05585714285714286
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Chlorate,81.3,210.0,0,ppb,0.3871428571428571
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Chloromethane,0.489,2.69,0,ppb,0.18178438661710036
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Manganese,43.1,100.0,0,ppb,0.431
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Monobromoacetic acid,0.0695,25.0,0,ppb,0.0027800000000000004
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Monochloroacetic acid,0.83,53.0,0,ppb,0.015660377358490567
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Monochlorobenzene (chlorobenzene),0.641,70.0,100,ppb,0.009157142857142857
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,o-Dichlorobenzene,0.023,600.0,600,ppb,3.8333333333333334e-05
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,p-Dichlorobenzene,0.0224,6.0,75,ppb,0.0037333333333333333
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Perchlorate,0.21,1.0,0,ppb,0.21
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Strontium,0.166,1500.0,0,ppb,0.00011066666666666667
+RI,North Attleborough MA,2864.0,North Attleboro Water Department,28712,Vanadium,0.369,21.0,0,ppb,0.01757142857142857
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Arsenic,0.182,0.004,10,ppb,45.5
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Bromodichloromethane,9.98,0.06,0,ppb,166.33333333333334
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Chloroform,20.9,0.4,0,ppb,52.24999999999999
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Chromium (hexavalent),0.0804,0.02,0,ppb,4.02
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Dibromoacetic acid,0.808,0.04,0,ppb,20.2
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Dibromochloromethane,3.67,0.1,0,ppb,36.699999999999996
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Dichloroacetic acid,8.37,0.2,0,ppb,41.849999999999994
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Haloacetic acids (HAA5)†,20.6,0.1,60,ppb,206.0
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Haloacetic acids (HAA9)†,16.7,0.06,0,ppb,278.3333333333333
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Nitrate,1.47,0.14,10,ppm,10.499999999999998
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Nitrate and nitrite,1.59,0.14,10,ppm,11.357142857142856
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Perfluorooctane sulfonate (PFOS),2.96,1.0,0,ppt,2.96
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Perfluorooctanoic acid (PFOA),1.35,0.007,0,ppt,192.85714285714286
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Total PFOS and PFOA,6.23,0.007,0,ppt,890.0
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Total trihalomethanes (TTHMs)†,39.0,0.15,80,ppb,260.0
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Trichloroacetic acid,10.5,0.1,0,ppb,105.0
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Aluminum,267.0,600.0,0,ppb,0.445
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Barium,37.1,700.0,2000,ppb,0.053000000000000005
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Bromoform,0.174,0.5,0,ppb,0.348
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Chlorate,161.5,210.0,0,ppb,0.7690476190476191
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Manganese,29.7,100.0,0,ppb,0.297
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Monobromoacetic acid,0.031,25.0,0,ppb,0.00124
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Monochloroacetic acid,0.325,53.0,0,ppb,0.006132075471698114
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Perfluorobutane sulfonate (PFBS),0.442,1.0,0,ppt,0.442
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Perfluoroheptanoic acid (PFHPA),0.368,1.0,0,ppt,0.368
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Strontium,0.0726,1500.0,0,ppb,4.84e-05
+RI,Pawtucket RI,2865.0,Pawtucket,99200,Vanadium,0.573,21.0,0,ppb,0.027285714285714285
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Arsenic,0.0435,0.004,10,ppb,10.874999999999998
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Bromodichloromethane,3.23,0.06,0,ppb,53.833333333333336
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Chloroform,50.5,0.4,0,ppb,126.25
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Dibromochloromethane,0.298,0.1,0,ppb,2.9799999999999995
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Dichloroacetic acid,16.7,0.2,0,ppb,83.49999999999999
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Haloacetic acids (HAA5)†,18.8,0.1,60,ppb,188.0
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Haloacetic acids (HAA9)†,18.6,0.06,0,ppb,310.00000000000006
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Total trihalomethanes (TTHMs)†,62.6,0.15,80,ppb,417.33333333333337
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Trichloroacetic acid,1.69,0.1,0,ppb,16.9
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Barium,12.9,700.0,2000,ppb,0.01842857142857143
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Benzo[a]pyrene,0.00313,0.007,0.2,ppb,0.4471428571428571
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Chromium (hexavalent),0.00488,0.02,0,ppb,0.244
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Dibromoacetic acid,0.0269,0.04,0,ppb,0.6725
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Manganese,0.675,100.0,0,ppb,0.006750000000000001
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Monobromoacetic acid,0.0153,25.0,0,ppb,0.000612
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Monochloroacetic acid,0.983,53.0,0,ppb,0.018547169811320756
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Nitrate,0.157,0.14,10,ppm,1.1214285714285712
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Selenium,0.0417,30.0,50,ppb,0.00139
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Strontium,0.0327,1500.0,0,ppb,2.18e-05
+RI,Warren RI,2872.0,Bristol County Water Authority,51000,Vanadium,0.23,21.0,0,ppb,0.010952380952380953
+RI,Providence,2873.0,Exeter Job Corps Center,300,Bromodichloromethane,2.14,0.06,0,ppb,35.66666666666667
+RI,Providence,2873.0,Exeter Job Corps Center,300,Bromoform,1.46,0.5,0,ppb,2.92
+RI,Providence,2873.0,Exeter Job Corps Center,300,Chloroform,1.38,0.4,0,ppb,3.4499999999999997
+RI,Providence,2873.0,Exeter Job Corps Center,300,Dibromoacetic acid,0.958,0.04,0,ppb,23.95
+RI,Providence,2873.0,Exeter Job Corps Center,300,Dibromochloromethane,2.88,0.1,0,ppb,28.799999999999997
+RI,Providence,2873.0,Exeter Job Corps Center,300,Dichloroacetic acid,0.708,0.2,0,ppb,3.5399999999999996
+RI,Providence,2873.0,Exeter Job Corps Center,300,Haloacetic acids (HAA5)†,1.67,0.1,60,ppb,16.7
+RI,Providence,2873.0,Exeter Job Corps Center,300,Nitrate*,2.97,0.14,10,ppm,21.214285714285715
+RI,Providence,2873.0,Exeter Job Corps Center,300,Nitrate and nitrite*,2.36,0.14,10,ppm,16.857142857142854
+RI,Providence,2873.0,Exeter Job Corps Center,300,Perfluorobutane sulfonate (PFBS)*,2.24,1.0,0,ppt,2.24
+RI,Providence,2873.0,Exeter Job Corps Center,300,Perfluoroheptanoic acid (PFHPA)*,3.38,1.0,0,ppt,3.38
+RI,Providence,2873.0,Exeter Job Corps Center,300,Perfluorooctane sulfonate (PFOS)*,10.2,1.0,0,ppt,10.2
+RI,Providence,2873.0,Exeter Job Corps Center,300,Perfluorooctanoic acid (PFOA)*,9.02,0.007,0,ppt,1288.5714285714284
+RI,Providence,2873.0,Exeter Job Corps Center,300,Tetrachloroethylene (perchloroethylene)*,0.176,0.06,5,ppb,2.933333333333333
+RI,Providence,2873.0,Exeter Job Corps Center,300,Total PFOS and PFOA*,19.2,0.007,0,ppt,2742.8571428571427
+RI,Providence,2873.0,Exeter Job Corps Center,300,Total trihalomethanes (TTHMs)†,7.85,0.15,80,ppb,52.333333333333336
+RI,Providence,2873.0,Exeter Job Corps Center,300,Barium*,8.45,700.0,2000,ppb,0.01207142857142857
+RI,Providence,2873.0,Exeter Job Corps Center,300,Chlordane*,0.0479,0.03,2,ppb,1.5966666666666667
+RI,Providence,2873.0,Exeter Job Corps Center,300,Trichlorofluoromethane*,0.113,1300.0,0,ppb,8.692307692307692e-05
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Bromodichloromethane,9.85,0.06,0,ppb,164.16666666666666
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Bromoform,1.6,0.5,0,ppb,3.2
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Chloroform,25.8,0.4,0,ppb,64.5
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dibromoacetic acid,0.632,0.04,0,ppb,15.8
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dibromochloromethane,5.24,0.1,0,ppb,52.4
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dichloroacetic acid,3.43,0.2,0,ppb,17.15
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Haloacetic acids (HAA5)†,12.9,0.1,60,ppb,129.0
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Total trihalomethanes (TTHMs)†,39.4,0.15,80,ppb,262.6666666666667
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Trichloroacetic acid,8.56,0.1,0,ppb,85.6
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Monochloroacetic acid,0.242,53.0,0,ppb,0.004566037735849056
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Bromodichloromethane,9.85,0.06,0,ppb,164.16666666666666
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Bromoform,1.6,0.5,0,ppb,3.2
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Chloroform,25.8,0.4,0,ppb,64.5
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dibromoacetic acid,0.632,0.04,0,ppb,15.8
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dibromochloromethane,5.24,0.1,0,ppb,52.4
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Dichloroacetic acid,3.43,0.2,0,ppb,17.15
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Haloacetic acids (HAA5)†,12.9,0.1,60,ppb,129.0
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Total trihalomethanes (TTHMs)†,39.4,0.15,80,ppb,262.6666666666667
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Trichloroacetic acid,8.56,0.1,0,ppb,85.6
+RI,Narragansett RI,2874.0,Narragansett Water Dept-north End,4425,Monochloroacetic acid,0.242,53.0,0,ppb,0.004566037735849056
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Bromodichloromethane,6.91,0.06,0,ppb,115.16666666666667
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Chloroform,16.4,0.4,0,ppb,40.99999999999999
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Dibromoacetic acid,0.21,0.04,0,ppb,5.25
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Dibromochloromethane,2.01,0.1,0,ppb,20.099999999999998
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Dichloroacetic acid,9.73,0.2,0,ppb,48.65
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Haloacetic acids (HAA5)†,18.8,0.1,60,ppb,188.0
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Total trihalomethanes (TTHMs)†,34.4,0.15,80,ppb,229.33333333333334
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Trichloroacetic acid,7.28,0.1,0,ppb,72.8
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Barium,10.5,700.0,2000,ppb,0.015
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Benzo[a]pyrene,0.00833,0.007,0.2,ppb,1.1900000000000002
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Di(2-ethylhexyl) phthalate,0.417,3.0,6,ppb,0.13899999999999998
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Monochloroacetic acid,0.567,53.0,0,ppb,0.010698113207547169
+RI,Tiverton RI,2878.0,Stone Bridge Fire District,2607,Nitrate,0.03,0.14,10,ppm,0.21428571428571425
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Bromodichloromethane,8.47,0.06,0,ppb,141.16666666666669
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Chloroform,38.3,0.4,0,ppb,95.74999999999999
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Dibromoacetic acid,0.11,0.04,0,ppb,2.75
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Dibromochloromethane,1.41,0.1,0,ppb,14.099999999999998
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Dichloroacetic acid,10.9,0.2,0,ppb,54.5
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Haloacetic acids (HAA5)†,19.6,0.1,60,ppb,196.0
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Haloacetic acids (HAA9)†,23.7,0.06,0,ppb,395.0
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Total trihalomethanes (TTHMs)†,48.6,0.15,80,ppb,324.0
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Trichloroacetic acid,7.67,0.1,0,ppb,76.69999999999999
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Aluminum,17.8,600.0,0,ppb,0.029666666666666668
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Barium,7.2,700.0,2000,ppb,0.010285714285714285
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Chlorate,20.4,210.0,0,ppb,0.09714285714285714
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Manganese,8.19,100.0,0,ppb,0.0819
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Monobromoacetic acid,0.0793,25.0,0,ppb,0.003172
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Monochloroacetic acid,0.549,53.0,0,ppb,0.010358490566037737
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Nitrate,0.0243,0.14,10,ppm,0.17357142857142854
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Perchlorate,0.04,1.0,0,ppb,0.04
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Strontium,0.0191,1500.0,0,ppb,1.2733333333333332e-05
+RI,Fall River MA,2878.0,Fall River Water Department,88857,Vanadium,0.029,21.0,0,ppb,0.001380952380952381
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Chromium (hexavalent),0.226,0.02,0,ppb,11.3
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Dibromoacetic acid,1.15,0.04,0,ppb,28.749999999999996
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Dibromochloromethane,0.367,0.1,0,ppb,3.67
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Haloacetic acids (HAA5)†,3.11,0.1,60,ppb,31.099999999999998
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Haloacetic acids (HAA9)†,2.01,0.06,0,ppb,33.5
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Nitrate,2.18,0.14,10,ppm,15.571428571428571
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Nitrate and nitrite,2.47,0.14,10,ppm,17.642857142857142
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perfluorobutane sulfonate (PFBS),4.33,1.0,0,ppt,4.33
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perfluorononanoic acid (PFNA),7.13,1.0,0,ppt,7.13
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perfluorooctane sulfonate (PFOS),2.91,1.0,0,ppt,2.91
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perfluorooctanoic acid (PFOA),3.29,0.007,0,ppt,470.0
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Total PFOS and PFOA,10.3,0.007,0,ppt,1471.4285714285716
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Total trihalomethanes (TTHMs)†,4.73,0.15,80,ppb,31.53333333333334
+RI,Kingston RI,2881.0,University of Rhode Island,19354,14-Dioxane,0.65,0.35,0,ppb,1.8571428571428574
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Atrazine,0.0235,0.1,3,ppb,0.235
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Barium,10.3,700.0,2000,ppb,0.014714285714285714
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Bromoform,0.983,0.5,0,ppb,1.966
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Chlorate,17.9,210.0,0,ppb,0.08523809523809524
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Ethylbenzene,0.11,300.0,700,ppb,0.00036666666666666667
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Manganese,57.7,100.0,0,ppb,0.5770000000000001
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perchlorate,1.61,1.0,0,ppb,1.61
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Perfluorohexane sulfonate (PFHXS),0.806,1.0,0,ppt,0.806
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Strontium,0.101,1500.0,0,ppb,6.733333333333333e-05
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Vanadium,1.62,21.0,0,ppb,0.07714285714285715
+RI,Kingston RI,2881.0,University of Rhode Island,19354,Xylenes (total),0.751,1800.0,10000,ppb,0.0004172222222222222
+RI,Swansea MA,2885.0,Swansea Water District,17358,Bromodichloromethane,8.68,0.06,0,ppb,144.66666666666666
+RI,Swansea MA,2885.0,Swansea Water District,17358,Bromoform,11.0,0.5,0,ppb,22.0
+RI,Swansea MA,2885.0,Swansea Water District,17358,Chloroform,16.0,0.4,0,ppb,40.0
+RI,Swansea MA,2885.0,Swansea Water District,17358,Chromium (hexavalent),0.0535,0.02,0,ppb,2.675
+RI,Swansea MA,2885.0,Swansea Water District,17358,Dibromoacetic acid,3.5,0.04,0,ppb,87.5
+RI,Swansea MA,2885.0,Swansea Water District,17358,Dibromochloromethane,8.69,0.1,0,ppb,86.89999999999999
+RI,Swansea MA,2885.0,Swansea Water District,17358,Dichloroacetic acid,7.87,0.2,0,ppb,39.35
+RI,Swansea MA,2885.0,Swansea Water District,17358,Haloacetic acids (HAA5)†,23.6,0.1,60,ppb,236.0
+RI,Swansea MA,2885.0,Swansea Water District,17358,Haloacetic acids (HAA9)†,53.3,0.06,0,ppb,888.3333333333334
+RI,Swansea MA,2885.0,Swansea Water District,17358,Nitrate,0.983,0.14,10,ppm,7.0214285714285705
+RI,Swansea MA,2885.0,Swansea Water District,17358,Radium combined (-226 &amp; -228),0.5,0.05,5,pCi/L,10.0
+RI,Swansea MA,2885.0,Swansea Water District,17358,Total trihalomethanes (TTHMs)†,56.6,0.15,80,ppb,377.33333333333337
+RI,Swansea MA,2885.0,Swansea Water District,17358,Trichloroacetic acid,10.7,0.1,0,ppb,106.99999999999999
+RI,Swansea MA,2885.0,Swansea Water District,17358,Aluminum,10.6,600.0,0,ppb,0.017666666666666667
+RI,Swansea MA,2885.0,Swansea Water District,17358,Chlorate,398.9,210.0,0,ppb,1.8995238095238094
+RI,Swansea MA,2885.0,Swansea Water District,17358,Cobalt,0.596,70.0,0,ppb,0.008514285714285714
+RI,Swansea MA,2885.0,Swansea Water District,17358,Manganese,174.8,100.0,0,ppb,1.7480000000000002
+RI,Swansea MA,2885.0,Swansea Water District,17358,Monobromoacetic acid,0.461,25.0,0,ppb,0.01844
+RI,Swansea MA,2885.0,Swansea Water District,17358,Monochloroacetic acid,0.855,53.0,0,ppb,0.016132075471698114
+RI,Swansea MA,2885.0,Swansea Water District,17358,Perchlorate,0.35,1.0,0,ppb,0.35
+RI,Swansea MA,2885.0,Swansea Water District,17358,Strontium,0.12,1500.0,0,ppb,7.999999999999999e-05
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Bromodichloromethane,0.841,0.06,0,ppb,14.016666666666667
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Dibromoacetic acid,0.793,0.04,0,ppb,19.825
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Dibromochloromethane,0.849,0.1,0,ppb,8.489999999999998
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Haloacetic acids (HAA5)†,1.59,0.1,60,ppb,15.9
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Manganese,214.8,100.0,0,ppb,2.148
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Nitrate,1.34,0.14,10,ppm,9.571428571428571
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Radium combined (-226 &amp; -228),0.46,0.05,5,pCi/L,9.2
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Total trihalomethanes (TTHMs)†,9.55,0.15,80,ppb,63.66666666666667
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Trichloroacetic acid,0.656,0.1,0,ppb,6.56
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Barium,103.4,700.0,2000,ppb,0.14771428571428571
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Bromoform,0.236,0.5,0,ppb,0.472
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Chloroform,0.518,0.4,0,ppb,1.295
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Dichloroacetic acid,0.2,0.2,0,ppb,1.0
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Monobromoacetic acid,0.124,25.0,0,ppb,0.00496
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Monochloroacetic acid,0.2,53.0,0,ppb,0.0037735849056603774
+RI,Blackstone MA,2895.0,Blackstone Water Department,8962,Perchlorate,0.0684,1.0,0,ppb,0.0684
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Arsenic,0.265,0.004,10,ppb,66.25
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Bromodichloromethane,8.25,0.06,0,ppb,137.5
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Chloroform,17.7,0.4,0,ppb,44.24999999999999
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Chromium (hexavalent),0.21,0.02,0,ppb,10.5
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Dibromoacetic acid,0.594,0.04,0,ppb,14.85
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Dibromochloromethane,2.66,0.1,0,ppb,26.6
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Dichloroacetic acid,9.12,0.2,0,ppb,45.599999999999994
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Haloacetic acids (HAA5)†,30.2,0.1,60,ppb,302.0
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Haloacetic acids (HAA9)†,38.0,0.06,0,ppb,633.3333333333334
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Nitrate,1.0,0.14,10,ppm,7.142857142857142
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perfluorooctanoic acid (PFOA),0.532,0.007,0,ppt,76.0
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Total trihalomethanes (TTHMs)†,49.7,0.15,80,ppb,331.33333333333337
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Trichloroacetic acid,18.4,0.1,0,ppb,183.99999999999997
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Atrazine,0.00882,0.1,3,ppb,0.08819999999999999
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Barium,51.3,700.0,2000,ppb,0.07328571428571429
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Bromoform,0.0666,0.5,0,ppb,0.1332
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Chlorate,260.6,210.0,0,ppb,1.240952380952381
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Chloromethane,0.00419,2.69,0,ppb,0.0015576208178438662
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Manganese,179.4,100.0,0,ppb,1.794
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Molybdenum,0.163,40.0,0,ppb,0.0040750000000000005
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Monobromoacetic acid,0.251,25.0,0,ppb,0.01004
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Monochloroacetic acid,0.99,53.0,0,ppb,0.01867924528301887
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perchlorate,0.0448,1.0,0,ppb,0.0448
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perfluorobutane sulfonate (PFBS),0.185,1.0,0,ppt,0.185
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perfluoroheptanoic acid (PFHPA),0.544,1.0,0,ppt,0.544
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perfluorohexane sulfonate (PFHXS),0.335,1.0,0,ppt,0.335
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Perfluorooctane sulfonate (PFOS),0.696,1.0,0,ppt,0.696
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Strontium,0.128,1500.0,0,ppb,8.533333333333334e-05
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Tetrachloroethylene (perchloroethylene),0.00918,0.06,5,ppb,0.15300000000000002
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Toluene,0.194,150.0,1000,ppb,0.0012933333333333334
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Vanadium,0.16,21.0,0,ppb,0.007619047619047619
+RI,Bellingham MA,2895.0,Bellingham Dpw Water Sewer Div.,15390,Xylenes (total),0.0129,1800.0,10000,ppb,7.166666666666667e-06
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Bromodichloromethane,3.44,0.06,0,ppb,57.333333333333336
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Chloroform,57.6,0.4,0,ppb,144.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dibromoacetic acid,0.375,0.04,0,ppb,9.375
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dichloroacetic acid,17.7,0.2,0,ppb,88.49999999999999
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Haloacetic acids (HAA5)†,22.5,0.1,60,ppb,225.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Haloacetic acids (HAA9)*†,19.5,0.06,0,ppb,325.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Total trihalomethanes (TTHMs)†,65.3,0.15,80,ppb,435.3333333333333
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Trichloroacetic acid,1.63,0.1,0,ppb,16.299999999999997
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dibromochloromethane,0.0625,0.1,0,ppb,0.625
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Manganese*,1.03,100.0,0,ppb,0.0103
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Monochloroacetic acid,1.4,53.0,0,ppb,0.02641509433962264
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Bromodichloromethane,3.44,0.06,0,ppb,57.333333333333336
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Chloroform,57.6,0.4,0,ppb,144.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dibromoacetic acid,0.375,0.04,0,ppb,9.375
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dichloroacetic acid,17.7,0.2,0,ppb,88.49999999999999
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Haloacetic acids (HAA5)†,22.5,0.1,60,ppb,225.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Haloacetic acids (HAA9)*†,19.5,0.06,0,ppb,325.0
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Total trihalomethanes (TTHMs)†,65.3,0.15,80,ppb,435.3333333333333
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Trichloroacetic acid,1.63,0.1,0,ppb,16.299999999999997
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Dibromochloromethane,0.0625,0.1,0,ppb,0.625
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Manganese*,1.03,100.0,0,ppb,0.0103
+RI,Providence RI,2917.0,East Smithfield Water District - Whipple,500,Monochloroacetic acid,1.4,53.0,0,ppb,0.02641509433962264

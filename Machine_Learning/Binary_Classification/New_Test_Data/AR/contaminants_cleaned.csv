@@ -1,0 +1,1204 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Bromodichloromethane,1.45,0.06,0,ppb,24.166666666666668
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Chloroform,2.84,0.4,0,ppb,7.1
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dibromoacetic acid,0.886,0.04,0,ppb,22.15
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dibromochloromethane,0.755,0.1,0,ppb,7.55
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dichloroacetic acid,1.43,0.2,0,ppb,7.1499999999999995
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Haloacetic acids (HAA5)†,3.64,0.1,60,ppb,36.4
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Total trihalomethanes (TTHMs)†,10.6,0.15,80,ppb,70.66666666666667
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Trichloroacetic acid,1.31,0.1,0,ppb,13.1
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Bromoform,0.0722,0.5,0,ppb,0.1444
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Manganese,3.86,100.0,0,ppb,0.038599999999999995
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Nitrate and nitrite,0.00526,0.14,10,ppm,0.03757142857142857
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Radium combined (-226 &amp; -228),0.05,0.05,5,pCi/L,1.0
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Bromodichloromethane,1.45,0.06,0,ppb,24.166666666666668
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Chloroform,2.84,0.4,0,ppb,7.1
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dibromoacetic acid,0.886,0.04,0,ppb,22.15
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dibromochloromethane,0.755,0.1,0,ppb,7.55
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Dichloroacetic acid,1.43,0.2,0,ppb,7.1499999999999995
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Haloacetic acids (HAA5)†,3.64,0.1,60,ppb,36.4
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Total trihalomethanes (TTHMs)†,10.6,0.15,80,ppb,70.66666666666667
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Trichloroacetic acid,1.31,0.1,0,ppb,13.1
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Bromoform,0.0722,0.5,0,ppb,0.1444
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Manganese,3.86,100.0,0,ppb,0.038599999999999995
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Nitrate and nitrite,0.00526,0.14,10,ppm,0.03757142857142857
+AR,Grady,71601.0,Arkansas Department of Corrections - Cummins Unit Maintenance,3800,Radium combined (-226 &amp; -228),0.05,0.05,5,pCi/L,1.0
+AR,White Hall,71601.0,Arsenal Water,2577,Bromodichloromethane,3.31,0.06,0,ppb,55.16666666666667
+AR,White Hall,71601.0,Arsenal Water,2577,Chloroform,5.78,0.4,0,ppb,14.45
+AR,White Hall,71601.0,Arsenal Water,2577,Dibromoacetic acid,0.2,0.04,0,ppb,5.0
+AR,White Hall,71601.0,Arsenal Water,2577,Dibromochloromethane,1.67,0.1,0,ppb,16.7
+AR,White Hall,71601.0,Arsenal Water,2577,Dichloroacetic acid,2.28,0.2,0,ppb,11.399999999999999
+AR,White Hall,71601.0,Arsenal Water,2577,Haloacetic acids (HAA5)†,3.95,0.1,60,ppb,39.5
+AR,White Hall,71601.0,Arsenal Water,2577,Radium combined (-226 &amp; -228),0.8,0.05,5,pCi/L,16.0
+AR,White Hall,71601.0,Arsenal Water,2577,Total trihalomethanes (TTHMs)†,12.4,0.15,80,ppb,82.66666666666667
+AR,White Hall,71601.0,Arsenal Water,2577,Trichloroacetic acid,1.46,0.1,0,ppb,14.6
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Chloroform,3.24,0.4,0,ppb,8.1
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Dichloroacetic acid,2.28,0.2,0,ppb,11.399999999999999
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Haloacetic acids (HAA5)†,2.8,0.1,60,ppb,27.999999999999996
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Total trihalomethanes (TTHMs)†,3.24,0.15,80,ppb,21.6
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Trichloroacetic acid,0.513,0.1,0,ppb,5.13
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Bromodichloromethane*,0.0424,0.06,0,ppb,0.7066666666666667
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Dibromochloromethane*,0.000451,0.1,0,ppb,0.00451
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Manganese*,1.3,100.0,0,ppb,0.013000000000000001
+AR,Dumas,71601.0,Garrett Bridge Water Association,784,Nitrate and nitrite*,0.00778,0.14,10,ppm,0.05557142857142856
+AR,Gould,71601.0,Gould Municipal,908,Haloacetic acids (HAA5)†,1.76,0.1,60,ppb,17.599999999999998
+AR,Gould,71601.0,Gould Municipal,908,Radium combined (-226 &amp; -228),0.25,0.05,5,pCi/L,5.0
+AR,Gould,71601.0,Gould Municipal,908,Total trihalomethanes (TTHMs)†,0.371,0.15,80,ppb,2.4733333333333336
+AR,Gould,71601.0,Gould Municipal,908,Aluminum,50.0,600.0,0,ppb,0.08333333333333333
+AR,Gould,71601.0,Gould Municipal,908,Chloroform,0.353,0.4,0,ppb,0.8825
+AR,Gould,71601.0,Gould Municipal,908,Dibromochloromethane,0.00431,0.1,0,ppb,0.04309999999999999
+AR,Gould,71601.0,Gould Municipal,908,Dichloroacetic acid,0.314,0.2,0,ppb,1.5699999999999998
+AR,Gould,71601.0,Gould Municipal,908,Manganese,1.4,100.0,0,ppb,0.013999999999999999
+AR,Gould,71601.0,Gould Municipal,908,Monobromoacetic acid,0.929,25.0,0,ppb,0.03716
+AR,Gould,71601.0,Gould Municipal,908,Monochloroacetic acid,0.529,53.0,0,ppb,0.009981132075471699
+AR,Gould,71601.0,Gould Municipal,908,Nitrate and nitrite,0.0246,0.14,10,ppm,0.1757142857142857
+AR,Grady,71601.0,Grady Waterworks,424,Bromodichloromethane,1.13,0.06,0,ppb,18.833333333333332
+AR,Grady,71601.0,Grady Waterworks,424,Chloroform,1.75,0.4,0,ppb,4.375
+AR,Grady,71601.0,Grady Waterworks,424,Dibromochloromethane,1.35,0.1,0,ppb,13.5
+AR,Grady,71601.0,Grady Waterworks,424,Dichloroacetic acid,2.13,0.2,0,ppb,10.649999999999999
+AR,Grady,71601.0,Grady Waterworks,424,Haloacetic acids (HAA5)†,4.3,0.1,60,ppb,42.99999999999999
+AR,Grady,71601.0,Grady Waterworks,424,Total trihalomethanes (TTHMs)†,5.7,0.15,80,ppb,38.0
+AR,Grady,71601.0,Grady Waterworks,424,Trichloroacetic acid,2.17,0.1,0,ppb,21.7
+AR,Grady,71601.0,Grady Waterworks,424,Aluminum,80.0,600.0,0,ppb,0.13333333333333333
+AR,Grady,71601.0,Grady Waterworks,424,Bromoform,0.362,0.5,0,ppb,0.724
+AR,Grady,71601.0,Grady Waterworks,424,Manganese,14.9,100.0,0,ppb,0.149
+AR,Grady,71601.0,Grady Waterworks,424,Nitrate and nitrite,0.00857,0.14,10,ppm,0.06121428571428571
+AR,Grady,71601.0,Grady Waterworks,424,Radium combined (-226 &amp; -228),0.06,0.05,5,pCi/L,1.2
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Bromodichloromethane,0.321,0.06,0,ppb,5.3500000000000005
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Total trihalomethanes (TTHMs)†,1.06,0.15,80,ppb,7.066666666666667
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Aluminum,90.0,600.0,0,ppb,0.15
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Chloroform,0.293,0.4,0,ppb,0.7324999999999999
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Dibromochloromethane,0.0275,0.1,0,ppb,0.27499999999999997
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Haloacetic acids (HAA5)†,0.125,0.1,60,ppb,1.25
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Manganese,16.4,100.0,0,ppb,0.16399999999999998
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Nitrate and nitrite,0.138,0.14,10,ppm,0.9857142857142857
+AR,Pine Bluff,71601.0,Watson Chapel Water Association,6807,Trichloroacetic acid,0.125,0.1,0,ppb,1.25
+AR,Sheridan,71602.0,Little Creek Water,2159,Bromodichloromethane,2.31,0.06,0,ppb,38.5
+AR,Sheridan,71602.0,Little Creek Water,2159,Chloroform,2.04,0.4,0,ppb,5.1
+AR,Sheridan,71602.0,Little Creek Water,2159,Dibromoacetic acid,0.371,0.04,0,ppb,9.275
+AR,Sheridan,71602.0,Little Creek Water,2159,Dibromochloromethane,2.03,0.1,0,ppb,20.299999999999997
+AR,Sheridan,71602.0,Little Creek Water,2159,Dichloroacetic acid,1.03,0.2,0,ppb,5.1499999999999995
+AR,Sheridan,71602.0,Little Creek Water,2159,Haloacetic acids (HAA5)†,1.77,0.1,60,ppb,17.7
+AR,Sheridan,71602.0,Little Creek Water,2159,Total trihalomethanes (TTHMs)†,6.34,0.15,80,ppb,42.266666666666666
+AR,Sheridan,71602.0,Little Creek Water,2159,Trichloroacetic acid,0.357,0.1,0,ppb,3.57
+AR,Malvern,71602.0,Poyen Waterworks,755,Bromodichloromethane,5.66,0.06,0,ppb,94.33333333333334
+AR,Malvern,71602.0,Poyen Waterworks,755,Chloroform,48.6,0.4,0,ppb,121.5
+AR,Malvern,71602.0,Poyen Waterworks,755,Dichloroacetic acid,13.4,0.2,0,ppb,67.0
+AR,Malvern,71602.0,Poyen Waterworks,755,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+AR,Malvern,71602.0,Poyen Waterworks,755,Haloacetic acids (HAA9)†,41.7,0.06,0,ppb,695.0000000000001
+AR,Malvern,71602.0,Poyen Waterworks,755,Total trihalomethanes (TTHMs)†,54.2,0.15,80,ppb,361.33333333333337
+AR,Malvern,71602.0,Poyen Waterworks,755,Trichloroacetic acid,14.9,0.1,0,ppb,149.0
+AR,Malvern,71602.0,Poyen Waterworks,755,Aluminum*,20.0,600.0,0,ppb,0.03333333333333333
+AR,Malvern,71602.0,Poyen Waterworks,755,Dibromoacetic acid*,0.0423,0.04,0,ppb,1.0574999999999999
+AR,Malvern,71602.0,Poyen Waterworks,755,Dibromochloromethane*,0.0216,0.1,0,ppb,0.216
+AR,Malvern,71602.0,Poyen Waterworks,755,Manganese,11.5,100.0,0,ppb,0.115
+AR,Malvern,71602.0,Poyen Waterworks,755,Monobromoacetic acid,0.075,25.0,0,ppb,0.003
+AR,Malvern,71602.0,Poyen Waterworks,755,Monochloroacetic acid,0.677,53.0,0,ppb,0.012773584905660378
+AR,Malvern,71602.0,Poyen Waterworks,755,Nitrate and nitrite*,0.195,0.14,10,ppm,1.3928571428571428
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Bromodichloromethane,2.0,0.06,0,ppb,33.333333333333336
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Chloroform,2.4,0.4,0,ppb,5.999999999999999
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Dibromoacetic acid,1.11,0.04,0,ppb,27.750000000000004
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Dibromochloromethane,1.58,0.1,0,ppb,15.8
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Dichloroacetic acid,1.63,0.2,0,ppb,8.149999999999999
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Haloacetic acids (HAA5)†,4.16,0.1,60,ppb,41.6
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Total trihalomethanes (TTHMs)†,7.59,0.15,80,ppb,50.6
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Trichloroacetic acid,1.18,0.1,0,ppb,11.799999999999999
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Bromoform,0.11,0.5,0,ppb,0.22
+AR,Rison,71603.0,Cleveland County Rural Water Users Association,1637,Monobromoacetic acid,0.288,25.0,0,ppb,0.011519999999999999
+AR,Pickens,71630.0,Pickens Waterworks,49,Bromodichloromethane,1.1,0.06,0,ppb,18.333333333333336
+AR,Pickens,71630.0,Pickens Waterworks,49,Chloroform,9.87,0.4,0,ppb,24.674999999999997
+AR,Pickens,71630.0,Pickens Waterworks,49,Dichloroacetic acid,3.53,0.2,0,ppb,17.65
+AR,Pickens,71630.0,Pickens Waterworks,49,Haloacetic acids (HAA5)†,7.5,0.1,60,ppb,75.0
+AR,Pickens,71630.0,Pickens Waterworks,49,Radium combined (-226 &amp; -228),0.13,0.05,5,pCi/L,2.6
+AR,Pickens,71630.0,Pickens Waterworks,49,Total trihalomethanes (TTHMs)†,10.1,0.15,80,ppb,67.33333333333333
+AR,Pickens,71630.0,Pickens Waterworks,49,Trichloroacetic acid,3.93,0.1,0,ppb,39.3
+AR,Pickens,71630.0,Pickens Waterworks,49,Aluminum,26.7,600.0,0,ppb,0.0445
+AR,Pickens,71630.0,Pickens Waterworks,49,Dibromochloromethane,0.111,0.1,0,ppb,1.1099999999999999
+AR,Pickens,71630.0,Pickens Waterworks,49,Dichloromethane (methylene chloride),0.279,4.0,5,ppb,0.06975
+AR,Pickens,71630.0,Pickens Waterworks,49,Manganese,1.0,100.0,0,ppb,0.01
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Bromodichloromethane,8.38,0.06,0,ppb,139.66666666666669
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Bromoform,29.7,0.5,0,ppb,59.4
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Chloroform,3.93,0.4,0,ppb,9.825
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Dibromoacetic acid,7.2,0.04,0,ppb,180.0
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Dibromochloromethane,19.3,0.1,0,ppb,193.0
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Dichloroacetic acid,2.0,0.2,0,ppb,10.0
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Haloacetic acids (HAA5)†,11.8,0.1,60,ppb,118.0
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Radium combined (-226 &amp; -228)*,0.18,0.05,5,pCi/L,3.5999999999999996
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Total trihalomethanes (TTHMs)†,61.3,0.15,80,ppb,408.6666666666667
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Trichloroacetic acid,1.96,0.1,0,ppb,19.599999999999998
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Chloromethane*,0.233,2.69,0,ppb,0.08661710037174722
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Manganese*,35.1,100.0,0,ppb,0.35100000000000003
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Monobromoacetic acid,0.579,25.0,0,ppb,0.02316
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Monochloroacetic acid,0.0957,53.0,0,ppb,0.0018056603773584905
+AR,Lake Village,71638.0,Lake Chicot Water,1909,Nitrate and nitrite*,0.00786,0.14,10,ppm,0.05614285714285714
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Bromodichloromethane,9.17,0.06,0,ppb,152.83333333333334
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Chloroform,49.0,0.4,0,ppb,122.5
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Chromium (hexavalent)*,0.0881,0.02,0,ppb,4.404999999999999
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Dibromoacetic acid,0.146,0.04,0,ppb,3.65
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Dibromochloromethane,1.93,0.1,0,ppb,19.299999999999997
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Dichloroacetic acid,11.0,0.2,0,ppb,55.0
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Haloacetic acids (HAA9)*†,37.2,0.06,0,ppb,620.0000000000001
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Total trihalomethanes (TTHMs)†,60.1,0.15,80,ppb,400.6666666666667
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Trichloroacetic acid,17.0,0.1,0,ppb,170.0
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Aluminum*,26.7,600.0,0,ppb,0.0445
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Manganese*,46.6,100.0,0,ppb,0.466
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Monobromoacetic acid,0.0261,25.0,0,ppb,0.001044
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Monochloroacetic acid,0.889,53.0,0,ppb,0.016773584905660378
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Nitrate and nitrite*,0.0929,0.14,10,ppm,0.6635714285714285
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Strontium*,0.0583,1500.0,0,ppb,3.8866666666666665e-05
+AR,Stephens,71701.0,Buena Vista-ogemaw,384,Vanadium*,0.683,21.0,0,ppb,0.032523809523809524
+AR,Hampton,71701.0,Calhoun County,1591,Bromodichloromethane,1.06,0.06,0,ppb,17.666666666666668
+AR,Hampton,71701.0,Calhoun County,1591,Chloroform,3.41,0.4,0,ppb,8.525
+AR,Hampton,71701.0,Calhoun County,1591,Dibromoacetic acid,0.529,0.04,0,ppb,13.225
+AR,Hampton,71701.0,Calhoun County,1591,Dibromochloromethane,0.63,0.1,0,ppb,6.3
+AR,Hampton,71701.0,Calhoun County,1591,Dichloroacetic acid,3.09,0.2,0,ppb,15.45
+AR,Hampton,71701.0,Calhoun County,1591,Haloacetic acids (HAA5)†,4.66,0.1,60,ppb,46.6
+AR,Hampton,71701.0,Calhoun County,1591,Total trihalomethanes (TTHMs)†,7.91,0.15,80,ppb,52.733333333333334
+AR,Hampton,71701.0,Calhoun County,1591,Trichloroacetic acid,1.04,0.1,0,ppb,10.4
+AR,Hampton,71701.0,Calhoun County,1591,Bromoform,0.185,0.5,0,ppb,0.37
+AR,Hampton,71701.0,Calhoun County,1591,Manganese,0.5,100.0,0,ppb,0.005
+AR,Hampton,71701.0,Calhoun County,1591,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Camden,71701.0,Camden Waterworks,13275,Bromodichloromethane,7.3,0.06,0,ppb,121.66666666666667
+AR,Camden,71701.0,Camden Waterworks,13275,Chloroform,33.3,0.4,0,ppb,83.24999999999999
+AR,Camden,71701.0,Camden Waterworks,13275,Chromium (hexavalent),0.0881,0.02,0,ppb,4.404999999999999
+AR,Camden,71701.0,Camden Waterworks,13275,Dibromoacetic acid,0.18,0.04,0,ppb,4.5
+AR,Camden,71701.0,Camden Waterworks,13275,Dibromochloromethane,1.42,0.1,0,ppb,14.2
+AR,Camden,71701.0,Camden Waterworks,13275,Dichloroacetic acid,14.7,0.2,0,ppb,73.49999999999999
+AR,Camden,71701.0,Camden Waterworks,13275,Haloacetic acids (HAA5)†,33.4,0.1,60,ppb,333.99999999999994
+AR,Camden,71701.0,Camden Waterworks,13275,Haloacetic acids (HAA9)†,37.2,0.06,0,ppb,620.0000000000001
+AR,Camden,71701.0,Camden Waterworks,13275,Total trihalomethanes (TTHMs)†,43.2,0.15,80,ppb,288.00000000000006
+AR,Camden,71701.0,Camden Waterworks,13275,Trichloroacetic acid,17.1,0.1,0,ppb,171.0
+AR,Camden,71701.0,Camden Waterworks,13275,Aluminum,26.7,600.0,0,ppb,0.0445
+AR,Camden,71701.0,Camden Waterworks,13275,Manganese,46.6,100.0,0,ppb,0.466
+AR,Camden,71701.0,Camden Waterworks,13275,Monobromoacetic acid,0.249,25.0,0,ppb,0.00996
+AR,Camden,71701.0,Camden Waterworks,13275,Monochloroacetic acid,1.15,53.0,0,ppb,0.02169811320754717
+AR,Camden,71701.0,Camden Waterworks,13275,Nitrate and nitrite,0.0929,0.14,10,ppm,0.6635714285714285
+AR,Camden,71701.0,Camden Waterworks,13275,Strontium,0.0583,1500.0,0,ppb,3.8866666666666665e-05
+AR,Camden,71701.0,Camden Waterworks,13275,Vanadium,0.683,21.0,0,ppb,0.032523809523809524
+AR,Hampton,71701.0,Hampton Waterworks,1327,Bromodichloromethane,0.744,0.06,0,ppb,12.4
+AR,Hampton,71701.0,Hampton Waterworks,1327,Chloroform,1.77,0.4,0,ppb,4.425
+AR,Hampton,71701.0,Hampton Waterworks,1327,Dibromoacetic acid,0.457,0.04,0,ppb,11.425
+AR,Hampton,71701.0,Hampton Waterworks,1327,Dibromochloromethane,2.23,0.1,0,ppb,22.299999999999997
+AR,Hampton,71701.0,Hampton Waterworks,1327,Dichloroacetic acid,1.59,0.2,0,ppb,7.95
+AR,Hampton,71701.0,Hampton Waterworks,1327,Haloacetic acids (HAA5)†,2.94,0.1,60,ppb,29.4
+AR,Hampton,71701.0,Hampton Waterworks,1327,Total trihalomethanes (TTHMs)†,4.47,0.15,80,ppb,29.8
+AR,Hampton,71701.0,Hampton Waterworks,1327,Trichloroacetic acid,0.729,0.1,0,ppb,7.289999999999999
+AR,Hampton,71701.0,Hampton Waterworks,1327,Bromoform,0.244,0.5,0,ppb,0.488
+AR,Hampton,71701.0,Hampton Waterworks,1327,Di(2-ethylhexyl) adipate,0.12,200.0,400,ppb,0.0006
+AR,Hampton,71701.0,Hampton Waterworks,1327,Manganese,0.65,100.0,0,ppb,0.006500000000000001
+AR,Hampton,71701.0,Hampton Waterworks,1327,Monobromoacetic acid,0.186,25.0,0,ppb,0.0074399999999999996
+AR,Harrell,71701.0,Harrell Waterworks,296,Dichloroacetic acid,1.0,0.2,0,ppb,5.0
+AR,Harrell,71701.0,Harrell Waterworks,296,Haloacetic acids (HAA5)†,1.7,0.1,60,ppb,17.0
+AR,Harrell,71701.0,Harrell Waterworks,296,Total trihalomethanes (TTHMs)†,0.433,0.15,80,ppb,2.8866666666666667
+AR,Harrell,71701.0,Harrell Waterworks,296,Trichloroacetic acid,0.333,0.1,0,ppb,3.33
+AR,Harrell,71701.0,Harrell Waterworks,296,Chloroform,0.424,0.4,0,ppb,1.0599999999999998
+AR,Harrell,71701.0,Harrell Waterworks,296,Manganese,0.65,100.0,0,ppb,0.006500000000000001
+AR,Harrell,71701.0,Harrell Waterworks,296,Monobromoacetic acid,0.367,25.0,0,ppb,0.01468
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Bromodichloromethane,10.8,0.06,0,ppb,180.00000000000003
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Chloroform,55.8,0.4,0,ppb,139.49999999999997
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Chromium (hexavalent)*,0.0881,0.02,0,ppb,4.404999999999999
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Dibromoacetic acid,0.148,0.04,0,ppb,3.6999999999999997
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Dibromochloromethane,2.45,0.1,0,ppb,24.5
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Dichloroacetic acid,9.23,0.2,0,ppb,46.15
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Haloacetic acids (HAA5)†,22.3,0.1,60,ppb,223.0
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Haloacetic acids (HAA9)*†,37.2,0.06,0,ppb,620.0000000000001
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Total trihalomethanes (TTHMs)†,69.1,0.15,80,ppb,460.66666666666663
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Trichloroacetic acid,12.4,0.1,0,ppb,124.0
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Aluminum*,26.7,600.0,0,ppb,0.0445
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Manganese*,46.6,100.0,0,ppb,0.466
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Monobromoacetic acid,0.0261,25.0,0,ppb,0.001044
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Monochloroacetic acid,0.47,53.0,0,ppb,0.008867924528301886
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Nitrate and nitrite*,0.0929,0.14,10,ppm,0.6635714285714285
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Strontium*,0.0583,1500.0,0,ppb,3.8866666666666665e-05
+AR,Chidester,71701.0,Highway 4 24 Water Association,2165,Vanadium*,0.683,21.0,0,ppb,0.032523809523809524
+AR,Felsenthal,71724.0,Felsenthal Water,150,Bromodichloromethane,3.27,0.06,0,ppb,54.5
+AR,Felsenthal,71724.0,Felsenthal Water,150,Bromoform,8.74,0.5,0,ppb,17.48
+AR,Felsenthal,71724.0,Felsenthal Water,150,Chloroform,2.78,0.4,0,ppb,6.949999999999999
+AR,Felsenthal,71724.0,Felsenthal Water,150,Dibromoacetic acid,9.43,0.04,0,ppb,235.75
+AR,Felsenthal,71724.0,Felsenthal Water,150,Dibromochloromethane,4.24,0.1,0,ppb,42.4
+AR,Felsenthal,71724.0,Felsenthal Water,150,Dichloroacetic acid,2.99,0.2,0,ppb,14.950000000000001
+AR,Felsenthal,71724.0,Felsenthal Water,150,Haloacetic acids (HAA5)†,15.2,0.1,60,ppb,151.99999999999997
+AR,Felsenthal,71724.0,Felsenthal Water,150,Radium combined (-226 &amp; -228),0.43,0.05,5,pCi/L,8.6
+AR,Felsenthal,71724.0,Felsenthal Water,150,Total trihalomethanes (TTHMs)†,26.8,0.15,80,ppb,178.66666666666669
+AR,Felsenthal,71724.0,Felsenthal Water,150,Trichloroacetic acid,1.9,0.1,0,ppb,18.999999999999996
+AR,Felsenthal,71724.0,Felsenthal Water,150,Chloromethane,0.362,2.69,0,ppb,0.13457249070631971
+AR,Felsenthal,71724.0,Felsenthal Water,150,Manganese,7.7,100.0,0,ppb,0.077
+AR,Felsenthal,71724.0,Felsenthal Water,150,Monobromoacetic acid,0.889,25.0,0,ppb,0.03556
+AR,Strong,71724.0,Johnson Township Water Association,794,Arsenic,0.4,0.004,10,ppb,100.0
+AR,Strong,71724.0,Johnson Township Water Association,794,Bromodichloromethane,2.58,0.06,0,ppb,43.0
+AR,Strong,71724.0,Johnson Township Water Association,794,Bromoform,29.2,0.5,0,ppb,58.4
+AR,Strong,71724.0,Johnson Township Water Association,794,Chloroform,1.08,0.4,0,ppb,2.7
+AR,Strong,71724.0,Johnson Township Water Association,794,Dibromoacetic acid,6.9,0.04,0,ppb,172.5
+AR,Strong,71724.0,Johnson Township Water Association,794,Dibromochloromethane,8.36,0.1,0,ppb,83.6
+AR,Strong,71724.0,Johnson Township Water Association,794,Dichloroacetic acid,0.55,0.2,0,ppb,2.75
+AR,Strong,71724.0,Johnson Township Water Association,794,Haloacetic acids (HAA5)†,8.54,0.1,60,ppb,85.39999999999999
+AR,Strong,71724.0,Johnson Township Water Association,794,Total trihalomethanes (TTHMs)†,52.8,0.15,80,ppb,352.0
+AR,Strong,71724.0,Johnson Township Water Association,794,Trichloroacetic acid,0.355,0.1,0,ppb,3.55
+AR,Strong,71724.0,Johnson Township Water Association,794,Manganese,2.85,100.0,0,ppb,0.0285
+AR,Strong,71724.0,Johnson Township Water Association,794,Monobromoacetic acid,0.732,25.0,0,ppb,0.02928
+AR,Strong,71724.0,Johnson Township Water Association,794,Selenium,1.0,30.0,50,ppb,0.03333333333333333
+AR,Junction City,71724.0,Junction City Water System,810,Bromodichloromethane,4.14,0.06,0,ppb,69.0
+AR,Junction City,71724.0,Junction City Water System,810,Bromoform,21.3,0.5,0,ppb,42.6
+AR,Junction City,71724.0,Junction City Water System,810,Chloroform,1.9,0.4,0,ppb,4.749999999999999
+AR,Junction City,71724.0,Junction City Water System,810,Dibromoacetic acid,5.53,0.04,0,ppb,138.25
+AR,Junction City,71724.0,Junction City Water System,810,Dibromochloromethane,13.4,0.1,0,ppb,134.0
+AR,Junction City,71724.0,Junction City Water System,810,Dichloroacetic acid,0.734,0.2,0,ppb,3.67
+AR,Junction City,71724.0,Junction City Water System,810,Haloacetic acids (HAA5)†,9.63,0.1,60,ppb,96.3
+AR,Junction City,71724.0,Junction City Water System,810,Haloacetic acids (HAA9)†,17.4,0.06,0,ppb,290.0
+AR,Junction City,71724.0,Junction City Water System,810,Radium combined (-226 &amp; -228),0.63,0.05,5,pCi/L,12.6
+AR,Junction City,71724.0,Junction City Water System,810,Total trihalomethanes (TTHMs)†,40.8,0.15,80,ppb,272.0
+AR,Junction City,71724.0,Junction City Water System,810,Trichloroacetic acid,0.816,0.1,0,ppb,8.159999999999998
+AR,Junction City,71724.0,Junction City Water System,810,Aluminum,3.85,600.0,0,ppb,0.006416666666666667
+AR,Junction City,71724.0,Junction City Water System,810,Barium,7.1,700.0,2000,ppb,0.010142857142857143
+AR,Junction City,71724.0,Junction City Water System,810,Dichloromethane (methylene chloride),0.3,4.0,5,ppb,0.075
+AR,Junction City,71724.0,Junction City Water System,810,Manganese,1.58,100.0,0,ppb,0.0158
+AR,Junction City,71724.0,Junction City Water System,810,Monobromoacetic acid,0.234,25.0,0,ppb,0.00936
+AR,Junction City,71724.0,Junction City Water System,810,Monochloroacetic acid,2.33,53.0,0,ppb,0.0439622641509434
+AR,Junction City,71724.0,Junction City Water System,810,Nitrate and nitrite,0.00217,0.14,10,ppm,0.015499999999999998
+AR,Junction City,71724.0,Junction City Water System,810,Selenium,0.81,30.0,50,ppb,0.027000000000000003
+AR,El Dorado,71724.0,Lisbon Water,439,Bromodichloromethane,3.5,0.06,0,ppb,58.333333333333336
+AR,El Dorado,71724.0,Lisbon Water,439,Bromoform,8.26,0.5,0,ppb,16.52
+AR,El Dorado,71724.0,Lisbon Water,439,Chloroform,2.3,0.4,0,ppb,5.749999999999999
+AR,El Dorado,71724.0,Lisbon Water,439,Dibromoacetic acid,4.69,0.04,0,ppb,117.25000000000001
+AR,El Dorado,71724.0,Lisbon Water,439,Dibromochloromethane,7.77,0.1,0,ppb,77.69999999999999
+AR,El Dorado,71724.0,Lisbon Water,439,Dichloroacetic acid,1.5,0.2,0,ppb,7.5
+AR,El Dorado,71724.0,Lisbon Water,439,Haloacetic acids (HAA5)†,7.86,0.1,60,ppb,78.6
+AR,El Dorado,71724.0,Lisbon Water,439,Total trihalomethanes (TTHMs)†,39.1,0.15,80,ppb,260.6666666666667
+AR,El Dorado,71724.0,Lisbon Water,439,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+AR,El Dorado,71724.0,Lisbon Water,439,Chloromethane,0.145,2.69,0,ppb,0.05390334572490706
+AR,El Dorado,71724.0,Lisbon Water,439,Monobromoacetic acid,0.25,25.0,0,ppb,0.01
+AR,El Dorado,71724.0,Lisbon Water,439,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Norphlet,71724.0,Norphlet,1112,Bromodichloromethane,3.92,0.06,0,ppb,65.33333333333333
+AR,Norphlet,71724.0,Norphlet,1112,Bromoform,13.5,0.5,0,ppb,27.0
+AR,Norphlet,71724.0,Norphlet,1112,Chloroform,1.93,0.4,0,ppb,4.824999999999999
+AR,Norphlet,71724.0,Norphlet,1112,Dibromoacetic acid,4.97,0.04,0,ppb,124.24999999999999
+AR,Norphlet,71724.0,Norphlet,1112,Dibromochloromethane,10.3,0.1,0,ppb,103.0
+AR,Norphlet,71724.0,Norphlet,1112,Dichloroacetic acid,0.886,0.2,0,ppb,4.43
+AR,Norphlet,71724.0,Norphlet,1112,Haloacetic acids (HAA5)†,7.43,0.1,60,ppb,74.3
+AR,Norphlet,71724.0,Norphlet,1112,Total trihalomethanes (TTHMs)†,33.1,0.15,80,ppb,220.66666666666669
+AR,Norphlet,71724.0,Norphlet,1112,Trichloroacetic acid,0.805,0.1,0,ppb,8.05
+AR,Norphlet,71724.0,Norphlet,1112,Chloromethane,0.883,2.69,0,ppb,0.32825278810408925
+AR,Norphlet,71724.0,Norphlet,1112,Manganese,2.45,100.0,0,ppb,0.0245
+AR,Norphlet,71724.0,Norphlet,1112,Monobromoacetic acid,0.771,25.0,0,ppb,0.03084
+AR,Norphlet,71724.0,Norphlet,1112,Nitrate and nitrite,0.03,0.14,10,ppm,0.21428571428571425
+AR,Norphlet,71724.0,Norphlet,1112,Xylenes (total),0.0838,1800.0,10000,ppb,4.6555555555555556e-05
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Bromodichloromethane,5.53,0.06,0,ppb,92.16666666666667
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Bromoform,20.2,0.5,0,ppb,40.4
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Chloroform,2.86,0.4,0,ppb,7.1499999999999995
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Dibromoacetic acid,5.8,0.04,0,ppb,145.0
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Dibromochloromethane,15.9,0.1,0,ppb,159.0
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Dichloroacetic acid,1.29,0.2,0,ppb,6.45
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Haloacetic acids (HAA5)†,8.59,0.1,60,ppb,85.89999999999999
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Total trihalomethanes (TTHMs)†,45.5,0.15,80,ppb,303.33333333333337
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Trichloroacetic acid,0.988,0.1,0,ppb,9.879999999999999
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Manganese,5.2,100.0,0,ppb,0.052000000000000005
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Monobromoacetic acid,0.513,25.0,0,ppb,0.02052
+AR,El Dorado,71724.0,Wesson-Newell Water Association,658,Nitrate and nitrite,0.0717,0.14,10,ppm,0.5121428571428571
+AR,Magnolia,71740.0,Free Hope Water,165,Bromodichloromethane,7.02,0.06,0,ppb,117.0
+AR,Magnolia,71740.0,Free Hope Water,165,Chlorite*,135.8,50.0,1000,ppb,2.716
+AR,Magnolia,71740.0,Free Hope Water,165,Chloroform,22.3,0.4,0,ppb,55.75
+AR,Magnolia,71740.0,Free Hope Water,165,Chromium (hexavalent)*,0.364,0.02,0,ppb,18.2
+AR,Magnolia,71740.0,Free Hope Water,165,Dibromoacetic acid,0.3,0.04,0,ppb,7.5
+AR,Magnolia,71740.0,Free Hope Water,165,Dibromochloromethane,2.09,0.1,0,ppb,20.9
+AR,Magnolia,71740.0,Free Hope Water,165,Dichloroacetic acid,4.34,0.2,0,ppb,21.7
+AR,Magnolia,71740.0,Free Hope Water,165,Haloacetic acids (HAA5)†,9.6,0.1,60,ppb,95.99999999999999
+AR,Magnolia,71740.0,Free Hope Water,165,Haloacetic acids (HAA9)*†,20.3,0.06,0,ppb,338.33333333333337
+AR,Magnolia,71740.0,Free Hope Water,165,Radium combined (-226 &amp; -228)*,0.13,0.05,5,pCi/L,2.6
+AR,Magnolia,71740.0,Free Hope Water,165,Total trihalomethanes (TTHMs)†,31.4,0.15,80,ppb,209.33333333333334
+AR,Magnolia,71740.0,Free Hope Water,165,Trichloroacetic acid,4.83,0.1,0,ppb,48.3
+AR,Magnolia,71740.0,Free Hope Water,165,14-Dioxane*,0.0788,0.35,0,ppb,0.22514285714285714
+AR,Magnolia,71740.0,Free Hope Water,165,Aluminum*,379.7,600.0,0,ppb,0.6328333333333334
+AR,Magnolia,71740.0,Free Hope Water,165,Bromoform*,0.0356,0.5,0,ppb,0.0712
+AR,Magnolia,71740.0,Free Hope Water,165,Chlorate*,223.9,210.0,0,ppb,1.0661904761904761
+AR,Magnolia,71740.0,Free Hope Water,165,Manganese*,27.6,100.0,0,ppb,0.276
+AR,Magnolia,71740.0,Free Hope Water,165,Monobromoacetic acid*,0.503,25.0,0,ppb,0.02012
+AR,Magnolia,71740.0,Free Hope Water,165,Monochloroacetic acid,0.147,53.0,0,ppb,0.0027735849056603774
+AR,Magnolia,71740.0,Free Hope Water,165,Nitrate and nitrite*,0.0932,0.14,10,ppm,0.6657142857142857
+AR,Magnolia,71740.0,Free Hope Water,165,Strontium*,36.2,1500.0,0,ppb,0.024133333333333336
+AR,Magnolia,71740.0,Free Hope Water,165,Vanadium*,0.52,21.0,0,ppb,0.024761904761904763
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Bromodichloromethane,2.11,0.06,0,ppb,35.166666666666664
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Chloroform,3.81,0.4,0,ppb,9.525
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Dibromoacetic acid,0.814,0.04,0,ppb,20.349999999999998
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Dibromochloromethane,1.66,0.1,0,ppb,16.599999999999998
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Dichloroacetic acid,1.98,0.2,0,ppb,9.899999999999999
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Haloacetic acids (HAA5)†,3.53,0.1,60,ppb,35.3
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Radium combined (-226 &amp; -228),0.63,0.05,5,pCi/L,12.6
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Total trihalomethanes (TTHMs)†,9.43,0.15,80,ppb,62.86666666666667
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Trichloroacetic acid,0.75,0.1,0,ppb,7.5
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Barium,93.3,700.0,2000,ppb,0.13328571428571429
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Bromoform,0.688,0.5,0,ppb,1.376
+AR,Mc Neil,71740.0,McNeil Rural Water Association,900,Manganese,58.7,100.0,0,ppb,0.5870000000000001
+AR,Hope,71801.0,Perrytown,150,Manganese,1.1,100.0,0,ppb,0.011000000000000001
+AR,Hope,71801.0,Perrytown,150,Nitrate and nitrite,0.05,0.14,10,ppm,0.35714285714285715
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Arsenic,1.26,0.004,10,ppb,315.0
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Bromodichloromethane,0.962,0.06,0,ppb,16.033333333333335
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Bromoform,1.83,0.5,0,ppb,3.66
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Dibromoacetic acid,1.96,0.04,0,ppb,49.0
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Dibromochloromethane,1.37,0.1,0,ppb,13.700000000000001
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Haloacetic acids (HAA5)†,3.53,0.1,60,ppb,35.3
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Nitrate,0.794,0.14,10,ppm,5.671428571428571
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Nitrate and nitrite,0.757,0.14,10,ppm,5.407142857142857
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Radium combined (-226 &amp; -228),0.14,0.05,5,pCi/L,2.8000000000000003
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Total trihalomethanes (TTHMs)†,15.6,0.15,80,ppb,104.0
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Barium,230.0,700.0,2000,ppb,0.32857142857142857
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Chloroform,0.277,0.4,0,ppb,0.6925
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Dichloroacetic acid,0.25,0.2,0,ppb,1.25
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Manganese,41.1,100.0,0,ppb,0.41100000000000003
+AR,Ashdown,71820.0,Ashdown Waterworks,4723,Monobromoacetic acid,1.31,25.0,0,ppb,0.0524
+AR,Lockesburg,71823.0,Lockesburg,739,Bromodichloromethane,0.16,0.06,0,ppb,2.666666666666667
+AR,Lockesburg,71823.0,Lockesburg,739,Dibromoacetic acid,0.329,0.04,0,ppb,8.225
+AR,Lockesburg,71823.0,Lockesburg,739,Dibromochloromethane,0.301,0.1,0,ppb,3.01
+AR,Lockesburg,71823.0,Lockesburg,739,Haloacetic acids (HAA5)†,0.329,0.1,60,ppb,3.29
+AR,Lockesburg,71823.0,Lockesburg,739,Nitrate,0.86,0.14,10,ppm,6.142857142857142
+AR,Lockesburg,71823.0,Lockesburg,739,Nitrate and nitrite,0.86,0.14,10,ppm,6.142857142857142
+AR,Lockesburg,71823.0,Lockesburg,739,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+AR,Lockesburg,71823.0,Lockesburg,739,Total trihalomethanes (TTHMs)†,3.61,0.15,80,ppb,24.066666666666666
+AR,Lockesburg,71823.0,Lockesburg,739,Bromoform,0.585,0.5,0,ppb,1.17
+AR,Lockesburg,71823.0,Lockesburg,739,Chloroform,0.165,0.4,0,ppb,0.4125
+AR,Lockesburg,71823.0,Lockesburg,739,Manganese,2.33,100.0,0,ppb,0.0233
+AR,Texarkana,71831.0,Cottonshed,72,Bromodichloromethane,1.08,0.06,0,ppb,18.000000000000004
+AR,Texarkana,71831.0,Cottonshed,72,Chloroform,4.14,0.4,0,ppb,10.349999999999998
+AR,Texarkana,71831.0,Cottonshed,72,Dibromoacetic acid,0.125,0.04,0,ppb,3.125
+AR,Texarkana,71831.0,Cottonshed,72,Dibromochloromethane,0.536,0.1,0,ppb,5.36
+AR,Texarkana,71831.0,Cottonshed,72,Haloacetic acids (HAA5)†,0.6,0.1,60,ppb,5.999999999999999
+AR,Texarkana,71831.0,Cottonshed,72,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+AR,Texarkana,71831.0,Cottonshed,72,Total trihalomethanes (TTHMs)†,9.39,0.15,80,ppb,62.60000000000001
+AR,Texarkana,71831.0,Cottonshed,72,Trichloroacetic acid,0.35,0.1,0,ppb,3.4999999999999996
+AR,Texarkana,71831.0,Cottonshed,72,Bromoform,0.0807,0.5,0,ppb,0.1614
+AR,Texarkana,71831.0,Cottonshed,72,Dichloroacetic acid,0.125,0.2,0,ppb,0.625
+AR,Texarkana,71831.0,Cottonshed,72,Manganese,1.1,100.0,0,ppb,0.011000000000000001
+AR,Grannis,71841.0,Grannis Waterworks,548,Bromodichloromethane,3.64,0.06,0,ppb,60.66666666666667
+AR,Grannis,71841.0,Grannis Waterworks,548,Chloroform,27.5,0.4,0,ppb,68.75
+AR,Grannis,71841.0,Grannis Waterworks,548,Dichloroacetic acid,11.3,0.2,0,ppb,56.5
+AR,Grannis,71841.0,Grannis Waterworks,548,Haloacetic acids (HAA5)†,24.8,0.1,60,ppb,248.0
+AR,Grannis,71841.0,Grannis Waterworks,548,Haloacetic acids (HAA9)†,24.9,0.06,0,ppb,415.0
+AR,Grannis,71841.0,Grannis Waterworks,548,Nitrate and nitrite*,0.292,0.14,10,ppm,2.0857142857142854
+AR,Grannis,71841.0,Grannis Waterworks,548,Total trihalomethanes (TTHMs)†,31.2,0.15,80,ppb,208.0
+AR,Grannis,71841.0,Grannis Waterworks,548,Trichloroacetic acid,13.1,0.1,0,ppb,131.0
+AR,Grannis,71841.0,Grannis Waterworks,548,Aluminum*,84.0,600.0,0,ppb,0.14
+AR,Grannis,71841.0,Grannis Waterworks,548,Dibromoacetic acid,0.037,0.04,0,ppb,0.9249999999999999
+AR,Grannis,71841.0,Grannis Waterworks,548,Dibromochloromethane*,0.0055,0.1,0,ppb,0.05499999999999999
+AR,Grannis,71841.0,Grannis Waterworks,548,Manganese,2.7,100.0,0,ppb,0.027000000000000003
+AR,Grannis,71841.0,Grannis Waterworks,548,Monochloroacetic acid,0.378,53.0,0,ppb,0.007132075471698114
+AR,Bauxite,71909.0,Bauxite Water,574,Bromodichloromethane,9.52,0.06,0,ppb,158.66666666666666
+AR,Bauxite,71909.0,Bauxite Water,574,Chloroform,33.8,0.4,0,ppb,84.49999999999999
+AR,Bauxite,71909.0,Bauxite Water,574,Dibromochloromethane,2.26,0.1,0,ppb,22.599999999999998
+AR,Bauxite,71909.0,Bauxite Water,574,Dichloroacetic acid,7.12,0.2,0,ppb,35.6
+AR,Bauxite,71909.0,Bauxite Water,574,Haloacetic acids (HAA5)†,16.7,0.1,60,ppb,166.99999999999997
+AR,Bauxite,71909.0,Bauxite Water,574,Haloacetic acids (HAA9)*†,20.5,0.06,0,ppb,341.6666666666667
+AR,Bauxite,71909.0,Bauxite Water,574,Total trihalomethanes (TTHMs)†,45.6,0.15,80,ppb,304.0
+AR,Bauxite,71909.0,Bauxite Water,574,Trichloroacetic acid,8.97,0.1,0,ppb,89.7
+AR,Bauxite,71909.0,Bauxite Water,574,Aluminum*,20.0,600.0,0,ppb,0.03333333333333333
+AR,Bauxite,71909.0,Bauxite Water,574,Chromium (hexavalent)*,0.0395,0.02,0,ppb,1.975
+AR,Bauxite,71909.0,Bauxite Water,574,Dibromoacetic acid,0.0714,0.04,0,ppb,1.7850000000000001
+AR,Bauxite,71909.0,Bauxite Water,574,Manganese*,0.346,100.0,0,ppb,0.0034599999999999995
+AR,Bauxite,71909.0,Bauxite Water,574,Monobromoacetic acid,0.0694,25.0,0,ppb,0.0027760000000000003
+AR,Bauxite,71909.0,Bauxite Water,574,Monochloroacetic acid,0.467,53.0,0,ppb,0.00881132075471698
+AR,Bauxite,71909.0,Bauxite Water,574,Nitrate and nitrite*,0.0657,0.14,10,ppm,0.4692857142857142
+AR,Bauxite,71909.0,Bauxite Water,574,Strontium*,0.0501,1500.0,0,ppb,3.34e-05
+AR,Bauxite,71909.0,Bauxite Water,574,Vanadium*,0.0275,21.0,0,ppb,0.0013095238095238095
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Bromodichloromethane,6.92,0.06,0,ppb,115.33333333333334
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Chloroform,47.8,0.4,0,ppb,119.49999999999999
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Dibromochloromethane,0.75,0.1,0,ppb,7.5
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Dichloroacetic acid,5.49,0.2,0,ppb,27.45
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Haloacetic acids (HAA5)†,13.9,0.1,60,ppb,139.0
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Total trihalomethanes (TTHMs)†,55.5,0.15,80,ppb,370.0
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Trichloroacetic acid,8.24,0.1,0,ppb,82.39999999999999
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Monobromoacetic acid,0.0771,25.0,0,ppb,0.003084
+AR,Alexander,71909.0,Saline County Water Works and Sanitary Sewer Public Facilities Board,1900,Monochloroacetic acid,0.0917,53.0,0,ppb,0.0017301886792452832
+AR,Malvern,71909.0,Tull Water,1987,Bromodichloromethane,5.74,0.06,0,ppb,95.66666666666667
+AR,Malvern,71909.0,Tull Water,1987,Chloroform,49.8,0.4,0,ppb,124.49999999999999
+AR,Malvern,71909.0,Tull Water,1987,Dichloroacetic acid,13.3,0.2,0,ppb,66.5
+AR,Malvern,71909.0,Tull Water,1987,Haloacetic acids (HAA5)†,30.6,0.1,60,ppb,306.0
+AR,Malvern,71909.0,Tull Water,1987,Total trihalomethanes (TTHMs)†,55.6,0.15,80,ppb,370.6666666666667
+AR,Malvern,71909.0,Tull Water,1987,Trichloroacetic acid,16.6,0.1,0,ppb,166.0
+AR,Malvern,71909.0,Tull Water,1987,Chlorate,234.9,210.0,0,ppb,1.1185714285714285
+AR,Malvern,71909.0,Tull Water,1987,Chromium (hexavalent),0.0389,0.02,0,ppb,1.9449999999999998
+AR,Malvern,71909.0,Tull Water,1987,Dibromoacetic acid,0.0229,0.04,0,ppb,0.5725
+AR,Malvern,71909.0,Tull Water,1987,Manganese,5.2,100.0,0,ppb,0.052000000000000005
+AR,Malvern,71909.0,Tull Water,1987,Molybdenum,0.45,40.0,0,ppb,0.01125
+AR,Malvern,71909.0,Tull Water,1987,Monobromoacetic acid,0.0521,25.0,0,ppb,0.002084
+AR,Malvern,71909.0,Tull Water,1987,Monochloroacetic acid,0.621,53.0,0,ppb,0.011716981132075472
+AR,Malvern,71909.0,Tull Water,1987,Strontium,0.0347,1500.0,0,ppb,2.3133333333333334e-05
+AR,Malvern,71909.0,Tull Water,1987,Vanadium,28.4,21.0,0,ppb,1.3523809523809522
+AR,Norman,71933.0,Norman Waterworks,850,Bromodichloromethane,5.53,0.06,0,ppb,92.16666666666667
+AR,Norman,71933.0,Norman Waterworks,850,Chloroform,45.6,0.4,0,ppb,114.0
+AR,Norman,71933.0,Norman Waterworks,850,Dibromochloromethane,0.365,0.1,0,ppb,3.65
+AR,Norman,71933.0,Norman Waterworks,850,Dichloroacetic acid,13.2,0.2,0,ppb,65.99999999999999
+AR,Norman,71933.0,Norman Waterworks,850,Haloacetic acids (HAA5)†,24.2,0.1,60,ppb,241.99999999999997
+AR,Norman,71933.0,Norman Waterworks,850,Total trihalomethanes (TTHMs)†,51.5,0.15,80,ppb,343.33333333333337
+AR,Norman,71933.0,Norman Waterworks,850,Trichloroacetic acid,10.2,0.1,0,ppb,101.99999999999999
+AR,Norman,71933.0,Norman Waterworks,850,Aluminum*,16.7,600.0,0,ppb,0.02783333333333333
+AR,Norman,71933.0,Norman Waterworks,850,Di(2-ethylhexyl) phthalate*,0.286,3.0,6,ppb,0.09533333333333333
+AR,Norman,71933.0,Norman Waterworks,850,Manganese*,4.78,100.0,0,ppb,0.0478
+AR,Norman,71933.0,Norman Waterworks,850,Monobromoacetic acid,0.0521,25.0,0,ppb,0.002084
+AR,Norman,71933.0,Norman Waterworks,850,Monochloroacetic acid,0.733,53.0,0,ppb,0.013830188679245283
+AR,Garvin,71937.0,Garvin,150,Bromodichloromethane,14.5,0.06,0,ppb,241.66666666666669
+AR,Garvin,71937.0,Garvin,150,Bromoform,2.05,0.5,0,ppb,4.1
+AR,Garvin,71937.0,Garvin,150,Chloroform,16.5,0.4,0,ppb,41.25
+AR,Garvin,71937.0,Garvin,150,Dibromoacetic acid,0.55,0.04,0,ppb,13.75
+AR,Garvin,71937.0,Garvin,150,Dibromochloromethane,10.5,0.1,0,ppb,105.0
+AR,Garvin,71937.0,Garvin,150,Dichloroacetic acid,0.9,0.2,0,ppb,4.5
+AR,Garvin,71937.0,Garvin,150,Haloacetic acids (HAA5)†,3.0,0.1,60,ppb,30.0
+AR,Garvin,71937.0,Garvin,150,Radium combined (-226 &amp; -228)*,1.1,0.05,5,pCi/L,22.0
+AR,Garvin,71937.0,Garvin,150,Total trihalomethanes (TTHMs)†,43.5,0.15,80,ppb,290.0
+AR,Garvin,71937.0,Garvin,150,Trichloroacetic acid,1.55,0.1,0,ppb,15.5
+AR,Garvin,71937.0,Garvin,150,Barium*,83.5,700.0,2000,ppb,0.11928571428571429
+AR,Garvin,71937.0,Garvin,150,Monochloroacetic acid*,0.175,53.0,0,ppb,0.00330188679245283
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Bromodichloromethane,5.16,0.06,0,ppb,86.0
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Chloroform,77.5,0.4,0,ppb,193.75
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Dichloroacetic acid,15.2,0.2,0,ppb,75.99999999999999
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Haloacetic acids (HAA5)†,36.3,0.1,60,ppb,362.99999999999994
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Total trihalomethanes (TTHMs)†,82.8,0.15,80,ppb,552.0
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Trichloroacetic acid,20.6,0.1,0,ppb,206.0
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Dibromochloromethane,0.186,0.1,0,ppb,1.8599999999999999
+AR,Haworth,71937.0,Haworth Public Works Authority,354,Monochloroacetic acid,0.507,53.0,0,ppb,0.009566037735849056
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Bromodichloromethane,5.09,0.06,0,ppb,84.83333333333333
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Chloroform,74.9,0.4,0,ppb,187.25
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Dichloroacetic acid,10.7,0.2,0,ppb,53.49999999999999
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Total trihalomethanes (TTHMs)†,80.1,0.15,80,ppb,534.0
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Trichloroacetic acid,17.9,0.1,0,ppb,178.99999999999997
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Dibromochloromethane,0.138,0.1,0,ppb,1.3800000000000001
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Monochloroacetic acid,0.453,53.0,0,ppb,0.008547169811320756
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Nitrate and nitrite*,0.148,0.14,10,ppm,1.057142857142857
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Bromodichloromethane,5.09,0.06,0,ppb,84.83333333333333
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Chloroform,74.9,0.4,0,ppb,187.25
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Dichloroacetic acid,10.7,0.2,0,ppb,53.49999999999999
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Total trihalomethanes (TTHMs)†,80.1,0.15,80,ppb,534.0
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Trichloroacetic acid,17.9,0.1,0,ppb,178.99999999999997
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Dibromochloromethane,0.138,0.1,0,ppb,1.3800000000000001
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Monochloroacetic acid,0.453,53.0,0,ppb,0.008547169811320756
+AR,Haworth,71937.0,Mccurtain County Rural Water District #1,3842,Nitrate and nitrite*,0.148,0.14,10,ppm,1.057142857142857
+AR,Waldron,71953.0,Waldron Waterworks,2955,Bromodichloromethane,5.74,0.06,0,ppb,95.66666666666667
+AR,Waldron,71953.0,Waldron Waterworks,2955,Chloroform,44.8,0.4,0,ppb,111.99999999999999
+AR,Waldron,71953.0,Waldron Waterworks,2955,Dibromochloromethane,0.219,0.1,0,ppb,2.19
+AR,Waldron,71953.0,Waldron Waterworks,2955,Dichloroacetic acid,11.5,0.2,0,ppb,57.5
+AR,Waldron,71953.0,Waldron Waterworks,2955,Haloacetic acids (HAA5)†,17.8,0.1,60,ppb,178.0
+AR,Waldron,71953.0,Waldron Waterworks,2955,Haloacetic acids (HAA9)†,18.7,0.06,0,ppb,311.6666666666667
+AR,Waldron,71953.0,Waldron Waterworks,2955,Total trihalomethanes (TTHMs)†,51.4,0.15,80,ppb,342.6666666666667
+AR,Waldron,71953.0,Waldron Waterworks,2955,Trichloroacetic acid,6.14,0.1,0,ppb,61.39999999999999
+AR,Waldron,71953.0,Waldron Waterworks,2955,Aluminum,228.0,600.0,0,ppb,0.38
+AR,Waldron,71953.0,Waldron Waterworks,2955,Chlorite,82.3,50.0,1000,ppb,1.646
+AR,Waldron,71953.0,Waldron Waterworks,2955,Dibromoacetic acid,0.0489,0.04,0,ppb,1.2225
+AR,Waldron,71953.0,Waldron Waterworks,2955,Monochloroacetic acid,0.153,53.0,0,ppb,0.0028867924528301887
+AR,Waldron,71953.0,Waldron Waterworks,2955,Nitrate and nitrite,0.133,0.14,10,ppm,0.95
+AR,Oppelo,72001.0,Oppelo Water,1300,Bromodichloromethane,7.56,0.06,0,ppb,126.0
+AR,Oppelo,72001.0,Oppelo Water,1300,Chloroform,47.7,0.4,0,ppb,119.25
+AR,Oppelo,72001.0,Oppelo Water,1300,Dibromochloromethane,0.405,0.1,0,ppb,4.05
+AR,Oppelo,72001.0,Oppelo Water,1300,Dichloroacetic acid,12.6,0.2,0,ppb,62.99999999999999
+AR,Oppelo,72001.0,Oppelo Water,1300,Haloacetic acids (HAA5)†,28.5,0.1,60,ppb,285.0
+AR,Oppelo,72001.0,Oppelo Water,1300,Haloacetic acids (HAA9)*†,23.8,0.06,0,ppb,396.6666666666667
+AR,Oppelo,72001.0,Oppelo Water,1300,Nitrate and nitrite*,0.504,0.14,10,ppm,3.5999999999999996
+AR,Oppelo,72001.0,Oppelo Water,1300,Total trihalomethanes (TTHMs)†,55.6,0.15,80,ppb,370.6666666666667
+AR,Oppelo,72001.0,Oppelo Water,1300,Trichloroacetic acid,15.0,0.1,0,ppb,150.0
+AR,Oppelo,72001.0,Oppelo Water,1300,Aluminum*,57.5,600.0,0,ppb,0.09583333333333334
+AR,Oppelo,72001.0,Oppelo Water,1300,Chlorate*,6.05,210.0,0,ppb,0.02880952380952381
+AR,Oppelo,72001.0,Oppelo Water,1300,Chromium (hexavalent)*,0.0045,0.02,0,ppb,0.22499999999999998
+AR,Oppelo,72001.0,Oppelo Water,1300,Dibromoacetic acid,0.0717,0.04,0,ppb,1.7925
+AR,Oppelo,72001.0,Oppelo Water,1300,Manganese*,7.85,100.0,0,ppb,0.0785
+AR,Oppelo,72001.0,Oppelo Water,1300,Monobromoacetic acid,0.0587,25.0,0,ppb,0.0023480000000000003
+AR,Oppelo,72001.0,Oppelo Water,1300,Monochloroacetic acid,0.822,53.0,0,ppb,0.01550943396226415
+AR,Oppelo,72001.0,Oppelo Water,1300,Nitrate*,0.125,0.14,10,ppm,0.8928571428571428
+AR,Oppelo,72001.0,Oppelo Water,1300,Strontium*,0.0172,1500.0,0,ppb,1.1466666666666666e-05
+AR,Oppelo,72001.0,Oppelo Water,1300,Vanadium*,0.0838,21.0,0,ppb,0.00399047619047619
+AR,Perryville,72001.0,Perryville,2976,Bromodichloromethane,5.64,0.06,0,ppb,94.0
+AR,Perryville,72001.0,Perryville,2976,Chloroform,36.7,0.4,0,ppb,91.75
+AR,Perryville,72001.0,Perryville,2976,Dibromochloromethane,0.699,0.1,0,ppb,6.989999999999999
+AR,Perryville,72001.0,Perryville,2976,Dichloroacetic acid,9.91,0.2,0,ppb,49.55
+AR,Perryville,72001.0,Perryville,2976,Haloacetic acids (HAA5)†,16.9,0.1,60,ppb,168.99999999999997
+AR,Perryville,72001.0,Perryville,2976,Total trihalomethanes (TTHMs)†,45.3,0.15,80,ppb,302.0
+AR,Perryville,72001.0,Perryville,2976,Trichloroacetic acid,6.59,0.1,0,ppb,65.89999999999999
+AR,Perryville,72001.0,Perryville,2976,Aluminum,38.0,600.0,0,ppb,0.06333333333333334
+AR,Perryville,72001.0,Perryville,2976,Dibromoacetic acid,0.0667,0.04,0,ppb,1.6674999999999998
+AR,Perryville,72001.0,Perryville,2976,Manganese,38.1,100.0,0,ppb,0.381
+AR,Perryville,72001.0,Perryville,2976,Monobromoacetic acid,0.04,25.0,0,ppb,0.0016
+AR,Perryville,72001.0,Perryville,2976,Monochloroacetic acid,0.324,53.0,0,ppb,0.006113207547169812
+AR,Devils Elbo,72002.0,Windsor Apartments,60,Barium,32.1,700.0,2000,ppb,0.04585714285714286
+AR,Devils Elbo,72002.0,Windsor Apartments,60,Nitrate and nitrite,0.0733,0.14,10,ppm,0.5235714285714286
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Dibromoacetic acid,0.143,0.04,0,ppb,3.5749999999999997
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Radium combined (-226 &amp; -228),0.75,0.05,5,pCi/L,15.0
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Dibromochloromethane,0.0391,0.1,0,ppb,0.391
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Haloacetic acids (HAA5)†,0.143,0.1,60,ppb,1.4299999999999997
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Manganese,40.9,100.0,0,ppb,0.409
+AR,Dewitt,72003.0,Dewitt Waterworks,3294,Nitrate and nitrite,0.0917,0.14,10,ppm,0.6549999999999999
+AR,Tuckerman,72005.0,Campbell Station,234,Bromodichloromethane,5.97,0.06,0,ppb,99.5
+AR,Tuckerman,72005.0,Campbell Station,234,Bromoform,6.6,0.5,0,ppb,13.2
+AR,Tuckerman,72005.0,Campbell Station,234,Chloroform,2.33,0.4,0,ppb,5.825
+AR,Tuckerman,72005.0,Campbell Station,234,Dibromoacetic acid,2.73,0.04,0,ppb,68.25
+AR,Tuckerman,72005.0,Campbell Station,234,Dibromochloromethane,10.5,0.1,0,ppb,105.0
+AR,Tuckerman,72005.0,Campbell Station,234,Dichloroacetic acid,0.767,0.2,0,ppb,3.835
+AR,Tuckerman,72005.0,Campbell Station,234,Haloacetic acids (HAA5)†,3.5,0.1,60,ppb,35.0
+AR,Tuckerman,72005.0,Campbell Station,234,Total trihalomethanes (TTHMs)†,25.4,0.15,80,ppb,169.33333333333334
+AR,Tuckerman,72005.0,Campbell Station,234,Trichloroacetic acid*,0.744,0.1,0,ppb,7.4399999999999995
+AR,Augusta,72006.0,Augusta Waterworks,2128,Bromodichloromethane,3.12,0.06,0,ppb,52.00000000000001
+AR,Augusta,72006.0,Augusta Waterworks,2128,Chloroform,4.28,0.4,0,ppb,10.7
+AR,Augusta,72006.0,Augusta Waterworks,2128,Dibromoacetic acid,0.429,0.04,0,ppb,10.725
+AR,Augusta,72006.0,Augusta Waterworks,2128,Dibromochloromethane,2.65,0.1,0,ppb,26.499999999999996
+AR,Augusta,72006.0,Augusta Waterworks,2128,Dichloroacetic acid,1.47,0.2,0,ppb,7.35
+AR,Augusta,72006.0,Augusta Waterworks,2128,Haloacetic acids (HAA5)†,4.56,0.1,60,ppb,45.599999999999994
+AR,Augusta,72006.0,Augusta Waterworks,2128,Nitrate,0.444,0.14,10,ppm,3.1714285714285713
+AR,Augusta,72006.0,Augusta Waterworks,2128,Nitrate and nitrite,0.354,0.14,10,ppm,2.528571428571428
+AR,Augusta,72006.0,Augusta Waterworks,2128,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+AR,Augusta,72006.0,Augusta Waterworks,2128,Total trihalomethanes (TTHMs)†,9.31,0.15,80,ppb,62.06666666666667
+AR,Augusta,72006.0,Augusta Waterworks,2128,Trichloroacetic acid,1.06,0.1,0,ppb,10.6
+AR,Augusta,72006.0,Augusta Waterworks,2128,Barium,132.5,700.0,2000,ppb,0.18928571428571428
+AR,Augusta,72006.0,Augusta Waterworks,2128,Bromoform,0.705,0.5,0,ppb,1.41
+AR,Augusta,72006.0,Augusta Waterworks,2128,Manganese,51.3,100.0,0,ppb,0.513
+AR,Augusta,72006.0,Augusta Waterworks,2128,Monobromoacetic acid,1.6,25.0,0,ppb,0.064
+AR,Cabot,72007.0,Cabot Waterworks,25465,Arsenic,0.693,0.004,10,ppb,173.24999999999997
+AR,Cabot,72007.0,Cabot Waterworks,25465,Bromodichloromethane,4.64,0.06,0,ppb,77.33333333333333
+AR,Cabot,72007.0,Cabot Waterworks,25465,Bromoform,4.72,0.5,0,ppb,9.44
+AR,Cabot,72007.0,Cabot Waterworks,25465,Chloroform,11.0,0.4,0,ppb,27.5
+AR,Cabot,72007.0,Cabot Waterworks,25465,Chromium (hexavalent),3.01,0.02,0,ppb,150.5
+AR,Cabot,72007.0,Cabot Waterworks,25465,Dibromoacetic acid,1.57,0.04,0,ppb,39.25
+AR,Cabot,72007.0,Cabot Waterworks,25465,Dibromochloromethane,5.91,0.1,0,ppb,59.1
+AR,Cabot,72007.0,Cabot Waterworks,25465,Dichloroacetic acid,1.88,0.2,0,ppb,9.399999999999999
+AR,Cabot,72007.0,Cabot Waterworks,25465,Haloacetic acids (HAA5)†,5.33,0.1,60,ppb,53.3
+AR,Cabot,72007.0,Cabot Waterworks,25465,Haloacetic acids (HAA9)†,11.1,0.06,0,ppb,185.0
+AR,Cabot,72007.0,Cabot Waterworks,25465,Nitrate,0.42,0.14,10,ppm,2.9999999999999996
+AR,Cabot,72007.0,Cabot Waterworks,25465,Nitrate and nitrite,0.416,0.14,10,ppm,2.971428571428571
+AR,Cabot,72007.0,Cabot Waterworks,25465,Total trihalomethanes (TTHMs)†,27.7,0.15,80,ppb,184.66666666666666
+AR,Cabot,72007.0,Cabot Waterworks,25465,Trichloroacetic acid,1.86,0.1,0,ppb,18.6
+AR,Cabot,72007.0,Cabot Waterworks,25465,Manganese,1.18,100.0,0,ppb,0.0118
+AR,Cabot,72007.0,Cabot Waterworks,25465,Monobromoacetic acid,0.0339,25.0,0,ppb,0.001356
+AR,Cabot,72007.0,Cabot Waterworks,25465,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Cabot,72007.0,Cabot Waterworks,25465,Strontium,158.0,1500.0,0,ppb,0.10533333333333333
+AR,Cabot,72007.0,Cabot Waterworks,25465,Vanadium,1.11,21.0,0,ppb,0.05285714285714286
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Bromodichloromethane,5.6,0.06,0,ppb,93.33333333333333
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Bromoform,1.93,0.5,0,ppb,3.86
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Chloroform,5.1,0.4,0,ppb,12.749999999999998
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Dibromoacetic acid,1.23,0.04,0,ppb,30.75
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Dibromochloromethane,5.83,0.1,0,ppb,58.3
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Dichloroacetic acid,1.97,0.2,0,ppb,9.85
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Haloacetic acids (HAA5)†,4.0,0.1,60,ppb,40.0
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Haloacetic acids (HAA9)*†,4.79,0.06,0,ppb,79.83333333333334
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Nitrate*,0.31,0.14,10,ppm,2.214285714285714
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Radium combined (-226 &amp; -228)*,2.22,0.05,5,pCi/L,44.4
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Total trihalomethanes (TTHMs)†,18.4,0.15,80,ppb,122.66666666666666
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Trichloroacetic acid,0.8,0.1,0,ppb,8.0
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Barium*,192.5,700.0,2000,ppb,0.275
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Chlorate*,375.5,210.0,0,ppb,1.7880952380952382
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Manganese*,10.9,100.0,0,ppb,0.109
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Monobromoacetic acid*,0.158,25.0,0,ppb,0.00632
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Nitrate and nitrite*,0.119,0.14,10,ppm,0.8499999999999999
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Strontium*,0.434,1500.0,0,ppb,0.00028933333333333334
+AR,Humnoke,72007.0,Humnoke Waterworks,290,Vanadium*,0.0383,21.0,0,ppb,0.0018238095238095238
+AR,Wright,72007.0,Keo Water Works,275,Bromodichloromethane,4.0,0.06,0,ppb,66.66666666666667
+AR,Wright,72007.0,Keo Water Works,275,Chloroform,13.6,0.4,0,ppb,34.0
+AR,Wright,72007.0,Keo Water Works,275,Dibromochloromethane,0.932,0.1,0,ppb,9.32
+AR,Wright,72007.0,Keo Water Works,275,Dichloroacetic acid,5.78,0.2,0,ppb,28.9
+AR,Wright,72007.0,Keo Water Works,275,Haloacetic acids (HAA5)†,11.9,0.1,60,ppb,119.0
+AR,Wright,72007.0,Keo Water Works,275,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+AR,Wright,72007.0,Keo Water Works,275,Total trihalomethanes (TTHMs)†,21.8,0.15,80,ppb,145.33333333333334
+AR,Wright,72007.0,Keo Water Works,275,Trichloroacetic acid,5.95,0.1,0,ppb,59.5
+AR,Wright,72007.0,Keo Water Works,275,Barium,220.0,700.0,2000,ppb,0.3142857142857143
+AR,Wright,72007.0,Keo Water Works,275,Manganese,18.1,100.0,0,ppb,0.18100000000000002
+AR,Wright,72007.0,Keo Water Works,275,Monochloroacetic acid,0.191,53.0,0,ppb,0.0036037735849056606
+AR,Bald Knob,72010.0,Bald Knob,29000,Bromodichloromethane,5.59,0.06,0,ppb,93.16666666666667
+AR,Bald Knob,72010.0,Bald Knob,29000,Chloroform,24.6,0.4,0,ppb,61.5
+AR,Bald Knob,72010.0,Bald Knob,29000,Dibromochloromethane,1.09,0.1,0,ppb,10.9
+AR,Bald Knob,72010.0,Bald Knob,29000,Dichloroacetic acid,10.6,0.2,0,ppb,52.99999999999999
+AR,Bald Knob,72010.0,Bald Knob,29000,Haloacetic acids (HAA5)†,19.9,0.1,60,ppb,198.99999999999997
+AR,Bald Knob,72010.0,Bald Knob,29000,Haloacetic acids (HAA9)†,26.3,0.06,0,ppb,438.33333333333337
+AR,Bald Knob,72010.0,Bald Knob,29000,Total trihalomethanes (TTHMs)†,31.3,0.15,80,ppb,208.66666666666669
+AR,Bald Knob,72010.0,Bald Knob,29000,Trichloroacetic acid,8.67,0.1,0,ppb,86.69999999999999
+AR,Bald Knob,72010.0,Bald Knob,29000,Manganese,1.13,100.0,0,ppb,0.0113
+AR,Bald Knob,72010.0,Bald Knob,29000,Monobromoacetic acid,0.2,25.0,0,ppb,0.008
+AR,Bald Knob,72010.0,Bald Knob,29000,Monochloroacetic acid,0.455,53.0,0,ppb,0.008584905660377359
+AR,Beebe,72010.0,Beebe Waterworks,8120,Bromodichloromethane,2.11,0.06,0,ppb,35.166666666666664
+AR,Beebe,72010.0,Beebe Waterworks,8120,Chloroform,9.78,0.4,0,ppb,24.449999999999996
+AR,Beebe,72010.0,Beebe Waterworks,8120,Chromium (hexavalent),1.79,0.02,0,ppb,89.5
+AR,Beebe,72010.0,Beebe Waterworks,8120,Dibromoacetic acid,0.316,0.04,0,ppb,7.9
+AR,Beebe,72010.0,Beebe Waterworks,8120,Dibromochloromethane,0.809,0.1,0,ppb,8.09
+AR,Beebe,72010.0,Beebe Waterworks,8120,Dichloroacetic acid,4.92,0.2,0,ppb,24.599999999999998
+AR,Beebe,72010.0,Beebe Waterworks,8120,Haloacetic acids (HAA5)†,9.39,0.1,60,ppb,93.9
+AR,Beebe,72010.0,Beebe Waterworks,8120,Nitrate,1.36,0.14,10,ppm,9.714285714285714
+AR,Beebe,72010.0,Beebe Waterworks,8120,Nitrate and nitrite,1.37,0.14,10,ppm,9.785714285714285
+AR,Beebe,72010.0,Beebe Waterworks,8120,Total trihalomethanes (TTHMs)†,17.6,0.15,80,ppb,117.33333333333334
+AR,Beebe,72010.0,Beebe Waterworks,8120,Trichloroacetic acid,4.17,0.1,0,ppb,41.699999999999996
+AR,Beebe,72010.0,Beebe Waterworks,8120,Bromoform,0.821,0.5,0,ppb,1.642
+AR,Beebe,72010.0,Beebe Waterworks,8120,Manganese,14.2,100.0,0,ppb,0.142
+AR,Beebe,72010.0,Beebe Waterworks,8120,MTBE,0.642,13.0,0,ppb,0.04938461538461539
+AR,Beebe,72010.0,Beebe Waterworks,8120,Strontium,0.201,1500.0,0,ppb,0.000134
+AR,Beebe,72010.0,Beebe Waterworks,8120,Vanadium,0.571,21.0,0,ppb,0.02719047619047619
+AR,Judsonia,72010.0,Judsonia,2745,Bromodichloromethane,3.99,0.06,0,ppb,66.5
+AR,Judsonia,72010.0,Judsonia,2745,Chlorite*,579.4,50.0,1000,ppb,11.588
+AR,Judsonia,72010.0,Judsonia,2745,Chloroform,16.2,0.4,0,ppb,40.49999999999999
+AR,Judsonia,72010.0,Judsonia,2745,Chromium (hexavalent)*,0.081,0.02,0,ppb,4.05
+AR,Judsonia,72010.0,Judsonia,2745,Dibromochloromethane,0.494,0.1,0,ppb,4.9399999999999995
+AR,Judsonia,72010.0,Judsonia,2745,Dichloroacetic acid,8.78,0.2,0,ppb,43.89999999999999
+AR,Judsonia,72010.0,Judsonia,2745,Haloacetic acids (HAA5)†,15.8,0.1,60,ppb,158.0
+AR,Judsonia,72010.0,Judsonia,2745,Haloacetic acids (HAA9)*†,24.8,0.06,0,ppb,413.33333333333337
+AR,Judsonia,72010.0,Judsonia,2745,Total trihalomethanes (TTHMs)†,20.7,0.15,80,ppb,138.0
+AR,Judsonia,72010.0,Judsonia,2745,Trichloroacetic acid,6.16,0.1,0,ppb,61.6
+AR,Judsonia,72010.0,Judsonia,2745,Aluminum*,59.4,600.0,0,ppb,0.09899999999999999
+AR,Judsonia,72010.0,Judsonia,2745,Chlorate*,108.1,210.0,0,ppb,0.5147619047619048
+AR,Judsonia,72010.0,Judsonia,2745,Di(2-ethylhexyl) phthalate*,0.145,3.0,6,ppb,0.04833333333333333
+AR,Judsonia,72010.0,Judsonia,2745,Dibromoacetic acid*,0.0512,0.04,0,ppb,1.28
+AR,Judsonia,72010.0,Judsonia,2745,Manganese*,1.79,100.0,0,ppb,0.0179
+AR,Judsonia,72010.0,Judsonia,2745,Monobromoacetic acid,0.0941,25.0,0,ppb,0.003764
+AR,Judsonia,72010.0,Judsonia,2745,Monochloroacetic acid,0.641,53.0,0,ppb,0.01209433962264151
+AR,Judsonia,72010.0,Judsonia,2745,Nitrate and nitrite*,0.257,0.14,10,ppm,1.8357142857142856
+AR,Judsonia,72010.0,Judsonia,2745,Strontium*,0.0234,1500.0,0,ppb,1.56e-05
+AR,Searcy,72010.0,N E White County,0,Bromodichloromethane,4.94,0.06,0,ppb,82.33333333333334
+AR,Searcy,72010.0,N E White County,0,Chlorite*,579.4,50.0,1000,ppb,11.588
+AR,Searcy,72010.0,N E White County,0,Chloroform,22.5,0.4,0,ppb,56.25
+AR,Searcy,72010.0,N E White County,0,Chromium (hexavalent)*,0.081,0.02,0,ppb,4.05
+AR,Searcy,72010.0,N E White County,0,Dibromochloromethane,0.611,0.1,0,ppb,6.109999999999999
+AR,Searcy,72010.0,N E White County,0,Dichloroacetic acid,11.9,0.2,0,ppb,59.5
+AR,Searcy,72010.0,N E White County,0,Haloacetic acids (HAA5)†,23.3,0.1,60,ppb,233.0
+AR,Searcy,72010.0,N E White County,0,Haloacetic acids (HAA9)*†,24.8,0.06,0,ppb,413.33333333333337
+AR,Searcy,72010.0,N E White County,0,Total trihalomethanes (TTHMs)†,28.1,0.15,80,ppb,187.33333333333334
+AR,Searcy,72010.0,N E White County,0,Trichloroacetic acid,10.5,0.1,0,ppb,105.0
+AR,Searcy,72010.0,N E White County,0,Aluminum*,59.4,600.0,0,ppb,0.09899999999999999
+AR,Searcy,72010.0,N E White County,0,Chlorate*,108.1,210.0,0,ppb,0.5147619047619048
+AR,Searcy,72010.0,N E White County,0,Di(2-ethylhexyl) phthalate*,0.145,3.0,6,ppb,0.04833333333333333
+AR,Searcy,72010.0,N E White County,0,Dibromoacetic acid*,0.0512,0.04,0,ppb,1.28
+AR,Searcy,72010.0,N E White County,0,Manganese*,1.79,100.0,0,ppb,0.0179
+AR,Searcy,72010.0,N E White County,0,Monobromoacetic acid,0.269,25.0,0,ppb,0.01076
+AR,Searcy,72010.0,N E White County,0,Monochloroacetic acid,0.669,53.0,0,ppb,0.012622641509433962
+AR,Searcy,72010.0,N E White County,0,Nitrate and nitrite*,0.257,0.14,10,ppm,1.8357142857142856
+AR,Searcy,72010.0,N E White County,0,Strontium*,0.0234,1500.0,0,ppb,1.56e-05
+AR,Searcy,72010.0,Searcy Waterworks,23650,Bromodichloromethane,5.74,0.06,0,ppb,95.66666666666667
+AR,Searcy,72010.0,Searcy Waterworks,23650,Chlorite,579.4,50.0,1000,ppb,11.588
+AR,Searcy,72010.0,Searcy Waterworks,23650,Chloroform,33.6,0.4,0,ppb,84.0
+AR,Searcy,72010.0,Searcy Waterworks,23650,Chromium (hexavalent),0.081,0.02,0,ppb,4.05
+AR,Searcy,72010.0,Searcy Waterworks,23650,Dibromochloromethane,0.654,0.1,0,ppb,6.54
+AR,Searcy,72010.0,Searcy Waterworks,23650,Dichloroacetic acid,9.98,0.2,0,ppb,49.9
+AR,Searcy,72010.0,Searcy Waterworks,23650,Haloacetic acids (HAA5)†,20.6,0.1,60,ppb,206.0
+AR,Searcy,72010.0,Searcy Waterworks,23650,Haloacetic acids (HAA9)†,24.8,0.06,0,ppb,413.33333333333337
+AR,Searcy,72010.0,Searcy Waterworks,23650,Total trihalomethanes (TTHMs)†,42.0,0.15,80,ppb,280.0
+AR,Searcy,72010.0,Searcy Waterworks,23650,Trichloroacetic acid,9.84,0.1,0,ppb,98.39999999999999
+AR,Searcy,72010.0,Searcy Waterworks,23650,Aluminum,59.4,600.0,0,ppb,0.09899999999999999
+AR,Searcy,72010.0,Searcy Waterworks,23650,Chlorate,108.1,210.0,0,ppb,0.5147619047619048
+AR,Searcy,72010.0,Searcy Waterworks,23650,Di(2-ethylhexyl) phthalate,0.145,3.0,6,ppb,0.04833333333333333
+AR,Searcy,72010.0,Searcy Waterworks,23650,Dibromoacetic acid,0.0512,0.04,0,ppb,1.28
+AR,Searcy,72010.0,Searcy Waterworks,23650,Manganese,1.79,100.0,0,ppb,0.0179
+AR,Searcy,72010.0,Searcy Waterworks,23650,Monobromoacetic acid,0.162,25.0,0,ppb,0.0064800000000000005
+AR,Searcy,72010.0,Searcy Waterworks,23650,Monochloroacetic acid,0.617,53.0,0,ppb,0.011641509433962263
+AR,Searcy,72010.0,Searcy Waterworks,23650,Nitrate and nitrite,0.257,0.14,10,ppm,1.8357142857142856
+AR,Searcy,72010.0,Searcy Waterworks,23650,Strontium,0.0234,1500.0,0,ppb,1.56e-05
+AR,Clinton,72013.0,Clinton Waterworks,5733,Bromodichloromethane,3.79,0.06,0,ppb,63.16666666666667
+AR,Clinton,72013.0,Clinton Waterworks,5733,Chloroform,19.8,0.4,0,ppb,49.5
+AR,Clinton,72013.0,Clinton Waterworks,5733,Dichloroacetic acid,8.05,0.2,0,ppb,40.25
+AR,Clinton,72013.0,Clinton Waterworks,5733,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+AR,Clinton,72013.0,Clinton Waterworks,5733,Total trihalomethanes (TTHMs)†,28.7,0.15,80,ppb,191.33333333333334
+AR,Clinton,72013.0,Clinton Waterworks,5733,Trichloroacetic acid,8.17,0.1,0,ppb,81.69999999999999
+AR,Clinton,72013.0,Clinton Waterworks,5733,Aluminum,20.0,600.0,0,ppb,0.03333333333333333
+AR,Clinton,72013.0,Clinton Waterworks,5733,Dibromochloromethane,0.0216,0.1,0,ppb,0.216
+AR,Clinton,72013.0,Clinton Waterworks,5733,Manganese,8.55,100.0,0,ppb,0.0855
+AR,Clinton,72013.0,Clinton Waterworks,5733,Nitrate and nitrite,0.132,0.14,10,ppm,0.9428571428571428
+AR,Clinton,72013.0,Clinton Waterworks,5733,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Clinton,72013.0,Dennard Water,908,Bromodichloromethane,4.67,0.06,0,ppb,77.83333333333333
+AR,Clinton,72013.0,Dennard Water,908,Chloroform,26.0,0.4,0,ppb,65.0
+AR,Clinton,72013.0,Dennard Water,908,Dichloroacetic acid,6.45,0.2,0,ppb,32.25
+AR,Clinton,72013.0,Dennard Water,908,Haloacetic acids (HAA5)†,15.8,0.1,60,ppb,158.0
+AR,Clinton,72013.0,Dennard Water,908,Total trihalomethanes (TTHMs)†,30.7,0.15,80,ppb,204.66666666666666
+AR,Clinton,72013.0,Dennard Water,908,Trichloroacetic acid,9.35,0.1,0,ppb,93.49999999999999
+AR,Clinton,72013.0,Dennard Water,908,Aluminum*,20.0,600.0,0,ppb,0.03333333333333333
+AR,Clinton,72013.0,Dennard Water,908,Dibromochloromethane,0.0357,0.1,0,ppb,0.357
+AR,Clinton,72013.0,Dennard Water,908,Manganese*,8.55,100.0,0,ppb,0.0855
+AR,Clinton,72013.0,Dennard Water,908,Nitrate and nitrite*,0.132,0.14,10,ppm,0.9428571428571428
+AR,Clinton,72013.0,Dennard Water,908,Radium combined (-226 &amp; -228)*,0.1,0.05,5,pCi/L,2.0
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Bromodichloromethane,9.68,0.06,0,ppb,161.33333333333334
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Chloroform,20.8,0.4,0,ppb,52.0
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Dibromoacetic acid,0.675,0.04,0,ppb,16.875
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Dibromochloromethane,3.18,0.1,0,ppb,31.8
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Dichloroacetic acid,7.93,0.2,0,ppb,39.65
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Haloacetic acids (HAA5)†,16.9,0.1,60,ppb,168.99999999999997
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Total trihalomethanes (TTHMs)†,37.8,0.15,80,ppb,252.0
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Trichloroacetic acid,7.8,0.1,0,ppb,78.0
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Manganese,61.2,100.0,0,ppb,0.612
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Monobromoacetic acid,0.283,25.0,0,ppb,0.011319999999999998
+AR,Devalls Bluff,72017.0,Devalls Bluff,600,Monochloroacetic acid,0.2,53.0,0,ppb,0.0037735849056603774
+AR,Holly Grove,72021.0,East Monroe County,762,Bromodichloromethane,3.7,0.06,0,ppb,61.66666666666667
+AR,Holly Grove,72021.0,East Monroe County,762,Bromoform,57.0,0.5,0,ppb,114.0
+AR,Holly Grove,72021.0,East Monroe County,762,Dibromoacetic acid,8.79,0.04,0,ppb,219.74999999999997
+AR,Holly Grove,72021.0,East Monroe County,762,Dibromochloromethane,15.3,0.1,0,ppb,153.0
+AR,Holly Grove,72021.0,East Monroe County,762,Dichloroacetic acid,0.443,0.2,0,ppb,2.215
+AR,Holly Grove,72021.0,East Monroe County,762,Haloacetic acids (HAA5)†,9.91,0.1,60,ppb,99.1
+AR,Holly Grove,72021.0,East Monroe County,762,Total trihalomethanes (TTHMs)†,76.2,0.15,80,ppb,508.00000000000006
+AR,Holly Grove,72021.0,East Monroe County,762,Aluminum*,130.0,600.0,0,ppb,0.21666666666666667
+AR,Holly Grove,72021.0,East Monroe County,762,Chloroform,0.198,0.4,0,ppb,0.495
+AR,Holly Grove,72021.0,East Monroe County,762,Manganese*,43.7,100.0,0,ppb,0.43700000000000006
+AR,Holly Grove,72021.0,East Monroe County,762,Monobromoacetic acid,0.533,25.0,0,ppb,0.021320000000000002
+AR,Holly Grove,72021.0,East Monroe County,762,Monochloroacetic acid*,0.263,53.0,0,ppb,0.004962264150943397
+AR,Holly Grove,72021.0,East Monroe County,762,Trichloroacetic acid,0.133,0.1,0,ppb,1.33
+AR,Holly Grove,72021.0,Holly Grove,1554,Bromodichloromethane,0.466,0.06,0,ppb,7.7666666666666675
+AR,Holly Grove,72021.0,Holly Grove,1554,Bromoform,3.06,0.5,0,ppb,6.12
+AR,Holly Grove,72021.0,Holly Grove,1554,Dibromoacetic acid,0.822,0.04,0,ppb,20.549999999999997
+AR,Holly Grove,72021.0,Holly Grove,1554,Dibromochloromethane,1.24,0.1,0,ppb,12.399999999999999
+AR,Holly Grove,72021.0,Holly Grove,1554,Dichloroacetic acid,0.556,0.2,0,ppb,2.7800000000000002
+AR,Holly Grove,72021.0,Holly Grove,1554,Haloacetic acids (HAA5)†,1.52,0.1,60,ppb,15.2
+AR,Holly Grove,72021.0,Holly Grove,1554,Nitrate,0.579,0.14,10,ppm,4.135714285714285
+AR,Holly Grove,72021.0,Holly Grove,1554,Nitrate and nitrite,0.777,0.14,10,ppm,5.55
+AR,Holly Grove,72021.0,Holly Grove,1554,Radium combined (-226 &amp; -228),0.93,0.05,5,pCi/L,18.6
+AR,Holly Grove,72021.0,Holly Grove,1554,Total trihalomethanes (TTHMs)†,3.7,0.15,80,ppb,24.666666666666668
+AR,Holly Grove,72021.0,Holly Grove,1554,Barium,140.0,700.0,2000,ppb,0.2
+AR,Holly Grove,72021.0,Holly Grove,1554,Chloroform,0.181,0.4,0,ppb,0.45249999999999996
+AR,Holly Grove,72021.0,Holly Grove,1554,Manganese,11.6,100.0,0,ppb,0.11599999999999999
+AR,Holly Grove,72021.0,Holly Grove,1554,Trichloroacetic acid,0.156,0.1,0,ppb,1.5599999999999998
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Bromodichloromethane,4.69,0.06,0,ppb,78.16666666666667
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Chloroform,5.48,0.4,0,ppb,13.700000000000001
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Dibromoacetic acid,0.271,0.04,0,ppb,6.775
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Dibromochloromethane,3.49,0.1,0,ppb,34.9
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Dichloroacetic acid,1.21,0.2,0,ppb,6.05
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Haloacetic acids (HAA5)†,3.26,0.1,60,ppb,32.599999999999994
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Radium combined (-226 &amp; -228),0.27,0.05,5,pCi/L,5.4
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Total trihalomethanes (TTHMs)†,22.9,0.15,80,ppb,152.66666666666666
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Trichloroacetic acid,1.77,0.1,0,ppb,17.7
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Bromoform,0.65,0.5,0,ppb,1.3
+AR,Hughes,72021.0,Hughes Community Water Association,2030,Manganese,4.8,100.0,0,ppb,0.048
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Bromodichloromethane*,0.669,0.06,0,ppb,11.15
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Bromoform,1.06,0.5,0,ppb,2.12
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Chromium (hexavalent)*,2.11,0.02,0,ppb,105.49999999999999
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Dibromoacetic acid,0.314,0.04,0,ppb,7.85
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Dibromochloromethane,0.686,0.1,0,ppb,6.86
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Haloacetic acids (HAA5)†,0.5,0.1,60,ppb,5.0
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Haloacetic acids (HAA9)*†,2.98,0.06,0,ppb,49.66666666666667
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Nitrate*,2.01,0.14,10,ppm,14.357142857142854
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Nitrate and nitrite*,2.07,0.14,10,ppm,14.785714285714283
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Tetrachloroethylene (perchloroethylene)*,0.952,0.06,5,ppb,15.866666666666667
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Total trihalomethanes (TTHMs)†,1.73,0.15,80,ppb,11.533333333333333
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Chloroform*,0.149,0.4,0,ppb,0.37249999999999994
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Dichloroacetic acid*,0.0455,0.2,0,ppb,0.22749999999999998
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Manganese*,4.83,100.0,0,ppb,0.0483
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Monobromoacetic acid,0.186,25.0,0,ppb,0.0074399999999999996
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,MTBE*,0.338,13.0,0,ppb,0.026000000000000002
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Radium combined (-226 &amp; -228)*,0.05,0.05,5,pCi/L,1.0
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Selenium*,3.23,30.0,50,ppb,0.10766666666666666
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Strontium*,0.23,1500.0,0,ppb,0.00015333333333333334
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Trichloroethylene*,0.237,0.4,5,ppb,0.5924999999999999
+AR,Forrest City,72021.0,St. Francis Rural Water Association,1775,Vanadium*,2.31,21.0,0,ppb,0.11
+AR,Wheatley,72021.0,Wheatley,550,Bromodichloromethane,3.29,0.06,0,ppb,54.833333333333336
+AR,Wheatley,72021.0,Wheatley,550,Bromoform,51.2,0.5,0,ppb,102.4
+AR,Wheatley,72021.0,Wheatley,550,Dibromoacetic acid,4.56,0.04,0,ppb,113.99999999999999
+AR,Wheatley,72021.0,Wheatley,550,Dibromochloromethane,13.1,0.1,0,ppb,131.0
+AR,Wheatley,72021.0,Wheatley,550,Dichloroacetic acid,0.7,0.2,0,ppb,3.4999999999999996
+AR,Wheatley,72021.0,Wheatley,550,Haloacetic acids (HAA5)†,5.95,0.1,60,ppb,59.5
+AR,Wheatley,72021.0,Wheatley,550,Total trihalomethanes (TTHMs)†,67.8,0.15,80,ppb,452.0
+AR,Wheatley,72021.0,Wheatley,550,Trichloroacetic acid,0.332,0.1,0,ppb,3.32
+AR,Wheatley,72021.0,Wheatley,550,Aluminum*,130.0,600.0,0,ppb,0.21666666666666667
+AR,Wheatley,72021.0,Wheatley,550,Chloroform,0.193,0.4,0,ppb,0.4825
+AR,Wheatley,72021.0,Wheatley,550,Manganese*,43.7,100.0,0,ppb,0.43700000000000006
+AR,Wheatley,72021.0,Wheatley,550,Monobromoacetic acid,0.352,25.0,0,ppb,0.014079999999999999
+AR,Wheatley,72021.0,Wheatley,550,Monochloroacetic acid*,0.263,53.0,0,ppb,0.004962264150943397
+AR,Conway,72023.0,Conway Water System,64960,Bromodichloromethane,6.21,0.06,0,ppb,103.5
+AR,Conway,72023.0,Conway Water System,64960,Chlorite,398.8,50.0,1000,ppb,7.976
+AR,Conway,72023.0,Conway Water System,64960,Chloroform,36.0,0.4,0,ppb,90.0
+AR,Conway,72023.0,Conway Water System,64960,Chromium (hexavalent),0.147,0.02,0,ppb,7.35
+AR,Conway,72023.0,Conway Water System,64960,Dibromoacetic acid,0.118,0.04,0,ppb,2.9499999999999997
+AR,Conway,72023.0,Conway Water System,64960,Dibromochloromethane,0.835,0.1,0,ppb,8.35
+AR,Conway,72023.0,Conway Water System,64960,Dichloroacetic acid,12.3,0.2,0,ppb,61.5
+AR,Conway,72023.0,Conway Water System,64960,Haloacetic acids (HAA5)†,23.5,0.1,60,ppb,235.0
+AR,Conway,72023.0,Conway Water System,64960,Haloacetic acids (HAA9)†,31.8,0.06,0,ppb,530.0
+AR,Conway,72023.0,Conway Water System,64960,Nitrate and nitrite,0.534,0.14,10,ppm,3.814285714285714
+AR,Conway,72023.0,Conway Water System,64960,Total trihalomethanes (TTHMs)†,43.9,0.15,80,ppb,292.6666666666667
+AR,Conway,72023.0,Conway Water System,64960,Trichloroacetic acid,9.68,0.1,0,ppb,96.8
+AR,Conway,72023.0,Conway Water System,64960,Chlorate,153.0,210.0,0,ppb,0.7285714285714285
+AR,Conway,72023.0,Conway Water System,64960,Manganese,2.43,100.0,0,ppb,0.024300000000000002
+AR,Conway,72023.0,Conway Water System,64960,Monobromoacetic acid,0.277,25.0,0,ppb,0.011080000000000001
+AR,Conway,72023.0,Conway Water System,64960,Monochloroacetic acid,1.09,53.0,0,ppb,0.020566037735849058
+AR,Conway,72023.0,Conway Water System,64960,Nitrate,0.201,0.14,10,ppm,1.4357142857142857
+AR,Conway,72023.0,Conway Water System,64960,Strontium,0.0227,1500.0,0,ppb,1.5133333333333335e-05
+AR,Conway,72023.0,Conway Water System,64960,Vanadium,0.465,21.0,0,ppb,0.022142857142857145
+AR,Guy,72023.0,Guy Waterworks,1692,Bromodichloromethane,5.13,0.06,0,ppb,85.5
+AR,Guy,72023.0,Guy Waterworks,1692,Chlorite*,313.3,50.0,1000,ppb,6.266
+AR,Guy,72023.0,Guy Waterworks,1692,Chloroform,47.9,0.4,0,ppb,119.74999999999999
+AR,Guy,72023.0,Guy Waterworks,1692,Dichloroacetic acid,20.0,0.2,0,ppb,100.0
+AR,Guy,72023.0,Guy Waterworks,1692,Haloacetic acids (HAA5)†,39.7,0.1,60,ppb,397.0
+AR,Guy,72023.0,Guy Waterworks,1692,Haloacetic acids (HAA9)*†,36.2,0.06,0,ppb,603.3333333333334
+AR,Guy,72023.0,Guy Waterworks,1692,Total trihalomethanes (TTHMs)†,53.1,0.15,80,ppb,354.0
+AR,Guy,72023.0,Guy Waterworks,1692,Trichloroacetic acid,18.6,0.1,0,ppb,186.0
+AR,Guy,72023.0,Guy Waterworks,1692,Aluminum*,43.3,600.0,0,ppb,0.07216666666666666
+AR,Guy,72023.0,Guy Waterworks,1692,Chlorate*,27.9,210.0,0,ppb,0.13285714285714284
+AR,Guy,72023.0,Guy Waterworks,1692,Chromium (hexavalent)*,0.0218,0.02,0,ppb,1.09
+AR,Guy,72023.0,Guy Waterworks,1692,Dibromochloromethane,0.0587,0.1,0,ppb,0.587
+AR,Guy,72023.0,Guy Waterworks,1692,Manganese*,6.91,100.0,0,ppb,0.0691
+AR,Guy,72023.0,Guy Waterworks,1692,Monobromoacetic acid*,0.0302,25.0,0,ppb,0.001208
+AR,Guy,72023.0,Guy Waterworks,1692,Monochloroacetic acid,1.17,53.0,0,ppb,0.022075471698113205
+AR,Guy,72023.0,Guy Waterworks,1692,Nitrate and nitrite*,0.215,0.14,10,ppm,1.5357142857142856
+AR,Guy,72023.0,Guy Waterworks,1692,Strontium*,10.4,1500.0,0,ppb,0.006933333333333334
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Bromodichloromethane,5.07,0.06,0,ppb,84.50000000000001
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Chloroform,41.3,0.4,0,ppb,103.24999999999999
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Chromium (hexavalent),0.0801,0.02,0,ppb,4.005
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Dichloroacetic acid,14.1,0.2,0,ppb,70.5
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Haloacetic acids (HAA5)†,28.4,0.1,60,ppb,283.99999999999994
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Haloacetic acids (HAA9)†,26.0,0.06,0,ppb,433.33333333333337
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Total trihalomethanes (TTHMs)†,46.5,0.15,80,ppb,310.0
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Trichloroacetic acid,13.8,0.1,0,ppb,138.0
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Chlorate,81.5,210.0,0,ppb,0.3880952380952381
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Dibromochloromethane,0.113,0.1,0,ppb,1.13
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Manganese,1.02,100.0,0,ppb,0.0102
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Monobromoacetic acid,0.0283,25.0,0,ppb,0.001132
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Monochloroacetic acid,0.546,53.0,0,ppb,0.01030188679245283
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Strontium,0.0239,1500.0,0,ppb,1.5933333333333336e-05
+AR,Vilonia,72023.0,Vilonia Waterworks,22730,Vanadium,0.295,21.0,0,ppb,0.014047619047619047
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Bromodichloromethane,3.63,0.06,0,ppb,60.5
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Chlorite,151.5,50.0,1000,ppb,3.03
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Chloroform,23.4,0.4,0,ppb,58.49999999999999
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Dichloroacetic acid,10.6,0.2,0,ppb,52.99999999999999
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Haloacetic acids (HAA5)†,24.1,0.1,60,ppb,241.0
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Haloacetic acids (HAA9)†,28.3,0.06,0,ppb,471.6666666666667
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Total trihalomethanes (TTHMs)†,28.5,0.15,80,ppb,190.0
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Trichloroacetic acid,13.2,0.1,0,ppb,131.99999999999997
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Aluminum,23.3,600.0,0,ppb,0.03883333333333334
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Chlorate,121.7,210.0,0,ppb,0.5795238095238096
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Chromium (hexavalent),0.0259,0.02,0,ppb,1.295
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Dibromoacetic acid,0.0127,0.04,0,ppb,0.3175
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Dibromochloromethane,0.00871,0.1,0,ppb,0.0871
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Manganese,12.5,100.0,0,ppb,0.125
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Monobromoacetic acid,0.153,25.0,0,ppb,0.00612
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Monochloroacetic acid,0.181,53.0,0,ppb,0.0034150943396226412
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Nitrate and nitrite,0.0367,0.14,10,ppm,0.2621428571428571
+AR,Heber Springs,72044.0,Heber Springs Water System,11150,Strontium,13.4,1500.0,0,ppb,0.008933333333333333
+AR,Dover,72063.0,Dover Waterworks,1410,Bromodichloromethane,5.39,0.06,0,ppb,89.83333333333333
+AR,Dover,72063.0,Dover Waterworks,1410,Chloroform,39.0,0.4,0,ppb,97.5
+AR,Dover,72063.0,Dover Waterworks,1410,Dichloroacetic acid,15.8,0.2,0,ppb,79.0
+AR,Dover,72063.0,Dover Waterworks,1410,Haloacetic acids (HAA5)†,34.8,0.1,60,ppb,347.99999999999994
+AR,Dover,72063.0,Dover Waterworks,1410,Total trihalomethanes (TTHMs)†,46.5,0.15,80,ppb,310.0
+AR,Dover,72063.0,Dover Waterworks,1410,Trichloroacetic acid,18.0,0.1,0,ppb,180.0
+AR,Dover,72063.0,Dover Waterworks,1410,Aluminum,53.3,600.0,0,ppb,0.08883333333333333
+AR,Dover,72063.0,Dover Waterworks,1410,Dibromoacetic acid,0.0458,0.04,0,ppb,1.145
+AR,Dover,72063.0,Dover Waterworks,1410,Dibromochloromethane,0.165,0.1,0,ppb,1.65
+AR,Dover,72063.0,Dover Waterworks,1410,Manganese,0.3,100.0,0,ppb,0.003
+AR,Dover,72063.0,Dover Waterworks,1410,Monochloroacetic acid,0.985,53.0,0,ppb,0.01858490566037736
+AR,Dover,72063.0,Dover Waterworks,1410,Nitrate and nitrite,0.207,0.14,10,ppm,1.4785714285714284
+AR,Parkin,72101.0,Parkin Rural,406,Bromodichloromethane,3.7,0.06,0,ppb,61.66666666666667
+AR,Parkin,72101.0,Parkin Rural,406,Chloroform,4.57,0.4,0,ppb,11.425
+AR,Parkin,72101.0,Parkin Rural,406,Dibromoacetic acid,1.1,0.04,0,ppb,27.5
+AR,Parkin,72101.0,Parkin Rural,406,Dibromochloromethane,2.47,0.1,0,ppb,24.7
+AR,Parkin,72101.0,Parkin Rural,406,Dichloroacetic acid,2.23,0.2,0,ppb,11.149999999999999
+AR,Parkin,72101.0,Parkin Rural,406,Haloacetic acids (HAA5)†,4.6,0.1,60,ppb,45.99999999999999
+AR,Parkin,72101.0,Parkin Rural,406,Radium combined (-226 &amp; -228)*,0.35,0.05,5,pCi/L,6.999999999999999
+AR,Parkin,72101.0,Parkin Rural,406,Total trihalomethanes (TTHMs)†,10.7,0.15,80,ppb,71.33333333333333
+AR,Parkin,72101.0,Parkin Rural,406,Trichloroacetic acid,1.33,0.1,0,ppb,13.3
+AR,Parkin,72101.0,Parkin Rural,406,Aluminum*,80.0,600.0,0,ppb,0.13333333333333333
+AR,Parkin,72101.0,Parkin Rural,406,Barium*,300.0,700.0,2000,ppb,0.42857142857142855
+AR,Parkin,72101.0,Parkin Rural,406,Manganese*,2.05,100.0,0,ppb,0.020499999999999997
+AR,Parkin,72101.0,Parkin Rural,406,Monobromoacetic acid*,0.171,25.0,0,ppb,0.006840000000000001
+AR,Parkin,72101.0,Parkin Rural,406,Nitrate and nitrite*,0.0111,0.14,10,ppm,0.07928571428571428
+AR,Batesville,72112.0,Pfeiffer Water,3167,Bromodichloromethane,8.43,0.06,0,ppb,140.5
+AR,Batesville,72112.0,Pfeiffer Water,3167,Chloroform,51.4,0.4,0,ppb,128.5
+AR,Batesville,72112.0,Pfeiffer Water,3167,Chromium (hexavalent)*,0.0746,0.02,0,ppb,3.73
+AR,Batesville,72112.0,Pfeiffer Water,3167,Dibromochloromethane,1.41,0.1,0,ppb,14.099999999999998
+AR,Batesville,72112.0,Pfeiffer Water,3167,Dichloroacetic acid,18.9,0.2,0,ppb,94.49999999999999
+AR,Batesville,72112.0,Pfeiffer Water,3167,Haloacetic acids (HAA5)†,38.1,0.1,60,ppb,381.0
+AR,Batesville,72112.0,Pfeiffer Water,3167,Haloacetic acids (HAA9)*†,26.7,0.06,0,ppb,445.0
+AR,Batesville,72112.0,Pfeiffer Water,3167,Nitrate and nitrite*,0.389,0.14,10,ppm,2.7785714285714285
+AR,Batesville,72112.0,Pfeiffer Water,3167,Total trihalomethanes (TTHMs)†,61.2,0.15,80,ppb,408.00000000000006
+AR,Batesville,72112.0,Pfeiffer Water,3167,Trichloroacetic acid,18.2,0.1,0,ppb,181.99999999999997
+AR,Batesville,72112.0,Pfeiffer Water,3167,Aluminum*,67.7,600.0,0,ppb,0.11283333333333334
+AR,Batesville,72112.0,Pfeiffer Water,3167,Dibromoacetic acid,0.05,0.04,0,ppb,1.25
+AR,Batesville,72112.0,Pfeiffer Water,3167,Manganese*,1.07,100.0,0,ppb,0.010700000000000001
+AR,Batesville,72112.0,Pfeiffer Water,3167,Monobromoacetic acid,0.0587,25.0,0,ppb,0.0023480000000000003
+AR,Batesville,72112.0,Pfeiffer Water,3167,Monochloroacetic acid,0.917,53.0,0,ppb,0.01730188679245283
+AR,Batesville,72112.0,Pfeiffer Water,3167,Nitrate*,0.268,0.14,10,ppm,1.9142857142857141
+AR,Batesville,72112.0,Pfeiffer Water,3167,Strontium*,0.0395,1500.0,0,ppb,2.6333333333333334e-05
+AR,Batesville,72112.0,Pfeiffer Water,3167,Vanadium*,0.358,21.0,0,ppb,0.017047619047619048
+AR,Turrell,72301.0,Turrell Water,540,Chloroform,1.29,0.4,0,ppb,3.225
+AR,Turrell,72301.0,Turrell Water,540,Dichloroacetic acid,0.843,0.2,0,ppb,4.215
+AR,Turrell,72301.0,Turrell Water,540,Haloacetic acids (HAA5)†,1.26,0.1,60,ppb,12.6
+AR,Turrell,72301.0,Turrell Water,540,Total trihalomethanes (TTHMs)†,1.63,0.15,80,ppb,10.866666666666667
+AR,Turrell,72301.0,Turrell Water,540,Trichloroacetic acid,0.429,0.1,0,ppb,4.29
+AR,Turrell,72301.0,Turrell Water,540,Bromodichloromethane,0.0833,0.06,0,ppb,1.3883333333333334
+AR,Turrell,72301.0,Turrell Water,540,Dibromochloromethane,0.00225,0.1,0,ppb,0.022499999999999996
+AR,Turrell,72301.0,Turrell Water,540,Manganese,6.9,100.0,0,ppb,0.069
+AR,Osceola,72313.0,Joiner Waterworks,508,Dichloroacetic acid,0.514,0.2,0,ppb,2.57
+AR,Osceola,72313.0,Joiner Waterworks,508,Haloacetic acids (HAA5)†,0.814,0.1,60,ppb,8.139999999999999
+AR,Osceola,72313.0,Joiner Waterworks,508,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Osceola,72313.0,Joiner Waterworks,508,Total trihalomethanes (TTHMs)†,0.9,0.15,80,ppb,6.0
+AR,Osceola,72313.0,Joiner Waterworks,508,Trichloroacetic acid,0.286,0.1,0,ppb,2.8599999999999994
+AR,Osceola,72313.0,Joiner Waterworks,508,Aluminum,70.0,600.0,0,ppb,0.11666666666666667
+AR,Osceola,72313.0,Joiner Waterworks,508,Chloroform,0.777,0.4,0,ppb,1.9425
+AR,Osceola,72313.0,Joiner Waterworks,508,Dibromochloromethane,0.0174,0.1,0,ppb,0.174
+AR,Osceola,72313.0,Joiner Waterworks,508,Manganese,5.45,100.0,0,ppb,0.0545
+AR,Manila,72313.0,Manila Waterworks,3348,Bromodichloromethane,0.144,0.06,0,ppb,2.4
+AR,Manila,72313.0,Manila Waterworks,3348,Dibromoacetic acid,0.325,0.04,0,ppb,8.125
+AR,Manila,72313.0,Manila Waterworks,3348,Haloacetic acids (HAA5)†,1.41,0.1,60,ppb,14.099999999999998
+AR,Manila,72313.0,Manila Waterworks,3348,Total trihalomethanes (TTHMs)†,0.463,0.15,80,ppb,3.086666666666667
+AR,Manila,72313.0,Manila Waterworks,3348,Trichloroacetic acid,0.338,0.1,0,ppb,3.38
+AR,Manila,72313.0,Manila Waterworks,3348,Chloroform,0.627,0.4,0,ppb,1.5675
+AR,Manila,72313.0,Manila Waterworks,3348,Dibromochloromethane,0.194,0.1,0,ppb,1.94
+AR,Manila,72313.0,Manila Waterworks,3348,Dichloroacetic acid,0.288,0.2,0,ppb,1.4399999999999997
+AR,Manila,72313.0,Manila Waterworks,3348,Manganese,10.6,100.0,0,ppb,0.106
+AR,Manila,72313.0,Manila Waterworks,3348,Monobromoacetic acid,0.463,25.0,0,ppb,0.018520000000000002
+AR,Trumann,72324.0,Trumann Waterworks,7968,Bromodichloromethane,4.02,0.06,0,ppb,67.0
+AR,Trumann,72324.0,Trumann Waterworks,7968,Bromoform,1.46,0.5,0,ppb,2.92
+AR,Trumann,72324.0,Trumann Waterworks,7968,Chloroform,5.73,0.4,0,ppb,14.325000000000001
+AR,Trumann,72324.0,Trumann Waterworks,7968,Dibromoacetic acid,0.171,0.04,0,ppb,4.275
+AR,Trumann,72324.0,Trumann Waterworks,7968,Dibromochloromethane,3.81,0.1,0,ppb,38.1
+AR,Trumann,72324.0,Trumann Waterworks,7968,Haloacetic acids (HAA5)†,1.41,0.1,60,ppb,14.099999999999998
+AR,Trumann,72324.0,Trumann Waterworks,7968,Total trihalomethanes (TTHMs)†,18.1,0.15,80,ppb,120.66666666666669
+AR,Trumann,72324.0,Trumann Waterworks,7968,Trichloroacetic acid,0.871,0.1,0,ppb,8.709999999999999
+AR,Trumann,72324.0,Trumann Waterworks,7968,Dichloroacetic acid,0.371,0.2,0,ppb,1.855
+AR,Trumann,72324.0,Trumann Waterworks,7968,Manganese,14.6,100.0,0,ppb,0.146
+AR,Trumann,72324.0,Trumann Waterworks,7968,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Munford,72338.0,Munford Water Department,9560,Bromodichloromethane,1.15,0.06,0,ppb,19.166666666666664
+AR,Munford,72338.0,Munford Water Department,9560,Chloroform,1.26,0.4,0,ppb,3.15
+AR,Munford,72338.0,Munford Water Department,9560,Dibromochloromethane,1.04,0.1,0,ppb,10.4
+AR,Munford,72338.0,Munford Water Department,9560,Radium combined (-226 &amp; -228),0.88,0.05,5,pCi/L,17.599999999999998
+AR,Munford,72338.0,Munford Water Department,9560,Total trihalomethanes (TTHMs)†,2.56,0.15,80,ppb,17.066666666666666
+AR,Marmaduke,72401.0,Marmaduke,1111,Dibromochloromethane,0.00131,0.1,0,ppb,0.013099999999999999
+AR,Monette,72401.0,Monette Waterworks,1306,Bromodichloromethane,1.59,0.06,0,ppb,26.500000000000004
+AR,Monette,72401.0,Monette Waterworks,1306,Chloroform,2.11,0.4,0,ppb,5.2749999999999995
+AR,Monette,72401.0,Monette Waterworks,1306,Dibromoacetic acid,0.157,0.04,0,ppb,3.925
+AR,Monette,72401.0,Monette Waterworks,1306,Dibromochloromethane,1.19,0.1,0,ppb,11.899999999999999
+AR,Monette,72401.0,Monette Waterworks,1306,Dichloroacetic acid,0.729,0.2,0,ppb,3.6449999999999996
+AR,Monette,72401.0,Monette Waterworks,1306,Haloacetic acids (HAA5)†,1.36,0.1,60,ppb,13.6
+AR,Monette,72401.0,Monette Waterworks,1306,Total trihalomethanes (TTHMs)†,5.26,0.15,80,ppb,35.06666666666667
+AR,Monette,72401.0,Monette Waterworks,1306,Trichloroacetic acid,0.486,0.1,0,ppb,4.859999999999999
+AR,Monette,72401.0,Monette Waterworks,1306,Manganese,17.7,100.0,0,ppb,0.177
+AR,Black Rock,72410.0,Black Rock,663,Dibromoacetic acid,0.157,0.04,0,ppb,3.925
+AR,Black Rock,72410.0,Black Rock,663,Nitrate,0.774,0.14,10,ppm,5.5285714285714285
+AR,Black Rock,72410.0,Black Rock,663,Nitrate and nitrite,0.8,0.14,10,ppm,5.714285714285714
+AR,Black Rock,72410.0,Black Rock,663,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Black Rock,72410.0,Black Rock,663,Dibromochloromethane,0.0161,0.1,0,ppb,0.16099999999999998
+AR,Black Rock,72410.0,Black Rock,663,Haloacetic acids (HAA5)†,0.157,0.1,60,ppb,1.5699999999999998
+AR,Rector,72413.0,Rector Waterworks,1977,Bromoform,0.0207,0.5,0,ppb,0.0414
+AR,Rector,72413.0,Rector Waterworks,1977,Chloroform,0.3,0.4,0,ppb,0.7499999999999999
+AR,Rector,72413.0,Rector Waterworks,1977,Dibromochloromethane,0.00349,0.1,0,ppb,0.0349
+AR,Rector,72413.0,Rector Waterworks,1977,p-Dichlorobenzene,0.758,6.0,75,ppb,0.12633333333333333
+AR,Rector,72413.0,Rector Waterworks,1977,Xylenes (total),0.118,1800.0,10000,ppb,6.555555555555556e-05
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Haloacetic acids (HAA9)†,5.02,0.06,0,ppb,83.66666666666666
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Radium combined (-226 &amp; -228),1.63,0.05,5,pCi/L,32.599999999999994
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Total trihalomethanes (TTHMs)†,0.343,0.15,80,ppb,2.286666666666667
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Bromoform,0.1,0.5,0,ppb,0.2
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Dibromochloromethane,0.103,0.1,0,ppb,1.0299999999999998
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Manganese,2.86,100.0,0,ppb,0.0286
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Nitrate,0.22,0.14,10,ppm,1.5714285714285714
+AR,Ash Flat,72459.0,Ash Flat Water,1082,Nitrate and nitrite,0.165,0.14,10,ppm,1.1785714285714286
+AR,Wiiford,72459.0,Williford,105,Bromodichloromethane,0.22,0.06,0,ppb,3.666666666666667
+AR,Wiiford,72459.0,Williford,105,Dibromoacetic acid,0.4,0.04,0,ppb,10.0
+AR,Wiiford,72459.0,Williford,105,Dibromochloromethane,0.378,0.1,0,ppb,3.78
+AR,Wiiford,72459.0,Williford,105,Haloacetic acids (HAA5)†,0.833,0.1,60,ppb,8.329999999999998
+AR,Wiiford,72459.0,Williford,105,Radium combined (-226 &amp; -228),0.5,0.05,5,pCi/L,10.0
+AR,Wiiford,72459.0,Williford,105,Total trihalomethanes (TTHMs)†,2.13,0.15,80,ppb,14.2
+AR,Wiiford,72459.0,Williford,105,Bromoform,0.48,0.5,0,ppb,0.96
+AR,Wiiford,72459.0,Williford,105,Chloroform,0.2,0.4,0,ppb,0.5
+AR,Wiiford,72459.0,Williford,105,Dichloroacetic acid,0.4,0.2,0,ppb,2.0
+AR,Wiiford,72459.0,Williford,105,Manganese,0.885,100.0,0,ppb,0.00885
+AR,Wiiford,72459.0,Williford,105,Nitrate and nitrite,0.0483,0.14,10,ppm,0.345
+AR,Oxford,72501.0,Oxford Waterworks,1074,Nitrate,2.07,0.14,10,ppm,14.785714285714283
+AR,Oxford,72501.0,Oxford Waterworks,1074,Nitrate and nitrite,2.52,0.14,10,ppm,18.0
+AR,Oxford,72501.0,Oxford Waterworks,1074,Di(2-ethylhexyl) phthalate,0.181,3.0,6,ppb,0.06033333333333333
+AR,Oxford,72501.0,Oxford Waterworks,1074,Dibromochloromethane,0.00968,0.1,0,ppb,0.09679999999999998
+AR,Oxford,72501.0,Oxford Waterworks,1074,Radium combined (-226 &amp; -228),0.05,0.05,5,pCi/L,1.0
+AR,Mammoth Spring,72512.0,Mammoth Spring,977,Nitrate,0.308,0.14,10,ppm,2.1999999999999997
+AR,Mammoth Spring,72512.0,Mammoth Spring,977,Nitrate and nitrite,0.45,0.14,10,ppm,3.214285714285714
+AR,Mammoth Spring,72512.0,Mammoth Spring,977,Dibromochloromethane,0.000858,0.1,0,ppb,0.008579999999999999
+AR,Mammoth Spring,72512.0,Mammoth Spring,977,Manganese,0.167,100.0,0,ppb,0.00167
+AR,Salem,72512.0,Salem Waterworks,1639,Bromodichloromethane,0.826,0.06,0,ppb,13.766666666666666
+AR,Salem,72512.0,Salem Waterworks,1639,Chloroform,2.13,0.4,0,ppb,5.324999999999999
+AR,Salem,72512.0,Salem Waterworks,1639,Dichloroacetic acid,0.678,0.2,0,ppb,3.39
+AR,Salem,72512.0,Salem Waterworks,1639,Haloacetic acids (HAA5)†,1.06,0.1,60,ppb,10.6
+AR,Salem,72512.0,Salem Waterworks,1639,Total trihalomethanes (TTHMs)†,7.78,0.15,80,ppb,51.86666666666667
+AR,Salem,72512.0,Salem Waterworks,1639,Trichloroacetic acid,0.378,0.1,0,ppb,3.78
+AR,Salem,72512.0,Salem Waterworks,1639,Dibromochloromethane,0.196,0.1,0,ppb,1.96
+AR,Salem,72512.0,Salem Waterworks,1639,Manganese,0.256,100.0,0,ppb,0.00256
+AR,Salem,72512.0,Salem Waterworks,1639,Nitrate and nitrite,0.195,0.14,10,ppm,1.3928571428571428
+AR,Salem,72512.0,Salem Waterworks,1639,Radium combined (-226 &amp; -228),0.1,0.05,5,pCi/L,2.0
+AR,Salem,72512.0,Salem Waterworks,1639,Tetrachloroethylene (perchloroethylene),0.113,0.06,5,ppb,1.8833333333333335
+AR,Mt Home,72531.0,Crestwood Mobile,34,Haloacetic acids (HAA5)†,0.867,0.1,60,ppb,8.67
+AR,Mt Home,72531.0,Crestwood Mobile,34,Nitrate,0.805,0.14,10,ppm,5.75
+AR,Mt Home,72531.0,Crestwood Mobile,34,Nitrate and nitrite,0.703,0.14,10,ppm,5.0214285714285705
+AR,Mt Home,72531.0,Crestwood Mobile,34,Dibromochloromethane,0.0228,0.1,0,ppb,0.228
+AR,Mt Home,72531.0,Crestwood Mobile,34,Monobromoacetic acid,0.867,25.0,0,ppb,0.03468
+AR,Gassville,72531.0,Gassville,1672,Bromodichloromethane,0.292,0.06,0,ppb,4.866666666666666
+AR,Gassville,72531.0,Gassville,1672,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+AR,Gassville,72531.0,Gassville,1672,Total trihalomethanes (TTHMs)†,1.65,0.15,80,ppb,11.0
+AR,Gassville,72531.0,Gassville,1672,Chloroform,0.678,0.4,0,ppb,1.695
+AR,Gassville,72531.0,Gassville,1672,Dibromochloromethane,0.0205,0.1,0,ppb,0.205
+AR,Gassville,72531.0,Gassville,1672,Dichloroacetic acid,0.143,0.2,0,ppb,0.7149999999999999
+AR,Gassville,72531.0,Gassville,1672,Haloacetic acids (HAA5)†,0.143,0.1,60,ppb,1.4299999999999997
+AR,Gassville,72531.0,Gassville,1672,Manganese,0.829,100.0,0,ppb,0.008289999999999999
+AR,Gassville,72531.0,Gassville,1672,Nitrate and nitrite,0.253,0.14,10,ppm,1.807142857142857
+AR,Henderson,72531.0,Laurelwood,90,Arsenic,1.14,0.004,10,ppb,284.99999999999994
+AR,Henderson,72531.0,Laurelwood,90,Radium combined (-226 &amp; -228),3.73,0.05,5,pCi/L,74.6
+AR,Henderson,72531.0,Laurelwood,90,Antimony,0.0607,1.0,6,ppb,0.0607
+AR,Henderson,72531.0,Laurelwood,90,Dibromochloromethane,0.0228,0.1,0,ppb,0.228
+AR,Henderson,72531.0,Laurelwood,90,Manganese,6.81,100.0,0,ppb,0.0681
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Bromodichloromethane,6.18,0.06,0,ppb,103.0
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Chloroform,24.2,0.4,0,ppb,60.49999999999999
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Dibromochloromethane,0.798,0.1,0,ppb,7.98
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Dichloroacetic acid,11.5,0.2,0,ppb,57.5
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Haloacetic acids (HAA5)†,24.4,0.1,60,ppb,243.99999999999997
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Nitrate,0.362,0.14,10,ppm,2.5857142857142854
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Nitrate and nitrite,0.306,0.14,10,ppm,2.1857142857142855
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Radium combined (-226 &amp; -228),0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Total trihalomethanes (TTHMs)†,31.6,0.15,80,ppb,210.66666666666669
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Trichloroacetic acid,11.2,0.1,0,ppb,111.99999999999999
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Aluminum,16.7,600.0,0,ppb,0.02783333333333333
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Dibromoacetic acid,0.0415,0.04,0,ppb,1.0375
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Manganese,0.267,100.0,0,ppb,0.00267
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Monobromoacetic acid,0.838,25.0,0,ppb,0.03352
+AR,Diamond City AR,72601.0,Ozark Mtn Regional PWA,2,Monochloroacetic acid,0.775,53.0,0,ppb,0.014622641509433962
+AR,Diamond City,72615.0,Diamond City Water,1203,Bromodichloromethane,6.64,0.06,0,ppb,110.66666666666667
+AR,Diamond City,72615.0,Diamond City Water,1203,Chloroform,22.2,0.4,0,ppb,55.49999999999999
+AR,Diamond City,72615.0,Diamond City Water,1203,Dibromochloromethane,1.26,0.1,0,ppb,12.6
+AR,Diamond City,72615.0,Diamond City Water,1203,Dichloroacetic acid,9.41,0.2,0,ppb,47.05
+AR,Diamond City,72615.0,Diamond City Water,1203,Haloacetic acids (HAA5)†,20.1,0.1,60,ppb,201.0
+AR,Diamond City,72615.0,Diamond City Water,1203,Nitrate*,0.362,0.14,10,ppm,2.5857142857142854
+AR,Diamond City,72615.0,Diamond City Water,1203,Nitrate and nitrite*,0.306,0.14,10,ppm,2.1857142857142855
+AR,Diamond City,72615.0,Diamond City Water,1203,Radium combined (-226 &amp; -228)*,0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Diamond City,72615.0,Diamond City Water,1203,Total trihalomethanes (TTHMs)†,30.1,0.15,80,ppb,200.66666666666669
+AR,Diamond City,72615.0,Diamond City Water,1203,Trichloroacetic acid,8.69,0.1,0,ppb,86.89999999999999
+AR,Diamond City,72615.0,Diamond City Water,1203,Aluminum*,16.7,600.0,0,ppb,0.02783333333333333
+AR,Diamond City,72615.0,Diamond City Water,1203,Dibromoacetic acid*,0.0415,0.04,0,ppb,1.0375
+AR,Diamond City,72615.0,Diamond City Water,1203,Manganese*,0.267,100.0,0,ppb,0.00267
+AR,Diamond City,72615.0,Diamond City Water,1203,Monobromoacetic acid,1.64,25.0,0,ppb,0.06559999999999999
+AR,Diamond City,72615.0,Diamond City Water,1203,Monochloroacetic acid,0.338,53.0,0,ppb,0.006377358490566038
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Bromodichloromethane,5.75,0.06,0,ppb,95.83333333333334
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Chloroform,19.6,0.4,0,ppb,49.0
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Dibromochloromethane,1.15,0.1,0,ppb,11.499999999999998
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Dichloroacetic acid,7.5,0.2,0,ppb,37.5
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Haloacetic acids (HAA5)†,15.1,0.1,60,ppb,151.0
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Total trihalomethanes (TTHMs)†,26.5,0.15,80,ppb,176.66666666666669
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Trichloroacetic acid,6.69,0.1,0,ppb,66.9
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Aluminum*,30.0,600.0,0,ppb,0.05
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Dibromoacetic acid*,0.0429,0.04,0,ppb,1.0725
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Manganese*,0.157,100.0,0,ppb,0.00157
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Monobromoacetic acid,0.7,25.0,0,ppb,0.027999999999999997
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Monochloroacetic acid,0.2,53.0,0,ppb,0.0037735849056603774
+AR,Bull Shoals,72619.0,Bull Shoals Water,2723,Nitrate and nitrite*,0.269,0.14,10,ppm,1.9214285714285713
+AR,Summit,72619.0,Summit Waterworks,604,Bromodichloromethane,5.88,0.06,0,ppb,98.0
+AR,Summit,72619.0,Summit Waterworks,604,Chloroform,20.3,0.4,0,ppb,50.75
+AR,Summit,72619.0,Summit Waterworks,604,Dibromochloromethane,1.15,0.1,0,ppb,11.499999999999998
+AR,Summit,72619.0,Summit Waterworks,604,Dichloroacetic acid,5.08,0.2,0,ppb,25.4
+AR,Summit,72619.0,Summit Waterworks,604,Haloacetic acids (HAA5)†,10.5,0.1,60,ppb,105.0
+AR,Summit,72619.0,Summit Waterworks,604,Total trihalomethanes (TTHMs)†,27.3,0.15,80,ppb,182.0
+AR,Summit,72619.0,Summit Waterworks,604,Trichloroacetic acid,4.89,0.1,0,ppb,48.89999999999999
+AR,Summit,72619.0,Summit Waterworks,604,Aluminum*,30.0,600.0,0,ppb,0.05
+AR,Summit,72619.0,Summit Waterworks,604,Dibromoacetic acid*,0.0429,0.04,0,ppb,1.0725
+AR,Summit,72619.0,Summit Waterworks,604,Manganese*,0.157,100.0,0,ppb,0.00157
+AR,Summit,72619.0,Summit Waterworks,604,Monobromoacetic acid,0.0923,25.0,0,ppb,0.0036919999999999995
+AR,Summit,72619.0,Summit Waterworks,604,Monochloroacetic acid,0.469,53.0,0,ppb,0.008849056603773584
+AR,Summit,72619.0,Summit Waterworks,604,Nitrate and nitrite*,0.269,0.14,10,ppm,1.9214285714285713
+AR,Marble Falls,72628.0,Basin Valley Water,376,Bromodichloromethane,0.763,0.06,0,ppb,12.716666666666667
+AR,Marble Falls,72628.0,Basin Valley Water,376,Chloroform,1.03,0.4,0,ppb,2.5749999999999997
+AR,Marble Falls,72628.0,Basin Valley Water,376,Dibromochloromethane,0.54,0.1,0,ppb,5.4
+AR,Marble Falls,72628.0,Basin Valley Water,376,Dichloroacetic acid,4.17,0.2,0,ppb,20.849999999999998
+AR,Marble Falls,72628.0,Basin Valley Water,376,Haloacetic acids (HAA5)†,7.47,0.1,60,ppb,74.69999999999999
+AR,Marble Falls,72628.0,Basin Valley Water,376,Radium combined (-226 &amp; -228),2.35,0.05,5,pCi/L,47.0
+AR,Marble Falls,72628.0,Basin Valley Water,376,Total trihalomethanes (TTHMs)†,2.43,0.15,80,ppb,16.200000000000003
+AR,Marble Falls,72628.0,Basin Valley Water,376,Trichloroacetic acid,3.33,0.1,0,ppb,33.3
+AR,Marble Falls,72628.0,Basin Valley Water,376,Bromoform,0.18,0.5,0,ppb,0.36
+AR,Marshall,72629.0,Morning Star Water,1284,Bromodichloromethane,7.02,0.06,0,ppb,117.0
+AR,Marshall,72629.0,Morning Star Water,1284,Chloroform,24.7,0.4,0,ppb,61.74999999999999
+AR,Marshall,72629.0,Morning Star Water,1284,Dibromoacetic acid,0.111,0.04,0,ppb,2.775
+AR,Marshall,72629.0,Morning Star Water,1284,Dibromochloromethane,1.04,0.1,0,ppb,10.4
+AR,Marshall,72629.0,Morning Star Water,1284,Dichloroacetic acid,10.8,0.2,0,ppb,54.0
+AR,Marshall,72629.0,Morning Star Water,1284,Haloacetic acids (HAA5)†,21.2,0.1,60,ppb,211.99999999999997
+AR,Marshall,72629.0,Morning Star Water,1284,Nitrate*,0.362,0.14,10,ppm,2.5857142857142854
+AR,Marshall,72629.0,Morning Star Water,1284,Nitrate and nitrite*,0.306,0.14,10,ppm,2.1857142857142855
+AR,Marshall,72629.0,Morning Star Water,1284,Radium combined (-226 &amp; -228)*,0.15,0.05,5,pCi/L,2.9999999999999996
+AR,Marshall,72629.0,Morning Star Water,1284,Total trihalomethanes (TTHMs)†,32.7,0.15,80,ppb,218.00000000000003
+AR,Marshall,72629.0,Morning Star Water,1284,Trichloroacetic acid,9.57,0.1,0,ppb,95.7
+AR,Marshall,72629.0,Morning Star Water,1284,Aluminum*,16.7,600.0,0,ppb,0.02783333333333333
+AR,Marshall,72629.0,Morning Star Water,1284,Manganese*,0.267,100.0,0,ppb,0.00267
+AR,Marshall,72629.0,Morning Star Water,1284,Monobromoacetic acid,0.716,25.0,0,ppb,0.02864
+AR,Marshall,72629.0,Morning Star Water,1284,Monochloroacetic acid*,0.775,53.0,0,ppb,0.014622641509433962
+AR,Chester,72717.0,Chester Water,205,Bromodichloromethane,4.02,0.06,0,ppb,67.0
+AR,Chester,72717.0,Chester Water,205,Chloroform,16.2,0.4,0,ppb,40.49999999999999
+AR,Chester,72717.0,Chester Water,205,Chromium (hexavalent)*,0.0741,0.02,0,ppb,3.705
+AR,Chester,72717.0,Chester Water,205,Dibromochloromethane,0.236,0.1,0,ppb,2.36
+AR,Chester,72717.0,Chester Water,205,Dichloroacetic acid,6.17,0.2,0,ppb,30.849999999999998
+AR,Chester,72717.0,Chester Water,205,Haloacetic acids (HAA5)†,11.1,0.1,60,ppb,110.99999999999999
+AR,Chester,72717.0,Chester Water,205,Haloacetic acids (HAA9)*†,19.2,0.06,0,ppb,320.0
+AR,Chester,72717.0,Chester Water,205,Radium combined (-226 &amp; -228)*,0.13,0.05,5,pCi/L,2.6
+AR,Chester,72717.0,Chester Water,205,Total trihalomethanes (TTHMs)†,20.5,0.15,80,ppb,136.66666666666669
+AR,Chester,72717.0,Chester Water,205,Trichloroacetic acid,4.75,0.1,0,ppb,47.5
+AR,Chester,72717.0,Chester Water,205,Aluminum*,88.9,600.0,0,ppb,0.14816666666666667
+AR,Chester,72717.0,Chester Water,205,Carbon tetrachloride*,0.0371,0.1,5,ppb,0.371
+AR,Chester,72717.0,Chester Water,205,Dibromoacetic acid*,0.0652,0.04,0,ppb,1.63
+AR,Chester,72717.0,Chester Water,205,Manganese*,0.701,100.0,0,ppb,0.00701
+AR,Chester,72717.0,Chester Water,205,Monobromoacetic acid,0.155,25.0,0,ppb,0.0062
+AR,Chester,72717.0,Chester Water,205,Monochloroacetic acid*,0.111,53.0,0,ppb,0.0020943396226415093
+AR,Chester,72717.0,Chester Water,205,Nitrate and nitrite*,0.203,0.14,10,ppm,1.45
+AR,Chester,72717.0,Chester Water,205,Strontium*,0.0252,1500.0,0,ppb,1.6800000000000002e-05
+AR,Chester,72717.0,Chester Water,205,Strontium-90*,0.09,0.35,0,pCi/L,0.2571428571428572
+AR,Chester,72717.0,Chester Water,205,Tritium*,115.89,400.0,0,pCi/L,0.289725
+AR,Chester,72717.0,Chester Water,205,Vanadium*,0.103,21.0,0,ppb,0.004904761904761905
+AR,Knoxville,72752.0,Knoxville,1810,Bromodichloromethane,5.07,0.06,0,ppb,84.50000000000001
+AR,Knoxville,72752.0,Knoxville,1810,Chloroform,10.8,0.4,0,ppb,27.0
+AR,Knoxville,72752.0,Knoxville,1810,Dibromoacetic acid,0.515,0.04,0,ppb,12.875
+AR,Knoxville,72752.0,Knoxville,1810,Dibromochloromethane,2.66,0.1,0,ppb,26.6
+AR,Knoxville,72752.0,Knoxville,1810,Dichloroacetic acid,3.97,0.2,0,ppb,19.85
+AR,Knoxville,72752.0,Knoxville,1810,Haloacetic acids (HAA5)†,6.9,0.1,60,ppb,69.0
+AR,Knoxville,72752.0,Knoxville,1810,Total trihalomethanes (TTHMs)†,18.8,0.15,80,ppb,125.33333333333334
+AR,Knoxville,72752.0,Knoxville,1810,Trichloroacetic acid,2.33,0.1,0,ppb,23.3
+AR,Knoxville,72752.0,Knoxville,1810,Bromoform,0.289,0.5,0,ppb,0.578
+AR,Knoxville,72752.0,Knoxville,1810,Monochloroacetic acid,0.0778,53.0,0,ppb,0.0014679245283018866
+AR,Blue Mountain,72826.0,Blue Mountain,357,Bromodichloromethane,9.94,0.06,0,ppb,165.66666666666666
+AR,Blue Mountain,72826.0,Blue Mountain,357,Chloroform,58.7,0.4,0,ppb,146.75
+AR,Blue Mountain,72826.0,Blue Mountain,357,Dibromochloromethane,1.43,0.1,0,ppb,14.299999999999999
+AR,Blue Mountain,72826.0,Blue Mountain,357,Dichloroacetic acid,7.54,0.2,0,ppb,37.699999999999996
+AR,Blue Mountain,72826.0,Blue Mountain,357,Haloacetic acids (HAA5)†,19.5,0.1,60,ppb,195.0
+AR,Blue Mountain,72826.0,Blue Mountain,357,Total trihalomethanes (TTHMs)†,70.0,0.15,80,ppb,466.6666666666667
+AR,Blue Mountain,72826.0,Blue Mountain,357,Trichloroacetic acid,11.7,0.1,0,ppb,116.99999999999999
+AR,Blue Mountain,72826.0,Blue Mountain,357,Monochloroacetic acid,0.22,53.0,0,ppb,0.004150943396226415
+AR,Subiaco,72826.0,Subiaco City,535,Bromodichloromethane,10.4,0.06,0,ppb,173.33333333333334
+AR,Subiaco,72826.0,Subiaco City,535,Chloroform,48.8,0.4,0,ppb,121.99999999999999
+AR,Subiaco,72826.0,Subiaco City,535,Dibromoacetic acid,0.265,0.04,0,ppb,6.625
+AR,Subiaco,72826.0,Subiaco City,535,Dibromochloromethane,2.7,0.1,0,ppb,27.0
+AR,Subiaco,72826.0,Subiaco City,535,Dichloroacetic acid,15.7,0.2,0,ppb,78.49999999999999
+AR,Subiaco,72826.0,Subiaco City,535,Haloacetic acids (HAA5)†,30.5,0.1,60,ppb,305.0
+AR,Subiaco,72826.0,Subiaco City,535,Total trihalomethanes (TTHMs)†,61.9,0.15,80,ppb,412.6666666666667
+AR,Subiaco,72826.0,Subiaco City,535,Trichloroacetic acid,13.7,0.1,0,ppb,136.99999999999997
+AR,Subiaco,72826.0,Subiaco City,535,Aluminum*,33.3,600.0,0,ppb,0.055499999999999994
+AR,Subiaco,72826.0,Subiaco City,535,Manganese*,30.5,100.0,0,ppb,0.305
+AR,Subiaco,72826.0,Subiaco City,535,Monochloroacetic acid,0.91,53.0,0,ppb,0.017169811320754718
+AR,Subiaco,72826.0,Subiaco City,535,Nitrate and nitrite*,0.132,0.14,10,ppm,0.9428571428571428
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Bromodichloromethane,5.17,0.06,0,ppb,86.16666666666667
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Chloroform,38.3,0.4,0,ppb,95.74999999999999
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Chromium (hexavalent)*,0.0741,0.02,0,ppb,3.705
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Dibromochloromethane,0.481,0.1,0,ppb,4.81
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Dichloroacetic acid,5.72,0.2,0,ppb,28.599999999999998
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Haloacetic acids (HAA5)†,11.6,0.1,60,ppb,115.99999999999999
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Haloacetic acids (HAA9)*†,19.2,0.06,0,ppb,320.0
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Radium combined (-226 &amp; -228)*,0.13,0.05,5,pCi/L,2.6
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Total trihalomethanes (TTHMs)†,43.9,0.15,80,ppb,292.6666666666667
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Trichloroacetic acid,5.85,0.1,0,ppb,58.49999999999999
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Aluminum*,88.9,600.0,0,ppb,0.14816666666666667
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Carbon tetrachloride*,0.0371,0.1,5,ppb,0.371
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Dibromoacetic acid*,0.0652,0.04,0,ppb,1.63
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Manganese*,0.701,100.0,0,ppb,0.00701
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Monobromoacetic acid,0.025,25.0,0,ppb,0.001
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Monochloroacetic acid*,0.111,53.0,0,ppb,0.0020943396226415093
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Nitrate and nitrite*,0.203,0.14,10,ppm,1.45
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Strontium*,0.0252,1500.0,0,ppb,1.6800000000000002e-05
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Strontium-90*,0.09,0.35,0,pCi/L,0.2571428571428572
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Tritium*,115.89,400.0,0,pCi/L,0.289725
+AR,Lavaca,72901.0,Franklin-Sebatian Public Water Authority,0,Vanadium*,0.103,21.0,0,ppb,0.004904761904761905
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Bromodichloromethane,6.35,0.06,0,ppb,105.83333333333333
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Chloroform,56.6,0.4,0,ppb,141.5
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Chromium (hexavalent),0.76,0.02,0,ppb,38.0
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Dibromochloromethane,0.519,0.1,0,ppb,5.1899999999999995
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Dichloroacetic acid,7.58,0.2,0,ppb,37.9
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Haloacetic acids (HAA5)†,16.1,0.1,60,ppb,161.0
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Haloacetic acids (HAA9)†,17.9,0.06,0,ppb,298.3333333333333
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Total trihalomethanes (TTHMs)†,65.8,0.15,80,ppb,438.6666666666667
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Trichloroacetic acid,8.35,0.1,0,ppb,83.49999999999999
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Aluminum,353.6,600.0,0,ppb,0.5893333333333334
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Chlorate,9.78,210.0,0,ppb,0.04657142857142857
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Manganese,0.773,100.0,0,ppb,0.00773
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Monobromoacetic acid,0.0526,25.0,0,ppb,0.002104
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Monochloroacetic acid,0.0856,53.0,0,ppb,0.0016150943396226415
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Nitrate and nitrite,0.065,0.14,10,ppm,0.46428571428571425
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Strontium,0.018,1500.0,0,ppb,1.1999999999999999e-05
+AR,Greenwood,72901.0,James Fork Regional Water District,11538,Vanadium,0.493,21.0,0,ppb,0.023476190476190477
+AR,Greenwood,72901.0,Milltown-washburn,3807,Bromodichloromethane,7.43,0.06,0,ppb,123.83333333333333
+AR,Greenwood,72901.0,Milltown-washburn,3807,Chloroform,70.8,0.4,0,ppb,176.99999999999997
+AR,Greenwood,72901.0,Milltown-washburn,3807,Dibromochloromethane,0.624,0.1,0,ppb,6.239999999999999
+AR,Greenwood,72901.0,Milltown-washburn,3807,Dichloroacetic acid,8.78,0.2,0,ppb,43.89999999999999
+AR,Greenwood,72901.0,Milltown-washburn,3807,Haloacetic acids (HAA5)†,18.8,0.1,60,ppb,188.0
+AR,Greenwood,72901.0,Milltown-washburn,3807,Total trihalomethanes (TTHMs)†,78.9,0.15,80,ppb,526.0000000000001
+AR,Greenwood,72901.0,Milltown-washburn,3807,Trichloroacetic acid,9.78,0.1,0,ppb,97.79999999999998
+AR,Greenwood,72901.0,Milltown-washburn,3807,Bromoform,0.0436,0.5,0,ppb,0.0872
+AR,Greenwood,72901.0,Milltown-washburn,3807,Monochloroacetic acid,0.0893,53.0,0,ppb,0.0016849056603773585

@@ -1,0 +1,616 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+71601,34.17409,-91.89811,Pine Bluff,AR,Arkansas,True,,14119.0,47.3,5069,Jefferson,"{""05069"": 99.53, ""05079"": 0.47}",Jefferson|Lincoln,05069|05079,False,False,America/Chicago
+71602,34.27463,-92.13302,White Hall,AR,Arkansas,True,,15642.0,46.1,5069,Jefferson,"{""05069"": 83.32, ""05053"": 16.68}",Jefferson|Grant,05069|05053,False,False,America/Chicago
+71603,34.12881,-92.08492,Pine Bluff,AR,Arkansas,True,,30791.0,70.8,5069,Jefferson,"{""05069"": 84.6, ""05079"": 7.69, ""05025"": 5.23, ""05053"": 2.48}",Jefferson|Lincoln|Cleveland|Grant,05069|05079|05025|05053,False,False,America/Chicago
+71630,33.61827,-91.23004,Arkansas City,AR,Arkansas,True,,513.0,8.4,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago
+71631,33.58205,-92.26415,Banks,AR,Arkansas,True,,547.0,1.7,5011,Bradley,"{""05011"": 100}",Bradley,05011,False,False,America/Chicago
+71635,33.1369,-92.00133,Crossett,AR,Arkansas,True,,11501.0,20.0,5003,Ashley,"{""05003"": 99.84, ""05011"": 0.16}",Ashley|Bradley,05003|05011,False,False,America/Chicago
+71638,33.52008,-91.47927,Dermott,AR,Arkansas,True,,3549.0,5.6,5043,Drew,"{""05043"": 66.06, ""05017"": 25.41, ""05041"": 8.53}",Drew|Chicot|Desha,05043|05017|05041,False,False,America/Chicago
+71639,33.89143,-91.54414,Dumas,AR,Arkansas,True,,5633.0,11.8,5079,Lincoln,"{""05079"": 52.26, ""05041"": 47.74}",Lincoln|Desha,05079|05041,False,False,America/Chicago
+71640,33.1253,-91.24753,Eudora,AR,Arkansas,True,,2960.0,5.0,5017,Chicot,"{""05017"": 100}",Chicot,05017,False,False,America/Chicago
+71642,33.38842,-91.8788,Fountain Hill,AR,Arkansas,True,,659.0,3.7,5003,Ashley,"{""05003"": 57.96, ""05043"": 42.04}",Ashley|Drew,05003|05043,False,False,America/Chicago
+71643,34.01953,-91.57945,Gould,AR,Arkansas,True,,1023.0,2.9,5079,Lincoln,"{""05079"": 92.81, ""05041"": 7.19}",Lincoln|Desha,05079|05041,False,False,America/Chicago
+71644,34.11045,-91.71213,Grady,AR,Arkansas,True,,5268.0,34.7,5079,Lincoln,"{""05079"": 69.0, ""05069"": 31.0}",Lincoln|Jefferson,05079|05069,False,False,America/Chicago
+71646,33.20444,-91.77837,Hamburg,AR,Arkansas,True,,5915.0,6.1,5003,Ashley,"{""05003"": 96.31, ""05043"": 3.69}",Ashley|Drew,05003|05043,False,False,America/Chicago
+71647,33.36678,-92.12219,Hermitage,AR,Arkansas,True,,2276.0,3.4,5011,Bradley,"{""05011"": 100}",Bradley,05011,False,False,America/Chicago
+71651,33.31472,-92.28377,Jersey,AR,Arkansas,True,,55.0,0.3,5011,Bradley,"{""05011"": 100}",Bradley,05011,False,False,America/Chicago
+71652,33.89338,-92.31562,Kingsland,AR,Arkansas,True,,1236.0,4.3,5025,Cleveland,"{""05025"": 100}",Cleveland,05025,False,False,America/Chicago
+71653,33.36919,-91.27676,Lake Village,AR,Arkansas,True,,4300.0,6.4,5017,Chicot,"{""05017"": 100}",Chicot,05017,False,False,America/Chicago
+71654,33.62476,-91.37234,McGehee,AR,Arkansas,True,,4302.0,23.9,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago
+71655,33.62874,-91.7486,Monticello,AR,Arkansas,True,,15445.0,16.3,5043,Drew,"{""05043"": 99.32, ""05079"": 0.68}",Drew|Lincoln,05043|05079,False,False,America/Chicago
+71658,33.32018,-91.57635,Montrose,AR,Arkansas,True,,745.0,2.4,5003,Ashley,"{""05003"": 97.36, ""05043"": 2.64}",Ashley|Drew,05003|05043,False,False,America/Chicago
+71659,34.13505,-91.78071,Moscow,AR,Arkansas,True,,182.0,348.7,5069,Jefferson,"{""05069"": 100}",Jefferson,05069,False,False,America/Chicago
+71660,33.7627,-92.19728,New Edinburg,AR,Arkansas,True,,901.0,3.1,5025,Cleveland,"{""05025"": 99.58, ""05011"": 0.42}",Cleveland|Bradley,05025|05011,False,False,America/Chicago
+71661,33.14338,-91.51333,Parkdale,AR,Arkansas,True,,406.0,1.8,5003,Ashley,"{""05003"": 75.8, ""05017"": 24.2}",Ashley|Chicot,05003|05017,False,False,America/Chicago
+71662,33.82355,-91.50391,Pickens,AR,Arkansas,True,,89.0,1.5,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago
+71663,33.22755,-91.42665,Portland,AR,Arkansas,True,,560.0,2.6,5017,Chicot,"{""05017"": 63.95, ""05003"": 36.05}",Chicot|Ashley,05017|05003,False,False,America/Chicago
+71665,33.93812,-92.13163,Rison,AR,Arkansas,True,,5359.0,6.4,5025,Cleveland,"{""05025"": 97.25, ""05069"": 2.75}",Cleveland|Jefferson,05025|05069,False,False,America/Chicago
+71666,33.7372,-91.24736,Rohwer,AR,Arkansas,True,,,,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago
+71667,33.93588,-91.84412,Star City,AR,Arkansas,True,,6568.0,9.2,5079,Lincoln,"{""05079"": 94.73, ""05025"": 5.27}",Lincoln|Cleveland,05079|05025,False,False,America/Chicago
+71670,33.74439,-91.40974,Tillar,AR,Arkansas,True,,1077.0,2.1,5041,Desha,"{""05041"": 70.25, ""05043"": 29.75}",Desha|Drew,05041|05043,False,False,America/Chicago
+71671,33.60652,-92.10006,Warren,AR,Arkansas,True,,8246.0,17.7,5011,Bradley,"{""05011"": 92.99, ""05025"": 3.98, ""05043"": 3.03}",Bradley|Cleveland|Drew,05011|05025|05043,False,False,America/Chicago
+71674,33.82694,-91.18261,Watson,AR,Arkansas,True,,579.0,1.0,5041,Desha,"{""05041"": 100}",Desha,05041,False,False,America/Chicago
+71675,33.60424,-91.93805,Wilmar,AR,Arkansas,True,,1722.0,3.9,5043,Drew,"{""05043"": 83.71, ""05011"": 10.34, ""05079"": 5.95}",Drew|Bradley|Lincoln,05043|05011|05079,False,False,America/Chicago
+71676,33.05156,-91.56023,Wilmot,AR,Arkansas,True,,569.0,2.4,5003,Ashley,"{""05003"": 86.8, ""05017"": 13.2}",Ashley|Chicot,05003|05017,False,False,America/Chicago
+71677,33.76572,-91.4884,Winchester,AR,Arkansas,True,,152.0,9.8,5043,Drew,"{""05043"": 100}",Drew,05043,False,False,America/Chicago
+71678,34.0254,-91.81548,Yorktown,AR,Arkansas,True,,,,5079,Lincoln,"{""05079"": 100}",Lincoln,05079,False,False,America/Chicago
+71701,33.57837,-92.81309,Camden,AR,Arkansas,True,,18626.0,25.0,5103,Ouachita,"{""05103"": 81.16, ""05013"": 18.84}",Ouachita|Calhoun,05103|05013,False,False,America/Chicago
+71720,33.79075,-92.64163,Bearden,AR,Arkansas,True,,2103.0,5.6,5103,Ouachita,"{""05103"": 54.21, ""05039"": 39.85, ""05013"": 5.94}",Ouachita|Dallas|Calhoun,05103|05039|05013,False,False,America/Chicago
+71721,33.89091,-93.20635,Beirne,AR,Arkansas,True,,,,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71722,33.71045,-93.15537,Bluff City,AR,Arkansas,True,,83.0,1.7,5099,Nevada,"{""05099"": 100}",Nevada,05099,False,False,America/Chicago
+71724,33.326,-92.54053,Calion,AR,Arkansas,True,,404.0,86.3,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71725,34.03791,-92.53252,Carthage,AR,Arkansas,True,,268.0,0.5,5039,Dallas,"{""05039"": 84.24, ""05025"": 15.76}",Dallas|Cleveland,05039|05025,False,False,America/Chicago
+71726,33.68016,-92.99584,Chidester,AR,Arkansas,True,,977.0,1.9,5103,Ouachita,"{""05103"": 99.0, ""05099"": 1.0}",Ouachita|Nevada,05103|05099,False,False,America/Chicago
+71728,34.0089,-93.1053,Curtis,AR,Arkansas,True,,,,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71730,33.20303,-92.63458,El Dorado,AR,Arkansas,True,,29320.0,24.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71740,33.08121,-93.16268,Emerson,AR,Arkansas,True,,1701.0,3.6,5027,Columbia,"{""05027"": 100}",Columbia,05027,False,False,America/Chicago
+71742,33.83435,-92.44545,Fordyce,AR,Arkansas,True,,5373.0,12.2,5039,Dallas,"{""05039"": 68.66, ""05013"": 31.34}",Dallas|Calhoun,05039|05013,False,False,America/Chicago
+71743,33.88674,-93.11724,Gurdon,AR,Arkansas,True,,3617.0,6.7,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71744,33.49201,-92.47536,Hampton,AR,Arkansas,True,,2957.0,2.9,5013,Calhoun,"{""05013"": 100}",Calhoun,05013,False,False,America/Chicago
+71745,33.4997,-92.39496,Harrell,AR,Arkansas,True,,347.0,100.1,5013,Calhoun,"{""05013"": 100}",Calhoun,05013,False,False,America/Chicago
+71747,33.05892,-92.22238,Huttig,AR,Arkansas,True,,1053.0,4.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71748,33.90296,-92.43322,Ivan,AR,Arkansas,True,,,,5039,Dallas,"{""05039"": 100}",Dallas,05039,False,False,America/Chicago
+71749,33.07049,-92.81964,Junction City,AR,Arkansas,True,,2904.0,7.0,5139,Union,"{""05139"": 98.24, ""22027"": 1.63, ""22111"": 0.13}",Union|Claiborne|Union,05139|22027|22111,False,False,America/Chicago
+71751,33.40835,-92.77252,Louann,AR,Arkansas,True,,883.0,4.2,5103,Ouachita,"{""05103"": 100}",Ouachita,05103,False,False,America/Chicago
+71752,33.40061,-93.19454,McNeil,AR,Arkansas,True,,665.0,6.7,5027,Columbia,"{""05027"": 98.6, ""05099"": 1.4}",Columbia|Nevada,05027|05099,False,False,America/Chicago
+71753,33.22974,-93.18461,Magnolia,AR,Arkansas,True,,16958.0,21.0,5027,Columbia,"{""05027"": 95.91, ""05139"": 4.09}",Columbia|Union,05027|05139,False,False,America/Chicago
+71758,33.30899,-92.91435,Mount Holly,AR,Arkansas,True,,121.0,0.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71759,33.31506,-92.65967,Norphlet,AR,Arkansas,True,,768.0,335.0,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71762,33.33668,-92.76767,Smackover,AR,Arkansas,True,,2543.0,16.3,5139,Union,"{""05139"": 90.7, ""05103"": 9.3}",Union|Ouachita,05139|05103,False,False,America/Chicago
+71763,33.90885,-92.80648,Sparkman,AR,Arkansas,True,,1642.0,2.6,5039,Dallas,"{""05039"": 85.21, ""05103"": 11.03, ""05019"": 3.76}",Dallas|Ouachita|Clark,05039|05103|05019,False,False,America/Chicago
+71764,33.43041,-93.04475,Stephens,AR,Arkansas,True,,1879.0,4.0,5103,Ouachita,"{""05103"": 63.16, ""05027"": 23.27, ""05099"": 13.05, ""05139"": 0.52}",Ouachita|Columbia|Nevada|Union,05103|05027|05099|05139,False,False,America/Chicago
+71765,33.13358,-92.33628,Strong,AR,Arkansas,True,,2397.0,4.7,5139,Union,"{""05139"": 100}",Union,05139,False,False,America/Chicago
+71766,33.7362,-92.50205,Thornton,AR,Arkansas,True,,786.0,6.0,5013,Calhoun,"{""05013"": 100}",Calhoun,05013,False,False,America/Chicago
+71770,33.38847,-93.31607,Waldo,AR,Arkansas,True,,2967.0,7.7,5027,Columbia,"{""05027"": 73.53, ""05099"": 26.47}",Columbia|Nevada,05027|05099,False,False,America/Chicago
+71772,33.83379,-93.12646,Whelen Springs,AR,Arkansas,True,,0.0,0.0,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71801,33.63306,-93.59833,Hope,AR,Arkansas,True,,17268.0,22.4,5057,Hempstead,"{""05057"": 97.91, ""05073"": 2.09}",Hempstead|Lafayette,05057|05073,False,False,America/Chicago
+71820,33.78886,-94.24421,Alleene,AR,Arkansas,True,,106.0,3.5,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago
+71822,33.66946,-94.14755,Ashdown,AR,Arkansas,True,,8320.0,13.0,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago
+71823,33.83101,-94.12547,Ben Lomond,AR,Arkansas,True,,28.0,8.5,5133,Sevier,"{""05133"": 100}",Sevier,05133,False,False,America/Chicago
+71825,33.87554,-93.56489,Blevins,AR,Arkansas,True,,480.0,7.0,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago
+71826,33.08994,-93.72536,Bradley,AR,Arkansas,True,,1190.0,3.7,5073,Lafayette,"{""05073"": 100}",Lafayette,05073,False,False,America/Chicago
+71827,33.41186,-93.41463,Buckner,AR,Arkansas,True,,881.0,5.4,5073,Lafayette,"{""05073"": 63.35, ""05099"": 36.65}",Lafayette|Nevada,05073|05099,False,False,America/Chicago
+71831,33.7762,-93.85971,Columbus,AR,Arkansas,True,,,,5061,Howard,"{""05061"": 81.32, ""05057"": 18.68}",Howard|Hempstead,05061|05057,False,False,America/Chicago
+71832,34.0397,-94.34791,De Queen,AR,Arkansas,True,,11063.0,23.4,5133,Sevier,"{""05133"": 100}",Sevier,05133,False,False,America/Chicago
+71833,34.13409,-94.02665,Dierks,AR,Arkansas,True,,1943.0,5.1,5061,Howard,"{""05061"": 89.46, ""05133"": 10.54}",Howard|Sevier,05061|05133,False,False,America/Chicago
+71834,33.11552,-93.9577,Doddridge,AR,Arkansas,True,,1611.0,4.3,5091,Miller,"{""05091"": 100}",Miller,05091,False,False,America/Chicago
+71835,33.66724,-93.4425,Emmet,AR,Arkansas,True,,980.0,4.3,5099,Nevada,"{""05099"": 81.66, ""05057"": 18.34}",Nevada|Hempstead,05099|05057,False,False,America/Chicago
+71836,33.71297,-94.39584,Foreman,AR,Arkansas,True,,2898.0,6.3,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago
+71837,33.25543,-93.85693,Fouke,AR,Arkansas,True,,4843.0,11.6,5091,Miller,"{""05091"": 100}",Miller,05091,False,False,America/Chicago
+71838,33.64916,-93.79753,Fulton,AR,Arkansas,True,,893.0,2.9,5057,Hempstead,"{""05057"": 94.05, ""05091"": 5.95}",Hempstead|Miller,05057|05091,False,False,America/Chicago
+71839,33.30619,-93.73891,Garland City,AR,Arkansas,True,,250.0,2.2,5091,Miller,"{""05091"": 100}",Miller,05091,False,False,America/Chicago
+71841,34.1639,-94.34718,Gillham,AR,Arkansas,True,,943.0,5.6,5133,Sevier,"{""05133"": 87.36, ""05113"": 12.64}",Sevier|Polk,05133|05113,False,False,America/Chicago
+71842,33.90051,-94.29297,Horatio,AR,Arkansas,True,,2263.0,12.8,5133,Sevier,"{""05133"": 100}",Sevier,05133,False,False,America/Chicago
+71845,33.32005,-93.63365,Lewisville,AR,Arkansas,True,,1789.0,3.4,5073,Lafayette,"{""05073"": 100}",Lafayette,05073,False,False,America/Chicago
+71846,33.9265,-94.12367,Lockesburg,AR,Arkansas,True,,2743.0,4.6,5133,Sevier,"{""05133"": 95.91, ""05081"": 4.09}",Sevier|Little River,05133|05081,False,False,America/Chicago
+71847,33.92616,-93.63361,McCaskill,AR,Arkansas,True,,417.0,2.9,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago
+71851,33.85728,-93.94658,Mineral Springs,AR,Arkansas,True,,1979.0,9.4,5061,Howard,"{""05061"": 100}",Howard,05061,False,False,America/Chicago
+71852,33.99489,-93.85831,Nashville,AR,Arkansas,True,,9877.0,15.1,5061,Howard,"{""05061"": 62.82, ""05109"": 18.89, ""05057"": 18.29}",Howard|Pike|Hempstead,05061|05109|05057,False,False,America/Chicago
+71853,33.59442,-93.95635,Ogden,AR,Arkansas,True,,280.0,2.8,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago
+71854,33.44445,-93.90504,Texarkana,AR,Arkansas,True,,36811.0,52.7,5091,Miller,"{""05091"": 100}",Miller,05091,False,False,America/Chicago
+71855,33.86612,-93.74351,Ozan,AR,Arkansas,True,,310.0,2.2,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago
+71857,33.80422,-93.34795,Prescott,AR,Arkansas,True,,4849.0,6.7,5099,Nevada,"{""05099"": 86.83, ""05057"": 13.17}",Nevada|Hempstead,05099|05057,False,False,America/Chicago
+71858,33.58543,-93.26706,Rosston,AR,Arkansas,True,,2216.0,4.4,5099,Nevada,"{""05099"": 100}",Nevada,05099,False,False,America/Chicago
+71859,33.7143,-93.92379,Saratoga,AR,Arkansas,True,,617.0,9.8,5057,Hempstead,"{""05057"": 81.64, ""05061"": 18.36}",Hempstead|Howard,05057|05061,False,False,America/Chicago
+71860,33.307,-93.49286,Stamps,AR,Arkansas,True,,2180.0,8.0,5073,Lafayette,"{""05073"": 74.66, ""05027"": 22.99, ""05099"": 2.35}",Lafayette|Columbia|Nevada,05073|05027|05099,False,False,America/Chicago
+71861,33.1039,-93.4941,Taylor,AR,Arkansas,True,,2246.0,5.9,5073,Lafayette,"{""05073"": 55.47, ""05027"": 44.53}",Lafayette|Columbia,05073|05027,False,False,America/Chicago
+71862,33.76814,-93.72321,Washington,AR,Arkansas,True,,701.0,4.3,5057,Hempstead,"{""05057"": 100}",Hempstead,05057,False,False,America/Chicago
+71864,33.50997,-93.28868,Willisville,AR,Arkansas,True,,,,5099,Nevada,"{""05099"": 100}",Nevada,05099,False,False,America/Chicago
+71865,33.74169,-94.14598,Wilton,AR,Arkansas,True,,192.0,88.1,5081,Little River,"{""05081"": 100}",Little River,05081,False,False,America/Chicago
+71866,33.86738,-94.38042,Winthrop,AR,Arkansas,True,,549.0,4.0,5081,Little River,"{""05081"": 99.81, ""05133"": 0.19}",Little River|Sevier,05081|05133,False,False,America/Chicago
+71901,34.52682,-92.97247,Hot Springs National Park,AR,Arkansas,True,,29965.0,113.5,5051,Garland,"{""05051"": 99.41, ""05059"": 0.59}",Garland|Hot Spring,05051|05059,False,False,America/Chicago
+71909,34.64106,-92.99608,Hot Springs Village,AR,Arkansas,True,,16049.0,78.1,5051,Garland,"{""05051"": 72.3, ""05125"": 27.7}",Garland|Saline,05051|05125,False,False,America/Chicago
+71913,34.44677,-93.09981,Hot Springs National Park,AR,Arkansas,True,,47190.0,135.8,5051,Garland,"{""05051"": 77.62, ""05059"": 22.38}",Garland|Hot Spring,05051|05059,False,False,America/Chicago
+71921,34.25435,-93.40109,Amity,AR,Arkansas,True,,3552.0,6.8,5019,Clark,"{""05019"": 69.81, ""05109"": 21.6, ""05059"": 8.59}",Clark|Pike|Hot Spring,05019|05109|05059,False,False,America/Chicago
+71922,34.02444,-93.41943,Antoine,AR,Arkansas,True,,174.0,32.6,5109,Pike,"{""05109"": 100}",Pike,05109,False,False,America/Chicago
+71923,34.08424,-93.05551,Arkadelphia,AR,Arkansas,True,,15334.0,15.5,5019,Clark,"{""05019"": 89.04, ""05059"": 6.77, ""05039"": 4.19}",Clark|Hot Spring|Dallas,05019|05059|05039,False,False,America/Chicago
+71929,34.30527,-93.1553,Bismarck,AR,Arkansas,True,,4552.0,17.6,5059,Hot Spring,"{""05059"": 97.65, ""05019"": 2.35}",Hot Spring|Clark,05059|05019,False,False,America/Chicago
+71933,34.41037,-93.39124,Bonnerdale,AR,Arkansas,True,,1304.0,6.5,5051,Garland,"{""05051"": 37.35, ""05097"": 34.96, ""05059"": 27.69}",Garland|Montgomery|Hot Spring,05051|05097|05059,False,False,America/Chicago
+71935,34.39338,-93.75009,Caddo Gap,AR,Arkansas,True,,494.0,1.5,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71937,34.40177,-94.38751,Cove,AR,Arkansas,True,,2199.0,10.4,5113,Polk,"{""05113"": 93.78, ""40089"": 6.22}",Polk|McCurtain,05113|40089,False,False,America/Chicago
+71940,34.01527,-93.50705,Delight,AR,Arkansas,True,,1770.0,7.1,5109,Pike,"{""05109"": 100}",Pike,05109,False,False,America/Chicago
+71941,34.2487,-92.95312,Donaldson,AR,Arkansas,True,,2333.0,12.8,5059,Hot Spring,"{""05059"": 100}",Hot Spring,05059,False,False,America/Chicago
+71942,34.22124,-92.99429,Friendship,AR,Arkansas,True,,,,5059,Hot Spring,"{""05059"": 100}",Hot Spring,05059,False,False,America/Chicago
+71943,34.33488,-93.60633,Glenwood,AR,Arkansas,True,,4162.0,13.6,5109,Pike,"{""05109"": 64.73, ""05097"": 32.81, ""05059"": 2.46}",Pike|Montgomery|Hot Spring,05109|05097|05059,False,False,America/Chicago
+71944,34.23922,-94.32517,Grannis,AR,Arkansas,True,,814.0,8.0,5113,Polk,"{""05113"": 100}",Polk,05113,False,False,America/Chicago
+71945,34.49826,-94.38492,Hatfield,AR,Arkansas,True,,1489.0,11.7,5113,Polk,"{""05113"": 100}",Polk,05113,False,False,America/Chicago
+71949,34.68938,-93.21552,Jessieville,AR,Arkansas,True,,1186.0,2.4,5051,Garland,"{""05051"": 100}",Garland,05051,False,False,America/Chicago
+71950,34.25072,-93.72767,Kirby,AR,Arkansas,True,,739.0,13.9,5109,Pike,"{""05109"": 100}",Pike,05109,False,False,America/Chicago
+71952,34.31067,-93.84992,Langley,AR,Arkansas,True,,30.0,0.7,5109,Pike,"{""05109"": 99.88, ""05097"": 0.12}",Pike|Montgomery,05109|05097,False,False,America/Chicago
+71953,34.61291,-94.2118,Mena,AR,Arkansas,True,,13192.0,7.4,5113,Polk,"{""05113"": 75.39, ""05127"": 19.48, ""40079"": 5.13}",Polk|Scott|Le Flore,05113|05127|40079,False,False,America/Chicago
+71956,34.60129,-93.14977,Mountain Pine,AR,Arkansas,True,,1325.0,20.6,5051,Garland,"{""05051"": 100}",Garland,05051,False,False,America/Chicago
+71957,34.55799,-93.59682,Mount Ida,AR,Arkansas,True,,2803.0,6.8,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71958,34.1114,-93.6556,Murfreesboro,AR,Arkansas,True,,2311.0,6.4,5109,Pike,"{""05109"": 100}",Pike,05109,False,False,America/Chicago
+71959,34.25081,-93.92633,Newhope,AR,Arkansas,True,,746.0,4.1,5109,Pike,"{""05109"": 50.34, ""05061"": 49.66}",Pike|Howard,05109|05061,False,False,America/Chicago
+71960,34.47408,-93.69281,Norman,AR,Arkansas,True,,1655.0,4.6,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71961,34.59722,-93.84676,Oden,AR,Arkansas,True,,1211.0,5.5,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71962,34.03756,-93.33288,Okolona,AR,Arkansas,True,,994.0,2.3,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71964,34.42252,-93.24451,Pearcy,AR,Arkansas,True,,4709.0,58.5,5051,Garland,"{""05051"": 81.58, ""05059"": 18.42}",Garland|Hot Spring,05051|05059,False,False,America/Chicago
+71965,34.65506,-93.74053,Pencil Bluff,AR,Arkansas,True,,296.0,6.9,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71968,34.52719,-93.29767,Royal,AR,Arkansas,True,,4855.0,19.0,5051,Garland,"{""05051"": 100}",Garland,05051,False,False,America/Chicago
+71969,34.66671,-93.63442,Sims,AR,Arkansas,True,,252.0,2.7,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71970,34.66686,-93.49024,Story,AR,Arkansas,True,,714.0,3.6,5097,Montgomery,"{""05097"": 100}",Montgomery,05097,False,False,America/Chicago
+71971,34.30411,-94.0313,Umpire,AR,Arkansas,True,,554.0,3.2,5061,Howard,"{""05061"": 83.4, ""05109"": 16.6}",Howard|Pike,05061|05109,False,False,America/Chicago
+71972,34.39447,-94.24695,Vandervoort,AR,Arkansas,True,,484.0,4.6,5113,Polk,"{""05113"": 100}",Polk,05113,False,False,America/Chicago
+71973,34.28755,-94.30523,Wickes,AR,Arkansas,True,,1891.0,8.4,5113,Polk,"{""05113"": 61.36, ""05061"": 38.64}",Polk|Howard,05113|05061,False,False,America/Chicago
+71998,34.12609,-93.05275,Arkadelphia,AR,Arkansas,True,,522.0,2712.9,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+71999,34.12732,-93.05941,Arkadelphia,AR,Arkansas,True,,589.0,3357.3,5019,Clark,"{""05019"": 100}",Clark,05019,False,False,America/Chicago
+72001,35.07225,-92.87602,Adona,AR,Arkansas,True,,741.0,12.9,5105,Perry,"{""05105"": 54.07, ""05029"": 45.93}",Perry|Conway,05105|05029,False,False,America/Chicago
+72002,34.6646,-92.5362,Alexander,AR,Arkansas,True,,18352.0,107.6,5125,Saline,"{""05125"": 92.72, ""05119"": 7.28}",Saline|Pulaski,05125|05119,False,False,America/Chicago
+72003,34.38276,-91.40754,Almyra,AR,Arkansas,True,,834.0,3.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72004,34.29722,-91.7856,Altheimer,AR,Arkansas,True,,886.0,1.9,5069,Jefferson,"{""05069"": 97.67, ""05001"": 2.33}",Jefferson|Arkansas,05069|05001,False,False,America/Chicago
+72005,35.53911,-91.07271,Amagon,AR,Arkansas,True,,102.0,2.0,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72006,35.24602,-91.34495,Augusta,AR,Arkansas,True,,2369.0,4.8,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago
+72007,35.0004,-91.97902,Austin,AR,Arkansas,True,,8259.0,69.4,5085,Lonoke,"{""05085"": 100}",Lonoke,05085,False,False,America/Chicago
+72010,35.30555,-91.52112,Bald Knob,AR,Arkansas,True,,6108.0,13.8,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72011,34.50967,-92.46628,Bauxite,AR,Arkansas,True,,4242.0,28.0,5125,Saline,"{""05125"": 95.63, ""05053"": 4.37}",Saline|Grant,05125|05053,False,False,America/Chicago
+72012,35.10199,-91.91789,Beebe,AR,Arkansas,True,,12172.0,48.9,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72013,35.45709,-92.3644,Bee Branch,AR,Arkansas,True,,2142.0,9.0,5141,Van Buren,"{""05141"": 93.74, ""05029"": 6.26}",Van Buren|Conway,05141|05029,False,False,America/Chicago
+72014,35.43029,-91.11213,Beedeville,AR,Arkansas,True,,23.0,9.9,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72015,34.49298,-92.58974,Benton,AR,Arkansas,True,,30097.0,136.8,5125,Saline,"{""05125"": 76.2, ""05053"": 23.8}",Saline|Grant,05125|05053,False,False,America/Chicago
+72016,34.97702,-92.62763,Bigelow,AR,Arkansas,True,,3321.0,18.3,5105,Perry,"{""05105"": 77.85, ""05119"": 22.15}",Perry|Pulaski,05105|05119,False,False,America/Chicago
+72017,34.89215,-91.40714,Biscoe,AR,Arkansas,True,,398.0,3.7,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago
+72019,34.63498,-92.69926,Benton,AR,Arkansas,True,,27498.0,61.3,5125,Saline,"{""05125"": 100}",Saline,05125,False,False,America/Chicago
+72020,35.48054,-91.47669,Bradford,AR,Arkansas,True,,3398.0,8.3,5067,Jackson,"{""05067"": 50.26, ""05145"": 31.69, ""05063"": 18.05}",Jackson|White|Independence,05067|05145|05063,False,False,America/Chicago
+72021,34.85953,-91.21193,Brinkley,AR,Arkansas,True,,3666.0,7.3,5095,Monroe,"{""05095"": 88.51, ""05147"": 9.48, ""05123"": 2.01}",Monroe|Woodruff|St. Francis,05095|05147|05123,False,False,America/Chicago
+72022,34.60859,-92.49651,Bryant,AR,Arkansas,True,,16595.0,471.0,5125,Saline,"{""05125"": 100}",Saline,05125,False,False,America/Chicago
+72023,34.95909,-92.05925,Cabot,AR,Arkansas,True,,37429.0,147.1,5085,Lonoke,"{""05085"": 68.98, ""05119"": 27.06, ""05045"": 3.96}",Lonoke|Pulaski|Faulkner,05085|05119|05045,False,False,America/Chicago
+72024,34.75168,-91.74902,Carlisle,AR,Arkansas,True,,4153.0,8.4,5085,Lonoke,"{""05085"": 93.29, ""05117"": 6.71}",Lonoke|Prairie,05085|05117,False,False,America/Chicago
+72025,35.0551,-92.99604,Casa,AR,Arkansas,True,,656.0,4.2,5105,Perry,"{""05105"": 69.17, ""05029"": 23.86, ""05149"": 6.97}",Perry|Conway|Yell,05105|05029|05149,False,False,America/Chicago
+72026,34.51397,-91.31687,Casscoe,AR,Arkansas,True,,331.0,5.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72027,35.37021,-92.57494,Center Ridge,AR,Arkansas,True,,1619.0,9.3,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72028,35.53771,-92.43266,Choctaw,AR,Arkansas,True,,,,5141,Van Buren,"{""05141"": 100}",Van Buren,05141,False,False,America/Chicago
+72029,34.71029,-91.27679,Clarendon,AR,Arkansas,True,,1583.0,6.5,5095,Monroe,"{""05095"": 100}",Monroe,05095,False,False,America/Chicago
+72030,35.43428,-92.68003,Cleveland,AR,Arkansas,True,,514.0,3.6,5029,Conway,"{""05029"": 77.47, ""05141"": 22.53}",Conway|Van Buren,05029|05141,False,False,America/Chicago
+72031,35.60717,-92.52904,Clinton,AR,Arkansas,True,,7089.0,9.3,5141,Van Buren,"{""05141"": 90.63, ""05137"": 4.81, ""05029"": 4.56}",Van Buren|Stone|Conway,05141|05137|05029,False,False,America/Chicago
+72032,35.07393,-92.36451,Conway,AR,Arkansas,True,,33940.0,114.5,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72034,35.05405,-92.47945,Conway,AR,Arkansas,True,,50619.0,407.8,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72035,35.07902,-92.45829,Conway,AR,Arkansas,True,,1696.0,4241.0,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72036,35.00673,-91.27205,Cotton Plant,AR,Arkansas,True,,630.0,2.1,5147,Woodruff,"{""05147"": 80.66, ""05095"": 19.34}",Woodruff|Monroe,05147|05095,False,False,America/Chicago
+72038,34.44606,-91.2349,Crocketts Bluff,AR,Arkansas,True,,35.0,0.4,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72039,35.35636,-92.40338,Damascus,AR,Arkansas,True,,2280.0,14.4,5045,Faulkner,"{""05045"": 53.98, ""05141"": 46.02}",Faulkner|Van Buren,05045|05141,False,False,America/Chicago
+72040,34.96957,-91.52129,Des Arc,AR,Arkansas,True,,2392.0,5.3,5117,Prairie,"{""05117"": 92.82, ""05147"": 7.18}",Prairie|Woodruff,05117|05147,False,False,America/Chicago
+72041,34.73348,-91.46812,De Valls Bluff,AR,Arkansas,True,,1358.0,5.0,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago
+72042,34.26937,-91.31567,De Witt,AR,Arkansas,True,,5151.0,8.4,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72044,35.67688,-92.16243,Edgemont,AR,Arkansas,True,,1114.0,6.6,5023,Cleburne,"{""05023"": 72.83, ""05137"": 27.17}",Cleburne|Stone,05023|05137,False,False,America/Chicago
+72045,35.12618,-92.05483,El Paso,AR,Arkansas,True,,1726.0,15.9,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72046,34.55542,-91.9403,England,AR,Arkansas,True,,4079.0,6.8,5085,Lonoke,"{""05085"": 70.83, ""05119"": 16.72, ""05069"": 12.45}",Lonoke|Pulaski|Jefferson,05085|05119|05069,False,False,America/Chicago
+72047,35.22809,-92.21055,Enola,AR,Arkansas,True,,655.0,7.5,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72048,34.23436,-91.12433,Ethel,AR,Arkansas,True,,85.0,0.4,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72051,35.79475,-92.31501,Fox,AR,Arkansas,True,,646.0,7.2,5137,Stone,"{""05137"": 100}",Stone,05137,False,False,America/Chicago
+72052,35.13965,-91.78097,Garner,AR,Arkansas,True,,,,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72053,34.70579,-92.22852,College Station,AR,Arkansas,True,,,,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72055,34.10391,-91.36196,Gillett,AR,Arkansas,True,,811.0,3.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72057,34.14417,-92.31507,Grapevine,AR,Arkansas,True,,1415.0,6.1,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago
+72058,35.24273,-92.36998,Greenbrier,AR,Arkansas,True,,17511.0,43.0,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72059,35.15455,-91.34209,Gregory,AR,Arkansas,True,,42.0,667.3,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago
+72060,35.07609,-91.57779,Griffithville,AR,Arkansas,True,,629.0,3.1,5145,White,"{""05145"": 58.7, ""05117"": 41.3}",White|Prairie,05145|05117,False,False,America/Chicago
+72061,35.32437,-92.28992,Guy,AR,Arkansas,True,,124.0,21.4,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72063,35.32205,-92.77249,Hattieville,AR,Arkansas,True,,2232.0,12.2,5029,Conway,"{""05029"": 97.77, ""05115"": 2.23}",Conway|Pope,05029|05115,False,False,America/Chicago
+72064,34.79457,-91.61226,Hazen,AR,Arkansas,True,,2680.0,6.9,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago
+72065,34.52102,-92.28648,Hensley,AR,Arkansas,True,,5252.0,32.4,5125,Saline,"{""05125"": 57.55, ""05119"": 26.07, ""05053"": 16.38}",Saline|Pulaski|Grant,05125|05119|05053,False,False,America/Chicago
+72066,34.98141,-91.7171,Hickory Plains,AR,Arkansas,True,,,,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago
+72067,35.56369,-92.16589,Higden,AR,Arkansas,True,,2335.0,18.4,5023,Cleburne,"{""05023"": 83.79, ""05141"": 16.21}",Cleburne|Van Buren,05023|05141,False,False,America/Chicago
+72068,35.15766,-91.71547,Higginson,AR,Arkansas,True,,498.0,46.2,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72069,34.53904,-91.13242,Holly Grove,AR,Arkansas,True,,1172.0,1.7,5095,Monroe,"{""05095"": 92.42, ""05107"": 7.58}",Monroe|Phillips,05095|05107,False,False,America/Chicago
+72070,35.01346,-92.6995,Houston,AR,Arkansas,True,,1736.0,9.5,5105,Perry,"{""05105"": 100}",Perry,05105,False,False,America/Chicago
+72072,34.51279,-91.75802,Humnoke,AR,Arkansas,True,,357.0,3.5,5085,Lonoke,"{""05085"": 74.07, ""05069"": 25.93}",Lonoke|Jefferson,05085|05069,False,False,America/Chicago
+72073,34.36529,-91.65251,Humphrey,AR,Arkansas,True,,833.0,2.8,5001,Arkansas,"{""05001"": 90.89, ""05069"": 9.11}",Arkansas|Jefferson,05001|05069,False,False,America/Chicago
+72074,35.06919,-91.10538,Hunter,AR,Arkansas,True,,119.0,4.1,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago
+72075,35.64084,-91.31089,Jacksonport,AR,Arkansas,True,,,,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72076,34.91072,-92.14303,Jacksonville,AR,Arkansas,True,,38784.0,206.0,5119,Pulaski,"{""05119"": 84.76, ""05085"": 10.79, ""05045"": 4.45}",Pulaski|Lonoke|Faulkner,05119|05085|05045,False,False,America/Chicago
+72079,34.38958,-92.19919,Jefferson,AR,Arkansas,True,,905.0,16.8,5069,Jefferson,"{""05069"": 65.5, ""05053"": 34.5}",Jefferson|Grant,05069|05053,False,False,America/Chicago
+72080,35.52604,-92.80909,Jerusalem,AR,Arkansas,True,,218.0,0.9,5141,Van Buren,"{""05141"": 44.91, ""05029"": 33.86, ""05115"": 21.23}",Van Buren|Conway|Pope,05141|05029|05115,False,False,America/Chicago
+72081,35.37827,-91.66947,Judsonia,AR,Arkansas,True,,7409.0,30.4,5145,White,"{""05145"": 99.13, ""05063"": 0.87}",White|Independence,05145|05063,False,False,America/Chicago
+72082,35.23713,-91.66963,Kensett,AR,Arkansas,True,,2344.0,217.1,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72083,34.6049,-92.01189,Keo,AR,Arkansas,True,,182.0,19.1,5085,Lonoke,"{""05085"": 100}",Lonoke,05085,False,False,America/Chicago
+72084,34.13687,-92.6887,Leola,AR,Arkansas,True,,1206.0,2.6,5039,Dallas,"{""05039"": 57.88, ""05053"": 30.15, ""05059"": 11.97}",Dallas|Grant|Hot Spring,05039|05053|05059,False,False,America/Chicago
+72085,35.36665,-91.82772,Letona,AR,Arkansas,True,,,,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72086,34.80418,-91.90619,Lonoke,AR,Arkansas,True,,11372.0,26.8,5085,Lonoke,"{""05085"": 96.18, ""05117"": 3.82}",Lonoke|Prairie,05085|05117,False,False,America/Chicago
+72087,34.59877,-92.83391,Lonsdale,AR,Arkansas,True,,2545.0,15.9,5125,Saline,"{""05125"": 63.81, ""05051"": 36.19}",Saline|Garland,05125|05051,False,False,America/Chicago
+72088,35.59803,-92.26239,Fairfield Bay,AR,Arkansas,True,,2387.0,63.4,5141,Van Buren,"{""05141"": 78.71, ""05023"": 21.29}",Van Buren|Cleburne,05141|05023,False,False,America/Chicago
+72099,34.90103,-92.15202,Little Rock Air Force Base,AR,Arkansas,True,,685.0,220.1,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72101,35.23228,-91.15242,McCrory,AR,Arkansas,True,,3103.0,4.4,5147,Woodruff,"{""05147"": 88.92, ""05067"": 10.65, ""05037"": 0.43}",Woodruff|Jackson|Cross,05147|05067|05037,False,False,America/Chicago
+72102,35.14556,-91.83352,McRae,AR,Arkansas,True,,3278.0,25.9,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72103,34.59133,-92.38316,Mabelvale,AR,Arkansas,True,,13851.0,174.9,5125,Saline,"{""05125"": 77.19, ""05119"": 22.81}",Saline|Pulaski,05125|05119,False,False,America/Chicago
+72104,34.34774,-92.81814,Malvern,AR,Arkansas,True,,23308.0,27.6,5059,Hot Spring,"{""05059"": 95.29, ""05051"": 2.72, ""05125"": 1.31, ""05053"": 0.68}",Hot Spring|Garland|Saline|Grant,05059|05051|05125|05053,False,False,America/Chicago
+72106,34.96997,-92.48727,Mayflower,AR,Arkansas,True,,5987.0,44.2,5045,Faulkner,"{""05045"": 98.37, ""05119"": 1.63}",Faulkner|Pulaski,05045|05119,False,False,America/Chicago
+72107,35.14255,-92.53844,Menifee,AR,Arkansas,True,,195.0,25.9,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72108,34.72803,-91.10349,Monroe,AR,Arkansas,True,,40.0,26.2,5095,Monroe,"{""05095"": 100}",Monroe,05095,False,False,America/Chicago
+72110,35.15514,-92.77273,Morrilton,AR,Arkansas,True,,11405.0,37.6,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72111,35.23688,-92.13307,Mount Vernon,AR,Arkansas,True,,1277.0,8.6,5045,Faulkner,"{""05045"": 72.58, ""05145"": 27.42}",Faulkner|White,05045|05145,False,False,America/Chicago
+72112,35.57383,-91.22918,Newport,AR,Arkansas,True,,10782.0,12.7,5067,Jackson,"{""05067"": 92.8, ""05147"": 4.72, ""05063"": 2.48}",Jackson|Woodruff|Independence,05067|05147|05063,False,False,America/Chicago
+72113,34.85926,-92.39875,Maumelle,AR,Arkansas,True,,25792.0,378.9,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72114,34.7645,-92.26024,North Little Rock,AR,Arkansas,True,,11036.0,555.7,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72116,34.80025,-92.24505,North Little Rock,AR,Arkansas,True,,21459.0,1276.5,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72117,34.78076,-92.14548,North Little Rock,AR,Arkansas,True,,14872.0,105.6,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72118,34.83872,-92.32694,North Little Rock,AR,Arkansas,True,,21534.0,300.8,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72119,34.8369,-92.29505,North Little Rock,AR,Arkansas,True,,0.0,0.0,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72120,34.89776,-92.24431,Sherwood,AR,Arkansas,True,,33296.0,237.2,5119,Pulaski,"{""05119"": 69.05, ""05045"": 30.95}",Pulaski|Faulkner,05119|05045,False,False,America/Chicago
+72121,35.45561,-91.78525,Pangburn,AR,Arkansas,True,,3520.0,19.2,5145,White,"{""05145"": 80.54, ""05023"": 19.46}",White|Cleburne,05145|05023,False,False,America/Chicago
+72122,34.77955,-92.77549,Paron,AR,Arkansas,True,,625.0,1.9,5125,Saline,"{""05125"": 89.97, ""05119"": 10.03}",Saline|Pulaski,05125|05119,False,False,America/Chicago
+72123,35.25774,-91.23675,Patterson,AR,Arkansas,True,,346.0,127.5,5147,Woodruff,"{""05147"": 100}",Woodruff,05147,False,False,America/Chicago
+72125,35.06421,-92.794,Perry,AR,Arkansas,True,,867.0,13.7,5105,Perry,"{""05105"": 61.96, ""05029"": 38.04}",Perry|Conway,05105|05029,False,False,America/Chicago
+72126,34.9376,-92.91024,Perryville,AR,Arkansas,True,,3683.0,7.0,5105,Perry,"{""05105"": 95.59, ""05119"": 4.41}",Perry|Pulaski,05105|05119,False,False,America/Chicago
+72127,35.16237,-92.59419,Plumerville,AR,Arkansas,True,,1990.0,12.6,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72128,34.31535,-92.63846,Poyen,AR,Arkansas,True,,814.0,13.4,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago
+72129,34.31215,-92.55406,Prattsville,AR,Arkansas,True,,1146.0,7.5,5053,Grant,"{""05053"": 100}",Grant,05053,False,False,America/Chicago
+72130,35.6673,-92.06997,Prim,AR,Arkansas,True,,541.0,7.6,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago
+72131,35.40792,-92.19362,Quitman,AR,Arkansas,True,,4633.0,13.9,5023,Cleburne,"{""05023"": 66.87, ""05045"": 25.85, ""05141"": 7.28}",Cleburne|Faulkner|Van Buren,05023|05045|05141,False,False,America/Chicago
+72132,34.44,-92.19468,Redfield,AR,Arkansas,True,,2849.0,15.9,5069,Jefferson,"{""05069"": 57.44, ""05053"": 42.56}",Jefferson|Grant,05069|05053,False,False,America/Chicago
+72133,34.10821,-91.53718,Reydell,AR,Arkansas,True,,,,5069,Jefferson,"{""05069"": 100}",Jefferson,05069,False,False,America/Chicago
+72134,34.61189,-91.37247,Roe,AR,Arkansas,True,,423.0,3.8,5095,Monroe,"{""05095"": 91.71, ""05001"": 8.29}",Monroe|Arkansas,05095|05001,False,False,America/Chicago
+72135,34.87698,-92.56087,Roland,AR,Arkansas,True,,2978.0,15.6,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72136,35.23538,-92.02129,Romance,AR,Arkansas,True,,1781.0,13.8,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72137,35.33756,-92.02933,Rose Bud,AR,Arkansas,True,,2186.0,12.5,5145,White,"{""05145"": 77.06, ""05023"": 22.94}",White|Cleburne,05145|05023,False,False,America/Chicago
+72139,35.36212,-91.50997,Russell,AR,Arkansas,True,,268.0,506.5,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72140,34.36052,-91.1549,Saint Charles,AR,Arkansas,True,,399.0,10.8,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72141,35.51824,-92.69158,Scotland,AR,Arkansas,True,,588.0,2.6,5141,Van Buren,"{""05141"": 100}",Van Buren,05141,False,False,America/Chicago
+72142,34.67681,-92.07488,Scott,AR,Arkansas,True,,2235.0,8.2,5085,Lonoke,"{""05085"": 58.32, ""05119"": 41.68}",Lonoke|Pulaski,05085|05119,False,False,America/Chicago
+72143,35.2279,-91.73613,Searcy,AR,Arkansas,True,,35978.0,46.0,5145,White,"{""05145"": 97.49, ""05023"": 2.51}",White|Cleburne,05145|05023,False,False,America/Chicago
+72150,34.30999,-92.39642,Sheridan,AR,Arkansas,True,,12421.0,16.3,5053,Grant,"{""05053"": 99.28, ""05069"": 0.72}",Grant|Jefferson,05053|05069,False,False,America/Chicago
+72152,34.35194,-91.98009,Sherrill,AR,Arkansas,True,,512.0,2.9,5069,Jefferson,"{""05069"": 100}",Jefferson,05069,False,False,America/Chicago
+72153,35.65651,-92.31988,Shirley,AR,Arkansas,True,,3552.0,13.6,5141,Van Buren,"{""05141"": 78.65, ""05137"": 15.13, ""05023"": 6.22}",Van Buren|Stone|Cleburne,05141|05137|05023,False,False,America/Chicago
+72156,35.28595,-92.68331,Solgohachia,AR,Arkansas,True,,326.0,4.6,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72157,35.2714,-92.56412,Springfield,AR,Arkansas,True,,1316.0,9.6,5029,Conway,"{""05029"": 100}",Conway,05029,False,False,America/Chicago
+72160,34.44284,-91.53136,Stuttgart,AR,Arkansas,True,,9608.0,11.6,5001,Arkansas,"{""05001"": 59.7, ""05117"": 28.83, ""05069"": 10.53, ""05085"": 0.94}",Arkansas|Prairie|Jefferson|Lonoke,05001|05117|05069|05085,False,False,America/Chicago
+72165,35.57657,-91.46647,Thida,AR,Arkansas,True,,85.0,5.8,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72166,34.04821,-91.23711,Tichnor,AR,Arkansas,True,,94.0,0.3,5001,Arkansas,"{""05001"": 100}",Arkansas,05001,False,False,America/Chicago
+72167,34.42223,-92.65477,Traskwood,AR,Arkansas,True,,1823.0,18.0,5125,Saline,"{""05125"": 46.1, ""05053"": 35.04, ""05059"": 18.86}",Saline|Grant|Hot Spring,05125|05053|05059,False,False,America/Chicago
+72168,34.43719,-91.96771,Tucker,AR,Arkansas,True,,2316.0,27.7,5069,Jefferson,"{""05069"": 100}",Jefferson,05069,False,False,America/Chicago
+72169,35.3946,-91.22703,Tupelo,AR,Arkansas,True,,62.0,2.2,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72170,34.57819,-91.42655,Ulm,AR,Arkansas,True,,260.0,19.4,5117,Prairie,"{""05117"": 100}",Prairie,05117,False,False,America/Chicago
+72173,35.10001,-92.20807,Vilonia,AR,Arkansas,True,,9686.0,39.4,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72175,34.33792,-91.75495,Wabbaseka,AR,Arkansas,True,,409.0,3.4,5069,Jefferson,"{""05069"": 95.94, ""05001"": 4.06}",Jefferson|Arkansas,05069|05001,False,False,America/Chicago
+72176,35.00279,-91.84212,Ward,AR,Arkansas,True,,8549.0,46.9,5085,Lonoke,"{""05085"": 67.05, ""05117"": 32.95}",Lonoke|Prairie,05085|05117,False,False,America/Chicago
+72178,35.20381,-91.61265,West Point,AR,Arkansas,True,,,,5145,White,"{""05145"": 100}",White,05145,False,False,America/Chicago
+72179,35.49773,-91.86565,Wilburn,AR,Arkansas,True,,365.0,7.4,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago
+72180,34.53104,-92.21495,Woodson,AR,Arkansas,True,,,,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72181,35.16237,-92.44503,Wooster,AR,Arkansas,True,,2.0,0.6,5045,Faulkner,"{""05045"": 100}",Faulkner,05045,False,False,America/Chicago
+72182,34.43161,-92.08721,Wright,AR,Arkansas,True,,,,5069,Jefferson,"{""05069"": 100}",Jefferson,05069,False,False,America/Chicago
+72183,34.60002,-92.19305,Wrightsville,AR,Arkansas,True,,,,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72199,34.82816,-92.28608,North Little Rock,AR,Arkansas,True,,,,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72201,34.74725,-92.28053,Little Rock,AR,Arkansas,True,,1428.0,450.0,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72202,34.74626,-92.27016,Little Rock,AR,Arkansas,True,,9778.0,533.4,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72204,34.71739,-92.3582,Little Rock,AR,Arkansas,True,,30204.0,769.2,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72205,34.74948,-92.3524,Little Rock,AR,Arkansas,True,,21946.0,1054.7,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72206,34.63042,-92.23833,Little Rock,AR,Arkansas,True,,23228.0,80.3,5119,Pulaski,"{""05119"": 94.91, ""05125"": 5.09}",Pulaski|Saline,05119|05125,False,False,America/Chicago
+72207,34.77493,-92.34271,Little Rock,AR,Arkansas,True,,10809.0,1102.7,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72209,34.6805,-92.33974,Little Rock,AR,Arkansas,True,,31748.0,671.1,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72210,34.71506,-92.50378,Little Rock,AR,Arkansas,True,,15981.0,124.7,5119,Pulaski,"{""05119"": 72.84, ""05125"": 27.16}",Pulaski|Saline,05119|05125,False,False,America/Chicago
+72211,34.74792,-92.41675,Little Rock,AR,Arkansas,True,,22035.0,1024.0,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72212,34.78498,-92.4141,Little Rock,AR,Arkansas,True,,13016.0,825.7,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72223,34.79251,-92.49091,Little Rock,AR,Arkansas,True,,24848.0,197.7,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72227,34.7782,-92.37498,Little Rock,AR,Arkansas,True,,12123.0,1243.9,5119,Pulaski,"{""05119"": 100}",Pulaski,05119,False,False,America/Chicago
+72301,35.13363,-90.17883,West Memphis,AR,Arkansas,True,,24311.0,317.8,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72311,34.72072,-90.89688,Aubrey,AR,Arkansas,True,,136.0,252.9,5077,Lee,"{""05077"": 100}",Lee,05077,False,False,America/Chicago
+72313,35.53077,-90.13952,Bassett,AR,Arkansas,True,,,,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72315,35.90093,-89.9029,Blytheville,AR,Arkansas,True,,21305.0,32.6,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72320,34.81439,-90.5411,Brickeys,AR,Arkansas,True,,1539.0,8.8,5077,Lee,"{""05077"": 100}",Lee,05077,False,False,America/Chicago
+72322,35.0688,-90.808,Caldwell,AR,Arkansas,True,,128.0,292.7,5123,St. Francis,"{""05123"": 100}",St. Francis,05123,False,False,America/Chicago
+72324,35.38872,-90.78116,Cherry Valley,AR,Arkansas,True,,2334.0,6.9,5037,Cross,"{""05037"": 96.48, ""05111"": 3.52}",Cross|Poinsett,05037|05111,False,False,America/Chicago
+72325,35.33067,-90.25395,Clarkedale,AR,Arkansas,True,,30.0,3.5,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72326,35.11183,-90.89333,Colt,AR,Arkansas,True,,1837.0,7.6,5123,St. Francis,"{""05123"": 93.23, ""05037"": 6.77}",St. Francis|Cross,05123|05037,False,False,America/Chicago
+72327,35.2401,-90.32783,Crawfordsville,AR,Arkansas,True,,1555.0,6.3,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72328,34.0684,-91.0057,Crumrod,AR,Arkansas,True,,37.0,0.1,5041,Desha,"{""05041"": 72.88, ""05107"": 27.12}",Desha|Phillips,05041|05107,False,False,America/Chicago
+72329,35.62386,-89.97143,Driver,AR,Arkansas,True,,170.0,15.0,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72330,35.59136,-90.20184,Dyess,AR,Arkansas,True,,591.0,5.7,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72331,35.28537,-90.46733,Earle,AR,Arkansas,True,,2897.0,7.5,5035,Crittenden,"{""05035"": 66.69, ""05037"": 33.31}",Crittenden|Cross,05035|05037,False,False,America/Chicago
+72332,35.10117,-90.30238,Edmondson,AR,Arkansas,True,,155.0,194.5,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72333,34.29004,-90.86971,Elaine,AR,Arkansas,True,,486.0,2.5,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72335,34.99042,-90.75645,Forrest City,AR,Arkansas,True,,18167.0,44.1,5123,St. Francis,"{""05123"": 95.81, ""05077"": 4.19}",St. Francis|Lee,05123|05077,False,False,America/Chicago
+72338,35.43657,-90.13863,Frenchmans Bayou,AR,Arkansas,True,,6.0,0.1,47167,Tipton,"{""47167"": 66.74, ""05093"": 33.26}",Tipton|Mississippi,47167|05093,False,False,America/Chicago
+72339,35.41606,-90.26492,Gilmore,AR,Arkansas,True,,238.0,54.2,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72340,34.95687,-91.03202,Goodwin,AR,Arkansas,True,,155.0,9.5,5123,St. Francis,"{""05123"": 100}",St. Francis,05123,False,False,America/Chicago
+72341,34.88746,-90.7705,Haynes,AR,Arkansas,True,,252.0,5.5,5077,Lee,"{""05077"": 100}",Lee,05077,False,False,America/Chicago
+72342,34.44492,-90.67733,Helena,AR,Arkansas,True,,4487.0,16.0,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72346,35.08462,-90.48198,Heth,AR,Arkansas,True,,694.0,3.2,5123,St. Francis,"{""05123"": 90.79, ""05035"": 6.7, ""05037"": 2.51}",St. Francis|Crittenden|Cross,05123|05035|05037,False,False,America/Chicago
+72347,35.38415,-90.99892,Hickory Ridge,AR,Arkansas,True,,766.0,3.1,5037,Cross,"{""05037"": 76.93, ""05067"": 23.07}",Cross|Jackson,05037|05067,False,False,America/Chicago
+72348,34.93739,-90.42016,Hughes,AR,Arkansas,True,,2492.0,5.6,5035,Crittenden,"{""05035"": 50.65, ""05123"": 38.21, ""05077"": 11.14}",Crittenden|St. Francis|Lee,05035|05123|05077,False,False,America/Chicago
+72350,35.50181,-90.11782,Joiner,AR,Arkansas,True,,1006.0,5.1,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72351,35.67595,-90.09771,Keiser,AR,Arkansas,True,,860.0,58.7,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72352,34.65562,-90.7344,La Grange,AR,Arkansas,True,,,,5077,Lee,"{""05077"": 100}",Lee,05077,False,False,America/Chicago
+72353,34.3162,-91.00708,Lambrook,AR,Arkansas,True,,81.0,0.9,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72354,35.63118,-90.31797,Lepanto,AR,Arkansas,True,,2471.0,16.1,5111,Poinsett,"{""05111"": 77.89, ""05093"": 22.11}",Poinsett|Mississippi,05111|05093,False,False,America/Chicago
+72355,34.53902,-90.77789,Lexa,AR,Arkansas,True,,2155.0,7.0,5107,Phillips,"{""05107"": 92.61, ""05077"": 7.39}",Phillips|Lee,05107|05077,False,False,America/Chicago
+72358,35.79446,-89.87723,Luxora,AR,Arkansas,True,,1398.0,8.0,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72359,35.01422,-90.7239,Madison,AR,Arkansas,True,,437.0,228.4,5123,St. Francis,"{""05123"": 100}",St. Francis,05123,False,False,America/Chicago
+72360,34.75352,-90.78875,Marianna,AR,Arkansas,True,,5411.0,7.2,5077,Lee,"{""05077"": 100}",Lee,05077,False,False,America/Chicago
+72364,35.2126,-90.18573,Marion,AR,Arkansas,True,,15536.0,75.0,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72365,35.56181,-90.41857,Marked Tree,AR,Arkansas,True,,2454.0,10.5,5111,Poinsett,"{""05111"": 100}",Poinsett,05111,False,False,America/Chicago
+72366,34.52612,-90.95307,Marvell,AR,Arkansas,True,,2248.0,6.7,5107,Phillips,"{""05107"": 93.59, ""05095"": 3.84, ""05077"": 2.57}",Phillips|Monroe|Lee,05107|05095|05077,False,False,America/Chicago
+72367,34.1891,-91.02567,Mellwood,AR,Arkansas,True,,8.0,0.1,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72368,34.81146,-91.01996,Moro,AR,Arkansas,True,,1192.0,3.1,5077,Lee,"{""05077"": 85.48, ""05095"": 14.52}",Lee|Monroe,05077|05095,False,False,America/Chicago
+72369,34.45522,-90.78954,Oneida,AR,Arkansas,True,,,,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72370,35.68443,-90.07734,Osceola,AR,Arkansas,True,,7302.0,22.4,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72372,34.96623,-90.94726,Palestine,AR,Arkansas,True,,1939.0,6.1,5123,St. Francis,"{""05123"": 79.84, ""05077"": 20.16}",St. Francis|Lee,05123|05077,False,False,America/Chicago
+72373,35.28861,-90.60269,Parkin,AR,Arkansas,True,,949.0,2.9,5037,Cross,"{""05037"": 100}",Cross,05037,False,False,America/Chicago
+72374,34.56126,-90.83996,Poplar Grove,AR,Arkansas,True,,609.0,5.6,5107,Phillips,"{""05107"": 98.28, ""05077"": 1.72}",Phillips|Lee,05107|05077,False,False,America/Chicago
+72376,35.0883,-90.30625,Proctor,AR,Arkansas,True,,1531.0,7.0,5035,Crittenden,"{""05035"": 97.01, ""05123"": 2.99}",Crittenden|St. Francis,05035|05123,False,False,America/Chicago
+72377,35.67392,-90.34158,Rivervale,AR,Arkansas,True,,50.0,298.0,5111,Poinsett,"{""05111"": 100}",Poinsett,05111,False,False,America/Chicago
+72379,34.07479,-91.05019,Snow Lake,AR,Arkansas,True,,13.0,0.1,5041,Desha,"{""05041"": 99.87, ""05107"": 0.13}",Desha|Phillips,05041|05107,False,False,America/Chicago
+72383,34.49117,-91.03962,Turner,AR,Arkansas,True,,75.0,5.5,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72384,35.37487,-90.21825,Turrell,AR,Arkansas,True,,909.0,3.7,5035,Crittenden,"{""05035"": 100}",Crittenden,05035,False,False,America/Chicago
+72386,35.45548,-90.36183,Tyronza,AR,Arkansas,True,,1724.0,5.8,5111,Poinsett,"{""05111"": 41.9, ""05035"": 35.35, ""05093"": 22.75}",Poinsett|Crittenden|Mississippi,05111|05035|05093,False,False,America/Chicago
+72387,35.31572,-90.77274,Vanndale,AR,Arkansas,True,,,,5037,Cross,"{""05037"": 100}",Cross,05037,False,False,America/Chicago
+72389,34.36985,-90.88596,Wabash,AR,Arkansas,True,,417.0,3.8,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72390,34.55426,-90.67756,West Helena,AR,Arkansas,True,,7744.0,89.6,5107,Phillips,"{""05107"": 100}",Phillips,05107,False,False,America/Chicago
+72391,35.6765,-90.26953,West Ridge,AR,Arkansas,True,,,,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72392,34.95551,-91.09466,Wheatley,AR,Arkansas,True,,664.0,6.3,5123,St. Francis,"{""05123"": 88.27, ""05147"": 7.47, ""05095"": 4.26}",St. Francis|Woodruff|Monroe,05123|05147|05095,False,False,America/Chicago
+72394,35.05271,-90.61599,Widener,AR,Arkansas,True,,389.0,1.7,5123,St. Francis,"{""05123"": 100}",St. Francis,05123,False,False,America/Chicago
+72395,35.59149,-90.02036,Wilson,AR,Arkansas,True,,1171.0,7.8,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72396,35.22966,-90.83559,Wynne,AR,Arkansas,True,,12430.0,19.7,5037,Cross,"{""05037"": 94.76, ""05123"": 5.24}",Cross|St. Francis,05037|05123,False,False,America/Chicago
+72401,35.86835,-90.66193,Jonesboro,AR,Arkansas,True,,59098.0,257.8,5031,Craighead,"{""05031"": 90.71, ""05055"": 9.29}",Craighead|Greene,05031|05055,False,False,America/Chicago
+72404,35.77656,-90.78356,Jonesboro,AR,Arkansas,True,,29937.0,90.3,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72405,35.90446,-90.64869,Jonesboro,AR,Arkansas,True,,,,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72410,35.93854,-91.09432,Alicia,AR,Arkansas,True,,477.0,2.4,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72411,35.74165,-90.58019,Bay,AR,Arkansas,True,,2680.0,28.6,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72412,36.12572,-90.69172,Beech Grove,AR,Arkansas,True,,434.0,2.8,5055,Greene,"{""05055"": 100}",Greene,05055,False,False,America/Chicago
+72413,36.30564,-90.81251,Biggers,AR,Arkansas,True,,548.0,3.7,5121,Randolph,"{""05121"": 80.42, ""05021"": 19.58}",Randolph|Clay,05121|05021,False,False,America/Chicago
+72414,35.82288,-90.368,Black Oak,AR,Arkansas,True,,318.0,7.2,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72415,36.12643,-91.17745,Black Rock,AR,Arkansas,True,,1431.0,14.3,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72416,35.95731,-90.79699,Bono,AR,Arkansas,True,,5233.0,22.8,5031,Craighead,"{""05031"": 55.15, ""05055"": 44.85}",Craighead|Greene,05031|05055,False,False,America/Chicago
+72417,35.91994,-90.54791,Brookland,AR,Arkansas,True,,5274.0,47.3,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72419,35.74158,-90.35544,Caraway,AR,Arkansas,True,,1815.0,13.8,5031,Craighead,"{""05031"": 95.01, ""05111"": 4.99}",Craighead|Poinsett,05031|05111,False,False,America/Chicago
+72421,35.77851,-90.97869,Cash,AR,Arkansas,True,,435.0,2.1,5031,Craighead,"{""05031"": 92.32, ""05111"": 7.68}",Craighead|Poinsett,05031|05111,False,False,America/Chicago
+72422,36.41893,-90.54385,Corning,AR,Arkansas,True,,4329.0,10.1,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72424,36.39185,-90.72874,Datto,AR,Arkansas,True,,69.0,47.5,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72425,36.22138,-90.74308,Delaplaine,AR,Arkansas,True,,299.0,1.4,5055,Greene,"{""05055"": 82.2, ""05121"": 17.8}",Greene|Randolph,05055|05121,False,False,America/Chicago
+72426,35.85608,-90.04159,Dell,AR,Arkansas,True,,158.0,158.0,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72427,35.86872,-90.94901,Egypt,AR,Arkansas,True,,313.0,497.3,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72428,35.7414,-90.21672,Etowah,AR,Arkansas,True,,97.0,5.5,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72429,35.48895,-90.93972,Fisher,AR,Arkansas,True,,185.0,1.1,5111,Poinsett,"{""05111"": 100}",Poinsett,05111,False,False,America/Chicago
+72430,36.336,-90.17366,Greenway,AR,Arkansas,True,,345.0,4.9,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72431,35.63396,-91.08184,Grubbs,AR,Arkansas,True,,435.0,26.7,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72432,35.55438,-90.72457,Harrisburg,AR,Arkansas,True,,7115.0,16.0,5111,Poinsett,"{""05111"": 100}",Poinsett,05111,False,False,America/Chicago
+72433,36.02582,-91.04446,Hoxie,AR,Arkansas,True,,2713.0,20.6,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72434,36.21847,-91.16025,Imboden,AR,Arkansas,True,,2080.0,9.3,5121,Randolph,"{""05121"": 68.13, ""05075"": 31.87}",Randolph|Lawrence,05121|05075,False,False,America/Chicago
+72435,36.31177,-90.54593,Knobel,AR,Arkansas,True,,516.0,3.6,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72436,36.23574,-90.48281,Lafe,AR,Arkansas,True,,881.0,11.1,5055,Greene,"{""05055"": 70.6, ""05021"": 29.4}",Greene|Clay,05055|05021,False,False,America/Chicago
+72437,35.8343,-90.45401,Lake City,AR,Arkansas,True,,3591.0,13.2,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72438,35.94375,-90.22787,Leachville,AR,Arkansas,True,,2580.0,16.5,5093,Mississippi,"{""05093"": 92.95, ""05031"": 7.05}",Mississippi|Craighead,05093|05031,False,False,America/Chicago
+72440,35.9924,-91.26466,Lynn,AR,Arkansas,True,,270.0,18.2,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72441,36.4355,-90.38944,McDougal,AR,Arkansas,True,,38.0,107.2,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72442,35.82458,-90.17948,Manila,AR,Arkansas,True,,4263.0,12.7,5093,Mississippi,"{""05093"": 100}",Mississippi,05093,False,False,America/Chicago
+72443,36.1812,-90.41037,Marmaduke,AR,Arkansas,True,,2967.0,17.1,5055,Greene,"{""05055"": 100}",Greene,05055,False,False,America/Chicago
+72444,36.4266,-90.86106,Maynard,AR,Arkansas,True,,1634.0,6.4,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago
+72445,35.97812,-91.02669,Minturn,AR,Arkansas,True,,45.0,40.0,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72447,35.9102,-90.33428,Monette,AR,Arkansas,True,,1775.0,12.2,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72449,36.16662,-90.81719,O'Kean,AR,Arkansas,True,,252.0,65.8,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago
+72450,36.0784,-90.51695,Paragould,AR,Arkansas,True,,39002.0,52.8,5055,Greene,"{""05055"": 98.29, ""05031"": 1.71}",Greene|Craighead,05055|05031,False,False,America/Chicago
+72453,36.30909,-90.67887,Peach Orchard,AR,Arkansas,True,,179.0,1.8,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72454,36.40083,-90.20623,Piggott,AR,Arkansas,True,,4642.0,17.9,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72455,36.3229,-91.04909,Pocahontas,AR,Arkansas,True,,13147.0,20.0,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago
+72456,36.45362,-90.32217,Pollard,AR,Arkansas,True,,473.0,3.5,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72457,36.08545,-91.06827,Portia,AR,Arkansas,True,,196.0,956.9,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72458,36.06844,-91.15619,Powhatan,AR,Arkansas,True,,590.0,9.7,5075,Lawrence,"{""05075"": 100}",Lawrence,05075,False,False,America/Chicago
+72459,36.27904,-91.29976,Ravenden,AR,Arkansas,True,,1242.0,4.2,5121,Randolph,"{""05121"": 39.33, ""05075"": 36.56, ""05135"": 24.11}",Randolph|Lawrence|Sharp,05121|05075|05135,False,False,America/Chicago
+72460,36.35792,-91.15967,Ravenden Springs,AR,Arkansas,True,,588.0,3.9,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago
+72461,36.26679,-90.28254,Rector,AR,Arkansas,True,,3728.0,8.4,5021,Clay,"{""05021"": 82.93, ""05055"": 17.07}",Clay|Greene,05021|05055,False,False,America/Chicago
+72462,36.38243,-90.75916,Reyno,AR,Arkansas,True,,398.0,41.9,5121,Randolph,"{""05121"": 99.73, ""05021"": 0.27}",Randolph|Clay,05121|05021,False,False,America/Chicago
+72464,36.45405,-90.1434,Saint Francis,AR,Arkansas,True,,132.0,1928.5,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72466,36.05121,-91.32157,Smithville,AR,Arkansas,True,,1508.0,4.8,5075,Lawrence,"{""05075"": 59.14, ""05135"": 40.86}",Lawrence|Sharp,05075|05135,False,False,America/Chicago
+72467,35.84223,-90.6776,State University,AR,Arkansas,True,,290.0,436.5,5031,Craighead,"{""05031"": 100}",Craighead,05031,False,False,America/Chicago
+72469,35.95367,-91.29949,Strawberry,AR,Arkansas,True,,892.0,4.6,5075,Lawrence,"{""05075"": 75.5, ""05135"": 24.5}",Lawrence|Sharp,05075|05135,False,False,America/Chicago
+72470,36.4668,-90.70309,Success,AR,Arkansas,True,,195.0,2.1,5021,Clay,"{""05021"": 100}",Clay,05021,False,False,America/Chicago
+72471,35.82591,-91.11996,Swifton,AR,Arkansas,True,,1413.0,6.4,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72472,35.59264,-90.54459,Trumann,AR,Arkansas,True,,8744.0,21.6,5111,Poinsett,"{""05111"": 100}",Poinsett,05111,False,False,America/Chicago
+72473,35.73531,-91.17356,Tuckerman,AR,Arkansas,True,,2297.0,14.1,5067,Jackson,"{""05067"": 100}",Jackson,05067,False,False,America/Chicago
+72476,36.04533,-90.91692,Walnut Ridge,AR,Arkansas,True,,6658.0,11.5,5075,Lawrence,"{""05075"": 82.64, ""05121"": 8.92, ""05031"": 6.17, ""05055"": 2.27}",Lawrence|Randolph|Craighead|Greene,05075|05121|05031|05055,False,False,America/Chicago
+72478,36.46249,-91.05373,Warm Springs,AR,Arkansas,True,,216.0,1.6,5121,Randolph,"{""05121"": 100}",Randolph,05121,False,False,America/Chicago
+72479,35.62924,-90.90535,Weiner,AR,Arkansas,True,,1499.0,3.0,5111,Poinsett,"{""05111"": 87.86, ""05067"": 6.63, ""05031"": 5.51}",Poinsett|Jackson|Craighead,05111|05067|05031,False,False,America/Chicago
+72482,36.26933,-91.36402,Williford,AR,Arkansas,True,,1308.0,7.1,5135,Sharp,"{""05135"": 99.72, ""05075"": 0.28}",Sharp|Lawrence,05135|05075,False,False,America/Chicago
+72501,35.79167,-91.65399,Batesville,AR,Arkansas,True,,26011.0,33.0,5063,Independence,"{""05063"": 99.25, ""05065"": 0.75}",Independence|Izard,05063|05065,False,False,America/Chicago
+72512,36.22326,-91.7514,Horseshoe Bend,AR,Arkansas,True,,2692.0,48.4,5065,Izard,"{""05065"": 99.47, ""05049"": 0.53}",Izard|Fulton,05065|05049,False,False,America/Chicago
+72513,36.23118,-91.64722,Ash Flat,AR,Arkansas,True,,2362.0,9.2,5135,Sharp,"{""05135"": 50.46, ""05049"": 36.54, ""05065"": 13.0}",Sharp|Fulton|Izard,05135|05049|05065,False,False,America/Chicago
+72515,36.27634,-92.05644,Bexar,AR,Arkansas,True,,0.0,0.0,5049,Fulton,"{""05049"": 99.64, ""05065"": 0.36}",Fulton|Izard,05049|05065,False,False,America/Chicago
+72517,36.1463,-91.95403,Brockwell,AR,Arkansas,True,,207.0,3.6,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72519,36.11876,-92.17802,Calico Rock,AR,Arkansas,True,,3628.0,8.8,5005,Baxter,"{""05005"": 38.67, ""05137"": 29.64, ""05065"": 28.83, ""05049"": 2.86}",Baxter|Stone|Izard|Fulton,05005|05137|05065|05049,False,False,America/Chicago
+72520,36.39816,-91.72476,Camp,AR,Arkansas,True,,283.0,3.5,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago
+72521,35.95196,-91.54522,Cave City,AR,Arkansas,True,,5952.0,19.4,5135,Sharp,"{""05135"": 67.99, ""05063"": 32.01}",Sharp|Independence,05135|05063,False,False,America/Chicago
+72522,35.80471,-91.46683,Charlotte,AR,Arkansas,True,,391.0,15.5,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72523,35.64808,-91.83632,Concord,AR,Arkansas,True,,1076.0,10.0,5023,Cleburne,"{""05023"": 80.52, ""05063"": 19.48}",Cleburne|Independence,05023|05063,False,False,America/Chicago
+72524,35.83551,-91.30318,Cord,AR,Arkansas,True,,362.0,2.5,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72526,35.87762,-91.76623,Cushman,AR,Arkansas,True,,111.0,5.5,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72527,35.74038,-91.68323,Desha,AR,Arkansas,True,,731.0,73.4,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72528,36.23816,-92.115,Dolph,AR,Arkansas,True,,32.0,0.8,5065,Izard,"{""05065"": 99.9, ""05005"": 0.1}",Izard|Baxter,05065|05005,False,False,America/Chicago
+72529,36.29696,-91.56676,Cherokee Village,AR,Arkansas,True,,4912.0,92.4,5135,Sharp,"{""05135"": 55.49, ""05049"": 44.51}",Sharp|Fulton,05135|05049,False,False,America/Chicago
+72530,35.61381,-91.95715,Drasco,AR,Arkansas,True,,1157.0,4.1,5023,Cleburne,"{""05023"": 94.28, ""05137"": 5.72}",Cleburne|Stone,05023|05137,False,False,America/Chicago
+72531,36.32052,-92.15121,Elizabeth,AR,Arkansas,True,,1176.0,9.1,5049,Fulton,"{""05049"": 55.18, ""05005"": 44.82}",Fulton|Baxter,05049|05005,False,False,America/Chicago
+72532,36.09905,-91.59508,Evening Shade,AR,Arkansas,True,,937.0,3.7,5135,Sharp,"{""05135"": 83.67, ""05065"": 16.33}",Sharp|Izard,05135|05065,False,False,America/Chicago
+72533,35.97921,-92.24513,Fifty Six,AR,Arkansas,True,,266.0,2.1,5137,Stone,"{""05137"": 100}",Stone,05137,False,False,America/Chicago
+72534,35.59272,-91.73265,Floral,AR,Arkansas,True,,1460.0,8.6,5063,Independence,"{""05063"": 81.22, ""05023"": 18.78}",Independence|Cleburne,05063|05023,False,False,America/Chicago
+72536,36.14673,-91.76115,Franklin,AR,Arkansas,True,,484.0,7.8,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72537,36.45018,-92.23371,Gamaliel,AR,Arkansas,True,,885.0,11.9,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72538,36.43622,-92.10612,Gepp,AR,Arkansas,True,,858.0,7.5,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago
+72539,36.33015,-91.72259,Glencoe,AR,Arkansas,True,,209.0,4.4,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago
+72540,35.93355,-91.9096,Guion,AR,Arkansas,True,,97.0,3.0,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72542,36.29656,-91.46925,Hardy,AR,Arkansas,True,,4031.0,10.1,5135,Sharp,"{""05135"": 81.53, ""05049"": 18.47}",Sharp|Fulton,05135|05049,False,False,America/Chicago
+72543,35.45528,-91.99407,Heber Springs,AR,Arkansas,True,,13011.0,44.2,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago
+72544,36.40395,-92.19022,Henderson,AR,Arkansas,True,,865.0,11.6,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72546,35.57711,-91.94487,Ida,AR,Arkansas,True,,202.0,23.3,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago
+72550,35.70836,-91.78387,Locust Grove,AR,Arkansas,True,,820.0,6.6,5063,Independence,"{""05063"": 69.01, ""05023"": 18.49, ""05137"": 12.5}",Independence|Cleburne|Stone,05063|05023|05137,False,False,America/Chicago
+72553,35.70093,-91.48212,Magness,AR,Arkansas,True,,25.0,23.5,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72554,36.43902,-91.55668,Mammoth Spring,AR,Arkansas,True,,2546.0,6.2,5049,Fulton,"{""05049"": 82.02, ""05135"": 17.98}",Fulton|Sharp,05049|05135,False,False,America/Chicago
+72555,35.77165,-91.88287,Marcella,AR,Arkansas,True,,204.0,6.2,5137,Stone,"{""05137"": 100}",Stone,05137,False,False,America/Chicago
+72556,36.02472,-91.95831,Melbourne,AR,Arkansas,True,,3472.0,8.3,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72560,35.84023,-92.08032,Mountain View,AR,Arkansas,True,,8574.0,11.1,5137,Stone,"{""05137"": 99.29, ""05065"": 0.71}",Stone|Izard,05137|05065,False,False,America/Chicago
+72561,35.9428,-91.81093,Mount Pleasant,AR,Arkansas,True,,686.0,5.2,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72562,35.73074,-91.39514,Newark,AR,Arkansas,True,,2189.0,10.7,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72564,35.60034,-91.45585,Oil Trough,AR,Arkansas,True,,246.0,3.2,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72565,36.21871,-91.90686,Oxford,AR,Arkansas,True,,781.0,8.9,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72566,36.20792,-92.06468,Pineville,AR,Arkansas,True,,668.0,6.3,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72567,35.81742,-91.91975,Pleasant Grove,AR,Arkansas,True,,265.0,7.7,5137,Stone,"{""05137"": 100}",Stone,05137,False,False,America/Chicago
+72568,35.56676,-91.62147,Pleasant Plains,AR,Arkansas,True,,1474.0,11.7,5063,Independence,"{""05063"": 92.52, ""05145"": 7.48}",Independence|White,05063|05145,False,False,America/Chicago
+72569,36.08121,-91.45817,Poughkeepsie,AR,Arkansas,True,,674.0,7.8,5135,Sharp,"{""05135"": 100}",Sharp,05135,False,False,America/Chicago
+72571,35.64059,-91.53568,Rosie,AR,Arkansas,True,,294.0,6.3,5063,Independence,"{""05063"": 100}",Independence,05063,False,False,America/Chicago
+72572,35.89762,-91.29173,Saffell,AR,Arkansas,True,,227.0,6.6,5075,Lawrence,"{""05075"": 75.46, ""05063"": 24.54}",Lawrence|Independence,05075|05063,False,False,America/Chicago
+72573,36.07442,-91.79624,Sage,AR,Arkansas,True,,255.0,6.0,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72576,36.35004,-91.85081,Salem,AR,Arkansas,True,,3444.0,8.8,5049,Fulton,"{""05049"": 99.8, ""05065"": 0.2}",Fulton|Izard,05049|05065,False,False,America/Chicago
+72577,36.03094,-91.71379,Sidney,AR,Arkansas,True,,705.0,5.6,5065,Izard,"{""05065"": 64.76, ""05135"": 35.24}",Izard|Sharp,05065|05135,False,False,America/Chicago
+72578,36.45734,-91.87894,Sturkie,AR,Arkansas,True,,178.0,4.7,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago
+72579,35.84458,-91.44428,Sulphur Rock,AR,Arkansas,True,,1404.0,12.4,5063,Independence,"{""05063"": 78.63, ""05135"": 21.37}",Independence|Sharp,05063|05135,False,False,America/Chicago
+72581,35.54722,-91.97035,Tumbling Shoals,AR,Arkansas,True,,1126.0,36.0,5023,Cleburne,"{""05023"": 100}",Cleburne,05023,False,False,America/Chicago
+72583,36.40646,-91.98797,Viola,AR,Arkansas,True,,2178.0,7.6,5049,Fulton,"{""05049"": 100}",Fulton,05049,False,False,America/Chicago
+72584,36.14421,-91.84427,Violet Hill,AR,Arkansas,True,,308.0,3.1,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72585,36.17861,-92.01454,Wideman,AR,Arkansas,True,,208.0,3.4,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72587,36.21977,-91.8173,Wiseman,AR,Arkansas,True,,23.0,1.0,5065,Izard,"{""05065"": 100}",Izard,05065,False,False,America/Chicago
+72601,36.23669,-93.09181,Harrison,AR,Arkansas,True,,29993.0,31.7,5009,Boone,"{""05009"": 91.51, ""05101"": 5.76, ""05089"": 2.73}",Boone|Newton|Marion,05009|05101|05089,False,False,America/Chicago
+72611,36.24532,-93.32705,Alpena,AR,Arkansas,True,,1568.0,7.4,5015,Carroll,"{""05015"": 66.74, ""05009"": 30.09, ""05101"": 3.17}",Carroll|Boone|Newton,05015|05009|05101,False,False,America/Chicago
+72615,36.31532,-93.01207,Bergman,AR,Arkansas,True,,,,5009,Boone,"{""05009"": 100}",Boone,05009,False,False,America/Chicago
+72616,36.35047,-93.55736,Berryville,AR,Arkansas,True,,10707.0,20.3,5015,Carroll,"{""05015"": 100}",Carroll,05015,False,False,America/Chicago
+72617,36.0208,-92.36566,Big Flat,AR,Arkansas,True,,356.0,3.6,5005,Baxter,"{""05005"": 97.68, ""05137"": 2.32}",Baxter|Stone,05005|05137,False,False,America/Chicago
+72619,36.3781,-92.58517,Bull Shoals,AR,Arkansas,True,,1811.0,145.4,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72623,36.46386,-92.3172,Clarkridge,AR,Arkansas,True,,978.0,15.2,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72624,36.08208,-93.35655,Compton,AR,Arkansas,True,,486.0,3.8,5101,Newton,"{""05101"": 85.18, ""05015"": 14.82}",Newton|Carroll,05101|05015,False,False,America/Chicago
+72626,36.30451,-92.53994,Cotter,AR,Arkansas,True,,1608.0,111.5,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72628,35.82717,-93.28785,Deer,AR,Arkansas,True,,933.0,2.5,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72629,35.73615,-92.56625,Dennard,AR,Arkansas,True,,475.0,4.0,5141,Van Buren,"{""05141"": 100}",Van Buren,05141,False,False,America/Chicago
+72630,36.45856,-92.92032,Diamond City,AR,Arkansas,True,,265.0,692.7,5009,Boone,"{""05009"": 100}",Boone,05009,False,False,America/Chicago
+72631,36.45146,-93.79131,Eureka Springs,AR,Arkansas,True,,4095.0,32.0,5015,Carroll,"{""05015"": 100}",Carroll,05015,False,False,America/Chicago
+72632,36.37248,-93.74355,Eureka Springs,AR,Arkansas,True,,4380.0,17.3,5015,Carroll,"{""05015"": 97.81, ""05087"": 2.19}",Carroll|Madison,05015|05087,False,False,America/Chicago
+72633,36.14023,-92.87572,Everton,AR,Arkansas,True,,1954.0,8.0,5089,Marion,"{""05089"": 52.28, ""05009"": 31.53, ""05129"": 16.19}",Marion|Boone|Searcy,05089|05009|05129,False,False,America/Chicago
+72634,36.23693,-92.54891,Flippin,AR,Arkansas,True,,4153.0,16.0,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72635,36.31637,-92.48484,Gassville,AR,Arkansas,True,,3767.0,46.1,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72636,35.99121,-92.71651,Gilbert,AR,Arkansas,True,,3.0,7.4,5129,Searcy,"{""05129"": 100}",Searcy,05129,False,False,America/Chicago
+72638,36.3245,-93.40496,Green Forest,AR,Arkansas,True,,7073.0,15.1,5015,Carroll,"{""05015"": 95.18, ""05101"": 4.82}",Carroll|Newton,05015|05101,False,False,America/Chicago
+72639,36.01948,-92.48937,Harriet,AR,Arkansas,True,,720.0,4.0,5129,Searcy,"{""05129"": 90.53, ""05089"": 9.47}",Searcy|Marion,05129|05089,False,False,America/Chicago
+72640,36.00708,-93.05061,Hasty,AR,Arkansas,True,,469.0,8.5,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72641,35.98829,-93.21978,Jasper,AR,Arkansas,True,,2664.0,9.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72642,36.37013,-92.54347,Lakeview,AR,Arkansas,True,,1906.0,82.8,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72644,36.42477,-92.96673,Lead Hill,AR,Arkansas,True,,2751.0,12.1,5009,Boone,"{""05009"": 91.78, ""05089"": 7.02, ""29213"": 1.2}",Boone|Marion|Taney,05009|05089|29213,False,False,America/Chicago
+72645,35.80249,-92.55778,Leslie,AR,Arkansas,True,,1792.0,4.5,5129,Searcy,"{""05129"": 66.38, ""05141"": 19.28, ""05137"": 14.34}",Searcy|Van Buren|Stone,05129|05141|05137,False,False,America/Chicago
+72648,36.07516,-93.14399,Marble Falls,AR,Arkansas,True,,568.0,6.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72650,35.87938,-92.69308,Marshall,AR,Arkansas,True,,4091.0,5.8,5129,Searcy,"{""05129"": 97.05, ""05137"": 2.95}",Searcy|Stone,05129|05137,False,False,America/Chicago
+72651,36.388,-92.47661,Midway,AR,Arkansas,True,,1015.0,48.6,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72653,36.34292,-92.38603,Mountain Home,AR,Arkansas,True,,28157.0,49.2,5005,Baxter,"{""05005"": 97.12, ""05089"": 2.88}",Baxter|Marion,05005|05089,False,False,America/Chicago
+72655,35.89346,-93.03421,Mount Judea,AR,Arkansas,True,,324.0,1.1,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72658,36.15468,-92.32301,Norfork,AR,Arkansas,True,,1273.0,5.8,5005,Baxter,"{""05005"": 100}",Baxter,05005,False,False,America/Chicago
+72660,36.48115,-93.37454,Oak Grove,AR,Arkansas,True,,796.0,18.3,5015,Carroll,"{""05015"": 100}",Carroll,05015,False,False,America/Chicago
+72661,36.45195,-92.58963,Oakland,AR,Arkansas,True,,602.0,9.6,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72662,36.43184,-93.18297,Omaha,AR,Arkansas,True,,2870.0,9.4,5009,Boone,"{""05009"": 98.59, ""05015"": 1.41}",Boone|Carroll,05009|05015,False,False,America/Chicago
+72663,35.93617,-92.33192,Onia,AR,Arkansas,True,,182.0,3.2,5137,Stone,"{""05137"": 100}",Stone,05137,False,False,America/Chicago
+72666,35.94876,-93.28706,Parthenon,AR,Arkansas,True,,71.0,0.9,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72668,36.41914,-92.77163,Peel,AR,Arkansas,True,,136.0,1.8,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72669,36.06477,-92.87359,Pindall,AR,Arkansas,True,,133.0,34.3,5129,Searcy,"{""05129"": 100}",Searcy,05129,False,False,America/Chicago
+72670,35.98726,-93.37775,Ponca,AR,Arkansas,True,,0.0,0.0,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72672,36.27725,-92.83685,Pyatt,AR,Arkansas,True,,172.0,3.9,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72675,36.00711,-92.79283,Saint Joe,AR,Arkansas,True,,1396.0,2.8,5129,Searcy,"{""05129"": 86.53, ""05089"": 13.47}",Searcy|Marion,05129|05089,False,False,America/Chicago
+72677,36.26442,-92.70074,Summit,AR,Arkansas,True,,467.0,32.9,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72679,35.73555,-92.80206,Tilly,AR,Arkansas,True,,7.0,0.2,5129,Searcy,"{""05129"": 84.95, ""05141"": 11.02, ""05115"": 4.03}",Searcy|Van Buren|Pope,05129|05141|05115,False,False,America/Chicago
+72680,35.88286,-92.32986,Timbo,AR,Arkansas,True,,892.0,8.6,5137,Stone,"{""05137"": 91.09, ""05129"": 8.91}",Stone|Searcy,05137|05129,False,False,America/Chicago
+72682,36.13405,-92.72911,Valley Springs,AR,Arkansas,True,,148.0,3.2,5089,Marion,"{""05089"": 100}",Marion,05089,False,False,America/Chicago
+72683,35.93102,-93.11629,Vendor,AR,Arkansas,True,,408.0,9.9,5101,Newton,"{""05101"": 100}",Newton,05101,False,False,America/Chicago
+72685,36.05539,-92.98194,Western Grove,AR,Arkansas,True,,1356.0,10.2,5101,Newton,"{""05101"": 81.19, ""05129"": 16.88, ""05009"": 1.93}",Newton|Searcy|Boone,05101|05129|05009,False,False,America/Chicago
+72686,35.70352,-92.918,Witts Springs,AR,Arkansas,True,,130.0,0.8,5115,Pope,"{""05115"": 57.71, ""05129"": 42.29}",Pope|Searcy,05115|05129,False,False,America/Chicago
+72687,36.25628,-92.68679,Yellville,AR,Arkansas,True,,7737.0,10.9,5089,Marion,"{""05089"": 99.68, ""05009"": 0.32}",Marion|Boone,05089|05009,False,False,America/Chicago
+72701,35.9873,-94.08179,Fayetteville,AR,Arkansas,True,,45396.0,139.1,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72703,36.1155,-94.04897,Fayetteville,AR,Arkansas,True,,33223.0,319.0,5143,Washington,"{""05143"": 95.27, ""05087"": 4.73}",Washington|Madison,05143|05087,False,False,America/Chicago
+72704,36.10475,-94.29539,Fayetteville,AR,Arkansas,True,,26480.0,132.7,5143,Washington,"{""05143"": 98.61, ""05007"": 1.39}",Washington|Benton,05143|05007,False,False,America/Chicago
+72712,36.39837,-94.22196,Bentonville,AR,Arkansas,True,,60096.0,447.6,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72713,36.30036,-94.28372,Bentonville,AR,Arkansas,True,,,,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72714,36.46841,-94.21649,Bella Vista,AR,Arkansas,True,,13858.0,292.4,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72715,36.46505,-94.30545,Bella Vista,AR,Arkansas,True,,15537.0,207.9,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72717,35.84054,-94.42503,Canehill,AR,Arkansas,True,,1014.0,9.0,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72718,36.26347,-94.22147,Cave Springs,AR,Arkansas,True,,3971.0,266.8,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72719,36.36837,-94.29551,Centerton,AR,Arkansas,True,,14115.0,594.5,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72721,35.78383,-93.78402,Combs,AR,Arkansas,True,,398.0,2.4,5087,Madison,"{""05087"": 51.66, ""05047"": 48.34}",Madison|Franklin,05087|05047,False,False,America/Chicago
+72722,36.34042,-94.46397,Decatur,AR,Arkansas,True,,2737.0,26.8,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72727,35.91456,-93.92612,Elkins,AR,Arkansas,True,,6460.0,16.0,5087,Madison,"{""05087"": 63.14, ""05143"": 32.37, ""05047"": 4.49}",Madison|Washington|Franklin,05087|05143|05047,False,False,America/Chicago
+72729,35.78992,-94.46338,Evansville,AR,Arkansas,True,,96.0,3.3,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72730,36.03057,-94.26588,Farmington,AR,Arkansas,True,,8624.0,160.2,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72732,36.43187,-93.95968,Garfield,AR,Arkansas,True,,4716.0,21.0,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72734,36.27217,-94.45355,Gentry,AR,Arkansas,True,,9054.0,42.9,5007,Benton,"{""05007"": 98.78, ""05143"": 1.22}",Benton|Washington,05007|05143,False,False,America/Chicago
+72736,36.41402,-94.46548,Gravette,AR,Arkansas,True,,7417.0,29.1,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72738,36.16258,-93.885,Hindsville,AR,Arkansas,True,,2573.0,11.7,5087,Madison,"{""05087"": 79.05, ""05143"": 13.83, ""05007"": 7.12}",Madison|Washington|Benton,05087|05143|05007,False,False,America/Chicago
+72739,36.42715,-94.32801,Hiwasse,AR,Arkansas,True,,508.0,44.3,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72740,36.10889,-93.67599,Huntsville,AR,Arkansas,True,,9318.0,9.5,5087,Madison,"{""05087"": 90.49, ""05015"": 7.67, ""05101"": 1.84}",Madison|Carroll|Newton,05087|05015|05101,False,False,America/Chicago
+72742,35.98159,-93.49528,Kingston,AR,Arkansas,True,,825.0,4.7,5087,Madison,"{""05087"": 84.81, ""05101"": 15.19}",Madison|Newton,05087|05101,False,False,America/Chicago
+72744,35.96287,-94.43851,Lincoln,AR,Arkansas,True,,5291.0,25.9,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72745,36.2477,-94.10046,Lowell,AR,Arkansas,True,,13761.0,166.9,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72747,36.37023,-94.5807,Maysville,AR,Arkansas,True,,293.0,16.8,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72749,35.86712,-94.43932,Morrow,AR,Arkansas,True,,512.0,169.7,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72751,36.46255,-94.11825,Pea Ridge,AR,Arkansas,True,,8296.0,132.9,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72752,35.82077,-93.56357,Pettigrew,AR,Arkansas,True,,313.0,1.0,5087,Madison,"{""05087"": 49.25, ""05101"": 30.97, ""05071"": 19.77}",Madison|Newton|Johnson,05087|05101|05071,False,False,America/Chicago
+72753,35.93477,-94.32607,Prairie Grove,AR,Arkansas,True,,9885.0,42.8,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72756,36.32214,-93.9922,Rogers,AR,Arkansas,True,,42830.0,127.3,5007,Benton,"{""05007"": 90.28, ""05087"": 9.72}",Benton|Madison,05007|05087,False,False,America/Chicago
+72758,36.29898,-94.14099,Rogers,AR,Arkansas,True,,42193.0,520.3,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72760,35.82898,-93.69804,Saint Paul,AR,Arkansas,True,,294.0,3.9,5087,Madison,"{""05087"": 100}",Madison,05087,False,False,America/Chicago
+72761,36.17074,-94.45778,Siloam Springs,AR,Arkansas,True,,22591.0,76.5,5007,Benton,"{""05007"": 95.39, ""05143"": 4.61}",Benton|Washington,05007|05143,False,False,America/Chicago
+72762,36.18747,-94.22794,Springdale,AR,Arkansas,True,,41669.0,276.7,5143,Washington,"{""05143"": 78.67, ""05007"": 21.33}",Washington|Benton,05143|05007,False,False,America/Chicago
+72764,36.17746,-94.051,Springdale,AR,Arkansas,True,,57561.0,335.9,5143,Washington,"{""05143"": 91.42, ""05007"": 8.58}",Washington|Benton,05143|05007,False,False,America/Chicago
+72768,36.47884,-94.4938,Sulphur Springs,AR,Arkansas,True,,1330.0,16.3,5007,Benton,"{""05007"": 100}",Benton,05007,False,False,America/Chicago
+72769,36.0347,-94.49702,Summers,AR,Arkansas,True,,1611.0,15.3,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72773,36.01409,-93.84723,Wesley,AR,Arkansas,True,,1521.0,12.1,5087,Madison,"{""05087"": 97.02, ""05143"": 2.98}",Madison|Washington,05087|05143,False,False,America/Chicago
+72774,35.87777,-94.21533,West Fork,AR,Arkansas,True,,6298.0,20.2,5143,Washington,"{""05143"": 100}",Washington,05143,False,False,America/Chicago
+72776,35.90913,-93.67307,Witter,AR,Arkansas,True,,687.0,3.4,5087,Madison,"{""05087"": 100}",Madison,05087,False,False,America/Chicago
+72801,35.28057,-93.14161,Russellville,AR,Arkansas,True,,19289.0,929.7,5115,Pope,"{""05115"": 100}",Pope,05115,False,False,America/Chicago
+72802,35.31334,-93.06726,Russellville,AR,Arkansas,True,,22751.0,63.8,5115,Pope,"{""05115"": 100}",Pope,05115,False,False,America/Chicago
+72821,35.4545,-93.72024,Altus,AR,Arkansas,True,,1835.0,22.1,5047,Franklin,"{""05047"": 64.83, ""05071"": 35.17}",Franklin|Johnson,05047|05071,False,False,America/Chicago
+72823,35.25213,-92.89847,Atkins,AR,Arkansas,True,,5750.0,17.5,5115,Pope,"{""05115"": 78.02, ""05029"": 21.98}",Pope|Conway,05115|05029,False,False,America/Chicago
+72824,35.12768,-93.41146,Belleville,AR,Arkansas,True,,2234.0,11.9,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago
+72826,35.13,-93.71025,Blue Mountain,AR,Arkansas,True,,90.0,671.0,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago
+72827,34.87758,-93.61948,Bluffton,AR,Arkansas,True,,218.0,2.2,5149,Yell,"{""05149"": 84.42, ""05127"": 15.58}",Yell|Scott,05149|05127,False,False,America/Chicago
+72828,34.92613,-93.53951,Briggsville,AR,Arkansas,True,,113.0,2.5,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago
+72829,35.10351,-93.1753,Centerville,AR,Arkansas,True,,,,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago
+72830,35.51685,-93.50859,Clarksville,AR,Arkansas,True,,16080.0,44.5,5071,Johnson,"{""05071"": 100}",Johnson,05071,False,False,America/Chicago
+72832,35.42748,-93.67043,Coal Hill,AR,Arkansas,True,,991.0,112.3,5071,Johnson,"{""05071"": 100}",Johnson,05071,False,False,America/Chicago
+72833,35.01845,-93.49748,Danville,AR,Arkansas,True,,3813.0,6.6,5149,Yell,"{""05149"": 87.12, ""05127"": 12.88}",Yell|Scott,05149|05127,False,False,America/Chicago
+72834,35.17202,-93.19401,Dardanelle,AR,Arkansas,True,,10619.0,25.7,5149,Yell,"{""05149"": 97.15, ""05083"": 2.85}",Yell|Logan,05149|05083,False,False,America/Chicago
+72835,35.27634,-93.3425,Delaware,AR,Arkansas,True,,793.0,6.7,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago
+72837,35.51387,-93.10709,Dover,AR,Arkansas,True,,7837.0,12.4,5115,Pope,"{""05115"": 100}",Pope,05115,False,False,America/Chicago
+72838,34.88926,-93.68009,Gravelly,AR,Arkansas,True,,160.0,3.4,5149,Yell,"{""05149"": 83.88, ""05127"": 16.12}",Yell|Scott,05149|05127,False,False,America/Chicago
+72839,35.65131,-93.26384,Hagarville,AR,Arkansas,True,,465.0,1.2,5071,Johnson,"{""05071"": 87.72, ""05115"": 11.06, ""05101"": 1.22}",Johnson|Pope|Newton,05071|05115|05101,False,False,America/Chicago
+72840,35.46164,-93.61442,Hartman,AR,Arkansas,True,,2019.0,16.7,5071,Johnson,"{""05071"": 100}",Johnson,05071,False,False,America/Chicago
+72841,34.86736,-93.78515,Harvey,AR,Arkansas,True,,277.0,2.6,5127,Scott,"{""05127"": 96.05, ""05149"": 3.95}",Scott|Yell,05127|05149,False,False,America/Chicago
+72842,35.09626,-93.59664,Havana,AR,Arkansas,True,,1005.0,4.9,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago
+72843,35.55608,-92.91932,Hector,AR,Arkansas,True,,2481.0,6.1,5115,Pope,"{""05115"": 100}",Pope,05115,False,False,America/Chicago
+72845,35.36262,-93.37619,Knoxville,AR,Arkansas,True,,800.0,27.9,5071,Johnson,"{""05071"": 100}",Johnson,05071,False,False,America/Chicago
+72846,35.48166,-93.31885,Lamar,AR,Arkansas,True,,4125.0,16.1,5071,Johnson,"{""05071"": 86.58, ""05115"": 13.42}",Johnson|Pope,05071|05115,False,False,America/Chicago
+72847,35.37043,-93.27749,London,AR,Arkansas,True,,2983.0,29.5,5115,Pope,"{""05115"": 71.48, ""05071"": 28.52}",Pope|Johnson,05115|05071,False,False,America/Chicago
+72851,35.26092,-93.45693,New Blaine,AR,Arkansas,True,,495.0,3.6,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago
+72852,35.68243,-93.56684,Oark,AR,Arkansas,True,,131.0,0.6,5071,Johnson,"{""05071"": 83.59, ""05101"": 15.79, ""05087"": 0.62}",Johnson|Newton|Madison,05071|05101|05087,False,False,America/Chicago
+72853,35.01146,-93.23358,Ola,AR,Arkansas,True,,2040.0,10.1,5149,Yell,"{""05149"": 87.27, ""05105"": 12.73}",Yell|Perry,05149|05105,False,False,America/Chicago
+72854,35.69644,-93.43491,Ozone,AR,Arkansas,True,,887.0,2.6,5071,Johnson,"{""05071"": 64.15, ""05101"": 35.85}",Johnson|Newton,05071|05101,False,False,America/Chicago
+72855,35.25249,-93.67553,Paris,AR,Arkansas,True,,6319.0,13.6,5083,Logan,"{""05083"": 98.78, ""05047"": 1.22}",Logan|Franklin,05083|05047,False,False,America/Chicago
+72856,35.76773,-93.05658,Pelsor,AR,Arkansas,True,,401.0,1.6,5101,Newton,"{""05101"": 83.83, ""05115"": 16.17}",Newton|Pope,05101|05115,False,False,America/Chicago
+72857,34.86217,-93.33826,Plainview,AR,Arkansas,True,,1603.0,2.6,5149,Yell,"{""05149"": 61.9, ""05105"": 38.1}",Yell|Perry,05149|05105,False,False,America/Chicago
+72858,35.20582,-93.04433,Pottsville,AR,Arkansas,True,,3713.0,43.1,5115,Pope,"{""05115"": 100}",Pope,05115,False,False,America/Chicago
+72860,34.94556,-93.43144,Rover,AR,Arkansas,True,,261.0,3.9,5149,Yell,"{""05149"": 100}",Yell,05149,False,False,America/Chicago
+72863,35.36642,-93.50878,Scranton,AR,Arkansas,True,,2042.0,15.3,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago
+72865,35.31143,-93.5673,Subiaco,AR,Arkansas,True,,1321.0,20.0,5083,Logan,"{""05083"": 100}",Logan,05083,False,False,America/Chicago
+72901,35.3652,-94.4155,Fort Smith,AR,Arkansas,True,,21718.0,959.8,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72903,35.35241,-94.36042,Fort Smith,AR,Arkansas,True,,25824.0,615.3,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72904,35.4151,-94.38338,Fort Smith,AR,Arkansas,True,,21949.0,619.1,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72905,35.26004,-94.24265,Fort Smith,AR,Arkansas,True,,,,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72908,35.30595,-94.4099,Fort Smith,AR,Arkansas,True,,13117.0,660.2,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72916,35.27236,-94.37256,Fort Smith,AR,Arkansas,True,,10181.0,104.3,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72921,35.46953,-94.19686,Alma,AR,Arkansas,True,,13904.0,60.4,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72923,35.30904,-94.28954,Barling,AR,Arkansas,True,,5023.0,118.5,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72926,34.72909,-94.0376,Boles,AR,Arkansas,True,,724.0,2.9,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago
+72927,35.07254,-93.94333,Booneville,AR,Arkansas,True,,8034.0,9.6,5083,Logan,"{""05083"": 67.97, ""05127"": 29.51, ""05131"": 2.52}",Logan|Scott|Sebastian,05083|05127|05131,False,False,America/Chicago
+72928,35.29127,-93.93206,Branch,AR,Arkansas,True,,797.0,13.1,5047,Franklin,"{""05047"": 100}",Franklin,05047,False,False,America/Chicago
+72930,35.43248,-94.00737,Cecil,AR,Arkansas,True,,184.0,1.9,5047,Franklin,"{""05047"": 73.78, ""05131"": 26.22}",Franklin|Sebastian,05047|05131,False,False,America/Chicago
+72932,35.60479,-94.37682,Cedarville,AR,Arkansas,True,,1587.0,33.1,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72933,35.33408,-94.01432,Charleston,AR,Arkansas,True,,5114.0,18.1,5047,Franklin,"{""05047"": 83.72, ""05131"": 11.67, ""05083"": 4.61}",Franklin|Sebastian|Logan,05047|05131|05083,False,False,America/Chicago
+72934,35.68957,-94.2703,Chester,AR,Arkansas,True,,999.0,5.4,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72935,35.49431,-94.13277,Dyer,AR,Arkansas,True,,495.0,95.6,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72936,35.1896,-94.23069,Greenwood,AR,Arkansas,True,,14279.0,68.1,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72937,35.13764,-94.39545,Hackett,AR,Arkansas,True,,3427.0,21.7,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72938,35.00665,-94.38097,Hartford,AR,Arkansas,True,,1195.0,8.9,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72940,35.11488,-94.26427,Huntington,AR,Arkansas,True,,2269.0,20.1,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72941,35.35018,-94.16214,Lavaca,AR,Arkansas,True,,5124.0,45.6,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72943,35.18326,-93.78721,Magazine,AR,Arkansas,True,,2370.0,9.0,5083,Logan,"{""05083"": 94.96, ""05149"": 4.71, ""05047"": 0.33}",Logan|Yell|Franklin,05083|05149|05047,False,False,America/Chicago
+72944,35.03366,-94.24173,Mansfield,AR,Arkansas,True,,2791.0,14.6,5131,Sebastian,"{""05131"": 67.82, ""05127"": 32.18}",Sebastian|Scott,05131|05127,False,False,America/Chicago
+72945,35.09559,-94.36297,Midland,AR,Arkansas,True,,314.0,94.2,5131,Sebastian,"{""05131"": 100}",Sebastian,05131,False,False,America/Chicago
+72946,35.65254,-94.13706,Mountainburg,AR,Arkansas,True,,3518.0,14.4,5033,Crawford,"{""05033"": 88.24, ""05047"": 11.76}",Crawford|Franklin,05033|05047,False,False,America/Chicago
+72947,35.54706,-94.04021,Mulberry,AR,Arkansas,True,,3588.0,12.1,5047,Franklin,"{""05047"": 53.66, ""05033"": 46.34}",Franklin|Crawford,05047|05033,False,False,America/Chicago
+72948,35.70692,-94.4154,Natural Dam,AR,Arkansas,True,,200.0,1.2,5033,Crawford,"{""05033"": 96.59, ""05143"": 3.41}",Crawford|Washington,05033|05143,False,False,America/Chicago
+72949,35.55755,-93.80813,Ozark,AR,Arkansas,True,,10613.0,12.9,5047,Franklin,"{""05047"": 87.79, ""05071"": 10.13, ""05083"": 2.08}",Franklin|Johnson|Logan,05047|05071|05083,False,False,America/Chicago
+72950,34.79317,-93.91077,Parks,AR,Arkansas,True,,677.0,2.5,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago
+72951,35.31812,-93.87593,Ratcliff,AR,Arkansas,True,,837.0,21.3,5083,Logan,"{""05083"": 53.32, ""05047"": 46.68}",Logan|Franklin,05083|05047,False,False,America/Chicago
+72952,35.56861,-94.30139,Rudy,AR,Arkansas,True,,2138.0,16.9,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72955,35.6081,-94.44445,Uniontown,AR,Arkansas,True,,778.0,21.7,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72956,35.46895,-94.3489,Van Buren,AR,Arkansas,True,,36726.0,136.7,5033,Crawford,"{""05033"": 100}",Crawford,05033,False,False,America/Chicago
+72958,34.90173,-94.14659,Waldron,AR,Arkansas,True,,6762.0,8.0,5127,Scott,"{""05127"": 100}",Scott,05127,False,False,America/Chicago
+72959,35.77157,-94.06686,Winslow,AR,Arkansas,True,,3030.0,5.8,5143,Washington,"{""05143"": 59.17, ""05033"": 25.37, ""05047"": 15.46}",Washington|Crawford|Franklin,05143|05033|05047,False,False,America/Chicago

@@ -1,0 +1,182 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+89001,37.40035,-115.39564,Alamo,NV,Nevada,True,,1356.0,1.0,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles
+89002,35.99846,-114.96181,Henderson,NV,Nevada,True,,36752.0,1635.1,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89003,36.94925,-116.7331,Beatty,NV,Nevada,True,,870.0,1.4,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89004,36.04164,-115.41261,Blue Diamond,NV,Nevada,True,,266.0,15.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89005,36.00875,-114.84805,Boulder City,NV,Nevada,True,,16048.0,67.1,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89007,36.68605,-114.22915,Bunkerville,NV,Nevada,True,,1430.0,2.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89008,37.26441,-114.50414,Caliente,NV,Nevada,True,,1162.0,0.2,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles
+89010,37.82511,-118.08079,Dyer,NV,Nevada,True,,469.0,0.5,32009,Esmeralda,"{""32009"": 90.34, ""32021"": 5.9, ""06051"": 3.76}",Esmeralda|Mineral|Mono,32009|32021|06051,False,False,America/Los_Angeles
+89011,36.0848,-114.9651,Henderson,NV,Nevada,True,,29556.0,691.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89012,36.01192,-115.04314,Henderson,NV,Nevada,True,,37617.0,1355.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89013,37.34574,-117.34393,Goldfield,NV,Nevada,True,,242.0,0.1,32009,Esmeralda,"{""32009"": 100}",Esmeralda,32009,False,False,America/Los_Angeles
+89014,36.06153,-115.0577,Henderson,NV,Nevada,True,,41776.0,2110.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89015,36.03887,-114.9282,Henderson,NV,Nevada,True,,42315.0,438.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89017,37.70485,-115.30344,Hiko,NV,Nevada,True,,20.0,0.0,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles
+89018,36.57063,-115.66802,Indian Springs,NV,Nevada,True,,4694.0,1037.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89019,35.76949,-115.51606,Jean,NV,Nevada,True,,2068.0,1.6,32003,Clark,"{""32003"": 77.52, ""06071"": 21.56, ""06027"": 0.92}",Clark|San Bernardino|Inyo,32003|06071|06027,False,False,America/Los_Angeles
+89020,36.56232,-116.42454,Amargosa Valley,NV,Nevada,True,,1375.0,2.5,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89021,36.6255,-114.47863,Logandale,NV,Nevada,True,,3136.0,23.5,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89022,38.51839,-117.01489,Manhattan,NV,Nevada,True,,0.0,0.0,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89025,36.71387,-114.74777,Moapa,NV,Nevada,True,,998.0,1.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89026,35.74922,-115.28475,Jean,NV,Nevada,True,,0.0,0.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89027,36.81374,-114.08857,Mesquite,NV,Nevada,True,,19087.0,589.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89029,35.12561,-114.68607,Laughlin,NV,Nevada,True,,8301.0,34.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89030,36.21235,-115.12313,North Las Vegas,NV,Nevada,True,,50313.0,2050.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89031,36.25846,-115.17075,North Las Vegas,NV,Nevada,True,,69016.0,2694.1,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89032,36.22239,-115.17358,North Las Vegas,NV,Nevada,True,,46495.0,1797.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89034,36.80924,-114.14978,Mesquite,NV,Nevada,True,,,,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89039,35.26581,-114.8725,Cal Nev Ari,NV,Nevada,True,,222.0,1.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89040,36.35322,-114.53541,Overton,NV,Nevada,True,,3868.0,3.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89042,37.79819,-114.35862,Panaca,NV,Nevada,True,,1146.0,4.1,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles
+89043,38.30434,-114.39018,Pioche,NV,Nevada,True,,1493.0,0.4,32017,Lincoln,"{""32017"": 100}",Lincoln,32017,False,False,America/Los_Angeles
+89044,35.93986,-115.05632,Henderson,NV,Nevada,True,,24386.0,161.3,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89045,38.85618,-117.06987,Round Mountain,NV,Nevada,True,,2073.0,0.5,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89046,35.51207,-114.8338,Searchlight,NV,Nevada,True,,379.0,0.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89047,37.75776,-117.6386,Silverpeak,NV,Nevada,True,,216.0,84.2,32009,Esmeralda,"{""32009"": 100}",Esmeralda,32009,False,False,America/Los_Angeles
+89048,36.16452,-115.98833,Pahrump,NV,Nevada,True,,22242.0,99.9,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89049,38.37741,-116.41205,Tonopah,NV,Nevada,True,,2449.0,0.4,32023,Nye,"{""32023"": 99.61, ""32009"": 0.39}",Nye|Esmeralda,32023|32009,False,False,America/Los_Angeles
+89052,35.97988,-115.10788,Henderson,NV,Nevada,True,,56242.0,1332.5,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89054,35.92093,-115.19055,Sloan,NV,Nevada,True,,52.0,3.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89060,36.38854,-116.05769,Pahrump,NV,Nevada,True,,10692.0,9.2,32023,Nye,"{""32023"": 98.13, ""06027"": 1.87}",Nye|Inyo,32023|06027,False,False,America/Los_Angeles
+89061,36.07143,-115.89957,Pahrump,NV,Nevada,True,,5537.0,33.4,32023,Nye,"{""32023"": 95.56, ""06027"": 4.44}",Nye|Inyo,32023|06027,False,False,America/Los_Angeles
+89070,36.50083,-115.63952,Indian Springs,NV,Nevada,True,,,,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89074,36.03639,-115.08113,Henderson,NV,Nevada,True,,51254.0,2181.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89081,36.2586,-115.10703,North Las Vegas,NV,Nevada,True,,37599.0,2014.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89084,36.29749,-115.1569,North Las Vegas,NV,Nevada,True,,29244.0,767.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89085,36.30955,-115.19817,North Las Vegas,NV,Nevada,True,,4073.0,3106.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89086,36.28361,-115.10997,North Las Vegas,NV,Nevada,True,,6170.0,796.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89101,36.17279,-115.12234,Las Vegas,NV,Nevada,True,,43536.0,3125.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89102,36.1453,-115.18662,Las Vegas,NV,Nevada,True,,39283.0,2841.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89103,36.11236,-115.21215,Las Vegas,NV,Nevada,True,,54406.0,3223.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89104,36.15118,-115.10932,Las Vegas,NV,Nevada,True,,40519.0,2730.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89106,36.18207,-115.16253,Las Vegas,NV,Nevada,True,,25978.0,1977.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89107,36.17049,-115.209,Las Vegas,NV,Nevada,True,,39287.0,2694.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89108,36.20508,-115.2237,Las Vegas,NV,Nevada,True,,75201.0,3259.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89109,36.12603,-115.16327,Las Vegas,NV,Nevada,True,,7854.0,735.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89110,36.17367,-115.05549,Las Vegas,NV,Nevada,True,,70865.0,2861.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89113,36.06017,-115.26236,Las Vegas,NV,Nevada,True,,34229.0,1226.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89115,36.25374,-115.04285,Las Vegas,NV,Nevada,True,,66378.0,1029.3,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89117,36.14267,-115.28001,Las Vegas,NV,Nevada,True,,56880.0,2389.5,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89118,36.07778,-115.21306,Las Vegas,NV,Nevada,True,,22891.0,834.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89119,36.08452,-115.14606,Las Vegas,NV,Nevada,True,,52120.0,1559.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89120,36.08065,-115.09585,Las Vegas,NV,Nevada,True,,24102.0,1318.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89121,36.12141,-115.09135,Las Vegas,NV,Nevada,True,,66344.0,2790.3,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89122,36.10399,-115.03783,Las Vegas,NV,Nevada,True,,51072.0,2070.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89123,36.0352,-115.14908,Las Vegas,NV,Nevada,True,,62982.0,2347.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89124,36.34074,-115.60096,Las Vegas,NV,Nevada,True,,1412.0,0.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89128,36.19678,-115.26439,Las Vegas,NV,Nevada,True,,37159.0,2396.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89129,36.23325,-115.29025,Las Vegas,NV,Nevada,True,,56770.0,2195.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89130,36.25348,-115.22671,Las Vegas,NV,Nevada,True,,35263.0,1767.1,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89131,36.3064,-115.24256,Las Vegas,NV,Nevada,True,,51862.0,1238.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89134,36.20262,-115.3078,Las Vegas,NV,Nevada,True,,24280.0,1404.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89135,36.09531,-115.37163,Las Vegas,NV,Nevada,True,,29104.0,221.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89138,36.20212,-115.36499,Las Vegas,NV,Nevada,True,,18954.0,402.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89139,36.03429,-115.21117,Las Vegas,NV,Nevada,True,,42030.0,1512.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89141,35.98813,-115.2074,Las Vegas,NV,Nevada,True,,36188.0,1328.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89142,36.14812,-115.031,Las Vegas,NV,Nevada,True,,32813.0,2114.0,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89143,36.32168,-115.29288,Las Vegas,NV,Nevada,True,,13168.0,1449.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89144,36.17746,-115.31943,Las Vegas,NV,Nevada,True,,20126.0,1742.9,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89145,36.16748,-115.27618,Las Vegas,NV,Nevada,True,,25982.0,2364.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89146,36.14323,-115.22679,Las Vegas,NV,Nevada,True,,18969.0,1525.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89147,36.11289,-115.27985,Las Vegas,NV,Nevada,True,,56784.0,2980.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89148,36.06337,-115.29676,Las Vegas,NV,Nevada,True,,57952.0,2302.7,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89149,36.2708,-115.29462,Las Vegas,NV,Nevada,True,,42495.0,1259.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89156,36.15906,-114.98176,Las Vegas,NV,Nevada,True,,30394.0,262.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89158,36.10481,-115.17665,Las Vegas,NV,Nevada,True,,,,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89161,36.03552,-115.48284,Las Vegas,NV,Nevada,True,,165.0,0.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89166,36.33733,-115.4686,Las Vegas,NV,Nevada,True,,25877.0,57.1,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89169,36.12405,-115.14184,Las Vegas,NV,Nevada,True,,21350.0,2390.6,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89178,35.98783,-115.29541,Las Vegas,NV,Nevada,True,,42301.0,723.2,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89179,35.8916,-115.32794,Las Vegas,NV,Nevada,True,,7807.0,25.8,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89183,35.99619,-115.15799,Las Vegas,NV,Nevada,True,,41974.0,2314.5,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89191,36.2473,-115.00407,Nellis Afb,NV,Nevada,True,,487.0,20.4,32003,Clark,"{""32003"": 100}",Clark,32003,False,False,America/Los_Angeles
+89301,39.52872,-114.76615,Ely,NV,Nevada,True,,7962.0,1.4,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89310,39.47836,-117.13758,Austin,NV,Nevada,True,,225.0,0.0,32015,Lander,"{""32015"": 94.43, ""32023"": 5.57}",Lander|Nye,32015|32023,False,False,America/Los_Angeles
+89311,39.16715,-114.19288,Baker,NV,Nevada,True,,206.0,0.1,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89314,38.86222,-115.64186,Duckwater,NV,Nevada,True,,251.0,3.1,32023,Nye,"{""32023"": 100}",Nye,32023,False,False,America/Los_Angeles
+89315,39.1855,-114.84489,Ely,NV,Nevada,True,,,,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89316,39.67956,-116.01497,Eureka,NV,Nevada,True,,1228.0,0.3,32011,Eureka,"{""32011"": 76.38, ""32033"": 23.62}",Eureka|White Pine,32011|32033,False,False,America/Los_Angeles
+89317,38.87915,-115.08418,Lund,NV,Nevada,True,,256.0,1.6,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89318,39.43783,-114.8188,McGill,NV,Nevada,True,,858.0,9.1,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89319,39.27915,-114.98724,Ruth,NV,Nevada,True,,235.0,246.3,32033,White Pine,"{""32033"": 100}",White Pine,32033,False,False,America/Los_Angeles
+89402,39.23075,-120.00259,Crystal Bay,NV,Nevada,True,,17.0,24.7,32031,Washoe,"{""32031"": 99.4, ""06061"": 0.6}",Washoe|Placer,32031|06061,False,False,America/Los_Angeles
+89403,39.25838,-119.48633,Dayton,NV,Nevada,True,,15885.0,37.9,32019,Lyon,"{""32019"": 80.42, ""32029"": 19.58}",Lyon|Storey,32019|32029,False,False,America/Los_Angeles
+89404,41.80704,-118.88807,Denio,NV,Nevada,True,,0.0,0.0,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles
+89405,40.45057,-119.46926,Empire,NV,Nevada,True,,103.0,0.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89406,39.46614,-118.27364,Fallon,NV,Nevada,True,,24475.0,4.7,32001,Churchill,"{""32001"": 98.65, ""32019"": 1.35}",Churchill|Lyon,32001|32019,False,False,America/Los_Angeles
+89408,39.71675,-119.02706,Fernley,NV,Nevada,True,,20982.0,17.5,32001,Churchill,"{""32001"": 77.66, ""32019"": 22.34}",Churchill|Lyon,32001|32019,False,False,America/Los_Angeles
+89409,38.83828,-117.98088,Gabbs,NV,Nevada,True,,78.0,0.2,32023,Nye,"{""32023"": 68.08, ""32021"": 31.92}",Nye|Mineral,32023|32021,False,False,America/Los_Angeles
+89410,38.78368,-119.54802,Gardnerville,NV,Nevada,True,,10992.0,18.4,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89411,39.01837,-119.85301,Genoa,NV,Nevada,True,,776.0,14.0,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89412,41.13904,-119.69501,Gerlach,NV,Nevada,True,,75.0,0.0,32031,Washoe,"{""32031"": 91.78, ""32013"": 8.22}",Washoe|Humboldt,32031|32013,False,False,America/Los_Angeles
+89413,39.07389,-119.92095,Glenbrook,NV,Nevada,True,,723.0,17.7,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89414,41.04934,-117.22765,Golconda,NV,Nevada,True,,90.0,0.1,32013,Humboldt,"{""32013"": 73.77, ""32007"": 26.23}",Humboldt|Elko,32013|32007,False,False,America/Los_Angeles
+89415,38.50993,-118.77958,Hawthorne,NV,Nevada,True,,3101.0,3.2,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles
+89418,40.5669,-118.03851,Imlay,NV,Nevada,True,,244.0,0.4,32027,Pershing,"{""32027"": 100}",Pershing,32027,False,False,America/Los_Angeles
+89419,40.34309,-118.29831,Lovelock,NV,Nevada,True,,5380.0,5.0,32027,Pershing,"{""32027"": 100}",Pershing,32027,False,False,America/Los_Angeles
+89420,38.50802,-118.18051,Luning,NV,Nevada,True,,77.0,9.9,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles
+89421,42.04485,-117.94724,McDermitt,NV,Nevada,True,,423.0,0.2,41045,Malheur,"{""41045"": 61.22, ""32013"": 38.78}",Malheur|Humboldt,41045|32013,False,False,America/Los_Angeles
+89422,38.42008,-118.17911,Mina,NV,Nevada,True,,177.0,0.3,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles
+89423,39.01561,-119.74636,Minden,NV,Nevada,True,,10636.0,54.9,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89424,40.10964,-119.49396,Nixon,NV,Nevada,True,,241.0,0.2,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89425,41.65695,-117.88461,Orovada,NV,Nevada,True,,529.0,0.3,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles
+89426,41.45402,-117.59307,Paradise Valley,NV,Nevada,True,,268.0,0.6,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles
+89427,38.94556,-118.70553,Schurz,NV,Nevada,True,,1115.0,1.4,32021,Mineral,"{""32021"": 100}",Mineral,32021,False,False,America/Los_Angeles
+89428,39.25691,-119.63099,Silver City,NV,Nevada,True,,115.0,28.9,32019,Lyon,"{""32019"": 100}",Lyon,32019,False,False,America/Los_Angeles
+89429,39.36221,-119.29063,Silver Springs,NV,Nevada,True,,7720.0,12.6,32019,Lyon,"{""32019"": 100}",Lyon,32019,False,False,America/Los_Angeles
+89430,38.79567,-119.31785,Smith,NV,Nevada,True,,118.0,1.4,32019,Lyon,"{""32019"": 100}",Lyon,32019,False,False,America/Los_Angeles
+89431,39.53865,-119.75005,Sparks,NV,Nevada,True,,39415.0,1649.6,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89433,39.59758,-119.77817,Sun Valley,NV,Nevada,True,,21771.0,754.4,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89434,39.54019,-119.53318,Sparks,NV,Nevada,True,,26564.0,81.8,32029,Storey,"{""32029"": 69.16, ""32031"": 30.84}",Storey|Washoe,32029|32031,False,False,America/Los_Angeles
+89436,39.61086,-119.69854,Sparks,NV,Nevada,True,,44454.0,403.9,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89437,39.50101,-119.46864,Sparks,NV,Nevada,True,,,,32029,Storey,"{""32029"": 100}",Storey,32029,False,False,America/Los_Angeles
+89438,40.79671,-117.12004,Valmy,NV,Nevada,True,,85.0,13.3,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles
+89439,39.52291,-119.99008,Verdi,NV,Nevada,True,,1244.0,29.5,32031,Washoe,"{""32031"": 74.22, ""06091"": 25.78}",Washoe|Sierra,32031|06091,False,False,America/Los_Angeles
+89440,39.29597,-119.66212,Virginia City,NV,Nevada,True,,747.0,23.1,32029,Storey,"{""32029"": 100}",Storey,32029,False,False,America/Los_Angeles
+89441,39.68131,-119.68755,Sparks,NV,Nevada,True,,12479.0,97.0,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89442,39.69511,-119.35082,Wadsworth,NV,Nevada,True,,1048.0,1.9,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89444,38.72695,-119.35101,Wellington,NV,Nevada,True,,3219.0,5.9,32019,Lyon,"{""32019"": 79.08, ""32005"": 20.92}",Lyon|Douglas,32019|32005,False,False,America/Los_Angeles
+89445,41.06767,-118.02515,Winnemucca,NV,Nevada,True,,16424.0,2.3,32013,Humboldt,"{""32013"": 73.99, ""32027"": 26.01}",Humboldt|Pershing,32013|32027,False,False,America/Los_Angeles
+89446,40.87879,-117.9532,Winnemucca,NV,Nevada,True,,,,32013,Humboldt,"{""32013"": 100}",Humboldt,32013,False,False,America/Los_Angeles
+89447,38.83148,-119.11712,Yerington,NV,Nevada,True,,8261.0,3.7,32019,Lyon,"{""32019"": 100}",Lyon,32019,False,False,America/Los_Angeles
+89448,39.00789,-119.92412,Zephyr Cove,NV,Nevada,True,,1776.0,55.8,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89449,38.96433,-119.90688,Stateline,NV,Nevada,True,,2973.0,114.4,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89450,39.24135,-119.93832,Incline Village,NV,Nevada,True,,18.0,672.7,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89451,39.26775,-119.94534,Incline Village,NV,Nevada,True,,9304.0,85.1,32031,Washoe,"{""32031"": 99.19, ""06061"": 0.65, ""06057"": 0.16}",Washoe|Placer|Nevada,32031|06061|06057,False,False,America/Los_Angeles
+89460,38.90136,-119.79085,Gardnerville,NV,Nevada,True,,13727.0,96.0,32005,Douglas,"{""32005"": 100}",Douglas,32005,False,False,America/Los_Angeles
+89496,39.19949,-118.57103,Fallon,NV,Nevada,True,,,,32001,Churchill,"{""32001"": 100}",Churchill,32001,False,False,America/Los_Angeles
+89501,39.52602,-119.81262,Reno,NV,Nevada,True,,4435.0,2930.3,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89502,39.49383,-119.74701,Reno,NV,Nevada,True,,44881.0,807.5,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89503,39.54112,-119.83991,Reno,NV,Nevada,True,,29993.0,1875.4,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89506,39.70084,-119.82646,Reno,NV,Nevada,True,,42742.0,181.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89508,39.78504,-119.92728,Reno,NV,Nevada,True,,14198.0,36.5,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89509,39.49637,-119.8273,Reno,NV,Nevada,True,,35558.0,1556.0,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89510,39.93619,-119.73734,Reno,NV,Nevada,True,,1671.0,1.1,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89511,39.40747,-119.88822,Reno,NV,Nevada,True,,27874.0,81.8,32031,Washoe,"{""32031"": 99.65, ""06057"": 0.35}",Washoe|Nevada,32031|06057,False,False,America/Los_Angeles
+89512,39.55322,-119.80074,Reno,NV,Nevada,True,,26690.0,1661.0,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89519,39.48518,-119.86003,Reno,NV,Nevada,True,,8602.0,511.2,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89521,39.37215,-119.67611,Reno,NV,Nevada,True,,34101.0,141.6,32031,Washoe,"{""32031"": 57.17, ""32029"": 42.83}",Washoe|Storey,32031|32029,False,False,America/Los_Angeles
+89523,39.52387,-119.91309,Reno,NV,Nevada,True,,35065.0,716.9,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89557,39.54247,-119.81584,Reno,NV,Nevada,True,,,,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89701,39.13944,-119.72087,Carson City,NV,Nevada,True,,27328.0,303.0,32510,Carson City,"{""32510"": 100}",Carson City,32510,False,False,America/Los_Angeles
+89703,39.15359,-119.8486,Carson City,NV,Nevada,True,,10062.0,87.8,32510,Carson City,"{""32510"": 98.34, ""32031"": 1.66}",Carson City|Washoe,32510|32031,False,False,America/Los_Angeles
+89704,39.26789,-119.81712,Washoe Valley,NV,Nevada,True,,4411.0,22.3,32031,Washoe,"{""32031"": 100}",Washoe,32031,False,False,America/Los_Angeles
+89705,39.09003,-119.83689,Carson City,NV,Nevada,True,,5315.0,88.4,32005,Douglas,"{""32005"": 95.93, ""32510"": 4.07}",Douglas|Carson City,32005|32510,False,False,America/Los_Angeles
+89706,39.22002,-119.69974,Carson City,NV,Nevada,True,,19447.0,217.6,32510,Carson City,"{""32510"": 52.62, ""32019"": 47.38}",Carson City|Lyon,32510|32019,False,False,America/Los_Angeles
+89801,41.18096,-115.76076,Elko,NV,Nevada,True,,26473.0,8.4,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89815,40.56652,-115.59504,Spring Creek,NV,Nevada,True,,15292.0,8.4,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89820,40.43192,-116.97134,Battle Mountain,NV,Nevada,True,,5403.0,1.0,32015,Lander,"{""32015"": 97.95, ""32011"": 2.05}",Lander|Eureka,32015|32011,False,False,America/Los_Angeles
+89821,40.55585,-116.41218,Crescent Valley,NV,Nevada,True,,483.0,0.4,32011,Eureka,"{""32011"": 100}",Eureka,32011,False,False,America/Los_Angeles
+89822,40.49237,-116.189,Carlin,NV,Nevada,True,,2013.0,3.2,32011,Eureka,"{""32011"": 93.15, ""32007"": 6.85}",Eureka|Elko,32011|32007,False,False,America/Los_Angeles
+89823,40.96431,-115.22821,Deeth,NV,Nevada,True,,363.0,0.6,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89825,41.90422,-114.71103,Jackpot,NV,Nevada,True,,1101.0,6.7,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89826,41.93262,-115.41386,Jarbidge,NV,Nevada,True,,0.0,0.0,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89828,40.77384,-115.36403,Lamoille,NV,Nevada,True,,175.0,0.4,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89830,41.32794,-114.22677,Montello,NV,Nevada,True,,99.0,0.2,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89831,41.75992,-116.03935,Mountain City,NV,Nevada,True,,11.0,0.0,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89832,41.98001,-116.19537,Owyhee,NV,Nevada,True,,1079.0,2.4,32007,Elko,"{""32007"": 66.92, ""16073"": 33.08}",Elko|Owyhee,32007|16073,False,False,America/Los_Angeles
+89833,40.4692,-115.34201,Ruby Valley,NV,Nevada,True,,143.0,0.1,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89834,41.42358,-116.24843,Tuscarora,NV,Nevada,True,,166.0,0.1,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89835,41.2848,-114.87765,Wells,NV,Nevada,True,,1544.0,0.3,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles
+89883,40.84711,-114.18217,West Wendover,NV,Nevada,True,,4373.0,5.8,32007,Elko,"{""32007"": 100}",Elko,32007,False,False,America/Los_Angeles

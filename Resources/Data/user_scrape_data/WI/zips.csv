@@ -1,0 +1,784 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+53001,43.60562,-88.05217,Adell,WI,Wisconsin,True,,1806.0,24.4,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53002,43.46896,-88.35454,Allenton,WI,Wisconsin,True,,2181.0,24.5,55131,Washington,"{""55131"": 97.91, ""55027"": 2.09}",Washington|Dodge,55131|55027,False,False,America/Chicago
+53003,43.21226,-88.51957,Ashippun,WI,Wisconsin,True,,138.0,322.2,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53004,43.4995,-87.8805,Belgium,WI,Wisconsin,True,,3428.0,39.4,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53005,43.0625,-88.0992,Brookfield,WI,Wisconsin,True,,20514.0,539.2,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53006,43.62103,-88.53534,Brownsville,WI,Wisconsin,True,,1735.0,16.7,55027,Dodge,"{""55027"": 73.95, ""55039"": 26.05}",Dodge|Fond du Lac,55027|55039,False,False,America/Chicago
+53007,43.10825,-88.07116,Butler,WI,Wisconsin,True,,1964.0,985.7,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53010,43.61121,-88.27901,Campbellsport,WI,Wisconsin,True,,8099.0,29.9,55039,Fond du Lac,"{""55039"": 95.02, ""55131"": 4.77, ""55027"": 0.21}",Fond du Lac|Washington|Dodge,55039|55131|55027,False,False,America/Chicago
+53011,43.65755,-88.08123,Cascade,WI,Wisconsin,True,,2051.0,20.7,55117,Sheboygan,"{""55117"": 98.66, ""55039"": 1.34}",Sheboygan|Fond du Lac,55117|55039,False,False,America/Chicago
+53012,43.31369,-88.03704,Cedarburg,WI,Wisconsin,True,,18532.0,211.3,55089,Ozaukee,"{""55089"": 68.64, ""55131"": 31.36}",Ozaukee|Washington,55089|55131,False,False,America/Chicago
+53013,43.56585,-87.85172,Cedar Grove,WI,Wisconsin,True,,3428.0,44.5,55117,Sheboygan,"{""55117"": 81.4, ""55089"": 18.6}",Sheboygan|Ozaukee,55117|55089,False,False,America/Chicago
+53014,44.02298,-88.17549,Chilton,WI,Wisconsin,True,,7512.0,22.2,55015,Calumet,"{""55015"": 87.72, ""55071"": 11.22, ""55039"": 1.06}",Calumet|Manitowoc|Fond du Lac,55015|55071|55039,False,False,America/Chicago
+53015,43.90534,-87.79296,Cleveland,WI,Wisconsin,True,,2916.0,27.6,55071,Manitowoc,"{""55071"": 64.79, ""55117"": 35.21}",Manitowoc|Sheboygan,55071|55117,False,False,America/Chicago
+53016,43.31104,-88.71794,Clyman,WI,Wisconsin,True,,346.0,217.5,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53017,43.2044,-88.2526,Colgate,WI,Wisconsin,True,,5494.0,123.0,55131,Washington,"{""55131"": 87.55, ""55133"": 12.45}",Washington|Waukesha,55131|55133,False,False,America/Chicago
+53018,43.04809,-88.39278,Delafield,WI,Wisconsin,True,,8031.0,276.4,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53019,43.69667,-88.30752,Eden,WI,Wisconsin,True,,1763.0,19.2,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+53020,43.86231,-88.01364,Elkhart Lake,WI,Wisconsin,True,,3845.0,23.7,55117,Sheboygan,"{""55117"": 95.28, ""55071"": 2.98, ""55015"": 1.74}",Sheboygan|Manitowoc|Calumet,55117|55071|55015,False,False,America/Chicago
+53021,43.49425,-88.00111,Fredonia,WI,Wisconsin,True,,4619.0,53.4,55089,Ozaukee,"{""55089"": 80.86, ""55131"": 18.3, ""55117"": 0.84}",Ozaukee|Washington|Sheboygan,55089|55131|55117,False,False,America/Chicago
+53022,43.23062,-88.11286,Germantown,WI,Wisconsin,True,,19665.0,274.0,55131,Washington,"{""55131"": 100}",Washington,55131,False,False,America/Chicago
+53023,43.78198,-88.10745,Glenbeulah,WI,Wisconsin,True,,2435.0,24.1,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53024,43.33233,-87.93299,Grafton,WI,Wisconsin,True,,17977.0,252.2,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53027,43.31697,-88.37356,Hartford,WI,Wisconsin,True,,23361.0,99.1,55131,Washington,"{""55131"": 82.84, ""55027"": 17.16}",Washington|Dodge,55131|55027,False,False,America/Chicago
+53029,43.14381,-88.34624,Hartland,WI,Wisconsin,True,,21484.0,220.6,55133,Waukesha,"{""55133"": 97.1, ""55131"": 2.9}",Waukesha|Washington,55133|55131,False,False,America/Chicago
+53031,43.64036,-87.91778,Hingham,WI,Wisconsin,True,,0.0,0.0,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53032,43.44708,-88.6234,Horicon,WI,Wisconsin,True,,4860.0,63.5,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53033,43.23716,-88.25634,Hubertus,WI,Wisconsin,True,,4924.0,119.0,55131,Washington,"{""55131"": 100}",Washington,55131,False,False,America/Chicago
+53034,43.34014,-88.60746,Hustisford,WI,Wisconsin,True,,1629.0,81.5,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53035,43.39135,-88.54355,Iron Ridge,WI,Wisconsin,True,,2206.0,25.0,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53036,43.17141,-88.57693,Ixonia,WI,Wisconsin,True,,3009.0,40.6,55055,Jefferson,"{""55055"": 70.41, ""55027"": 24.76, ""55133"": 4.83}",Jefferson|Dodge|Waukesha,55055|55027|55133,False,False,America/Chicago
+53037,43.31255,-88.16108,Jackson,WI,Wisconsin,True,,9823.0,164.2,55131,Washington,"{""55131"": 100}",Washington,55131,False,False,America/Chicago
+53038,43.08592,-88.79031,Johnson Creek,WI,Wisconsin,True,,4402.0,55.0,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53039,43.36931,-88.71148,Juneau,WI,Wisconsin,True,,4637.0,25.0,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53040,43.52126,-88.19198,Kewaskum,WI,Wisconsin,True,,8252.0,50.6,55131,Washington,"{""55131"": 76.7, ""55117"": 12.62, ""55039"": 10.68}",Washington|Sheboygan|Fond du Lac,55131|55117|55039,False,False,America/Chicago
+53042,43.95144,-87.98216,Kiel,WI,Wisconsin,True,,6432.0,40.1,55071,Manitowoc,"{""55071"": 91.06, ""55015"": 8.94}",Manitowoc|Calumet,55071|55015,False,False,America/Chicago
+53044,43.73793,-87.78327,Kohler,WI,Wisconsin,True,,2115.0,145.3,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53045,43.061,-88.15145,Brookfield,WI,Wisconsin,True,,21464.0,574.9,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53046,43.15215,-88.16045,Lannon,WI,Wisconsin,True,,1184.0,184.9,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53047,43.25904,-88.63002,Lebanon,WI,Wisconsin,True,,45.0,43.4,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53048,43.57935,-88.45554,Lomira,WI,Wisconsin,True,,3119.0,44.8,55027,Dodge,"{""55027"": 96.4, ""55039"": 3.6}",Dodge|Fond du Lac,55027|55039,False,False,America/Chicago
+53049,43.8853,-88.28917,Malone,WI,Wisconsin,True,,2704.0,27.3,55039,Fond du Lac,"{""55039"": 95.57, ""55015"": 4.43}",Fond du Lac|Calumet,55039|55015,False,False,America/Chicago
+53050,43.50992,-88.54734,Mayville,WI,Wisconsin,True,,6820.0,37.3,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53051,43.14905,-88.12348,Menomonee Falls,WI,Wisconsin,True,,37668.0,436.9,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53057,43.79099,-88.24671,Mount Calvary,WI,Wisconsin,True,,1712.0,20.9,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+53058,43.11003,-88.40624,Nashotah,WI,Wisconsin,True,,3348.0,232.8,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53059,43.28954,-88.53012,Neosho,WI,Wisconsin,True,,1975.0,23.7,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53061,43.94588,-88.11803,New Holstein,WI,Wisconsin,True,,4882.0,44.2,55015,Calumet,"{""55015"": 82.03, ""55039"": 17.02, ""55071"": 0.95}",Calumet|Fond du Lac|Manitowoc,55015|55039|55071,False,False,America/Chicago
+53063,43.96297,-87.80232,Newton,WI,Wisconsin,True,,1553.0,15.2,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+53065,43.68227,-88.56866,Oakfield,WI,Wisconsin,True,,2333.0,21.0,55039,Fond du Lac,"{""55039"": 96.3, ""55027"": 3.7}",Fond du Lac|Dodge,55039|55027,False,False,America/Chicago
+53066,43.11451,-88.49068,Oconomowoc,WI,Wisconsin,True,,35414.0,132.5,55133,Waukesha,"{""55133"": 71.13, ""55055"": 15.9, ""55027"": 12.76, ""55131"": 0.21}",Waukesha|Jefferson|Dodge|Washington,55133|55055|55027|55131,False,False,America/Chicago
+53069,43.1131,-88.43094,Okauchee,WI,Wisconsin,True,,762.0,758.0,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53070,43.62429,-87.80872,Oostburg,WI,Wisconsin,True,,5005.0,65.5,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53072,43.07989,-88.26638,Pewaukee,WI,Wisconsin,True,,25850.0,334.7,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53073,43.75011,-87.99191,Plymouth,WI,Wisconsin,True,,14913.0,68.1,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53074,43.42716,-87.88265,Port Washington,WI,Wisconsin,True,,12788.0,163.2,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53075,43.56318,-87.99559,Random Lake,WI,Wisconsin,True,,3106.0,32.8,55117,Sheboygan,"{""55117"": 86.65, ""55089"": 10.11, ""55131"": 3.24}",Sheboygan|Ozaukee|Washington,55117|55089|55131,False,False,America/Chicago
+53076,43.26966,-88.20905,Richfield,WI,Wisconsin,True,,3854.0,66.4,55131,Washington,"{""55131"": 100}",Washington,55131,False,False,America/Chicago
+53078,43.31386,-88.45924,Rubicon,WI,Wisconsin,True,,1608.0,18.5,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53079,43.81132,-88.1888,Saint Cloud,WI,Wisconsin,True,,1421.0,14.9,55039,Fond du Lac,"{""55039"": 96.39, ""55117"": 3.61}",Fond du Lac|Sheboygan,55039|55117,False,False,America/Chicago
+53080,43.40733,-87.98789,Saukville,WI,Wisconsin,True,,5388.0,72.8,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53081,43.71343,-87.73725,Sheboygan,WI,Wisconsin,True,,41666.0,690.0,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53083,43.81511,-87.77108,Sheboygan,WI,Wisconsin,True,,20969.0,249.1,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53085,43.73562,-87.85137,Sheboygan Falls,WI,Wisconsin,True,,11644.0,64.5,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53086,43.32508,-88.27124,Slinger,WI,Wisconsin,True,,8246.0,148.0,55131,Washington,"{""55131"": 100}",Washington,55131,False,False,America/Chicago
+53088,44.07178,-88.29966,Stockbridge,WI,Wisconsin,True,,363.0,912.9,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago
+53089,43.14646,-88.23594,Sussex,WI,Wisconsin,True,,19223.0,276.3,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53090,43.45685,-88.17985,West Bend,WI,Wisconsin,True,,22118.0,147.6,55131,Washington,"{""55131"": 96.9, ""55089"": 3.1}",Washington|Ozaukee,55131|55089,False,False,America/Chicago
+53091,43.49667,-88.43674,Theresa,WI,Wisconsin,True,,1949.0,29.3,55027,Dodge,"{""55027"": 96.44, ""55131"": 3.56}",Dodge|Washington,55027|55131,False,False,America/Chicago
+53092,43.22139,-87.95351,Mequon,WI,Wisconsin,True,,20625.0,392.2,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53093,43.65348,-87.93894,Waldo,WI,Wisconsin,True,,2026.0,36.5,55117,Sheboygan,"{""55117"": 100}",Sheboygan,55117,False,False,America/Chicago
+53094,43.1462,-88.73365,Watertown,WI,Wisconsin,True,,19175.0,83.3,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53095,43.38838,-88.15895,West Bend,WI,Wisconsin,True,,27596.0,151.2,55131,Washington,"{""55131"": 94.06, ""55089"": 5.94}",Washington|Ozaukee,55131|55089,False,False,America/Chicago
+53097,43.24574,-88.0069,Mequon,WI,Wisconsin,True,,6881.0,98.3,55089,Ozaukee,"{""55089"": 100}",Ozaukee,55089,False,False,America/Chicago
+53098,43.24955,-88.71461,Watertown,WI,Wisconsin,True,,11748.0,44.6,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53099,43.38035,-88.52525,Woodland,WI,Wisconsin,True,,,,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53103,42.88175,-88.21542,Big Bend,WI,Wisconsin,True,,3669.0,116.2,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53104,42.55731,-88.03416,Bristol,WI,Wisconsin,True,,5610.0,62.8,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53105,42.66412,-88.28045,Burlington,WI,Wisconsin,True,,29302.0,70.9,55101,Racine,"{""55101"": 41.47, ""55127"": 36.98, ""55059"": 21.55}",Racine|Walworth|Kenosha,55101|55127|55059,False,False,America/Chicago
+53108,42.82043,-87.94696,Caledonia,WI,Wisconsin,True,,3329.0,66.2,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53110,42.94671,-87.86403,Cudahy,WI,Wisconsin,True,,18211.0,1475.6,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53114,42.60721,-88.75089,Darien,WI,Wisconsin,True,,2560.0,33.0,55127,Walworth,"{""55127"": 75.35, ""55105"": 24.65}",Walworth|Rock,55127|55105,False,False,America/Chicago
+53115,42.65443,-88.6713,Delavan,WI,Wisconsin,True,,15722.0,84.4,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53118,42.9725,-88.48859,Dousman,WI,Wisconsin,True,,6860.0,67.4,55133,Waukesha,"{""55133"": 87.37, ""55055"": 12.63}",Waukesha|Jefferson,55133|55055,False,False,America/Chicago
+53119,42.88356,-88.4862,Eagle,WI,Wisconsin,True,,6055.0,58.4,55133,Waukesha,"{""55133"": 89.06, ""55127"": 8.82, ""55055"": 2.12}",Waukesha|Walworth|Jefferson,55133|55127|55055,False,False,America/Chicago
+53120,42.80066,-88.41783,East Troy,WI,Wisconsin,True,,10476.0,71.5,55127,Walworth,"{""55127"": 91.35, ""55101"": 8.65}",Walworth|Racine,55127|55101,False,False,America/Chicago
+53121,42.70989,-88.53028,Elkhorn,WI,Wisconsin,True,,18993.0,64.1,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53122,43.04811,-88.08674,Elm Grove,WI,Wisconsin,True,,6156.0,727.4,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53125,42.54532,-88.56216,Fontana,WI,Wisconsin,True,,1700.0,106.6,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53126,42.78848,-87.9966,Franksville,WI,Wisconsin,True,,7265.0,53.4,55101,Racine,"{""55101"": 99.7, ""55079"": 0.3}",Racine|Milwaukee,55101|55079,False,False,America/Chicago
+53127,42.95991,-88.3777,Genesee Depot,WI,Wisconsin,True,,,,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53128,42.52979,-88.33857,Genoa City,WI,Wisconsin,True,,9161.0,139.7,55127,Walworth,"{""55127"": 84.13, ""55059"": 15.87}",Walworth|Kenosha,55127|55059,False,False,America/Chicago
+53129,42.93795,-88.00003,Greendale,WI,Wisconsin,True,,14005.0,1050.0,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53130,42.94092,-88.04909,Hales Corners,WI,Wisconsin,True,,7789.0,942.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53132,42.88589,-88.01063,Franklin,WI,Wisconsin,True,,35619.0,396.2,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53137,43.00472,-88.66975,Helenville,WI,Wisconsin,True,,1614.0,18.8,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53139,42.68795,-88.12,Kansasville,WI,Wisconsin,True,,2330.0,28.3,55101,Racine,"{""55101"": 65.62, ""55059"": 34.38}",Racine|Kenosha,55101|55059,False,False,America/Chicago
+53140,42.61963,-87.82987,Kenosha,WI,Wisconsin,True,,30425.0,1488.1,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53142,42.54464,-87.93765,Kenosha,WI,Wisconsin,True,,33967.0,634.0,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53143,42.56109,-87.83038,Kenosha,WI,Wisconsin,True,,21675.0,2019.8,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53144,42.61991,-87.92291,Kenosha,WI,Wisconsin,True,,26843.0,238.9,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53146,42.9718,-88.15885,New Berlin,WI,Wisconsin,True,,7509.0,158.4,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53147,42.57075,-88.45024,Lake Geneva,WI,Wisconsin,True,,17092.0,94.6,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53149,42.87436,-88.34077,Mukwonago,WI,Wisconsin,True,,19849.0,132.4,55133,Waukesha,"{""55133"": 83.99, ""55127"": 9.3, ""55101"": 6.71}",Waukesha|Walworth|Racine,55133|55127|55101,False,False,America/Chicago
+53150,42.8845,-88.12824,Muskego,WI,Wisconsin,True,,25913.0,292.2,55133,Waukesha,"{""55133"": 95.32, ""55101"": 4.68}",Waukesha|Racine,55133|55101,False,False,America/Chicago
+53151,42.97467,-88.09845,New Berlin,WI,Wisconsin,True,,32154.0,708.5,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53153,42.94056,-88.40237,North Prairie,WI,Wisconsin,True,,2624.0,212.3,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53154,42.8803,-87.90092,Oak Creek,WI,Wisconsin,True,,36321.0,492.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53156,42.89069,-88.59012,Palmyra,WI,Wisconsin,True,,3364.0,42.2,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53157,42.5377,-88.36855,Pell Lake,WI,Wisconsin,True,,,,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53158,42.52418,-87.88869,Pleasant Prairie,WI,Wisconsin,True,,17085.0,218.0,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53167,42.73526,-88.22552,Rochester,WI,Wisconsin,True,,552.0,482.6,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53168,42.57858,-88.12999,Salem,WI,Wisconsin,True,,9512.0,112.9,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53170,42.5519,-88.16149,Silver Lake,WI,Wisconsin,True,,2389.0,907.8,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53172,42.91197,-87.86266,South Milwaukee,WI,Wisconsin,True,,20857.0,1667.8,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53176,42.64307,-88.41444,Springfield,WI,Wisconsin,True,,,,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53177,42.70047,-87.93474,Sturtevant,WI,Wisconsin,True,,7970.0,111.3,55101,Racine,"{""55101"": 86.95, ""55059"": 13.05}",Racine|Kenosha,55101|55059,False,False,America/Chicago
+53178,43.02335,-88.59894,Sullivan,WI,Wisconsin,True,,2552.0,30.9,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53179,42.5133,-88.13159,Trevor,WI,Wisconsin,True,,7036.0,258.1,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53181,42.51711,-88.24305,Twin Lakes,WI,Wisconsin,True,,7338.0,206.6,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53182,42.69815,-88.04096,Union Grove,WI,Wisconsin,True,,9873.0,69.0,55101,Racine,"{""55101"": 67.35, ""55059"": 32.65}",Racine|Kenosha,55101|55059,False,False,America/Chicago
+53183,43.00441,-88.3739,Wales,WI,Wisconsin,True,,2779.0,303.0,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53184,42.53075,-88.60945,Walworth,WI,Wisconsin,True,,4115.0,51.3,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53185,42.79519,-88.19313,Waterford,WI,Wisconsin,True,,18706.0,158.0,55101,Racine,"{""55101"": 99.19, ""55133"": 0.81}",Racine|Waukesha,55101|55133,False,False,America/Chicago
+53186,43.02305,-88.20319,Waukesha,WI,Wisconsin,True,,34092.0,1045.5,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53188,43.02106,-88.29265,Waukesha,WI,Wisconsin,True,,35045.0,504.6,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53189,42.95216,-88.28068,Waukesha,WI,Wisconsin,True,,27399.0,221.2,55133,Waukesha,"{""55133"": 100}",Waukesha,55133,False,False,America/Chicago
+53190,42.80775,-88.73129,Whitewater,WI,Wisconsin,True,,19484.0,57.5,55127,Walworth,"{""55127"": 49.54, ""55105"": 26.94, ""55055"": 23.52}",Walworth|Rock|Jefferson,55127|55105|55055,False,False,America/Chicago
+53191,42.5776,-88.54574,Williams Bay,WI,Wisconsin,True,,2927.0,285.6,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53192,42.51172,-88.18412,Wilmot,WI,Wisconsin,True,,11.0,3.2,55059,Kenosha,"{""55059"": 100}",Kenosha,55059,False,False,America/Chicago
+53195,42.51397,-88.49016,Zenda,WI,Wisconsin,True,,138.0,162.3,55127,Walworth,"{""55127"": 100}",Walworth,55127,False,False,America/Chicago
+53202,43.04561,-87.89893,Milwaukee,WI,Wisconsin,True,,24967.0,4539.1,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53203,43.03828,-87.91603,Milwaukee,WI,Wisconsin,True,,1743.0,1514.3,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53204,43.01806,-87.92552,Milwaukee,WI,Wisconsin,True,,38778.0,4641.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53205,43.05359,-87.93363,Milwaukee,WI,Wisconsin,True,,9119.0,2436.3,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53206,43.07524,-87.93349,Milwaukee,WI,Wisconsin,True,,23612.0,3437.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53207,42.97148,-87.90152,Milwaukee,WI,Wisconsin,True,,37103.0,1439.4,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53208,43.04556,-87.96556,Milwaukee,WI,Wisconsin,True,,29205.0,2669.0,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53209,43.12871,-87.94717,Milwaukee,WI,Wisconsin,True,,48321.0,1713.2,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53210,43.06889,-87.97381,Milwaukee,WI,Wisconsin,True,,25800.0,3897.1,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53211,43.08308,-87.88485,Milwaukee,WI,Wisconsin,True,,34389.0,3348.7,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53212,43.07464,-87.90845,Milwaukee,WI,Wisconsin,True,,30115.0,2855.5,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53213,43.04889,-88.00176,Milwaukee,WI,Wisconsin,True,,27755.0,2736.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53214,43.02061,-88.01634,Milwaukee,WI,Wisconsin,True,,35210.0,1903.7,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53215,42.99931,-87.94625,Milwaukee,WI,Wisconsin,True,,61028.0,4271.7,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53216,43.08634,-87.97636,Milwaukee,WI,Wisconsin,True,,31476.0,2636.1,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53217,43.15767,-87.91633,Milwaukee,WI,Wisconsin,True,,28398.0,778.4,55079,Milwaukee,"{""55079"": 99.36, ""55089"": 0.64}",Milwaukee|Ozaukee,55079|55089,False,False,America/Chicago
+53218,43.11469,-87.99301,Milwaukee,WI,Wisconsin,True,,42728.0,2812.8,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53219,42.99537,-87.99171,Milwaukee,WI,Wisconsin,True,,34315.0,2626.5,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53220,42.96515,-87.99142,Milwaukee,WI,Wisconsin,True,,27224.0,1892.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53221,42.95445,-87.94374,Milwaukee,WI,Wisconsin,True,,39602.0,1697.2,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53222,43.08205,-88.03496,Milwaukee,WI,Wisconsin,True,,26340.0,1883.2,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53223,43.16304,-87.98996,Milwaukee,WI,Wisconsin,True,,28640.0,1122.0,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53224,43.16357,-88.03894,Milwaukee,WI,Wisconsin,True,,22320.0,850.0,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53225,43.11443,-88.042,Milwaukee,WI,Wisconsin,True,,26036.0,1439.4,55079,Milwaukee,"{""55079"": 98.51, ""55133"": 1.49}",Milwaukee|Waukesha,55079|55133,False,False,America/Chicago
+53226,43.04975,-88.04209,Milwaukee,WI,Wisconsin,True,,18985.0,1070.9,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53227,42.99562,-88.04264,Milwaukee,WI,Wisconsin,True,,23975.0,1808.9,55079,Milwaukee,"{""55079"": 99.59, ""55133"": 0.41}",Milwaukee|Waukesha,55079|55133,False,False,America/Chicago
+53228,42.96678,-88.04333,Milwaukee,WI,Wisconsin,True,,14718.0,1082.7,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53233,43.03694,-87.93364,Milwaukee,WI,Wisconsin,True,,14850.0,3271.3,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53235,42.97161,-87.87298,Saint Francis,WI,Wisconsin,True,,9555.0,1435.4,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53295,43.02222,-87.97665,Milwaukee,WI,Wisconsin,True,,169.0,273.2,55079,Milwaukee,"{""55079"": 100}",Milwaukee,55079,False,False,America/Chicago
+53402,42.7989,-87.82385,Racine,WI,Wisconsin,True,,33780.0,651.0,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53403,42.68738,-87.82587,Racine,WI,Wisconsin,True,,26486.0,1007.2,55101,Racine,"{""55101"": 90.77, ""55059"": 9.23}",Racine|Kenosha,55101|55059,False,False,America/Chicago
+53404,42.7572,-87.81246,Racine,WI,Wisconsin,True,,13935.0,1097.6,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53405,42.72712,-87.82588,Racine,WI,Wisconsin,True,,26450.0,1544.5,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53406,42.73014,-87.86549,Racine,WI,Wisconsin,True,,25624.0,604.0,55101,Racine,"{""55101"": 100}",Racine,55101,False,False,America/Chicago
+53501,42.60484,-89.07165,Afton,WI,Wisconsin,True,,0.0,0.0,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53502,42.73219,-89.44071,Albany,WI,Wisconsin,True,,2375.0,17.7,55045,Green,"{""55045"": 98.47, ""55105"": 1.53}",Green|Rock,55045|55105,False,False,America/Chicago
+53503,43.13935,-89.95623,Arena,WI,Wisconsin,True,,1909.0,13.1,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53504,42.70388,-89.85801,Argyle,WI,Wisconsin,True,,2182.0,9.2,55065,Lafayette,"{""55065"": 55.66, ""55045"": 44.34}",Lafayette|Green,55065|55045,False,False,America/Chicago
+53505,42.66063,-88.8176,Avalon,WI,Wisconsin,True,,363.0,6.3,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53506,43.15017,-90.28422,Avoca,WI,Wisconsin,True,,1017.0,6.4,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53507,43.00153,-89.90173,Barneveld,WI,Wisconsin,True,,2214.0,13.7,55049,Iowa,"{""55049"": 99.36, ""55025"": 0.64}",Iowa|Dane,55049|55025,False,False,America/Chicago
+53508,42.86783,-89.5618,Belleville,WI,Wisconsin,True,,5826.0,33.1,55025,Dane,"{""55025"": 66.02, ""55045"": 33.98}",Dane|Green,55025|55045,False,False,America/Chicago
+53510,42.74065,-90.32147,Belmont,WI,Wisconsin,True,,1517.0,13.9,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53511,42.54627,-89.09792,Beloit,WI,Wisconsin,True,,48897.0,164.4,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53515,43.11708,-89.74915,Black Earth,WI,Wisconsin,True,,2180.0,21.5,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53516,42.80073,-89.8676,Blanchardville,WI,Wisconsin,True,,2349.0,10.5,55065,Lafayette,"{""55065"": 47.68, ""55045"": 35.51, ""55049"": 13.72, ""55025"": 3.09}",Lafayette|Green|Iowa|Dane,55065|55045|55049|55025,False,False,America/Chicago
+53517,43.03686,-89.82967,Blue Mounds,WI,Wisconsin,True,,1815.0,15.3,55025,Dane,"{""55025"": 60.86, ""55049"": 39.14}",Dane|Iowa,55025|55049,False,False,America/Chicago
+53518,43.2458,-90.59108,Blue River,WI,Wisconsin,True,,1431.0,6.6,55103,Richland,"{""55103"": 78.55, ""55043"": 17.43, ""55023"": 4.02}",Richland|Grant|Crawford,55103|55043|55023,False,False,America/Chicago
+53520,42.60133,-89.36123,Brodhead,WI,Wisconsin,True,,6670.0,21.5,55105,Rock,"{""55105"": 53.44, ""55045"": 46.56}",Rock|Green,55105|55045,False,False,America/Chicago
+53521,42.84217,-89.40814,Brooklyn,WI,Wisconsin,True,,3491.0,22.6,55045,Green,"{""55045"": 50.33, ""55025"": 41.18, ""55105"": 8.49}",Green|Dane|Rock,55045|55025|55105,False,False,America/Chicago
+53522,42.55674,-89.78983,Browntown,WI,Wisconsin,True,,971.0,9.6,55045,Green,"{""55045"": 94.95, ""55065"": 5.05}",Green|Lafayette,55045|55065,False,False,America/Chicago
+53523,42.98338,-89.03172,Cambridge,WI,Wisconsin,True,,5008.0,41.3,55025,Dane,"{""55025"": 64.28, ""55055"": 35.72}",Dane|Jefferson,55025|55055,False,False,America/Chicago
+53525,42.54579,-88.84907,Clinton,WI,Wisconsin,True,,4132.0,28.0,55105,Rock,"{""55105"": 94.6, ""55127"": 5.4}",Rock|Walworth,55105|55127,False,False,America/Chicago
+53526,42.97433,-90.34438,Cobb,WI,Wisconsin,True,,555.0,27.4,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53527,43.06346,-89.19141,Cottage Grove,WI,Wisconsin,True,,11112.0,119.9,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53528,43.11854,-89.63739,Cross Plains,WI,Wisconsin,True,,6376.0,55.7,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53529,43.24075,-89.52496,Dane,WI,Wisconsin,True,,2342.0,23.2,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53530,42.69356,-90.11163,Darlington,WI,Wisconsin,True,,4455.0,13.2,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53531,43.05696,-89.10114,Deerfield,WI,Wisconsin,True,,4465.0,41.9,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53532,43.24881,-89.32547,Deforest,WI,Wisconsin,True,,15997.0,114.0,55025,Dane,"{""55025"": 85.12, ""55021"": 14.88}",Dane|Columbia,55025|55021,False,False,America/Chicago
+53533,42.99285,-90.14915,Dodgeville,WI,Wisconsin,True,,7072.0,19.2,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53534,42.84763,-89.09032,Edgerton,WI,Wisconsin,True,,11764.0,53.3,55105,Rock,"{""55105"": 51.82, ""55025"": 43.37, ""55055"": 4.81}",Rock|Dane|Jefferson,55105|55025|55055,False,False,America/Chicago
+53536,42.76366,-89.26983,Evansville,WI,Wisconsin,True,,8813.0,38.3,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53537,42.67267,-89.21056,Footville,WI,Wisconsin,True,,998.0,442.1,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53538,42.91697,-88.87194,Fort Atkinson,WI,Wisconsin,True,,18657.0,74.2,55055,Jefferson,"{""55055"": 98.59, ""55105"": 1.41}",Jefferson|Rock,55055|55105,False,False,America/Chicago
+53540,43.22173,-90.29356,Gotham,WI,Wisconsin,True,,231.0,1180.2,55103,Richland,"{""55103"": 100}",Richland,55103,False,False,America/Chicago
+53541,42.56969,-90.02963,Gratiot,WI,Wisconsin,True,,916.0,5.6,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53543,43.0556,-90.36233,Highland,WI,Wisconsin,True,,1787.0,8.9,55049,Iowa,"{""55049"": 82.2, ""55043"": 17.8}",Iowa|Grant,55049|55043,False,False,America/Chicago
+53544,42.88199,-89.9153,Hollandale,WI,Wisconsin,True,,824.0,7.8,55049,Iowa,"{""55049"": 99.13, ""55025"": 0.87}",Iowa|Dane,55049|55025,False,False,America/Chicago
+53545,42.73113,-89.03613,Janesville,WI,Wisconsin,True,,22763.0,390.5,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53546,42.65126,-88.94854,Janesville,WI,Wisconsin,True,,30123.0,143.4,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53548,42.68907,-89.13095,Janesville,WI,Wisconsin,True,,20165.0,103.8,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53549,42.99056,-88.77675,Jefferson,WI,Wisconsin,True,,10193.0,55.3,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53550,42.5581,-89.49348,Juda,WI,Wisconsin,True,,1286.0,10.2,55045,Green,"{""55045"": 100}",Green,55045,False,False,America/Chicago
+53551,43.07831,-88.91508,Lake Mills,WI,Wisconsin,True,,9055.0,88.4,55055,Jefferson,"{""55055"": 100}",Jefferson,55055,False,False,America/Chicago
+53553,42.91235,-90.29693,Linden,WI,Wisconsin,True,,717.0,40.5,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53554,42.90205,-90.44919,Livingston,WI,Wisconsin,True,,1022.0,8.8,55043,Grant,"{""55043"": 67.36, ""55049"": 32.64}",Grant|Iowa,55043|55049,False,False,America/Chicago
+53555,43.32163,-89.55625,Lodi,WI,Wisconsin,True,,8625.0,44.0,55021,Columbia,"{""55021"": 79.32, ""55025"": 20.68}",Columbia|Dane,55021|55025,False,False,America/Chicago
+53556,43.24014,-90.24525,Lone Rock,WI,Wisconsin,True,,2325.0,18.5,55103,Richland,"{""55103"": 89.38, ""55111"": 10.62}",Richland|Sauk,55103|55111,False,False,America/Chicago
+53557,43.33996,-88.79449,Lowell,WI,Wisconsin,True,,394.0,33.2,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53558,43.00286,-89.28409,Mcfarland,WI,Wisconsin,True,,12609.0,280.6,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53559,43.16557,-89.08066,Marshall,WI,Wisconsin,True,,6478.0,37.7,55025,Dane,"{""55025"": 99.29, ""55055"": 0.71}",Dane|Jefferson,55025|55055,False,False,America/Chicago
+53560,43.19418,-89.75413,Mazomanie,WI,Wisconsin,True,,3569.0,22.9,55025,Dane,"{""55025"": 91.9, ""55049"": 8.1}",Dane|Iowa,55025|55049,False,False,America/Chicago
+53561,43.39594,-89.64414,Merrimac,WI,Wisconsin,True,,2077.0,22.0,55111,Sauk,"{""55111"": 71.34, ""55021"": 28.66}",Sauk|Columbia,55111|55021,False,False,America/Chicago
+53562,43.11592,-89.54188,Middleton,WI,Wisconsin,True,,26490.0,328.8,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53563,42.78276,-88.93127,Milton,WI,Wisconsin,True,,11282.0,65.0,55105,Rock,"{""55105"": 97.98, ""55055"": 2.02}",Rock|Jefferson,55105|55055,False,False,America/Chicago
+53565,42.84025,-90.16982,Mineral Point,WI,Wisconsin,True,,4685.0,9.7,55049,Iowa,"{""55049"": 70.82, ""55065"": 29.18}",Iowa|Lafayette,55049|55065,False,False,America/Chicago
+53566,42.60912,-89.64817,Monroe,WI,Wisconsin,True,,15015.0,37.9,55045,Green,"{""55045"": 100}",Green,55045,False,False,America/Chicago
+53569,42.98105,-90.42966,Montfort,WI,Wisconsin,True,,1216.0,10.8,55043,Grant,"{""55043"": 53.95, ""55049"": 46.05}",Grant|Iowa,55043|55049,False,False,America/Chicago
+53570,42.73857,-89.61966,Monticello,WI,Wisconsin,True,,2555.0,14.1,55045,Green,"{""55045"": 100}",Green,55045,False,False,America/Chicago
+53571,43.27793,-89.35358,Morrisonville,WI,Wisconsin,True,,48.0,43.2,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53572,42.96016,-89.73754,Mount Horeb,WI,Wisconsin,True,,11455.0,44.6,55025,Dane,"{""55025"": 99.34, ""55045"": 0.66}",Dane|Green,55025|55045,False,False,America/Chicago
+53573,43.18196,-90.46326,Muscoda,WI,Wisconsin,True,,3061.0,11.0,55043,Grant,"{""55043"": 41.94, ""55103"": 41.06, ""55049"": 17.0}",Grant|Richland|Iowa,55043|55103|55049,False,False,America/Chicago
+53574,42.81851,-89.65181,New Glarus,WI,Wisconsin,True,,3986.0,35.4,55045,Green,"{""55045"": 97.41, ""55025"": 2.59}",Green|Dane,55045|55025,False,False,America/Chicago
+53575,42.93148,-89.38627,Oregon,WI,Wisconsin,True,,17518.0,122.3,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53576,42.62543,-89.23949,Orfordville,WI,Wisconsin,True,,2379.0,29.5,55105,Rock,"{""55105"": 100}",Rock,55105,False,False,America/Chicago
+53577,43.31428,-90.07117,Plain,WI,Wisconsin,True,,1388.0,11.7,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53578,43.31356,-89.77408,Prairie Du Sac,WI,Wisconsin,True,,6406.0,57.4,55111,Sauk,"{""55111"": 80.04, ""55021"": 19.96}",Sauk|Columbia,55111|55021,False,False,America/Chicago
+53579,43.2894,-88.87545,Reeseville,WI,Wisconsin,True,,1693.0,16.4,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53580,42.85943,-90.38131,Rewey,WI,Wisconsin,True,,527.0,11.0,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53581,43.37504,-90.41637,Richland Center,WI,Wisconsin,True,,10080.0,16.7,55103,Richland,"{""55103"": 100}",Richland,55103,False,False,America/Chicago
+53582,43.01791,-89.99106,Ridgeway,WI,Wisconsin,True,,1100.0,12.1,55049,Iowa,"{""55049"": 100}",Iowa,55049,False,False,America/Chicago
+53583,43.25671,-89.81178,Sauk City,WI,Wisconsin,True,,6029.0,31.2,55111,Sauk,"{""55111"": 72.35, ""55025"": 27.44, ""55021"": 0.21}",Sauk|Dane|Columbia,55111|55025|55021,False,False,America/Chicago
+53584,43.27937,-90.29477,Sextonville,WI,Wisconsin,True,,,,55103,Richland,"{""55103"": 100}",Richland,55103,False,False,America/Chicago
+53585,42.53049,-88.72056,Sharon,WI,Wisconsin,True,,2134.0,30.2,55127,Walworth,"{""55127"": 95.43, ""55105"": 4.57}",Walworth|Rock,55127|55105,False,False,America/Chicago
+53586,42.57271,-90.22702,Shullsburg,WI,Wisconsin,True,,2133.0,8.2,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53587,42.57736,-89.90511,South Wayne,WI,Wisconsin,True,,1210.0,7.9,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53588,43.18949,-90.08201,Spring Green,WI,Wisconsin,True,,3930.0,10.8,55111,Sauk,"{""55111"": 66.08, ""55049"": 32.93, ""55103"": 0.99}",Sauk|Iowa|Richland,55111|55049|55103,False,False,America/Chicago
+53589,42.92684,-89.21182,Stoughton,WI,Wisconsin,True,,20300.0,92.3,55025,Dane,"{""55025"": 98.08, ""55105"": 1.92}",Dane|Rock,55025|55105,False,False,America/Chicago
+53590,43.19936,-89.20804,Sun Prairie,WI,Wisconsin,True,,40911.0,239.7,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53593,42.98533,-89.57992,Verona,WI,Wisconsin,True,,24775.0,125.6,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53594,43.18291,-88.97168,Waterloo,WI,Wisconsin,True,,5117.0,27.2,55055,Jefferson,"{""55055"": 51.69, ""55027"": 34.18, ""55025"": 14.13}",Jefferson|Dodge|Dane,55055|55027|55025,False,False,America/Chicago
+53597,43.18258,-89.45726,Waunakee,WI,Wisconsin,True,,19579.0,142.8,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53598,43.20641,-89.3387,Windsor,WI,Wisconsin,True,,2857.0,359.7,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53599,42.64765,-89.85986,Woodford,WI,Wisconsin,True,,45.0,72.1,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53703,43.07981,-89.37734,Madison,WI,Wisconsin,True,,35834.0,7480.7,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53704,43.13633,-89.34684,Madison,WI,Wisconsin,True,,46614.0,823.4,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53705,43.07427,-89.46246,Madison,WI,Wisconsin,True,,25256.0,1544.8,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53706,43.07505,-89.40987,Madison,WI,Wisconsin,True,,6226.0,5734.2,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53711,43.01521,-89.40641,Madison,WI,Wisconsin,True,,48455.0,720.9,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53713,43.03743,-89.39254,Madison,WI,Wisconsin,True,,22726.0,896.3,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53714,43.09884,-89.31287,Madison,WI,Wisconsin,True,,15750.0,1308.1,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53715,43.06038,-89.39861,Madison,WI,Wisconsin,True,,13202.0,3852.9,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53716,43.06506,-89.31454,Madison,WI,Wisconsin,True,,18756.0,1142.5,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53717,43.07372,-89.51945,Madison,WI,Wisconsin,True,,12859.0,1364.6,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53718,43.0977,-89.27332,Madison,WI,Wisconsin,True,,15882.0,294.3,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53719,43.0281,-89.50003,Madison,WI,Wisconsin,True,,32594.0,1236.6,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53726,43.07036,-89.4223,Madison,WI,Wisconsin,True,,5270.0,3607.1,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53792,43.07711,-89.43044,Madison,WI,Wisconsin,True,,0.0,0.0,55025,Dane,"{""55025"": 100}",Dane,55025,False,False,America/Chicago
+53801,42.92505,-91.06959,Bagley,WI,Wisconsin,True,,1046.0,6.8,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53802,42.80538,-90.89358,Beetown,WI,Wisconsin,True,,39.0,8.9,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53803,42.55915,-90.35508,Benton,WI,Wisconsin,True,,1183.0,36.2,55065,Lafayette,"{""55065"": 100}",Lafayette,55065,False,False,America/Chicago
+53804,42.87645,-90.90798,Bloomington,WI,Wisconsin,True,,1396.0,10.3,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53805,43.14236,-90.68445,Boscobel,WI,Wisconsin,True,,5336.0,15.6,55043,Grant,"{""55043"": 63.99, ""55023"": 36.01}",Grant|Crawford,55043|55023,False,False,America/Chicago
+53806,42.73554,-90.92544,Cassville,WI,Wisconsin,True,,1580.0,8.8,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53807,42.61123,-90.46668,Cuba City,WI,Wisconsin,True,,4742.0,17.4,55043,Grant,"{""55043"": 59.18, ""55065"": 40.82}",Grant|Lafayette,55043|55065,False,False,America/Chicago
+53808,42.63745,-90.59204,Dickeyville,WI,Wisconsin,True,,971.0,151.3,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53809,42.99362,-90.63323,Fennimore,WI,Wisconsin,True,,4318.0,16.3,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53810,42.82144,-90.9984,Glen Haven,WI,Wisconsin,True,,357.0,3.7,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53811,42.53576,-90.51541,Hazel Green,WI,Wisconsin,True,,3325.0,27.3,55043,Grant,"{""55043"": 83.34, ""55065"": 16.55, ""19061"": 0.11}",Grant|Lafayette|Dubuque,55043|55065|19061,False,False,America/Chicago
+53812,42.5808,-90.60239,Kieler,WI,Wisconsin,True,,,,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53813,42.84402,-90.71641,Lancaster,WI,Wisconsin,True,,6003.0,16.1,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53816,42.97794,-90.85773,Mount Hope,WI,Wisconsin,True,,911.0,5.8,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53817,42.94028,-90.97234,Patch Grove,WI,Wisconsin,True,,172.0,175.1,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53818,42.74725,-90.49177,Platteville,WI,Wisconsin,True,,16158.0,40.4,55043,Grant,"{""55043"": 81.1, ""55065"": 16.8, ""55049"": 2.1}",Grant|Lafayette|Iowa,55043|55065|55049,False,False,America/Chicago
+53820,42.69649,-90.70984,Potosi,WI,Wisconsin,True,,2251.0,9.7,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53821,43.04769,-91.06569,Prairie Du Chien,WI,Wisconsin,True,,7962.0,31.8,55023,Crawford,"{""55023"": 78.66, ""55043"": 21.34}",Crawford|Grant,55023|55043,False,False,America/Chicago
+53825,42.91833,-90.58851,Stitzer,WI,Wisconsin,True,,544.0,6.6,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53826,43.12225,-90.91039,Wauzeka,WI,Wisconsin,True,,1330.0,6.5,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+53827,43.05049,-90.83702,Woodman,WI,Wisconsin,True,,205.0,2.2,55043,Grant,"{""55043"": 100}",Grant,55043,False,False,America/Chicago
+53901,43.55606,-89.48606,Portage,WI,Wisconsin,True,,14729.0,38.6,55021,Columbia,"{""55021"": 98.83, ""55077"": 1.17}",Columbia|Marquette,55021|55077,False,False,America/Chicago
+53910,43.89073,-89.80708,Adams,WI,Wisconsin,True,,3468.0,23.5,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago
+53911,43.3258,-89.36478,Arlington,WI,Wisconsin,True,,1322.0,14.0,55021,Columbia,"{""55021"": 92.24, ""55025"": 7.76}",Columbia|Dane,55021|55025,False,False,America/Chicago
+53913,43.49213,-89.72858,Baraboo,WI,Wisconsin,True,,20534.0,57.1,55111,Sauk,"{""55111"": 98.66, ""55021"": 1.34}",Sauk|Columbia,55111|55021,False,False,America/Chicago
+53916,43.45538,-88.85813,Beaver Dam,WI,Wisconsin,True,,22485.0,83.8,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53919,43.73462,-88.77564,Brandon,WI,Wisconsin,True,,2462.0,14.5,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+53920,43.66579,-89.60364,Briggsville,WI,Wisconsin,True,,502.0,34.0,55001,Adams,"{""55001"": 50.85, ""55077"": 49.15}",Adams|Marquette,55001|55077,False,False,America/Chicago
+53922,43.51558,-88.70916,Burnett,WI,Wisconsin,True,,1049.0,9.9,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53923,43.57326,-89.13753,Cambria,WI,Wisconsin,True,,2243.0,11.3,55021,Columbia,"{""55021"": 89.95, ""55047"": 10.05}",Columbia|Green Lake,55021|55047,False,False,America/Chicago
+53924,43.47971,-90.25455,Cazenovia,WI,Wisconsin,True,,1284.0,6.9,55103,Richland,"{""55103"": 94.84, ""55111"": 5.16}",Richland|Sauk,55103|55111,False,False,America/Chicago
+53925,43.3325,-89.05075,Columbus,WI,Wisconsin,True,,8097.0,24.6,55021,Columbia,"{""55021"": 53.87, ""55027"": 36.12, ""55025"": 10.01}",Columbia|Dodge|Dane,55021|55027|55025,False,False,America/Chicago
+53926,43.67164,-89.21497,Dalton,WI,Wisconsin,True,,1581.0,11.8,55047,Green Lake,"{""55047"": 55.18, ""55077"": 26.06, ""55021"": 18.76}",Green Lake|Marquette|Columbia,55047|55077|55021,False,False,America/Chicago
+53928,43.42051,-89.1547,Doylestown,WI,Wisconsin,True,,92.0,36.3,55021,Columbia,"{""55021"": 100}",Columbia,55021,False,False,America/Chicago
+53929,43.75415,-90.28376,Elroy,WI,Wisconsin,True,,2602.0,13.6,55057,Juneau,"{""55057"": 72.2, ""55081"": 16.81, ""55123"": 10.99}",Juneau|Monroe|Vernon,55057|55081|55123,False,False,America/Chicago
+53930,43.683,-89.49506,Endeavor,WI,Wisconsin,True,,1329.0,12.3,55077,Marquette,"{""55077"": 100}",Marquette,55077,False,False,America/Chicago
+53931,43.74236,-88.86798,Fairwater,WI,Wisconsin,True,,232.0,121.9,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+53932,43.4202,-89.06543,Fall River,WI,Wisconsin,True,,2495.0,25.3,55021,Columbia,"{""55021"": 91.77, ""55027"": 8.23}",Columbia|Dodge,55021|55027,False,False,America/Chicago
+53933,43.57235,-88.88338,Fox Lake,WI,Wisconsin,True,,4572.0,46.8,55027,Dodge,"{""55027"": 100}",Dodge,55027,False,False,America/Chicago
+53934,43.98044,-89.82184,Friendship,WI,Wisconsin,True,,4244.0,13.5,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago
+53935,43.58864,-89.06697,Friesland,WI,Wisconsin,True,,246.0,95.0,55021,Columbia,"{""55021"": 100}",Columbia,55021,False,False,America/Chicago
+53936,43.87477,-89.71071,Grand Marsh,WI,Wisconsin,True,,2343.0,14.1,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago
+53937,43.38841,-90.15753,Hillpoint,WI,Wisconsin,True,,1121.0,8.2,55111,Sauk,"{""55111"": 72.26, ""55103"": 27.74}",Sauk|Richland,55111|55103,False,False,America/Chicago
+53939,43.69185,-89.13199,Kingston,WI,Wisconsin,True,,306.0,115.8,55047,Green Lake,"{""55047"": 100}",Green Lake,55047,False,False,America/Chicago
+53940,43.59126,-89.7944,Lake Delton,WI,Wisconsin,True,,,,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53941,43.57947,-90.13694,La Valle,WI,Wisconsin,True,,3151.0,17.7,55111,Sauk,"{""55111"": 94.1, ""55057"": 5.57, ""55103"": 0.33}",Sauk|Juneau|Richland,55111|55057|55103,False,False,America/Chicago
+53942,43.46393,-90.16536,Lime Ridge,WI,Wisconsin,True,,,,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53943,43.38999,-90.03018,Loganville,WI,Wisconsin,True,,1169.0,8.9,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53944,43.68759,-89.92791,Lyndon Station,WI,Wisconsin,True,,2267.0,11.2,55057,Juneau,"{""55057"": 83.12, ""55111"": 16.88}",Juneau|Sauk,55057|55111,False,False,America/Chicago
+53946,43.71822,-89.02189,Markesan,WI,Wisconsin,True,,4243.0,12.8,55047,Green Lake,"{""55047"": 93.87, ""55039"": 4.23, ""55077"": 1.04, ""55027"": 0.86}",Green Lake|Fond du Lac|Marquette|Dodge,55047|55039|55077|55027,False,False,America/Chicago
+53947,43.74676,-89.13769,Marquette,WI,Wisconsin,True,,175.0,193.4,55047,Green Lake,"{""55047"": 100}",Green Lake,55047,False,False,America/Chicago
+53948,43.77846,-90.05161,Mauston,WI,Wisconsin,True,,8384.0,21.4,55057,Juneau,"{""55057"": 100}",Juneau,55057,False,False,America/Chicago
+53949,43.78323,-89.33978,Montello,WI,Wisconsin,True,,6188.0,14.5,55077,Marquette,"{""55077"": 95.87, ""55047"": 4.13}",Marquette|Green Lake,55077|55047,False,False,America/Chicago
+53950,43.90477,-90.13463,New Lisbon,WI,Wisconsin,True,,5431.0,21.6,55057,Juneau,"{""55057"": 100}",Juneau,55057,False,False,America/Chicago
+53951,43.39087,-89.86633,North Freedom,WI,Wisconsin,True,,2671.0,14.1,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53952,43.78718,-89.5963,Oxford,WI,Wisconsin,True,,3130.0,12.4,55077,Marquette,"{""55077"": 50.04, ""55001"": 49.96}",Marquette|Adams,55077|55001,False,False,America/Chicago
+53953,43.76606,-89.458,Packwaukee,WI,Wisconsin,True,,267.0,305.3,55077,Marquette,"{""55077"": 100}",Marquette,55077,False,False,America/Chicago
+53954,43.55518,-89.31325,Pardeeville,WI,Wisconsin,True,,6822.0,33.3,55021,Columbia,"{""55021"": 90.89, ""55077"": 9.11}",Columbia|Marquette,55021|55077,False,False,America/Chicago
+53955,43.40025,-89.40051,Poynette,WI,Wisconsin,True,,5530.0,29.2,55021,Columbia,"{""55021"": 100}",Columbia,55021,False,False,America/Chicago
+53956,43.54166,-89.01849,Randolph,WI,Wisconsin,True,,3141.0,15.5,55021,Columbia,"{""55021"": 55.27, ""55027"": 40.09, ""55047"": 4.64}",Columbia|Dodge|Green Lake,55021|55027|55047,False,False,America/Chicago
+53959,43.53407,-89.99702,Reedsburg,WI,Wisconsin,True,,13717.0,47.5,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53960,43.4224,-89.23212,Rio,WI,Wisconsin,True,,3383.0,14.6,55021,Columbia,"{""55021"": 100}",Columbia,55021,False,False,America/Chicago
+53961,43.46055,-89.93858,Rock Springs,WI,Wisconsin,True,,838.0,13.7,55111,Sauk,"{""55111"": 100}",Sauk,55111,False,False,America/Chicago
+53962,43.68352,-90.2652,Union Center,WI,Wisconsin,True,,,,55057,Juneau,"{""55057"": 100}",Juneau,55057,False,False,America/Chicago
+53963,43.63492,-88.73828,Waupun,WI,Wisconsin,True,,13788.0,59.3,55039,Fond du Lac,"{""55039"": 53.65, ""55027"": 46.35}",Fond du Lac|Dodge,55039|55027,False,False,America/Chicago
+53964,43.91253,-89.5025,Westfield,WI,Wisconsin,True,,3560.0,12.6,55077,Marquette,"{""55077"": 90.07, ""55001"": 8.34, ""55137"": 1.59}",Marquette|Adams|Waushara,55077|55001|55137,False,False,America/Chicago
+53965,43.67651,-89.75681,Wisconsin Dells,WI,Wisconsin,True,,10625.0,24.3,55001,Adams,"{""55001"": 55.36, ""55021"": 20.94, ""55111"": 16.66, ""55057"": 7.04}",Adams|Columbia|Sauk|Juneau,55001|55021|55111|55057,False,False,America/Chicago
+53968,43.64072,-90.2326,Wonewoc,WI,Wisconsin,True,,2399.0,12.1,55057,Juneau,"{""55057"": 55.04, ""55111"": 37.38, ""55123"": 5.63, ""55103"": 1.95}",Juneau|Sauk|Vernon|Richland,55057|55111|55123|55103,False,False,America/Chicago
+53969,43.49567,-89.30176,Wyocena,WI,Wisconsin,True,,416.0,263.5,55021,Columbia,"{""55021"": 100}",Columbia,55021,False,False,America/Chicago
+54001,45.33417,-92.38703,Amery,WI,Wisconsin,True,,7648.0,25.0,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54002,44.95871,-92.37121,Baldwin,WI,Wisconsin,True,,6454.0,32.1,55109,St. Croix,"{""55109"": 96.93, ""55093"": 3.07}",St. Croix|Pierce,55109|55093,False,False,America/Chicago
+54003,44.79019,-92.44218,Beldenville,WI,Wisconsin,True,,1108.0,13.8,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54004,45.30699,-92.12414,Clayton,WI,Wisconsin,True,,2317.0,11.5,55005,Barron,"{""55005"": 66.73, ""55095"": 33.27}",Barron|Polk,55005|55095,False,False,America/Chicago
+54005,45.23447,-92.23051,Clear Lake,WI,Wisconsin,True,,3017.0,13.9,55095,Polk,"{""55095"": 65.03, ""55109"": 19.64, ""55005"": 8.46, ""55033"": 6.87}",Polk|St. Croix|Barron|Dunn,55095|55109|55005|55033,False,False,America/Chicago
+54006,45.58958,-92.64824,Cushing,WI,Wisconsin,True,,675.0,9.5,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54007,45.18781,-92.35734,Deer Park,WI,Wisconsin,True,,960.0,8.2,55109,St. Croix,"{""55109"": 77.92, ""55095"": 22.08}",St. Croix|Polk,55109|55095,False,False,America/Chicago
+54009,45.35358,-92.57693,Dresser,WI,Wisconsin,True,,2528.0,29.2,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54011,44.71648,-92.46279,Ellsworth,WI,Wisconsin,True,,6706.0,24.8,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54013,45.08134,-92.22929,Glenwood City,WI,Wisconsin,True,,3318.0,12.2,55109,St. Croix,"{""55109"": 96.47, ""55033"": 3.53}",St. Croix|Dunn,55109|55033,False,False,America/Chicago
+54014,44.64578,-92.57048,Hager City,WI,Wisconsin,True,,2074.0,18.9,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54015,44.96899,-92.45419,Hammond,WI,Wisconsin,True,,3743.0,41.3,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54016,44.97949,-92.69305,Hudson,WI,Wisconsin,True,,32171.0,185.2,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54017,45.11907,-92.52091,New Richmond,WI,Wisconsin,True,,18289.0,50.7,55109,St. Croix,"{""55109"": 96.85, ""55095"": 3.15}",St. Croix|Polk,55109|55095,False,False,America/Chicago
+54020,45.27937,-92.65235,Osceola,WI,Wisconsin,True,,7306.0,38.3,55095,Polk,"{""55095"": 99.02, ""55109"": 0.98}",Polk|St. Croix,55095|55109,False,False,America/Chicago
+54021,44.74048,-92.71144,Prescott,WI,Wisconsin,True,,7202.0,63.7,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54022,44.84796,-92.6096,River Falls,WI,Wisconsin,True,,23775.0,66.6,55093,Pierce,"{""55093"": 61.26, ""55109"": 38.74}",Pierce|St. Croix,55093|55109,False,False,America/Chicago
+54023,44.97708,-92.55218,Roberts,WI,Wisconsin,True,,4412.0,37.9,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54024,45.49873,-92.64781,Saint Croix Falls,WI,Wisconsin,True,,4602.0,21.3,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54025,45.14184,-92.68997,Somerset,WI,Wisconsin,True,,7179.0,55.3,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54026,45.22688,-92.53459,Star Prairie,WI,Wisconsin,True,,2038.0,28.3,55095,Polk,"{""55095"": 75.98, ""55109"": 24.02}",Polk|St. Croix,55095|55109,False,False,America/Chicago
+54027,44.92403,-92.19985,Wilson,WI,Wisconsin,True,,1002.0,11.9,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54028,44.95532,-92.28279,Woodville,WI,Wisconsin,True,,2665.0,27.5,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54082,45.0696,-92.75403,Houlton,WI,Wisconsin,True,,1649.0,51.4,55109,St. Croix,"{""55109"": 100}",St. Croix,55109,False,False,America/Chicago
+54101,44.78786,-88.05927,Abrams,WI,Wisconsin,True,,2694.0,20.9,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54102,45.50278,-88.00524,Amberg,WI,Wisconsin,True,,737.0,3.0,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54103,45.64972,-88.49885,Armstrong Creek,WI,Wisconsin,True,,483.0,2.4,55041,Forest,"{""55041"": 96.76, ""55075"": 3.24}",Forest|Marinette,55041|55075,False,False,America/Chicago
+54104,45.44018,-88.26518,Athelstane,WI,Wisconsin,True,,1094.0,2.3,55075,Marinette,"{""55075"": 99.17, ""55041"": 0.83}",Marinette|Forest,55075|55041,False,False,America/Chicago
+54106,44.48172,-88.45551,Black Creek,WI,Wisconsin,True,,5566.0,24.6,55087,Outagamie,"{""55087"": 98.54, ""55115"": 1.46}",Outagamie|Shawano,55087|55115,False,False,America/Chicago
+54107,44.70068,-88.44436,Bonduel,WI,Wisconsin,True,,3600.0,18.9,55115,Shawano,"{""55115"": 97.28, ""55087"": 2.72}",Shawano|Outagamie,55115|55087,False,False,America/Chicago
+54110,44.18533,-88.08105,Brillion,WI,Wisconsin,True,,5308.0,32.0,55015,Calumet,"{""55015"": 72.77, ""55071"": 24.49, ""55009"": 2.74}",Calumet|Manitowoc|Brown,55015|55071|55009,False,False,America/Chicago
+54111,44.81572,-88.37992,Cecil,WI,Wisconsin,True,,2243.0,17.4,55115,Shawano,"{""55115"": 92.71, ""55083"": 7.29}",Shawano|Oconto,55115|55083,False,False,America/Chicago
+54112,45.04527,-88.04743,Coleman,WI,Wisconsin,True,,2450.0,15.6,55075,Marinette,"{""55075"": 71.7, ""55083"": 28.3}",Marinette|Oconto,55075|55083,False,False,America/Chicago
+54113,44.26404,-88.30705,Combined Locks,WI,Wisconsin,True,,3588.0,776.7,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54114,45.25254,-88.12197,Crivitz,WI,Wisconsin,True,,5302.0,8.8,55075,Marinette,"{""55075"": 91.78, ""55083"": 8.22}",Marinette|Oconto,55075|55083,False,False,America/Chicago
+54115,44.40552,-88.09195,De Pere,WI,Wisconsin,True,,46443.0,144.6,55009,Brown,"{""55009"": 85.17, ""55087"": 14.83}",Brown|Outagamie,55009|55087,False,False,America/Chicago
+54119,45.62488,-88.18285,Dunbar,WI,Wisconsin,True,,751.0,2.2,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54120,45.75892,-88.49089,Fence,WI,Wisconsin,True,,229.0,1.0,55037,Florence,"{""55037"": 85.31, ""55075"": 14.69}",Florence|Marinette,55037|55075,False,False,America/Chicago
+54121,45.86385,-88.32899,Florence,WI,Wisconsin,True,,3097.0,4.4,55037,Florence,"{""55037"": 100}",Florence,55037,False,False,America/Chicago
+54123,44.20642,-88.15201,Forest Junction,WI,Wisconsin,True,,256.0,134.9,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago
+54124,44.90701,-88.36616,Gillett,WI,Wisconsin,True,,3570.0,14.8,55083,Oconto,"{""55083"": 91.57, ""55078"": 8.25, ""55115"": 0.18}",Oconto|Menominee|Shawano,55083|55078|55115,False,False,America/Chicago
+54125,45.58995,-88.38325,Goodman,WI,Wisconsin,True,,550.0,2.5,55075,Marinette,"{""55075"": 70.66, ""55041"": 29.34}",Marinette|Forest,55075|55041,False,False,America/Chicago
+54126,44.28925,-88.03218,Greenleaf,WI,Wisconsin,True,,3475.0,16.7,55009,Brown,"{""55009"": 99.36, ""55071"": 0.64}",Brown|Manitowoc,55009|55071,False,False,America/Chicago
+54127,44.79693,-88.26815,Green Valley,WI,Wisconsin,True,,43.0,88.6,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54128,44.86675,-88.80525,Gresham,WI,Wisconsin,True,,2080.0,15.9,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54129,44.12902,-88.20146,Hilbert,WI,Wisconsin,True,,3233.0,17.7,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago
+54130,44.31194,-88.24301,Kaukauna,WI,Wisconsin,True,,27076.0,133.9,55087,Outagamie,"{""55087"": 79.08, ""55015"": 10.69, ""55009"": 10.23}",Outagamie|Calumet|Brown,55087|55015|55009,False,False,America/Chicago
+54135,44.91468,-88.61209,Keshena,WI,Wisconsin,True,,3396.0,25.1,55078,Menominee,"{""55078"": 100}",Menominee,55078,False,False,America/Chicago
+54136,44.26834,-88.33852,Kimberly,WI,Wisconsin,True,,6517.0,1232.3,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54137,44.75843,-88.25605,Krakow,WI,Wisconsin,True,,1083.0,16.7,55115,Shawano,"{""55115"": 58.89, ""55083"": 41.11}",Shawano|Oconto,55115|55083,False,False,America/Chicago
+54138,45.33064,-88.42783,Lakewood,WI,Wisconsin,True,,933.0,5.0,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54139,44.9539,-88.07152,Lena,WI,Wisconsin,True,,3220.0,12.5,55083,Oconto,"{""55083"": 98.46, ""55075"": 1.54}",Oconto|Marinette,55083|55075,False,False,America/Chicago
+54140,44.28689,-88.31045,Little Chute,WI,Wisconsin,True,,8890.0,1095.0,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54141,44.72753,-88.00567,Little Suamico,WI,Wisconsin,True,,2125.0,32.2,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54143,45.08708,-87.70045,Marinette,WI,Wisconsin,True,,14811.0,86.3,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54149,45.204,-88.47445,Mountain,WI,Wisconsin,True,,1211.0,3.6,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54150,44.97237,-88.7906,Neopit,WI,Wisconsin,True,,1072.0,8.7,55078,Menominee,"{""55078"": 97.03, ""55115"": 2.97}",Menominee|Shawano,55078|55115,False,False,America/Chicago
+54151,45.72352,-87.99752,Niagara,WI,Wisconsin,True,,3198.0,9.6,55075,Marinette,"{""55075"": 71.61, ""55037"": 28.39}",Marinette|Florence,55075|55037,False,False,America/Chicago
+54152,44.56645,-88.47049,Nichols,WI,Wisconsin,True,,,,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54153,44.89939,-87.92516,Oconto,WI,Wisconsin,True,,7069.0,26.9,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54154,44.86702,-88.19058,Oconto Falls,WI,Wisconsin,True,,5534.0,26.6,55083,Oconto,"{""55083"": 89.64, ""55115"": 10.36}",Oconto|Shawano,55083|55115,False,False,America/Chicago
+54155,44.51979,-88.19038,Oneida,WI,Wisconsin,True,,7715.0,94.2,55009,Brown,"{""55009"": 50.22, ""55087"": 49.78}",Brown|Outagamie,55009|55087,False,False,America/Chicago
+54156,45.60099,-87.93963,Pembine,WI,Wisconsin,True,,1414.0,5.5,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54157,45.05001,-87.81217,Peshtigo,WI,Wisconsin,True,,6026.0,25.9,55075,Marinette,"{""55075"": 98.09, ""55083"": 1.91}",Marinette|Oconto,55075|55083,False,False,America/Chicago
+54159,45.20027,-87.82682,Porterfield,WI,Wisconsin,True,,1142.0,6.1,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54160,44.12029,-88.09895,Potter,WI,Wisconsin,True,,238.0,181.8,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago
+54161,45.12449,-88.15696,Pound,WI,Wisconsin,True,,2564.0,7.9,55083,Oconto,"{""55083"": 52.34, ""55075"": 47.66}",Oconto|Marinette,55083|55075,False,False,America/Chicago
+54162,44.66417,-88.27689,Pulaski,WI,Wisconsin,True,,9351.0,32.4,55115,Shawano,"{""55115"": 61.17, ""55009"": 22.48, ""55083"": 16.35}",Shawano|Brown|Oconto,55115|55009|55083,False,False,America/Chicago
+54165,44.52063,-88.31683,Seymour,WI,Wisconsin,True,,7653.0,29.6,55087,Outagamie,"{""55087"": 87.74, ""55115"": 11.14, ""55009"": 1.12}",Outagamie|Shawano|Brown,55087|55115|55009,False,False,America/Chicago
+54166,44.77894,-88.63567,Shawano,WI,Wisconsin,True,,16547.0,43.8,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54169,44.17799,-88.2772,Sherwood,WI,Wisconsin,True,,2794.0,289.4,55015,Calumet,"{""55015"": 100}",Calumet,55015,False,False,America/Chicago
+54170,44.51783,-88.57241,Shiocton,WI,Wisconsin,True,,3704.0,11.8,55087,Outagamie,"{""55087"": 74.99, ""55115"": 21.91, ""55135"": 3.1}",Outagamie|Shawano|Waupaca,55087|55115|55135,False,False,America/Chicago
+54171,44.71957,-88.12017,Sobieski,WI,Wisconsin,True,,3803.0,58.9,55083,Oconto,"{""55083"": 100}",Oconto,55083,False,False,America/Chicago
+54173,44.64228,-88.03212,Suamico,WI,Wisconsin,True,,4324.0,117.2,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54174,45.03553,-88.43492,Suring,WI,Wisconsin,True,,3165.0,6.0,55083,Oconto,"{""55083"": 64.0, ""55078"": 36.0}",Oconto|Menominee,55083|55078,False,False,America/Chicago
+54175,45.30552,-88.62394,Townsend,WI,Wisconsin,True,,1055.0,7.5,55083,Oconto,"{""55083"": 98.96, ""55067"": 1.04}",Oconto|Langlade,55083|55067,False,False,America/Chicago
+54177,45.36428,-87.89183,Wausaukee,WI,Wisconsin,True,,2684.0,5.9,55075,Marinette,"{""55075"": 100}",Marinette,55075,False,False,America/Chicago
+54180,44.33139,-88.17462,Wrightstown,WI,Wisconsin,True,,3494.0,228.0,55009,Brown,"{""55009"": 85.77, ""55087"": 14.23}",Brown|Outagamie,55009|55087,False,False,America/Chicago
+54201,44.61987,-87.49399,Algoma,WI,Wisconsin,True,,5094.0,26.1,55061,Kewaunee,"{""55061"": 91.63, ""55029"": 8.37}",Kewaunee|Door,55061|55029,False,False,America/Chicago
+54202,45.0779,-87.13837,Baileys Harbor,WI,Wisconsin,True,,1536.0,13.7,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54204,44.76189,-87.61552,Brussels,WI,Wisconsin,True,,1613.0,12.9,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54205,44.60444,-87.62912,Casco,WI,Wisconsin,True,,2130.0,18.6,55061,Kewaunee,"{""55061"": 97.81, ""55029"": 2.19}",Kewaunee|Door,55061|55029,False,False,America/Chicago
+54207,44.08425,-87.98093,Collins,WI,Wisconsin,True,,145.0,50.2,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54208,44.36239,-87.79619,Denmark,WI,Wisconsin,True,,6487.0,25.2,55009,Brown,"{""55009"": 58.68, ""55061"": 29.58, ""55071"": 11.74}",Brown|Kewaunee|Manitowoc,55009|55061|55071,False,False,America/Chicago
+54209,45.01126,-87.27278,Egg Harbor,WI,Wisconsin,True,,1397.0,14.2,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54210,45.2535,-87.0352,Ellison Bay,WI,Wisconsin,True,,661.0,9.6,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54211,45.15942,-87.16783,Ephraim,WI,Wisconsin,True,,227.0,24.7,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54212,45.12169,-87.23024,Fish Creek,WI,Wisconsin,True,,910.0,10.9,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54213,44.69926,-87.52114,Forestville,WI,Wisconsin,True,,1267.0,12.7,55029,Door,"{""55029"": 89.87, ""55061"": 10.13}",Door|Kewaunee,55029|55061,False,False,America/Chicago
+54214,44.19893,-87.71441,Francis Creek,WI,Wisconsin,True,,291.0,235.3,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54215,44.22608,-87.80357,Kellnersville,WI,Wisconsin,True,,,,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54216,44.43651,-87.58069,Kewaunee,WI,Wisconsin,True,,6254.0,22.5,55061,Kewaunee,"{""55061"": 100}",Kewaunee,55061,False,False,America/Chicago
+54217,44.54694,-87.71748,Luxemburg,WI,Wisconsin,True,,7393.0,25.5,55061,Kewaunee,"{""55061"": 80.25, ""55009"": 11.82, ""55029"": 7.93}",Kewaunee|Brown|Door,55061|55009|55029,False,False,America/Chicago
+54220,44.09644,-87.73131,Manitowoc,WI,Wisconsin,True,,38653.0,151.1,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54227,44.28096,-87.80656,Maribel,WI,Wisconsin,True,,1433.0,17.2,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54228,44.27677,-87.64875,Mishicot,WI,Wisconsin,True,,2919.0,28.0,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54229,44.56411,-87.82081,New Franken,WI,Wisconsin,True,,5386.0,53.9,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54230,44.15749,-87.91202,Reedsville,WI,Wisconsin,True,,4594.0,16.3,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54232,44.00668,-87.92462,Saint Nazianz,WI,Wisconsin,True,,936.0,455.4,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54234,45.18377,-87.09239,Sister Bay,WI,Wisconsin,True,,1846.0,30.4,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54235,44.84218,-87.37677,Sturgeon Bay,WI,Wisconsin,True,,16822.0,34.1,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54241,44.21758,-87.59723,Two Rivers,WI,Wisconsin,True,,13893.0,79.6,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54245,44.02728,-87.8977,Valders,WI,Wisconsin,True,,1950.0,19.2,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54246,45.37538,-86.89721,Washington Island,WI,Wisconsin,True,,828.0,12.6,55029,Door,"{""55029"": 100}",Door,55029,False,False,America/Chicago
+54247,44.19686,-87.78564,Whitelaw,WI,Wisconsin,True,,2449.0,28.7,55071,Manitowoc,"{""55071"": 100}",Manitowoc,55071,False,False,America/Chicago
+54301,44.48193,-88.02029,Green Bay,WI,Wisconsin,True,,21485.0,1276.7,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54302,44.50663,-87.97668,Green Bay,WI,Wisconsin,True,,31670.0,1325.4,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54303,44.53931,-88.05115,Green Bay,WI,Wisconsin,True,,26142.0,878.2,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54304,44.49419,-88.06758,Green Bay,WI,Wisconsin,True,,27524.0,911.3,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54307,44.47049,-88.0366,Green Bay,WI,Wisconsin,True,,1237.0,5710.9,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54311,44.48377,-87.89483,Green Bay,WI,Wisconsin,True,,35754.0,202.4,55009,Brown,"{""55009"": 100}",Brown,55009,False,False,America/Chicago
+54313,44.58923,-88.11088,Green Bay,WI,Wisconsin,True,,40083.0,274.0,55009,Brown,"{""55009"": 98.76, ""55087"": 1.24}",Brown|Outagamie,55009|55087,False,False,America/Chicago
+54401,44.96647,-89.70794,Wausau,WI,Wisconsin,True,,30625.0,140.5,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54403,45.03142,-89.51343,Wausau,WI,Wisconsin,True,,23977.0,69.3,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54405,44.96289,-90.2797,Abbotsford,WI,Wisconsin,True,,2697.0,34.9,55073,Marathon,"{""55073"": 75.3, ""55019"": 24.7}",Marathon|Clark,55073|55019,False,False,America/Chicago
+54406,44.41122,-89.31211,Amherst,WI,Wisconsin,True,,3502.0,20.4,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54407,44.52712,-89.29418,Amherst Junction,WI,Wisconsin,True,,1333.0,11.0,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54408,45.02861,-89.30922,Aniwa,WI,Wisconsin,True,,1063.0,8.3,55073,Marathon,"{""55073"": 86.71, ""55115"": 9.06, ""55067"": 4.23}",Marathon|Shawano|Langlade,55073|55115|55067,False,False,America/Chicago
+54409,45.11928,-89.16909,Antigo,WI,Wisconsin,True,,12953.0,24.2,55067,Langlade,"{""55067"": 87.84, ""55073"": 8.41, ""55115"": 3.75}",Langlade|Marathon|Shawano,55067|55073|55115,False,False,America/Chicago
+54410,44.54158,-90.02877,Arpin,WI,Wisconsin,True,,2633.0,15.7,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54411,45.05023,-90.02837,Athens,WI,Wisconsin,True,,5017.0,10.2,55073,Marathon,"{""55073"": 94.25, ""55119"": 5.75}",Marathon|Taylor,55073|55119,False,False,America/Chicago
+54412,44.66859,-89.98238,Auburndale,WI,Wisconsin,True,,2043.0,11.1,55141,Wood,"{""55141"": 62.82, ""55073"": 37.18}",Wood|Marathon,55141|55073,False,False,America/Chicago
+54413,44.28363,-90.15185,Babcock,WI,Wisconsin,True,,160.0,1.4,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54414,44.95589,-89.18202,Birnamwood,WI,Wisconsin,True,,3409.0,10.0,55115,Shawano,"{""55115"": 60.84, ""55073"": 38.75, ""55067"": 0.41}",Shawano|Marathon|Langlade,55115|55073|55067,False,False,America/Chicago
+54416,44.8822,-88.94153,Bowler,WI,Wisconsin,True,,1671.0,7.9,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54417,45.02749,-89.65418,Brokaw,WI,Wisconsin,True,,20.0,19.4,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54418,45.21566,-88.98003,Bryant,WI,Wisconsin,True,,993.0,4.4,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago
+54420,44.61043,-90.35036,Chili,WI,Wisconsin,True,,1304.0,12.5,55019,Clark,"{""55019"": 91.24, ""55141"": 8.76}",Clark|Wood,55019|55141,False,False,America/Chicago
+54421,44.89866,-90.29532,Colby,WI,Wisconsin,True,,4330.0,23.9,55073,Marathon,"{""55073"": 55.15, ""55019"": 44.85}",Marathon|Clark,55073|55019,False,False,America/Chicago
+54422,44.98279,-90.45264,Curtiss,WI,Wisconsin,True,,1284.0,12.2,55019,Clark,"{""55019"": 77.17, ""55119"": 22.83}",Clark|Taylor,55019|55119,False,False,America/Chicago
+54423,44.58049,-89.41642,Custer,WI,Wisconsin,True,,2422.0,19.3,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54424,45.28471,-89.18701,Deerbrook,WI,Wisconsin,True,,1641.0,3.9,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago
+54425,45.0086,-90.34249,Dorchester,WI,Wisconsin,True,,2016.0,18.7,55019,Clark,"{""55019"": 57.6, ""55073"": 31.26, ""55119"": 11.14}",Clark|Marathon|Taylor,55019|55073|55119,False,False,America/Chicago
+54426,44.90804,-89.98832,Edgar,WI,Wisconsin,True,,4339.0,15.8,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54427,44.82401,-89.25789,Eland,WI,Wisconsin,True,,1298.0,11.3,55073,Marathon,"{""55073"": 76.02, ""55115"": 23.98}",Marathon|Shawano,55073|55115,False,False,America/Chicago
+54428,45.43511,-89.17282,Elcho,WI,Wisconsin,True,,941.0,5.2,55067,Langlade,"{""55067"": 95.72, ""55085"": 4.28}",Langlade|Oneida,55067|55085,False,False,America/Chicago
+54430,45.1395,-88.8872,Elton,WI,Wisconsin,True,,153.0,5.8,55067,Langlade,"{""55067"": 99.74, ""55078"": 0.26}",Langlade|Menominee,55067|55078,False,False,America/Chicago
+54433,45.20649,-90.81756,Gilman,WI,Wisconsin,True,,1888.0,4.6,55119,Taylor,"{""55119"": 88.93, ""55017"": 11.07}",Taylor|Chippewa,55119|55017,False,False,America/Chicago
+54435,45.35084,-89.44349,Gleason,WI,Wisconsin,True,,1959.0,3.8,55069,Lincoln,"{""55069"": 58.77, ""55067"": 41.23}",Lincoln|Langlade,55069|55067,False,False,America/Chicago
+54436,44.54149,-90.43101,Granton,WI,Wisconsin,True,,2320.0,8.6,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago
+54437,44.77867,-90.63866,Greenwood,WI,Wisconsin,True,,2988.0,9.2,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago
+54440,44.80621,-89.38838,Hatley,WI,Wisconsin,True,,2844.0,13.3,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54441,44.64202,-90.10604,Hewitt,WI,Wisconsin,True,,1016.0,382.9,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54442,45.36532,-89.65439,Irma,WI,Wisconsin,True,,1287.0,6.6,55069,Lincoln,"{""55069"": 100}",Lincoln,55069,False,False,America/Chicago
+54443,44.61243,-89.75264,Junction City,WI,Wisconsin,True,,2156.0,9.3,55097,Portage,"{""55097"": 99.1, ""55141"": 0.8, ""55073"": 0.1}",Portage|Wood|Marathon,55097|55141|55073,False,False,America/Chicago
+54446,44.7533,-90.47149,Loyal,WI,Wisconsin,True,,3080.0,15.5,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago
+54447,45.09061,-90.72911,Lublin,WI,Wisconsin,True,,431.0,3.7,55119,Taylor,"{""55119"": 100}",Taylor,55119,False,False,America/Chicago
+54448,44.93094,-89.83422,Marathon,WI,Wisconsin,True,,4384.0,18.6,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54449,44.63914,-90.19755,Marshfield,WI,Wisconsin,True,,26324.0,58.9,55141,Wood,"{""55141"": 71.19, ""55073"": 28.6, ""55019"": 0.21}",Wood|Marathon|Clark,55141|55073|55019,False,False,America/Chicago
+54450,45.00367,-89.04172,Mattoon,WI,Wisconsin,True,,406.0,107.6,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54451,45.19131,-90.40172,Medford,WI,Wisconsin,True,,11261.0,12.9,55119,Taylor,"{""55119"": 98.3, ""55073"": 1.7}",Taylor|Marathon,55119|55073,False,False,America/Chicago
+54452,45.20879,-89.76743,Merrill,WI,Wisconsin,True,,18649.0,16.4,55069,Lincoln,"{""55069"": 89.44, ""55073"": 10.56}",Lincoln|Marathon,55069|55073,False,False,America/Chicago
+54454,44.60259,-89.8846,Milladore,WI,Wisconsin,True,,1395.0,12.0,55141,Wood,"{""55141"": 94.96, ""55097"": 5.04}",Wood|Portage,55141|55097,False,False,America/Chicago
+54455,44.7625,-89.68559,Mosinee,WI,Wisconsin,True,,18105.0,29.7,55073,Marathon,"{""55073"": 92.64, ""55097"": 7.36}",Marathon|Portage,55073|55097,False,False,America/Chicago
+54456,44.54511,-90.63824,Neillsville,WI,Wisconsin,True,,5644.0,9.7,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago
+54457,44.22965,-89.89502,Nekoosa,WI,Wisconsin,True,,7592.0,21.0,55001,Adams,"{""55001"": 42.84, ""55141"": 32.34, ""55057"": 24.82}",Adams|Wood|Juneau,55001|55141|55057,False,False,America/Chicago
+54458,44.49867,-89.31027,Nelsonville,WI,Wisconsin,True,,104.0,90.3,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54459,45.42515,-90.26924,Ogema,WI,Wisconsin,True,,1218.0,3.5,55099,Price,"{""55099"": 98.59, ""55069"": 1.41}",Price|Lincoln,55099|55069,False,False,America/Chicago
+54460,44.94703,-90.53728,Owen,WI,Wisconsin,True,,2757.0,12.7,55019,Clark,"{""55019"": 81.78, ""55119"": 18.22}",Clark|Taylor,55019|55119,False,False,America/Chicago
+54462,45.39408,-89.00031,Pearson,WI,Wisconsin,True,,425.0,3.6,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago
+54463,45.50876,-89.22536,Pelican Lake,WI,Wisconsin,True,,567.0,2.4,55085,Oneida,"{""55085"": 98.12, ""55067"": 1.88}",Oneida|Langlade,55085|55067,False,False,America/Chicago
+54464,45.05486,-89.01748,Phlox,WI,Wisconsin,True,,,,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago
+54465,45.39327,-88.88334,Pickerel,WI,Wisconsin,True,,489.0,5.0,55041,Forest,"{""55041"": 63.73, ""55067"": 36.27}",Forest|Langlade,55041|55067,False,False,America/Chicago
+54466,44.3855,-90.31687,Pittsville,WI,Wisconsin,True,,2765.0,3.5,55141,Wood,"{""55141"": 53.42, ""55053"": 42.18, ""55019"": 4.4}",Wood|Jackson|Clark,55141|55053|55019,False,False,America/Chicago
+54467,44.41575,-89.54062,Plover,WI,Wisconsin,True,,13893.0,80.8,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54469,44.34642,-89.87028,Port Edwards,WI,Wisconsin,True,,1775.0,261.1,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54470,45.29419,-90.13852,Rib Lake,WI,Wisconsin,True,,2059.0,7.5,55119,Taylor,"{""55119"": 97.64, ""55099"": 2.36}",Taylor|Price,55119|55099,False,False,America/Chicago
+54471,44.93361,-89.41914,Ringle,WI,Wisconsin,True,,1786.0,15.4,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54473,44.64984,-89.35634,Rosholt,WI,Wisconsin,True,,2640.0,12.1,55097,Portage,"{""55097"": 76.17, ""55073"": 23.83}",Portage|Marathon,55097|55073,False,False,America/Chicago
+54474,44.87395,-89.62223,Rothschild,WI,Wisconsin,True,,4004.0,308.2,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54475,44.48204,-89.78825,Rudolph,WI,Wisconsin,True,,1484.0,15.4,55141,Wood,"{""55141"": 82.39, ""55097"": 17.61}",Wood|Portage,55141|55097,False,False,America/Chicago
+54476,44.88816,-89.52389,Schofield,WI,Wisconsin,True,,19001.0,174.6,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54479,44.75688,-90.32525,Spencer,WI,Wisconsin,True,,3705.0,18.6,55019,Clark,"{""55019"": 56.24, ""55073"": 43.76}",Clark|Marathon,55019|55073,False,False,America/Chicago
+54480,45.05908,-90.27597,Stetsonville,WI,Wisconsin,True,,1396.0,15.2,55119,Taylor,"{""55119"": 92.18, ""55073"": 7.82}",Taylor|Marathon,55119|55073,False,False,America/Chicago
+54481,44.51935,-89.63678,Stevens Point,WI,Wisconsin,True,,28166.0,165.9,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54482,44.55174,-89.5092,Stevens Point,WI,Wisconsin,True,,10717.0,45.5,55097,Portage,"{""55097"": 100}",Portage,55097,False,False,America/Chicago
+54484,44.79988,-90.07962,Stratford,WI,Wisconsin,True,,5349.0,19.6,55073,Marathon,"{""55073"": 100}",Marathon,55073,False,False,America/Chicago
+54485,45.39373,-89.21894,Summit Lake,WI,Wisconsin,True,,268.0,4.6,55067,Langlade,"{""55067"": 100}",Langlade,55067,False,False,America/Chicago
+54486,44.72595,-89.05124,Tigerton,WI,Wisconsin,True,,1851.0,5.8,55115,Shawano,"{""55115"": 81.22, ""55135"": 18.78}",Shawano|Waupaca,55115|55135,False,False,America/Chicago
+54487,45.50429,-89.75114,Tomahawk,WI,Wisconsin,True,,9337.0,12.4,55069,Lincoln,"{""55069"": 73.84, ""55085"": 26.16}",Lincoln|Oneida,55069|55085,False,False,America/Chicago
+54488,44.84335,-90.33778,Unity,WI,Wisconsin,True,,1162.0,11.6,55019,Clark,"{""55019"": 53.65, ""55073"": 46.35}",Clark|Marathon,55019|55073,False,False,America/Chicago
+54489,44.45445,-90.0075,Vesper,WI,Wisconsin,True,,1642.0,13.3,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54490,45.33622,-90.41102,Westboro,WI,Wisconsin,True,,904.0,2.8,55119,Taylor,"{""55119"": 99.49, ""55099"": 0.51}",Taylor|Price,55119|55099,False,False,America/Chicago
+54491,45.2343,-88.76541,White Lake,WI,Wisconsin,True,,1457.0,2.8,55067,Langlade,"{""55067"": 90.96, ""55083"": 9.04}",Langlade|Oconto,55067|55083,False,False,America/Chicago
+54493,44.70083,-90.80107,Willard,WI,Wisconsin,True,,685.0,2.5,55019,Clark,"{""55019"": 100}",Clark,55019,False,False,America/Chicago
+54494,44.34414,-89.74054,Wisconsin Rapids,WI,Wisconsin,True,,26936.0,83.0,55141,Wood,"{""55141"": 57.12, ""55097"": 39.77, ""55001"": 3.11}",Wood|Portage|Adams,55141|55097|55001,False,False,America/Chicago
+54495,44.39081,-89.95351,Wisconsin Rapids,WI,Wisconsin,True,,7284.0,27.0,55141,Wood,"{""55141"": 100}",Wood,55141,False,False,America/Chicago
+54498,45.03278,-90.62105,Withee,WI,Wisconsin,True,,2376.0,8.2,55019,Clark,"{""55019"": 50.7, ""55119"": 49.3}",Clark|Taylor,55019|55119,False,False,America/Chicago
+54499,44.78963,-89.1801,Wittenberg,WI,Wisconsin,True,,2842.0,9.8,55115,Shawano,"{""55115"": 68.63, ""55073"": 29.86, ""55097"": 1.51}",Shawano|Marathon|Portage,55115|55073|55097,False,False,America/Chicago
+54501,45.65973,-89.34303,Rhinelander,WI,Wisconsin,True,,20306.0,21.4,55085,Oneida,"{""55085"": 98.0, ""55069"": 2.0}",Oneida|Lincoln,55085|55069,False,False,America/Chicago
+54511,45.72365,-88.83177,Argonne,WI,Wisconsin,True,,1280.0,1.8,55041,Forest,"{""55041"": 100}",Forest,55041,False,False,America/Chicago
+54512,46.0957,-89.66748,Boulder Junction,WI,Wisconsin,True,,975.0,4.5,55125,Vilas,"{""55125"": 100}",Vilas,55125,False,False,America/Chicago
+54513,45.58246,-90.11986,Brantwood,WI,Wisconsin,True,,435.0,1.6,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54514,46.03761,-90.49378,Butternut,WI,Wisconsin,True,,1922.0,3.3,55003,Ashland,"{""55003"": 80.49, ""55099"": 13.05, ""55051"": 6.46}",Ashland|Price|Iron,55003|55099|55051,False,False,America/Chicago
+54515,45.5146,-90.50217,Catawba,WI,Wisconsin,True,,485.0,2.3,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54517,46.11899,-90.93035,Clam Lake,WI,Wisconsin,True,,121.0,0.5,55003,Ashland,"{""55003"": 56.22, ""55113"": 30.95, ""55007"": 12.83}",Ashland|Sawyer|Bayfield,55003|55113|55007,False,False,America/Chicago
+54519,46.05355,-89.26877,Conover,WI,Wisconsin,True,,1295.0,5.9,55125,Vilas,"{""55125"": 100}",Vilas,55125,False,False,America/Chicago
+54520,45.53773,-88.92303,Crandon,WI,Wisconsin,True,,4138.0,13.0,55041,Forest,"{""55041"": 100}",Forest,55041,False,False,America/Chicago
+54521,45.9162,-89.25451,Eagle River,WI,Wisconsin,True,,7986.0,16.4,55125,Vilas,"{""55125"": 64.65, ""55085"": 30.26, ""55041"": 5.09}",Vilas|Oneida|Forest,55125|55085|55041,False,False,America/Chicago
+54524,45.84416,-90.38922,Fifield,WI,Wisconsin,True,,686.0,4.5,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54525,46.4335,-90.22603,Gile,WI,Wisconsin,True,,293.0,121.1,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Menominee
+54526,45.50969,-90.85872,Glen Flora,WI,Wisconsin,True,,755.0,2.5,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54527,46.13543,-90.6366,Glidden,WI,Wisconsin,True,,817.0,1.6,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54529,45.67821,-89.66006,Harshaw,WI,Wisconsin,True,,1154.0,6.2,55085,Oneida,"{""55085"": 100}",Oneida,55085,False,False,America/Chicago
+54530,45.53202,-90.71537,Hawkins,WI,Wisconsin,True,,726.0,2.4,55107,Rusk,"{""55107"": 71.32, ""55099"": 24.1, ""55113"": 4.58}",Rusk|Price|Sawyer,55107|55099|55113,False,False,America/Chicago
+54531,45.74968,-89.78822,Hazelhurst,WI,Wisconsin,True,,1294.0,7.8,55085,Oneida,"{""55085"": 100}",Oneida,55085,False,False,America/Chicago
+54534,46.3545,-90.23769,Hurley,WI,Wisconsin,True,,2333.0,6.7,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago
+54536,46.33603,-90.34488,Iron Belt,WI,Wisconsin,True,,157.0,1.5,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago
+54537,45.53136,-90.60213,Kennan,WI,Wisconsin,True,,512.0,2.3,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54538,45.97244,-89.91484,Lac Du Flambeau,WI,Wisconsin,True,,2991.0,11.0,55125,Vilas,"{""55125"": 78.72, ""55051"": 10.53, ""55085"": 9.77, ""55099"": 0.98}",Vilas|Iron|Oneida|Price,55125|55051|55085|55099,False,False,America/Chicago
+54539,45.80705,-89.5762,Lake Tomahawk,WI,Wisconsin,True,,1261.0,8.7,55085,Oneida,"{""55085"": 100}",Oneida,55085,False,False,America/Chicago
+54540,46.15505,-89.38216,Land O'Lakes,WI,Wisconsin,True,,880.0,4.3,55125,Vilas,"{""55125"": 99.35, ""26053"": 0.65}",Vilas|Gogebic,55125|26053,False,False,America/Chicago
+54541,45.55218,-88.65937,Laona,WI,Wisconsin,True,,1392.0,3.9,55041,Forest,"{""55041"": 100}",Forest,55041,False,False,America/Chicago
+54542,45.92127,-88.72536,Long Lake,WI,Wisconsin,True,,500.0,0.7,55041,Forest,"{""55041"": 60.77, ""55037"": 39.23}",Forest|Florence,55041|55037,False,False,America/Chicago
+54545,46.1326,-89.85208,Manitowish Waters,WI,Wisconsin,True,,859.0,6.9,55125,Vilas,"{""55125"": 99.89, ""55051"": 0.11}",Vilas|Iron,55125|55051,False,False,America/Chicago
+54546,46.28685,-90.70977,Mellen,WI,Wisconsin,True,,1084.0,2.0,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54547,46.18951,-90.0994,Mercer,WI,Wisconsin,True,,1363.0,2.4,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago
+54548,45.86218,-89.82663,Minocqua,WI,Wisconsin,True,,4975.0,19.4,55085,Oneida,"{""55085"": 78.91, ""55125"": 21.09}",Oneida|Vilas,55085|55125,False,False,America/Chicago
+54550,46.35775,-90.26409,Montreal,WI,Wisconsin,True,,559.0,8.0,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago
+54552,45.93615,-90.29081,Park Falls,WI,Wisconsin,True,,4009.0,4.3,55099,Price,"{""55099"": 69.02, ""55051"": 28.0, ""55113"": 2.98}",Price|Iron|Sawyer,55099|55051|55113,False,False,America/Chicago
+54554,46.05481,-89.06138,Phelps,WI,Wisconsin,True,,1163.0,5.6,55125,Vilas,"{""55125"": 100}",Vilas,55125,False,False,America/Chicago
+54555,45.71977,-90.36403,Phillips,WI,Wisconsin,True,,4769.0,5.1,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54556,45.53586,-90.31386,Prentice,WI,Wisconsin,True,,1131.0,4.2,55099,Price,"{""55099"": 100}",Price,55099,False,False,America/Chicago
+54557,46.22178,-89.75453,Presque Isle,WI,Wisconsin,True,,838.0,3.6,55125,Vilas,"{""55125"": 99.01, ""55051"": 0.99}",Vilas|Iron,55125|55051,False,False,America/Chicago
+54558,45.92417,-89.49746,Saint Germain,WI,Wisconsin,True,,1910.0,17.1,55125,Vilas,"{""55125"": 76.29, ""55085"": 23.71}",Vilas|Oneida,55125|55085,False,False,America/Chicago
+54559,46.49382,-90.47083,Saxon,WI,Wisconsin,True,,711.0,2.3,55051,Iron,"{""55051"": 85.35, ""55003"": 14.65}",Iron|Ashland,55051|55003,False,False,America/Chicago
+54560,46.00997,-89.54365,Sayner,WI,Wisconsin,True,,580.0,7.0,55125,Vilas,"{""55125"": 100}",Vilas,55125,False,False,America/Chicago
+54561,46.07102,-89.46451,Star Lake,WI,Wisconsin,True,,0.0,0.0,55125,Vilas,"{""55125"": 100}",Vilas,55125,False,False,America/Chicago
+54562,45.81081,-89.0813,Three Lakes,WI,Wisconsin,True,,1701.0,4.5,55085,Oneida,"{""55085"": 65.01, ""55041"": 34.99}",Oneida|Forest,55085|55041,False,False,America/Chicago
+54563,45.46448,-90.97428,Tony,WI,Wisconsin,True,,816.0,7.5,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54564,45.6105,-89.97223,Tripoli,WI,Wisconsin,True,,306.0,0.6,55085,Oneida,"{""55085"": 65.26, ""55069"": 33.37, ""55099"": 1.37}",Oneida|Lincoln|Price,55085|55069|55099,False,False,America/Chicago
+54565,46.30474,-90.45182,Upson,WI,Wisconsin,True,,36.0,0.1,55051,Iron,"{""55051"": 100}",Iron,55051,False,False,America/Chicago
+54566,45.42481,-88.63263,Wabeno,WI,Wisconsin,True,,1183.0,3.4,55041,Forest,"{""55041"": 92.17, ""55067"": 7.83}",Forest|Langlade,55041|55067,False,False,America/Chicago
+54568,45.94876,-89.67546,Woodruff,WI,Wisconsin,True,,4981.0,27.0,55125,Vilas,"{""55125"": 86.23, ""55085"": 13.77}",Vilas|Oneida,55125|55085,False,False,America/Chicago
+54601,43.80199,-91.14559,La Crosse,WI,Wisconsin,True,,51063.0,261.3,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54603,43.85729,-91.24791,La Crosse,WI,Wisconsin,True,,13770.0,600.3,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54610,44.37077,-91.82549,Alma,WI,Wisconsin,True,,1546.0,4.7,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago
+54611,44.44624,-90.95164,Alma Center,WI,Wisconsin,True,,1243.0,8.9,55053,Jackson,"{""55053"": 100}",Jackson,55053,False,False,America/Chicago
+54612,44.24882,-91.50066,Arcadia,WI,Wisconsin,True,,5015.0,12.8,55121,Trempealeau,"{""55121"": 72.31, ""55011"": 27.69}",Trempealeau|Buffalo,55121|55011,False,False,America/Chicago
+54613,44.07549,-89.92131,Arkdale,WI,Wisconsin,True,,1799.0,9.4,55001,Adams,"{""55001"": 100}",Adams,55001,False,False,America/Chicago
+54614,43.90242,-90.9729,Bangor,WI,Wisconsin,True,,2548.0,12.5,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54615,44.26158,-90.78049,Black River Falls,WI,Wisconsin,True,,10525.0,12.9,55053,Jackson,"{""55053"": 97.14, ""55081"": 2.86}",Jackson|Monroe,55053|55081,False,False,America/Chicago
+54616,44.30402,-91.2283,Blair,WI,Wisconsin,True,,2488.0,10.3,55121,Trempealeau,"{""55121"": 87.19, ""55053"": 12.81}",Trempealeau|Jackson,55121|55053,False,False,America/Chicago
+54618,43.95921,-90.28967,Camp Douglas,WI,Wisconsin,True,,2319.0,9.4,55057,Juneau,"{""55057"": 70.73, ""55081"": 29.27}",Juneau|Monroe,55057|55081,False,False,America/Chicago
+54619,43.75562,-90.77968,Cashton,WI,Wisconsin,True,,3568.0,13.1,55081,Monroe,"{""55081"": 73.82, ""55123"": 22.34, ""55063"": 3.84}",Monroe|Vernon|La Crosse,55081|55123|55063,False,False,America/Chicago
+54621,43.65632,-91.08199,Chaseburg,WI,Wisconsin,True,,1350.0,14.3,55123,Vernon,"{""55123"": 100}",Vernon,55123,False,False,America/Chicago
+54622,44.26953,-91.76629,Cochrane,WI,Wisconsin,True,,1975.0,13.5,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago
+54623,43.72894,-91.03065,Coon Valley,WI,Wisconsin,True,,2142.0,16.3,55063,La Crosse,"{""55063"": 57.41, ""55123"": 42.59}",La Crosse|Vernon,55063|55123,False,False,America/Chicago
+54624,43.46575,-91.14066,De Soto,WI,Wisconsin,True,,1530.0,9.0,55123,Vernon,"{""55123"": 85.86, ""55023"": 14.14}",Vernon|Crawford,55123|55023,False,False,America/Chicago
+54625,44.13287,-91.52507,Dodge,WI,Wisconsin,True,,225.0,13.4,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago
+54626,43.2162,-91.03608,Eastman,WI,Wisconsin,True,,1289.0,7.0,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+54627,44.16873,-91.23634,Ettrick,WI,Wisconsin,True,,1754.0,8.0,55121,Trempealeau,"{""55121"": 88.19, ""55053"": 11.81}",Trempealeau|Jackson,55121|55053,False,False,America/Chicago
+54628,43.37572,-91.02618,Ferryville,WI,Wisconsin,True,,924.0,4.8,55023,Crawford,"{""55023"": 91.49, ""55123"": 8.51}",Crawford|Vernon,55023|55123,False,False,America/Chicago
+54629,44.15928,-91.66661,Fountain City,WI,Wisconsin,True,,2643.0,9.1,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago
+54630,44.10339,-91.35881,Galesville,WI,Wisconsin,True,,4106.0,19.5,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago
+54631,43.28795,-90.8327,Gays Mills,WI,Wisconsin,True,,1668.0,6.2,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+54632,43.56249,-91.14695,Genoa,WI,Wisconsin,True,,1210.0,10.0,55123,Vernon,"{""55123"": 100}",Vernon,55123,False,False,America/Chicago
+54634,43.59753,-90.42553,Hillsboro,WI,Wisconsin,True,,4463.0,12.3,55123,Vernon,"{""55123"": 69.41, ""55103"": 29.97, ""55057"": 0.62}",Vernon|Richland|Juneau,55123|55103|55057,False,False,America/Chicago
+54635,44.40871,-91.04455,Hixton,WI,Wisconsin,True,,1787.0,8.6,55053,Jackson,"{""55053"": 100}",Jackson,55053,False,False,America/Chicago
+54636,44.00732,-91.22682,Holmen,WI,Wisconsin,True,,14838.0,69.0,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54637,43.87874,-90.27076,Hustler,WI,Wisconsin,True,,207.0,232.3,55057,Juneau,"{""55057"": 100}",Juneau,55057,False,False,America/Chicago
+54638,43.79088,-90.3875,Kendall,WI,Wisconsin,True,,1614.0,10.2,55081,Monroe,"{""55081"": 83.99, ""55123"": 13.26, ""55057"": 2.75}",Monroe|Vernon|Juneau,55081|55123|55057,False,False,America/Chicago
+54639,43.60566,-90.62021,La Farge,WI,Wisconsin,True,,2713.0,11.7,55123,Vernon,"{""55123"": 95.93, ""55103"": 4.07}",Vernon|Richland,55123|55103,False,False,America/Chicago
+54642,44.14978,-91.05303,Melrose,WI,Wisconsin,True,,2162.0,9.1,55053,Jackson,"{""55053"": 92.83, ""55121"": 4.31, ""55063"": 2.86}",Jackson|Trempealeau|La Crosse,55053|55121|55063,False,False,America/Chicago
+54643,44.18758,-90.63432,Millston,WI,Wisconsin,True,,2.0,2.5,55053,Jackson,"{""55053"": 100}",Jackson,55053,False,False,America/Chicago
+54644,44.03089,-91.04326,Mindoro,WI,Wisconsin,True,,1420.0,9.0,55063,La Crosse,"{""55063"": 93.01, ""55053"": 6.99}",La Crosse|Jackson,55063|55053,False,False,America/Chicago
+54645,43.32084,-90.92901,Mount Sterling,WI,Wisconsin,True,,56.0,31.2,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+54646,44.08807,-90.0912,Necedah,WI,Wisconsin,True,,4070.0,9.5,55057,Juneau,"{""55057"": 100}",Juneau,55057,False,False,America/Chicago
+54648,43.83544,-90.63553,Norwalk,WI,Wisconsin,True,,1703.0,8.9,55081,Monroe,"{""55081"": 100}",Monroe,55081,False,False,America/Chicago
+54650,43.9099,-91.22424,Onalaska,WI,Wisconsin,True,,24794.0,309.7,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54651,43.72368,-90.57004,Ontario,WI,Wisconsin,True,,1613.0,10.5,55123,Vernon,"{""55123"": 57.02, ""55081"": 42.98}",Vernon|Monroe,55123|55081,False,False,America/Chicago
+54652,43.46133,-90.76825,Readstown,WI,Wisconsin,True,,1095.0,12.7,55123,Vernon,"{""55123"": 100}",Vernon,55123,False,False,America/Chicago
+54653,43.82586,-90.9129,Rockland,WI,Wisconsin,True,,910.0,16.3,55063,La Crosse,"{""55063"": 60.9, ""55081"": 39.1}",La Crosse|Monroe,55063|55081,False,False,America/Chicago
+54654,43.26853,-90.95419,Seneca,WI,Wisconsin,True,,291.0,306.3,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+54655,43.37877,-90.76423,Soldiers Grove,WI,Wisconsin,True,,1802.0,7.7,55023,Crawford,"{""55023"": 82.2, ""55103"": 15.52, ""55123"": 2.28}",Crawford|Richland|Vernon,55023|55103|55123,False,False,America/Chicago
+54656,44.00291,-90.79601,Sparta,WI,Wisconsin,True,,18096.0,24.8,55081,Monroe,"{""55081"": 99.89, ""55063"": 0.11}",Monroe|La Crosse,55081|55063,False,False,America/Chicago
+54657,43.19447,-90.90678,Steuben,WI,Wisconsin,True,,368.0,4.9,55023,Crawford,"{""55023"": 100}",Crawford,55023,False,False,America/Chicago
+54658,43.67768,-91.19248,Stoddard,WI,Wisconsin,True,,2586.0,28.1,55123,Vernon,"{""55123"": 93.78, ""55063"": 6.22}",Vernon|La Crosse,55123|55063,False,False,America/Chicago
+54659,44.29704,-91.10065,Taylor,WI,Wisconsin,True,,1307.0,8.6,55053,Jackson,"{""55053"": 97.55, ""55121"": 2.45}",Jackson|Trempealeau,55053|55121,False,False,America/Chicago
+54660,43.98525,-90.50496,Tomah,WI,Wisconsin,True,,15822.0,35.3,55081,Monroe,"{""55081"": 100}",Monroe,55081,False,False,America/Chicago
+54661,44.05943,-91.47133,Trempealeau,WI,Wisconsin,True,,3913.0,29.2,55121,Trempealeau,"{""55121"": 99.76, ""55063"": 0.24}",Trempealeau|La Crosse,55121|55063,False,False,America/Chicago
+54664,43.49912,-90.64076,Viola,WI,Wisconsin,True,,1770.0,8.3,55103,Richland,"{""55103"": 65.09, ""55123"": 34.91}",Richland|Vernon,55103|55123,False,False,America/Chicago
+54665,43.5319,-90.92134,Viroqua,WI,Wisconsin,True,,8476.0,18.1,55123,Vernon,"{""55123"": 99.02, ""55023"": 0.98}",Vernon|Crawford,55123|55023,False,False,America/Chicago
+54666,44.16201,-90.4399,Warrens,WI,Wisconsin,True,,2915.0,4.8,55081,Monroe,"{""55081"": 45.04, ""55053"": 43.99, ""55057"": 10.97}",Monroe|Jackson|Juneau,55081|55053|55057,False,False,America/Chicago
+54667,43.66703,-90.86166,Westby,WI,Wisconsin,True,,4885.0,21.2,55123,Vernon,"{""55123"": 96.66, ""55063"": 3.34}",Vernon|La Crosse,55123|55063,False,False,America/Chicago
+54669,43.91171,-91.09046,West Salem,WI,Wisconsin,True,,7825.0,58.5,55063,La Crosse,"{""55063"": 100}",La Crosse,55063,False,False,America/Chicago
+54670,43.83802,-90.48273,Wilton,WI,Wisconsin,True,,1788.0,13.1,55081,Monroe,"{""55081"": 100}",Monroe,55081,False,False,America/Chicago
+54701,44.7432,-91.50899,Eau Claire,WI,Wisconsin,True,,41358.0,185.6,55035,Eau Claire,"{""55035"": 95.16, ""55033"": 4.84}",Eau Claire|Dunn,55035|55033,False,False,America/Chicago
+54703,44.83311,-91.5185,Eau Claire,WI,Wisconsin,True,,43089.0,205.2,55035,Eau Claire,"{""55035"": 77.97, ""55017"": 20.37, ""55033"": 1.66}",Eau Claire|Chippewa|Dunn,55035|55017|55033,False,False,America/Chicago
+54720,44.80511,-91.43646,Altoona,WI,Wisconsin,True,,7857.0,638.9,55035,Eau Claire,"{""55035"": 100}",Eau Claire,55035,False,False,America/Chicago
+54721,44.6304,-92.07098,Arkansaw,WI,Wisconsin,True,,1425.0,8.4,55091,Pepin,"{""55091"": 85.86, ""55033"": 11.9, ""55093"": 2.24}",Pepin|Dunn|Pierce,55091|55033|55093,False,False,America/Chicago
+54722,44.71702,-91.09874,Augusta,WI,Wisconsin,True,,3859.0,10.0,55035,Eau Claire,"{""55035"": 100}",Eau Claire,55035,False,False,America/Chicago
+54723,44.61063,-92.42893,Bay City,WI,Wisconsin,True,,1049.0,12.4,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54724,45.10793,-91.48458,Bloomer,WI,Wisconsin,True,,7188.0,17.1,55017,Chippewa,"{""55017"": 99.43, ""55033"": 0.57}",Chippewa|Dunn,55017|55033,False,False,America/Chicago
+54725,45.07103,-92.01062,Boyceville,WI,Wisconsin,True,,2900.0,11.4,55033,Dunn,"{""55033"": 100}",Dunn,55033,False,False,America/Chicago
+54726,44.94151,-91.01975,Boyd,WI,Wisconsin,True,,1854.0,8.8,55017,Chippewa,"{""55017"": 72.15, ""55035"": 27.85}",Chippewa|Eau Claire,55017|55035,False,False,America/Chicago
+54727,44.95827,-91.15873,Cadott,WI,Wisconsin,True,,4513.0,12.2,55017,Chippewa,"{""55017"": 94.5, ""55035"": 5.5}",Chippewa|Eau Claire,55017|55035,False,False,America/Chicago
+54728,45.30778,-91.6417,Chetek,WI,Wisconsin,True,,5997.0,18.4,55005,Barron,"{""55005"": 79.94, ""55107"": 19.29, ""55033"": 0.77}",Barron|Rusk|Dunn,55005|55107|55033,False,False,America/Chicago
+54729,44.94533,-91.39342,Chippewa Falls,WI,Wisconsin,True,,32927.0,77.0,55017,Chippewa,"{""55017"": 97.14, ""55035"": 2.86}",Chippewa|Eau Claire,55017|55035,False,False,America/Chicago
+54730,45.01836,-91.72143,Colfax,WI,Wisconsin,True,,5188.0,14.5,55033,Dunn,"{""55033"": 78.28, ""55017"": 21.72}",Dunn|Chippewa,55033|55017,False,False,America/Chicago
+54731,45.34656,-91.08304,Conrath,WI,Wisconsin,True,,723.0,6.0,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54732,45.14571,-91.16543,Cornell,WI,Wisconsin,True,,3199.0,12.7,55017,Chippewa,"{""55017"": 100}",Chippewa,55017,False,False,America/Chicago
+54733,45.28331,-91.85641,Dallas,WI,Wisconsin,True,,1216.0,10.5,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54734,45.09045,-92.11358,Downing,WI,Wisconsin,True,,720.0,8.9,55033,Dunn,"{""55033"": 94.0, ""55109"": 6.0}",Dunn|St. Croix,55033|55109,False,False,America/Chicago
+54736,44.60345,-91.90455,Durand,WI,Wisconsin,True,,4193.0,12.6,55091,Pepin,"{""55091"": 50.29, ""55011"": 44.79, ""55033"": 4.92}",Pepin|Buffalo|Dunn,55091|55011|55033,False,False,America/Chicago
+54737,44.71593,-91.98298,Eau Galle,WI,Wisconsin,True,,679.0,12.4,55033,Dunn,"{""55033"": 94.83, ""55091"": 5.17}",Dunn|Pepin,55033|55091,False,False,America/Chicago
+54738,44.59478,-91.47892,Eleva,WI,Wisconsin,True,,3491.0,13.7,55035,Eau Claire,"{""55035"": 53.48, ""55121"": 45.44, ""55011"": 1.08}",Eau Claire|Trempealeau|Buffalo,55035|55121|55011,False,False,America/Chicago
+54739,44.86177,-91.70097,Elk Mound,WI,Wisconsin,True,,5429.0,20.4,55033,Dunn,"{""55033"": 81.86, ""55017"": 18.0, ""55035"": 0.14}",Dunn|Chippewa|Eau Claire,55033|55017|55035,False,False,America/Chicago
+54740,44.74427,-92.15853,Elmwood,WI,Wisconsin,True,,1964.0,9.1,55093,Pierce,"{""55093"": 57.61, ""55033"": 42.39}",Pierce|Dunn,55093|55033,False,False,America/Chicago
+54741,44.61237,-90.98121,Fairchild,WI,Wisconsin,True,,1901.0,7.6,55035,Eau Claire,"{""55035"": 47.92, ""55053"": 39.23, ""55019"": 12.85}",Eau Claire|Jackson|Clark,55035|55053|55019,False,False,America/Chicago
+54742,44.76319,-91.2722,Fall Creek,WI,Wisconsin,True,,5347.0,19.1,55035,Eau Claire,"{""55035"": 100}",Eau Claire,55035,False,False,America/Chicago
+54745,45.24875,-91.13494,Holcombe,WI,Wisconsin,True,,2114.0,6.3,55017,Chippewa,"{""55017"": 85.18, ""55107"": 14.82}",Chippewa|Rusk,55017|55107,False,False,America/Chicago
+54746,44.54543,-90.87217,Humbird,WI,Wisconsin,True,,710.0,6.2,55019,Clark,"{""55019"": 82.79, ""55053"": 17.21}",Clark|Jackson,55019|55053,False,False,America/Chicago
+54747,44.39438,-91.5035,Independence,WI,Wisconsin,True,,2299.0,7.5,55121,Trempealeau,"{""55121"": 63.26, ""55011"": 36.74}",Trempealeau|Buffalo,55121|55011,False,False,America/Chicago
+54748,45.07919,-91.26586,Jim Falls,WI,Wisconsin,True,,1234.0,11.9,55017,Chippewa,"{""55017"": 100}",Chippewa,55017,False,False,America/Chicago
+54749,44.94862,-92.09785,Knapp,WI,Wisconsin,True,,1552.0,15.0,55033,Dunn,"{""55033"": 83.85, ""55109"": 16.15}",Dunn|St. Croix,55033|55109,False,False,America/Chicago
+54750,44.62052,-92.29513,Maiden Rock,WI,Wisconsin,True,,936.0,5.5,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54751,44.84971,-91.92994,Menomonie,WI,Wisconsin,True,,25931.0,43.9,55033,Dunn,"{""55033"": 100}",Dunn,55033,False,False,America/Chicago
+54754,44.42913,-90.77527,Merrillan,WI,Wisconsin,True,,1769.0,9.1,55053,Jackson,"{""55053"": 82.15, ""55019"": 17.85}",Jackson|Clark,55053|55019,False,False,America/Chicago
+54755,44.57513,-91.67971,Mondovi,WI,Wisconsin,True,,7073.0,10.5,55011,Buffalo,"{""55011"": 60.0, ""55033"": 14.57, ""55091"": 13.4, ""55035"": 12.03}",Buffalo|Dunn|Pepin|Eau Claire,55011|55033|55091|55035,False,False,America/Chicago
+54756,44.46153,-91.94552,Nelson,WI,Wisconsin,True,,891.0,4.4,55011,Buffalo,"{""55011"": 100}",Buffalo,55011,False,False,America/Chicago
+54757,45.23085,-91.52498,New Auburn,WI,Wisconsin,True,,3463.0,8.6,55017,Chippewa,"{""55017"": 56.89, ""55005"": 18.79, ""55033"": 15.62, ""55107"": 8.7}",Chippewa|Barron|Dunn|Rusk,55017|55005|55033|55107,False,False,America/Chicago
+54758,44.54546,-91.2173,Osseo,WI,Wisconsin,True,,4779.0,11.8,55121,Trempealeau,"{""55121"": 52.8, ""55053"": 24.54, ""55035"": 22.66}",Trempealeau|Jackson|Eau Claire,55121|55053|55035,False,False,America/Chicago
+54759,44.48936,-92.1232,Pepin,WI,Wisconsin,True,,1437.0,10.9,55091,Pepin,"{""55091"": 100}",Pepin,55091,False,False,America/Chicago
+54760,44.42412,-91.20626,Pigeon Falls,WI,Wisconsin,True,,235.0,595.5,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago
+54761,44.62667,-92.17908,Plum City,WI,Wisconsin,True,,1307.0,12.5,55093,Pierce,"{""55093"": 100}",Pierce,55093,False,False,America/Chicago
+54762,45.25107,-91.98967,Prairie Farm,WI,Wisconsin,True,,1235.0,9.0,55005,Barron,"{""55005"": 86.91, ""55033"": 13.09}",Barron|Dunn,55005|55033,False,False,America/Chicago
+54763,45.179,-91.87683,Ridgeland,WI,Wisconsin,True,,1082.0,6.9,55033,Dunn,"{""55033"": 83.46, ""55005"": 16.54}",Dunn|Barron,55033|55005,False,False,America/Chicago
+54766,45.33667,-90.86566,Sheldon,WI,Wisconsin,True,,1878.0,5.6,55119,Taylor,"{""55119"": 51.66, ""55107"": 38.04, ""55017"": 10.3}",Taylor|Rusk|Chippewa,55119|55107|55017,False,False,America/Chicago
+54767,44.82645,-92.25513,Spring Valley,WI,Wisconsin,True,,3484.0,16.1,55093,Pierce,"{""55093"": 81.97, ""55109"": 12.64, ""55033"": 5.39}",Pierce|St. Croix|Dunn,55093|55109|55033,False,False,America/Chicago
+54768,44.96312,-90.92761,Stanley,WI,Wisconsin,True,,6450.0,18.5,55017,Chippewa,"{""55017"": 45.47, ""55019"": 32.4, ""55119"": 12.7, ""55035"": 9.43}",Chippewa|Clark|Taylor|Eau Claire,55017|55019|55119|55035,False,False,America/Chicago
+54769,44.50897,-92.23304,Stockholm,WI,Wisconsin,True,,539.0,6.4,55091,Pepin,"{""55091"": 79.65, ""55093"": 20.35}",Pepin|Pierce,55091|55093,False,False,America/Chicago
+54770,44.55121,-91.37259,Strum,WI,Wisconsin,True,,2145.0,12.8,55121,Trempealeau,"{""55121"": 73.5, ""55035"": 26.5}",Trempealeau|Eau Claire,55121|55035,False,False,America/Chicago
+54771,44.92356,-90.80579,Thorp,WI,Wisconsin,True,,4303.0,11.1,55019,Clark,"{""55019"": 88.19, ""55119"": 11.81}",Clark|Taylor,55019|55119,False,False,America/Chicago
+54772,45.09668,-91.87303,Wheeler,WI,Wisconsin,True,,1022.0,6.7,55033,Dunn,"{""55033"": 100}",Dunn,55033,False,False,America/Chicago
+54773,44.39301,-91.3002,Whitehall,WI,Wisconsin,True,,3483.0,19.2,55121,Trempealeau,"{""55121"": 100}",Trempealeau,55121,False,False,America/Chicago
+54801,45.86711,-91.92266,Spooner,WI,Wisconsin,True,,6527.0,12.8,55129,Washburn,"{""55129"": 78.23, ""55013"": 21.77}",Washburn|Burnett,55129|55013,False,False,America/Chicago
+54805,45.41465,-92.02311,Almena,WI,Wisconsin,True,,1534.0,19.0,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54806,46.54784,-90.85061,Ashland,WI,Wisconsin,True,,11210.0,15.0,55003,Ashland,"{""55003"": 66.84, ""55007"": 33.16}",Ashland|Bayfield,55003|55007,False,False,America/Chicago
+54810,45.46126,-92.38403,Balsam Lake,WI,Wisconsin,True,,2625.0,21.8,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54812,45.39911,-91.88103,Barron,WI,Wisconsin,True,,5554.0,23.8,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54813,45.65477,-92.03071,Barronett,WI,Wisconsin,True,,659.0,4.6,55013,Burnett,"{""55013"": 51.44, ""55005"": 32.21, ""55129"": 16.35}",Burnett|Barron|Washburn,55013|55005|55129,False,False,America/Chicago
+54814,46.85672,-90.91876,Bayfield,WI,Wisconsin,True,,2728.0,6.9,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54817,45.67056,-91.53942,Birchwood,WI,Wisconsin,True,,1889.0,4.6,55129,Washburn,"{""55129"": 35.12, ""55113"": 32.83, ""55107"": 18.24, ""55005"": 13.81}",Washburn|Sawyer|Rusk|Barron,55129|55113|55107|55005,False,False,America/Chicago
+54819,45.47636,-91.30307,Bruce,WI,Wisconsin,True,,2321.0,5.9,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54820,46.56024,-91.55475,Brule,WI,Wisconsin,True,,941.0,3.1,55031,Douglas,"{""55031"": 52.37, ""55007"": 47.63}",Douglas|Bayfield,55031|55007,False,False,America/Chicago
+54821,46.22428,-91.16508,Cable,WI,Wisconsin,True,,1133.0,2.3,55007,Bayfield,"{""55007"": 97.89, ""55113"": 2.11}",Bayfield|Sawyer,55007|55113,False,False,America/Chicago
+54822,45.3944,-91.69995,Cameron,WI,Wisconsin,True,,4602.0,38.9,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54824,45.4753,-92.54017,Centuria,WI,Wisconsin,True,,2326.0,23.1,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54826,45.49971,-92.16422,Comstock,WI,Wisconsin,True,,675.0,5.6,55095,Polk,"{""55095"": 54.99, ""55005"": 45.01}",Polk|Barron,55095|55005,False,False,America/Chicago
+54827,46.80215,-91.10069,Cornucopia,WI,Wisconsin,True,,315.0,3.4,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54828,45.84201,-91.2934,Couderay,WI,Wisconsin,True,,838.0,4.7,55113,Sawyer,"{""55113"": 100}",Sawyer,55113,False,False,America/Chicago
+54829,45.5592,-92.06603,Cumberland,WI,Wisconsin,True,,5280.0,14.2,55005,Barron,"{""55005"": 75.33, ""55095"": 24.67}",Barron|Polk,55005|55095,False,False,America/Chicago
+54830,46.10571,-92.22305,Danbury,WI,Wisconsin,True,,2771.0,3.0,55013,Burnett,"{""55013"": 63.81, ""55031"": 36.04, ""55129"": 0.15}",Burnett|Douglas|Washburn,55013|55031|55129,False,False,America/Chicago
+54832,46.32661,-91.33073,Drummond,WI,Wisconsin,True,,367.0,1.4,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54835,45.67974,-91.2522,Exeland,WI,Wisconsin,True,,950.0,2.5,55113,Sawyer,"{""55113"": 82.34, ""55107"": 17.66}",Sawyer|Rusk,55113|55107,False,False,America/Chicago
+54836,46.43238,-92.19225,Foxboro,WI,Wisconsin,True,,1042.0,2.9,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54837,45.6746,-92.35754,Frederic,WI,Wisconsin,True,,3622.0,8.2,55095,Polk,"{""55095"": 81.74, ""55013"": 18.26}",Polk|Burnett,55095|55013,False,False,America/Chicago
+54838,46.24836,-91.79179,Gordon,WI,Wisconsin,True,,1090.0,1.7,55031,Douglas,"{""55031"": 97.98, ""55007"": 2.02}",Douglas|Bayfield,55031|55007,False,False,America/Chicago
+54839,46.35683,-91.14689,Grand View,WI,Wisconsin,True,,263.0,2.4,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54840,45.7556,-92.68928,Grantsburg,WI,Wisconsin,True,,4360.0,6.6,55013,Burnett,"{""55013"": 88.32, ""55095"": 11.68}",Burnett|Polk,55013|55095,False,False,America/Chicago
+54841,45.60776,-91.77887,Haugen,WI,Wisconsin,True,,250.0,193.4,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54842,46.49891,-91.86234,Hawthorne,WI,Wisconsin,True,,261.0,20.6,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54843,46.0251,-91.29494,Hayward,WI,Wisconsin,True,,11514.0,10.1,55113,Sawyer,"{""55113"": 92.83, ""55129"": 7.17}",Sawyer|Washburn,55113|55129,False,False,America/Chicago
+54844,46.78649,-91.21441,Herbster,WI,Wisconsin,True,,227.0,1.3,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54845,45.80724,-92.13786,Hertel,WI,Wisconsin,True,,111.0,8.2,55013,Burnett,"{""55013"": 100}",Burnett,55013,False,False,America/Chicago
+54846,46.37737,-90.72481,High Bridge,WI,Wisconsin,True,,675.0,8.0,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54847,46.57047,-91.40055,Iron River,WI,Wisconsin,True,,2328.0,4.7,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54848,45.51546,-91.10284,Ladysmith,WI,Wisconsin,True,,5776.0,11.7,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54849,46.47881,-91.71642,Lake Nebagamon,WI,Wisconsin,True,,1702.0,7.6,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54850,46.92255,-90.62389,La Pointe,WI,Wisconsin,True,,239.0,1.2,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54853,45.57106,-92.45211,Luck,WI,Wisconsin,True,,4006.0,17.6,55095,Polk,"{""55095"": 96.0, ""55013"": 4.0}",Polk|Burnett,55095|55013,False,False,America/Chicago
+54854,46.64127,-91.66864,Maple,WI,Wisconsin,True,,905.0,4.2,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54855,46.37492,-90.84397,Marengo,WI,Wisconsin,True,,933.0,5.1,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54856,46.43401,-91.10279,Mason,WI,Wisconsin,True,,1671.0,3.1,55007,Bayfield,"{""55007"": 98.48, ""55003"": 1.52}",Bayfield|Ashland,55007|55003,False,False,America/Chicago
+54857,45.59347,-91.59927,Mikana,WI,Wisconsin,True,,,,55005,Barron,"{""55005"": 100}",Barron,55005,False,False,America/Chicago
+54858,45.51824,-92.46031,Milltown,WI,Wisconsin,True,,1685.0,37.0,55095,Polk,"{""55095"": 100}",Polk,55095,False,False,America/Chicago
+54859,46.12121,-91.82337,Minong,WI,Wisconsin,True,,1803.0,3.9,55129,Washburn,"{""55129"": 80.84, ""55031"": 16.0, ""55013"": 3.16}",Washburn|Douglas|Burnett,55129|55031|55013,False,False,America/Chicago
+54861,46.59896,-90.64345,Odanah,WI,Wisconsin,True,,143.0,42.2,55003,Ashland,"{""55003"": 100}",Ashland,55003,False,False,America/Chicago
+54862,45.80385,-91.12132,Ojibwa,WI,Wisconsin,True,,289.0,2.0,55113,Sawyer,"{""55113"": 100}",Sawyer,55113,False,False,America/Chicago
+54864,46.60431,-91.79443,Poplar,WI,Wisconsin,True,,1376.0,10.3,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54865,46.74787,-91.37517,Port Wing,WI,Wisconsin,True,,489.0,2.9,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54867,45.78195,-91.21521,Radisson,WI,Wisconsin,True,,475.0,5.1,55113,Sawyer,"{""55113"": 100}",Sawyer,55113,False,False,America/Chicago
+54868,45.52723,-91.70977,Rice Lake,WI,Wisconsin,True,,15380.0,28.0,55005,Barron,"{""55005"": 94.33, ""55107"": 4.4, ""55129"": 1.27}",Barron|Rusk|Washburn,55005|55107|55129,False,False,America/Chicago
+54870,45.71205,-91.76967,Sarona,WI,Wisconsin,True,,1689.0,7.9,55129,Washburn,"{""55129"": 97.41, ""55005"": 2.59}",Washburn|Barron,55129|55005,False,False,America/Chicago
+54871,45.7412,-92.01503,Shell Lake,WI,Wisconsin,True,,3026.0,10.1,55129,Washburn,"{""55129"": 59.3, ""55013"": 40.7}",Washburn|Burnett,55129|55013,False,False,America/Chicago
+54872,45.76965,-92.39622,Siren,WI,Wisconsin,True,,2702.0,16.3,55013,Burnett,"{""55013"": 94.59, ""55095"": 5.41}",Burnett|Polk,55013|55095,False,False,America/Chicago
+54873,46.3448,-91.69292,Solon Springs,WI,Wisconsin,True,,3016.0,4.4,55031,Douglas,"{""55031"": 63.13, ""55007"": 36.87}",Douglas|Bayfield,55031|55007,False,False,America/Chicago
+54874,46.56911,-91.94304,South Range,WI,Wisconsin,True,,3932.0,10.5,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54875,45.97405,-91.6948,Springbrook,WI,Wisconsin,True,,1151.0,4.0,55129,Washburn,"{""55129"": 100}",Washburn,55129,False,False,America/Chicago
+54876,45.82811,-91.51439,Stone Lake,WI,Wisconsin,True,,1665.0,6.9,55113,Sawyer,"{""55113"": 60.55, ""55129"": 39.45}",Sawyer|Washburn,55113|55129,False,False,America/Chicago
+54880,46.59342,-92.12701,Superior,WI,Wisconsin,True,,29792.0,69.2,55031,Douglas,"{""55031"": 100}",Douglas,55031,False,False,America/Chicago
+54888,45.98046,-91.88803,Trego,WI,Wisconsin,True,,1152.0,4.5,55129,Washburn,"{""55129"": 100}",Washburn,55129,False,False,America/Chicago
+54889,45.41374,-92.17112,Turtle Lake,WI,Wisconsin,True,,2514.0,13.2,55095,Polk,"{""55095"": 55.03, ""55005"": 44.97}",Polk|Barron,55095|55005,False,False,America/Chicago
+54891,46.69727,-90.9688,Washburn,WI,Wisconsin,True,,3150.0,17.7,55007,Bayfield,"{""55007"": 100}",Bayfield,55007,False,False,America/Chicago
+54893,45.87094,-92.30837,Webster,WI,Wisconsin,True,,3800.0,9.6,55013,Burnett,"{""55013"": 100}",Burnett,55013,False,False,America/Chicago
+54895,45.44233,-91.44605,Weyerhaeuser,WI,Wisconsin,True,,781.0,2.8,55107,Rusk,"{""55107"": 100}",Rusk,55107,False,False,America/Chicago
+54896,45.81178,-90.87888,Winter,WI,Wisconsin,True,,1294.0,1.2,55113,Sawyer,"{""55113"": 100}",Sawyer,55113,False,False,America/Chicago
+54901,44.06265,-88.53335,Oshkosh,WI,Wisconsin,True,,37765.0,876.3,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54902,43.94934,-88.53969,Oshkosh,WI,Wisconsin,True,,22094.0,243.7,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54904,44.02346,-88.62592,Oshkosh,WI,Wisconsin,True,,22437.0,111.2,55139,Winnebago,"{""55139"": 99.54, ""55039"": 0.46}",Winnebago|Fond du Lac,55139|55039,False,False,America/Chicago
+54909,44.28575,-89.35343,Almond,WI,Wisconsin,True,,2249.0,9.0,55097,Portage,"{""55097"": 82.52, ""55137"": 17.48}",Portage|Waushara,55097|55137,False,False,America/Chicago
+54911,44.28174,-88.38086,Appleton,WI,Wisconsin,True,,25911.0,1187.6,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54913,44.34145,-88.40136,Appleton,WI,Wisconsin,True,,22184.0,133.4,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54914,44.26353,-88.48239,Appleton,WI,Wisconsin,True,,30555.0,613.6,55087,Outagamie,"{""55087"": 96.13, ""55139"": 3.87}",Outagamie|Winnebago,55087|55139,False,False,America/Chicago
+54915,44.24279,-88.35928,Appleton,WI,Wisconsin,True,,43401.0,1114.1,55015,Calumet,"{""55015"": 49.11, ""55087"": 45.08, ""55139"": 5.8}",Calumet|Outagamie|Winnebago,55015|55087|55139,False,False,America/Chicago
+54921,44.30155,-89.57341,Bancroft,WI,Wisconsin,True,,1188.0,5.3,55097,Portage,"{""55097"": 86.38, ""55001"": 13.62}",Portage|Adams,55097|55001,False,False,America/Chicago
+54922,44.54281,-88.74529,Bear Creek,WI,Wisconsin,True,,1195.0,10.0,55087,Outagamie,"{""55087"": 54.8, ""55135"": 45.2}",Outagamie|Waupaca,55087|55135,False,False,America/Chicago
+54923,43.99456,-88.96883,Berlin,WI,Wisconsin,True,,8770.0,25.0,55137,Waushara,"{""55137"": 47.89, ""55047"": 43.73, ""55139"": 8.38}",Waushara|Green Lake|Winnebago,55137|55047|55139,False,False,America/Chicago
+54926,44.61553,-89.01823,Big Falls,WI,Wisconsin,True,,,,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago
+54927,44.10192,-88.6548,Butte Des Morts,WI,Wisconsin,True,,443.0,785.4,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54928,44.73894,-88.88546,Caroline,WI,Wisconsin,True,,541.0,18.9,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54929,44.63704,-88.7372,Clintonville,WI,Wisconsin,True,,8511.0,26.9,55135,Waupaca,"{""55135"": 72.29, ""55115"": 25.81, ""55087"": 1.9}",Waupaca|Shawano|Outagamie,55135|55115|55087,False,False,America/Chicago
+54930,44.02884,-89.56383,Coloma,WI,Wisconsin,True,,1835.0,7.6,55137,Waushara,"{""55137"": 56.11, ""55001"": 40.97, ""55077"": 2.92}",Waushara|Adams|Marquette,55137|55001|55077,False,False,America/Chicago
+54931,44.2703,-88.66835,Dale,WI,Wisconsin,True,,432.0,333.1,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54932,43.83143,-88.61861,Eldorado,WI,Wisconsin,True,,1425.0,19.5,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+54933,44.66535,-88.70966,Embarrass,WI,Wisconsin,True,,353.0,191.7,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago
+54935,43.77542,-88.43396,Fond Du Lac,WI,Wisconsin,True,,41636.0,1030.9,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+54937,43.75959,-88.43335,Fond Du Lac,WI,Wisconsin,True,,20596.0,66.2,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+54940,44.22696,-88.84446,Fremont,WI,Wisconsin,True,,4385.0,18.7,55139,Winnebago,"{""55139"": 30.34, ""55135"": 30.04, ""55137"": 29.92, ""55087"": 9.7}",Winnebago|Waupaca|Waushara|Outagamie,55139|55135|55137|55087,False,False,America/Chicago
+54941,43.85067,-88.99103,Green Lake,WI,Wisconsin,True,,2409.0,28.7,55047,Green Lake,"{""55047"": 100}",Green Lake,55047,False,False,America/Chicago
+54942,44.29904,-88.54265,Greenville,WI,Wisconsin,True,,10124.0,244.8,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54943,44.12377,-89.58199,Hancock,WI,Wisconsin,True,,1938.0,6.2,55137,Waushara,"{""55137"": 53.39, ""55001"": 46.61}",Waushara|Adams,55137|55001,False,False,America/Chicago
+54944,44.32409,-88.6274,Hortonville,WI,Wisconsin,True,,8838.0,49.5,55087,Outagamie,"{""55087"": 100}",Outagamie,55087,False,False,America/Chicago
+54945,44.57604,-89.13739,Iola,WI,Wisconsin,True,,3424.0,12.3,55135,Waupaca,"{""55135"": 98.49, ""55097"": 1.51}",Waupaca|Portage,55135|55097,False,False,America/Chicago
+54946,44.33704,-89.14503,King,WI,Wisconsin,True,,94.0,514.9,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago
+54947,44.20003,-88.68995,Larsen,WI,Wisconsin,True,,2259.0,18.8,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54948,44.7774,-88.88823,Leopolis,WI,Wisconsin,True,,207.0,7.7,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54949,44.48561,-88.91416,Manawa,WI,Wisconsin,True,,3271.0,19.3,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago
+54950,44.65408,-88.90614,Marion,WI,Wisconsin,True,,2826.0,13.3,55135,Waupaca,"{""55135"": 67.7, ""55115"": 32.3}",Waupaca|Shawano,55135|55115,False,False,America/Chicago
+54952,44.20086,-88.33719,Menasha,WI,Wisconsin,True,,27182.0,373.8,55015,Calumet,"{""55015"": 71.79, ""55139"": 28.21}",Calumet|Winnebago,55015|55139,False,False,America/Chicago
+54956,44.18444,-88.52778,Neenah,WI,Wisconsin,True,,44481.0,278.4,55139,Winnebago,"{""55139"": 96.53, ""55087"": 3.47}",Winnebago|Outagamie,55139|55087,False,False,America/Chicago
+54960,43.94569,-89.22386,Neshkoro,WI,Wisconsin,True,,2451.0,9.2,55077,Marquette,"{""55077"": 62.06, ""55137"": 19.23, ""55047"": 18.71}",Marquette|Waushara|Green Lake,55077|55137|55047,False,False,America/Chicago
+54961,44.41173,-88.7628,New London,WI,Wisconsin,True,,14037.0,43.7,55135,Waupaca,"{""55135"": 64.16, ""55087"": 35.84}",Waupaca|Outagamie,55135|55087,False,False,America/Chicago
+54962,44.48059,-89.02486,Ogdensburg,WI,Wisconsin,True,,1154.0,9.7,55135,Waupaca,"{""55135"": 100}",Waupaca,55135,False,False,America/Chicago
+54963,44.04524,-88.76661,Omro,WI,Wisconsin,True,,7152.0,36.3,55139,Winnebago,"{""55139"": 99.66, ""55137"": 0.34}",Winnebago|Waushara,55139|55137,False,False,America/Chicago
+54964,43.9178,-88.71836,Pickett,WI,Wisconsin,True,,1057.0,11.8,55139,Winnebago,"{""55139"": 72.75, ""55039"": 27.25}",Winnebago|Fond du Lac,55139|55039,False,False,America/Chicago
+54965,44.16429,-89.0324,Pine River,WI,Wisconsin,True,,1397.0,9.1,55137,Waushara,"{""55137"": 98.69, ""55135"": 1.31}",Waushara|Waupaca,55137|55135,False,False,America/Chicago
+54966,44.21276,-89.50579,Plainfield,WI,Wisconsin,True,,2089.0,9.9,55137,Waushara,"{""55137"": 73.67, ""55097"": 18.85, ""55001"": 7.48}",Waushara|Portage|Adams,55137|55097|55001,False,False,America/Chicago
+54967,44.12954,-88.98487,Poy Sippi,WI,Wisconsin,True,,467.0,80.3,55137,Waushara,"{""55137"": 100}",Waushara,55137,False,False,America/Chicago
+54968,43.84872,-89.13255,Princeton,WI,Wisconsin,True,,2873.0,18.1,55047,Green Lake,"{""55047"": 81.88, ""55077"": 18.12}",Green Lake|Marquette,55047|55077,False,False,America/Chicago
+54970,44.07091,-89.09352,Redgranite,WI,Wisconsin,True,,3862.0,32.6,55137,Waushara,"{""55137"": 100}",Waushara,55137,False,False,America/Chicago
+54971,43.85546,-88.83109,Ripon,WI,Wisconsin,True,,10467.0,36.4,55039,Fond du Lac,"{""55039"": 57.51, ""55139"": 21.9, ""55047"": 20.59}",Fond du Lac|Winnebago|Green Lake,55039|55139|55047,False,False,America/Chicago
+54974,43.7801,-88.65997,Rosendale,WI,Wisconsin,True,,1369.0,20.1,55039,Fond du Lac,"{""55039"": 100}",Fond du Lac,55039,False,False,America/Chicago
+54977,44.45696,-89.16471,Scandinavia,WI,Wisconsin,True,,1485.0,15.0,55135,Waupaca,"{""55135"": 88.17, ""55097"": 11.83}",Waupaca|Portage,55135|55097,False,False,America/Chicago
+54978,44.79423,-88.91405,Tilleda,WI,Wisconsin,True,,,,55115,Shawano,"{""55115"": 100}",Shawano,55115,False,False,America/Chicago
+54979,43.8688,-88.53875,Van Dyne,WI,Wisconsin,True,,1321.0,19.2,55039,Fond du Lac,"{""55039"": 95.68, ""55139"": 4.32}",Fond du Lac|Winnebago,55039|55139,False,False,America/Chicago
+54980,43.98625,-88.76906,Waukau,WI,Wisconsin,True,,139.0,154.0,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54981,44.32733,-89.12558,Waupaca,WI,Wisconsin,True,,14989.0,44.0,55135,Waupaca,"{""55135"": 91.11, ""55097"": 4.91, ""55137"": 3.98}",Waupaca|Portage|Waushara,55135|55097|55137,False,False,America/Chicago
+54982,44.07007,-89.29223,Wautoma,WI,Wisconsin,True,,6819.0,20.6,55137,Waushara,"{""55137"": 97.61, ""55077"": 2.39}",Waushara|Marquette,55137|55077,False,False,America/Chicago
+54983,44.31651,-88.93614,Weyauwega,WI,Wisconsin,True,,4299.0,20.2,55135,Waupaca,"{""55135"": 93.11, ""55137"": 6.89}",Waupaca|Waushara,55135|55137,False,False,America/Chicago
+54984,44.18728,-89.21967,Wild Rose,WI,Wisconsin,True,,3081.0,15.2,55137,Waushara,"{""55137"": 97.19, ""55097"": 2.81}",Waushara|Portage,55137|55097,False,False,America/Chicago
+54985,44.07562,-88.51953,Winnebago,WI,Wisconsin,True,,300.0,1289.1,55139,Winnebago,"{""55139"": 100}",Winnebago,55139,False,False,America/Chicago
+54986,44.11981,-88.75127,Winneconne,WI,Wisconsin,True,,5457.0,72.6,55139,Winnebago,"{""55139"": 99.19, ""55137"": 0.81}",Winnebago|Waushara,55139|55137,False,False,America/Chicago

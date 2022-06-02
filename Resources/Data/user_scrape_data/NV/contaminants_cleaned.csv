@@ -1,0 +1,1561 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+NV,Caliente,89001.0,Caliente Public Utilities,1100,Arsenic,6.02,0.004,10,ppb,1504.9999999999998
+NV,Caliente,89001.0,Caliente Public Utilities,1100,Nitrate,0.534,0.14,10,ppm,3.814285714285714
+NV,Caliente,89001.0,Caliente Public Utilities,1100,Nitrate and nitrite,0.55,0.14,10,ppm,3.9285714285714284
+NV,Caliente,89001.0,Caliente Public Utilities,1100,Uranium,4.06,0.43,20,pCi/L,9.441860465116278
+NV,Caliente,89001.0,Caliente Public Utilities,1100,Manganese,1.08,100.0,0,ppb,0.0108
+NV,Panaca,89001.0,Panaca Farmstead Water Association,900,Arsenic,15.4,0.004,10,ppb,3850.0
+NV,Panaca,89001.0,Panaca Farmstead Water Association,900,Nitrate,0.445,0.14,10,ppm,3.1785714285714284
+NV,Panaca,89001.0,Panaca Farmstead Water Association,900,Nitrate and nitrite,0.41,0.14,10,ppm,2.928571428571428
+NV,Panaca,89001.0,Panaca Farmstead Water Association,900,Uranium,1.94,0.43,20,pCi/L,4.511627906976744
+NV,Panaca,89001.0,Panaca Farmstead Water Association,900,Barium,75.0,700.0,2000,ppb,0.10714285714285714
+NV,Pioche,89001.0,Pioche Public Utilities,700,Arsenic,4.72,0.004,10,ppb,1180.0
+NV,Pioche,89001.0,Pioche Public Utilities,700,Nitrate,1.94,0.14,10,ppm,13.857142857142856
+NV,Pioche,89001.0,Pioche Public Utilities,700,Nitrate and nitrite,2.97,0.14,10,ppm,21.214285714285715
+NV,Pioche,89001.0,Pioche Public Utilities,700,Radium combined (-226 &amp; -228),1.13,0.05,5,pCi/L,22.599999999999998
+NV,Pioche,89001.0,Pioche Public Utilities,700,Radon,750.22,1.5,0,pCi/L,500.1466666666667
+NV,Pioche,89001.0,Pioche Public Utilities,700,Uranium,1.75,0.43,20,pCi/L,4.069767441860465
+NV,Pioche,89001.0,Pioche Public Utilities,700,Aluminum,105.7,600.0,0,ppb,0.17616666666666667
+NV,Pioche,89001.0,Pioche Public Utilities,700,Barium,11.9,700.0,2000,ppb,0.017
+NV,Pioche,89001.0,Pioche Public Utilities,700,Manganese,11.2,100.0,0,ppb,0.11199999999999999
+NV,Pioche,89001.0,Pioche Public Utilities,700,Arsenic,4.72,0.004,10,ppb,1180.0
+NV,Pioche,89001.0,Pioche Public Utilities,700,Nitrate,1.94,0.14,10,ppm,13.857142857142856
+NV,Pioche,89001.0,Pioche Public Utilities,700,Nitrate and nitrite,2.97,0.14,10,ppm,21.214285714285715
+NV,Pioche,89001.0,Pioche Public Utilities,700,Radium combined (-226 &amp; -228),1.13,0.05,5,pCi/L,22.599999999999998
+NV,Pioche,89001.0,Pioche Public Utilities,700,Radon,750.22,1.5,0,pCi/L,500.1466666666667
+NV,Pioche,89001.0,Pioche Public Utilities,700,Uranium,1.75,0.43,20,pCi/L,4.069767441860465
+NV,Pioche,89001.0,Pioche Public Utilities,700,Aluminum,105.7,600.0,0,ppb,0.17616666666666667
+NV,Pioche,89001.0,Pioche Public Utilities,700,Barium,11.9,700.0,2000,ppb,0.017
+NV,Pioche,89001.0,Pioche Public Utilities,700,Manganese,11.2,100.0,0,ppb,0.11199999999999999
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Arsenic,6.89,0.004,10,ppb,1722.4999999999998
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Nitrate,1.53,0.14,10,ppm,10.928571428571427
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Nitrate and nitrite,1.54,0.14,10,ppm,11.0
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Radium combined (-226 &amp; -228),1.39,0.05,5,pCi/L,27.799999999999997
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Radon,476.7,1.5,0,pCi/L,317.8
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Aluminum,4.73,600.0,0,ppb,0.007883333333333334
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Selenium,2.43,30.0,50,ppb,0.081
+NV,Las Vegas,89003.0,Amargosa Water Company,54,Uranium,0.85,0.43,20,pCi/L,1.9767441860465116
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Arsenic,2.33,0.004,10,ppb,582.5
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Nitrate,0.358,0.14,10,ppm,2.557142857142857
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Nitrate and nitrite,0.343,0.14,10,ppm,2.45
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Radium combined (-226 &amp; -228),0.77,0.05,5,pCi/L,15.4
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Radon,576.0,1.5,0,pCi/L,384.0
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Uranium,1.23,0.43,20,pCi/L,2.86046511627907
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Aluminum,1.98,600.0,0,ppb,0.0033
+NV,Pahrump,89003.0,Anchor In Mobile Home Park,36,Antimony,1.88,1.0,6,ppb,1.88
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Arsenic,11.9,0.004,10,ppb,2975.0
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Bromodichloromethane,0.719,0.06,0,ppb,11.983333333333333
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Bromoform,2.51,0.5,0,ppb,5.02
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Chloroform,0.888,0.4,0,ppb,2.2199999999999998
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Dibromochloromethane,1.73,0.1,0,ppb,17.299999999999997
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Nitrate,0.573,0.14,10,ppm,4.0928571428571425
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Nitrate and nitrite,0.552,0.14,10,ppm,3.9428571428571426
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Total trihalomethanes (TTHMs)†,6.14,0.15,80,ppb,40.93333333333333
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Uranium,2.75,0.43,20,pCi/L,6.395348837209302
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Aluminum,16.0,600.0,0,ppb,0.02666666666666667
+NV,Beatty,89003.0,Beatty Water and Sanitation District,1024,Barium,10.0,700.0,2000,ppb,0.014285714285714285
+NV,Las Vegas,89003.0,Big Five Park,65,Arsenic,0.373,0.004,10,ppb,93.25
+NV,Las Vegas,89003.0,Big Five Park,65,Nitrate,0.352,0.14,10,ppm,2.514285714285714
+NV,Las Vegas,89003.0,Big Five Park,65,Nitrate and nitrite,0.419,0.14,10,ppm,2.9928571428571424
+NV,Las Vegas,89003.0,Big Five Park,65,Radium combined (-226 &amp; -228),0.54,0.05,5,pCi/L,10.8
+NV,Las Vegas,89003.0,Big Five Park,65,Radon,280.6,1.5,0,pCi/L,187.0666666666667
+NV,Las Vegas,89003.0,Big Five Park,65,Uranium,0.99,0.43,20,pCi/L,2.302325581395349
+NV,Las Vegas,89003.0,Big Five Park,65,Aluminum,2.81,600.0,0,ppb,0.004683333333333334
+NV,Las Vegas,89003.0,Big Five Park,65,Barium,55.4,700.0,2000,ppb,0.07914285714285714
+NV,Las Vegas,89003.0,Big Five Park,65,Manganese,1.7,100.0,0,ppb,0.017
+NV,Las Vegas,89003.0,Big Five Park,65,Selenium,1.38,30.0,50,ppb,0.046
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Arsenic,2.63,0.004,10,ppb,657.5
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Nitrate,1.13,0.14,10,ppm,8.07142857142857
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Nitrate and nitrite,1.28,0.14,10,ppm,9.142857142857142
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Radium combined (-226 &amp; -228),0.73,0.05,5,pCi/L,14.6
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Radon,201.6,1.5,0,pCi/L,134.4
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Uranium,3.09,0.43,20,pCi/L,7.186046511627906
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Aluminum,3.77,600.0,0,ppb,0.0062833333333333335
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Barium,29.4,700.0,2000,ppb,0.041999999999999996
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Manganese,4.21,100.0,0,ppb,0.0421
+NV,Pahrump,89003.0,Big Valley Mobile Home Park,50,Selenium,9.0,30.0,50,ppb,0.3
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Antimony,2.2,1.0,6,ppb,2.2
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Arsenic,1.6,0.004,10,ppb,400.0
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Nitrate,0.674,0.14,10,ppm,4.814285714285714
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Nitrate and nitrite,0.615,0.14,10,ppm,4.392857142857142
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Radium combined (-226 &amp; -228),0.33,0.05,5,pCi/L,6.6
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Radon,389.6,1.5,0,pCi/L,259.73333333333335
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Uranium,7.24,0.43,20,pCi/L,16.837209302325583
+NV,Pahrump,89003.0,C Valley Mobile Home Park,54,Aluminum,9.69,600.0,0,ppb,0.016149999999999998
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Arsenic,0.667,0.004,10,ppb,166.75
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Haloacetic acids (HAA5)†,0.59,0.1,60,ppb,5.8999999999999995
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Nitrate,0.544,0.14,10,ppm,3.8857142857142857
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Nitrate and nitrite,0.587,0.14,10,ppm,4.192857142857142
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Radium combined (-226 &amp; -228),1.22,0.05,5,pCi/L,24.4
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Radon,550.0,1.5,0,pCi/L,366.6666666666667
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Trichloroacetic acid,0.59,0.1,0,ppb,5.8999999999999995
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Aluminum,25.8,600.0,0,ppb,0.043000000000000003
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Barium,130.0,700.0,2000,ppb,0.18571428571428572
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Chloroform,0.3,0.4,0,ppb,0.7499999999999999
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Manganese,49.2,100.0,0,ppb,0.49200000000000005
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Total trihalomethanes (TTHMs)†,0.3,0.15,80,ppb,2.0
+NV,Pahrump,89003.0,Calvada Meadows Gbwc,77,Uranium,0.71,0.43,20,pCi/L,1.6511627906976745
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Arsenic,7.12,0.004,10,ppb,1780.0
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Radium combined (-226 &amp; -228),0.5,0.05,5,pCi/L,10.0
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Uranium,2.01,0.43,20,pCi/L,4.674418604651162
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Barium,12.0,700.0,2000,ppb,0.017142857142857144
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Mercury (inorganic),0.2,1.2,2,ppb,0.16666666666666669
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Nitrate,0.0567,0.14,10,ppm,0.40499999999999997
+NV,Round Mountain,89003.0,Carvers Smokey Valley Rv and Mobile Home Park,250,Nitrate and nitrite,0.025,0.14,10,ppm,0.17857142857142858
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Arsenic,1.1,0.004,10,ppb,275.0
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Dibromochloromethane,0.203,0.1,0,ppb,2.03
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Haloacetic acids (HAA5)†,0.517,0.1,60,ppb,5.17
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Nitrate,0.292,0.14,10,ppm,2.0857142857142854
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Total trihalomethanes (TTHMs)†,0.684,0.15,80,ppb,4.5600000000000005
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Trichloroacetic acid,0.517,0.1,0,ppb,5.17
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Uranium,1.54,0.43,20,pCi/L,3.5813953488372094
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Barium,82.0,700.0,2000,ppb,0.11714285714285715
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Bromodichloromethane,0.104,0.06,0,ppb,1.7333333333333334
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Bromoform,0.181,0.5,0,ppb,0.362
+NV,Pahrump,89003.0,Desert Mirage Homeowners Association,230,Nitrate and nitrite,0.255,0.14,10,ppm,1.8214285714285714
+NV,Pahrump,89003.0,Desert Utilities,1086,Arsenic,0.97,0.004,10,ppb,242.5
+NV,Pahrump,89003.0,Desert Utilities,1086,Nitrate,0.79,0.14,10,ppm,5.642857142857142
+NV,Pahrump,89003.0,Desert Utilities,1086,Nitrate and nitrite,1.07,0.14,10,ppm,7.642857142857142
+NV,Pahrump,89003.0,Desert Utilities,1086,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+NV,Pahrump,89003.0,Desert Utilities,1086,Radon,348.48,1.5,0,pCi/L,232.32000000000002
+NV,Pahrump,89003.0,Desert Utilities,1086,Aluminum,1.46,600.0,0,ppb,0.0024333333333333334
+NV,Pahrump,89003.0,Desert Utilities,1086,Barium,83.8,700.0,2000,ppb,0.1197142857142857
+NV,Pahrump,89003.0,Desert Utilities,1086,Selenium,2.78,30.0,50,ppb,0.09266666666666666
+NV,Pahrump,89003.0,Desert Utilities,1086,Uranium,0.75,0.43,20,pCi/L,1.744186046511628
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Arsenic,4.63,0.004,10,ppb,1157.5
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Nitrate,0.341,0.14,10,ppm,2.4357142857142855
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Nitrate and nitrite,0.366,0.14,10,ppm,2.614285714285714
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Radium combined (-226 &amp; -228),1.0,0.05,5,pCi/L,20.0
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Radon,326.35,1.5,0,pCi/L,217.5666666666667
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Uranium,1.35,0.43,20,pCi/L,3.1395348837209305
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Aluminum,11.8,600.0,0,ppb,0.01966666666666667
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Barium,76.0,700.0,2000,ppb,0.10857142857142857
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Di(2-ethylhexyl) adipate,0.562,200.0,400,ppb,0.0028100000000000004
+NV,Pahrump,89003.0,Escapee Co-op of Nevada,200,Manganese,3.0,100.0,0,ppb,0.03
+NV,Pahrump,89003.0,Gabbs Water System,411,Arsenic,5.8,0.004,10,ppb,1450.0
+NV,Pahrump,89003.0,Gabbs Water System,411,Radium combined (-226 &amp; -228),0.53,0.05,5,pCi/L,10.6
+NV,Pahrump,89003.0,Gabbs Water System,411,Radon,818.0,1.5,0,pCi/L,545.3333333333334
+NV,Pahrump,89003.0,Gabbs Water System,411,Total trihalomethanes (TTHMs)†,0.523,0.15,80,ppb,3.486666666666667
+NV,Pahrump,89003.0,Gabbs Water System,411,Uranium,1.87,0.43,20,pCi/L,4.348837209302326
+NV,Pahrump,89003.0,Gabbs Water System,411,Aluminum,1.44,600.0,0,ppb,0.0024
+NV,Pahrump,89003.0,Gabbs Water System,411,Barium,31.7,700.0,2000,ppb,0.04528571428571428
+NV,Pahrump,89003.0,Gabbs Water System,411,Bromoform,0.35,0.5,0,ppb,0.7
+NV,Pahrump,89003.0,Gabbs Water System,411,Dibromochloromethane,0.171,0.1,0,ppb,1.71
+NV,Pahrump,89003.0,Gabbs Water System,411,Manganese,1.18,100.0,0,ppb,0.0118
+NV,Pahrump,89003.0,Gabbs Water System,411,Nitrate,0.0445,0.14,10,ppm,0.31785714285714284
+NV,Pahrump,89003.0,Gabbs Water System,411,Nitrate and nitrite,0.0167,0.14,10,ppm,0.11928571428571427
+NV,Pahrump,89003.0,Gabbs Water System,411,Selenium,0.755,30.0,50,ppb,0.025166666666666667
+NV,Pahrump,89003.0,Manhattan Town Water,40,Arsenic,1.41,0.004,10,ppb,352.5
+NV,Pahrump,89003.0,Manhattan Town Water,40,Bromoform,1.74,0.5,0,ppb,3.48
+NV,Pahrump,89003.0,Manhattan Town Water,40,Dibromoacetic acid,0.359,0.04,0,ppb,8.975
+NV,Pahrump,89003.0,Manhattan Town Water,40,Dibromochloromethane,0.754,0.1,0,ppb,7.54
+NV,Pahrump,89003.0,Manhattan Town Water,40,Haloacetic acids (HAA5)†,0.359,0.1,60,ppb,3.59
+NV,Pahrump,89003.0,Manhattan Town Water,40,Nitrate,0.646,0.14,10,ppm,4.614285714285714
+NV,Pahrump,89003.0,Manhattan Town Water,40,Nitrate and nitrite,0.822,0.14,10,ppm,5.87142857142857
+NV,Pahrump,89003.0,Manhattan Town Water,40,Radium combined (-226 &amp; -228),0.79,0.05,5,pCi/L,15.8
+NV,Pahrump,89003.0,Manhattan Town Water,40,Total trihalomethanes (TTHMs)†,2.16,0.15,80,ppb,14.400000000000002
+NV,Pahrump,89003.0,Manhattan Town Water,40,Uranium,1.5,0.43,20,pCi/L,3.488372093023256
+NV,Pahrump,89003.0,Manhattan Town Water,40,Aluminum,1.98,600.0,0,ppb,0.0033
+NV,Pahrump,89003.0,Manhattan Town Water,40,Bromodichloromethane,0.059,0.06,0,ppb,0.9833333333333333
+NV,Pahrump,89003.0,Manhattan Town Water,40,Manganese,13.3,100.0,0,ppb,0.133
+NV,Pahrump,89003.0,Manhattan Town Water,40,Mercury (inorganic),0.32,1.2,2,ppb,0.26666666666666666
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Nitrate,0.381,0.14,10,ppm,2.721428571428571
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Nitrate and nitrite,0.328,0.14,10,ppm,2.3428571428571425
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Radium combined (-226 &amp; -228),0.91,0.05,5,pCi/L,18.2
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Radon,309.0,1.5,0,pCi/L,206.0
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Uranium,1.27,0.43,20,pCi/L,2.953488372093023
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Aluminum,1.24,600.0,0,ppb,0.0020666666666666667
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Ethylbenzene,5.5,300.0,700,ppb,0.018333333333333333
+NV,Pahrump,89003.0,Mountain Falls Water System Gbwc,1718,Xylenes (total),36.0,1800.0,10000,ppb,0.02
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Bromodichloromethane,0.841,0.06,0,ppb,14.016666666666667
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Dibromoacetic acid,0.167,0.04,0,ppb,4.175
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Dibromochloromethane,0.712,0.1,0,ppb,7.119999999999999
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Dichloroacetic acid,1.23,0.2,0,ppb,6.1499999999999995
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Haloacetic acids (HAA5)†,1.4,0.1,60,ppb,13.999999999999998
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Nitrate,0.283,0.14,10,ppm,2.021428571428571
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Radium combined (-226 &amp; -228),1.03,0.05,5,pCi/L,20.599999999999998
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Radon,312.1,1.5,0,pCi/L,208.0666666666667
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Total trihalomethanes (TTHMs)†,2.41,0.15,80,ppb,16.06666666666667
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Uranium,1.27,0.43,20,pCi/L,2.953488372093023
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Aluminum,10.9,600.0,0,ppb,0.018166666666666668
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Antimony,0.37,1.0,6,ppb,0.37
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Barium,43.9,700.0,2000,ppb,0.06271428571428571
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Bromoform,0.172,0.5,0,ppb,0.344
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Chloroform,0.687,0.4,0,ppb,1.7175
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Manganese,2.9,100.0,0,ppb,0.028999999999999998
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Nitrate and nitrite,0.218,0.14,10,ppm,1.557142857142857
+NV,Pahrump,89003.0,Pahrump Utility Company Inc.,985,Selenium,1.66,30.0,50,ppb,0.05533333333333333
+NV,Pahrump,89003.0,Rancho Vista 4,50,Arsenic,2.65,0.004,10,ppb,662.5
+NV,Pahrump,89003.0,Rancho Vista 4,50,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+NV,Pahrump,89003.0,Rancho Vista 4,50,Radon,325.0,1.5,0,pCi/L,216.66666666666666
+NV,Pahrump,89003.0,Rancho Vista 4,50,Uranium,1.61,0.43,20,pCi/L,3.7441860465116283
+NV,Pahrump,89003.0,Rancho Vista 4,50,Aluminum,0.333,600.0,0,ppb,0.000555
+NV,Pahrump,89003.0,Rancho Vista 4,50,Barium,72.1,700.0,2000,ppb,0.103
+NV,Pahrump,89003.0,Rancho Vista 4,50,Nitrate,0.126,0.14,10,ppm,0.8999999999999999
+NV,Pahrump,89003.0,Rancho Vista 4,50,Nitrate and nitrite,0.0903,0.14,10,ppm,0.645
+NV,Pahrump,89003.0,Rancho Vista 4,50,Selenium,0.797,30.0,50,ppb,0.02656666666666667
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Arsenic,3.03,0.004,10,ppb,757.4999999999999
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Chromium (hexavalent),2.96,0.02,0,ppb,148.0
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Haloacetic acids (HAA5)†,0.475,0.1,60,ppb,4.749999999999999
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Radium combined (-226 &amp; -228),0.45,0.05,5,pCi/L,9.0
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Uranium,1.68,0.43,20,pCi/L,3.9069767441860463
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Barium,66.5,700.0,2000,ppb,0.095
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Chlorate,117.5,210.0,0,ppb,0.5595238095238095
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Manganese,1.08,100.0,0,ppb,0.0108
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Molybdenum,1.1,40.0,0,ppb,0.027500000000000004
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Monochloroacetic acid,0.475,53.0,0,ppb,0.008962264150943396
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Nitrate,0.208,0.14,10,ppm,1.4857142857142855
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Nitrate and nitrite,0.25,0.14,10,ppm,1.7857142857142856
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Strontium,0.228,1500.0,0,ppb,0.000152
+NV,Round Mountain,89003.0,Round Mountain Puc,1200,Vanadium,0.82,21.0,0,ppb,0.039047619047619046
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Arsenic,13.5,0.004,10,ppb,3375.0
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Radium combined (-226 &amp; -228),0.32,0.05,5,pCi/L,6.3999999999999995
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Radon,1738.5,1.5,0,pCi/L,1159.0
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Uranium,2.4,0.43,20,pCi/L,5.5813953488372094
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Aluminum,14.5,600.0,0,ppb,0.024166666666666666
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Antimony,1.4,1.0,6,ppb,1.4
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Barium,5.5,700.0,2000,ppb,0.007857142857142858
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Nitrate,0.05,0.14,10,ppm,0.35714285714285715
+NV,Las Vegas,89003.0,Shoshone Estates Water Company Inc.,240,Nitrate and nitrite,0.0517,0.14,10,ppm,0.3692857142857143
+NV,Las Vegas,89003.0,Sunset Mobile Home Park,90,Arsenic,5.0,0.004,10,ppb,1250.0
+NV,Las Vegas,89003.0,Sunset Mobile Home Park,90,Barium,40.0,700.0,2000,ppb,0.05714285714285714
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Arsenic,5.88,0.004,10,ppb,1470.0
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Haloacetic acids (HAA5)†,0.35,0.1,60,ppb,3.4999999999999996
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Nitrate,4.07,0.14,10,ppm,29.07142857142857
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Nitrate and nitrite,3.78,0.14,10,ppm,26.999999999999996
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Radium combined (-226 &amp; -228),0.35,0.05,5,pCi/L,6.999999999999999
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Radon,362.0,1.5,0,pCi/L,241.33333333333334
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Total trihalomethanes (TTHMs)†,0.373,0.15,80,ppb,2.486666666666667
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Trichloroacetic acid,0.35,0.1,0,ppb,3.4999999999999996
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Uranium,2.35,0.43,20,pCi/L,5.465116279069767
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Barium,86.8,700.0,2000,ppb,0.124
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Bromoform,0.27,0.5,0,ppb,0.54
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Dibromochloromethane,0.0875,0.1,0,ppb,0.8749999999999999
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Ethylbenzene,2.22,300.0,700,ppb,0.0074
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Selenium,2.25,30.0,50,ppb,0.075
+NV,Tonopah,89003.0,Tonopah Public Utilities,2853,Xylenes (total),18.9,1800.0,10000,ppb,0.010499999999999999
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Bromodichloromethane,24.7,0.06,0,ppb,411.6666666666667
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Bromoform,1.79,0.5,0,ppb,3.58
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Chloroform,62.3,0.4,0,ppb,155.74999999999997
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Chromium (hexavalent)*,0.0623,0.02,0,ppb,3.115
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Dibromoacetic acid,2.98,0.04,0,ppb,74.5
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Dibromochloromethane,17.0,0.1,0,ppb,170.0
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Dichloroacetic acid,26.0,0.2,0,ppb,130.0
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Haloacetic acids (HAA5)†,44.0,0.1,60,ppb,440.0
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Haloacetic acids (HAA9)*†,41.1,0.06,0,ppb,685.0
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Total trihalomethanes (TTHMs)†,105.9,0.15,80,ppb,706.0000000000001
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Trichloroacetic acid,7.94,0.1,0,ppb,79.4
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Chlorate*,14.1,210.0,0,ppb,0.06714285714285714
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Molybdenum*,4.36,40.0,0,ppb,0.10900000000000001
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Monobromoacetic acid,0.963,25.0,0,ppb,0.03852
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Monochloroacetic acid,6.09,53.0,0,ppb,0.11490566037735848
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Strontium*,1.11,1500.0,0,ppb,0.0007400000000000001
+NV,Boulder City NV,89005.0,Nevada State Veterans Home Boulder City,258,Vanadium*,1.66,21.0,0,ppb,0.07904761904761905
+NV,Henderson NV,89005.0,City of Henderson,321781,Arsenic,1.45,0.004,10,ppb,362.5
+NV,Henderson NV,89005.0,City of Henderson,321781,Bromodichloromethane,17.9,0.06,0,ppb,298.3333333333333
+NV,Henderson NV,89005.0,City of Henderson,321781,Bromoform,2.26,0.5,0,ppb,4.52
+NV,Henderson NV,89005.0,City of Henderson,321781,Chloroform,22.8,0.4,0,ppb,57.0
+NV,Henderson NV,89005.0,City of Henderson,321781,Chromium (hexavalent),0.0571,0.02,0,ppb,2.855
+NV,Henderson NV,89005.0,City of Henderson,321781,Dibromoacetic acid,3.01,0.04,0,ppb,75.25
+NV,Henderson NV,89005.0,City of Henderson,321781,Dibromochloromethane,13.0,0.1,0,ppb,130.0
+NV,Henderson NV,89005.0,City of Henderson,321781,Dichloroacetic acid,10.6,0.2,0,ppb,52.99999999999999
+NV,Henderson NV,89005.0,City of Henderson,321781,Haloacetic acids (HAA5)†,19.6,0.1,60,ppb,196.0
+NV,Henderson NV,89005.0,City of Henderson,321781,Haloacetic acids (HAA9)†,34.7,0.06,0,ppb,578.3333333333334
+NV,Henderson NV,89005.0,City of Henderson,321781,Nitrate,0.559,0.14,10,ppm,3.992857142857143
+NV,Henderson NV,89005.0,City of Henderson,321781,Nitrate and nitrite,0.559,0.14,10,ppm,3.992857142857143
+NV,Henderson NV,89005.0,City of Henderson,321781,Radium combined (-226 &amp; -228),0.12,0.05,5,pCi/L,2.4
+NV,Henderson NV,89005.0,City of Henderson,321781,Total trihalomethanes (TTHMs)†,56.0,0.15,80,ppb,373.33333333333337
+NV,Henderson NV,89005.0,City of Henderson,321781,Trichloroacetic acid,5.63,0.1,0,ppb,56.3
+NV,Henderson NV,89005.0,City of Henderson,321781,Uranium,2.57,0.43,20,pCi/L,5.976744186046512
+NV,Henderson NV,89005.0,City of Henderson,321781,Barium,112.9,700.0,2000,ppb,0.16128571428571428
+NV,Henderson NV,89005.0,City of Henderson,321781,Chlorate,107.9,210.0,0,ppb,0.5138095238095238
+NV,Henderson NV,89005.0,City of Henderson,321781,Di(2-ethylhexyl) phthalate,0.0833,3.0,6,ppb,0.027766666666666665
+NV,Henderson NV,89005.0,City of Henderson,321781,Diquat,0.0343,6.0,20,ppb,0.005716666666666666
+NV,Henderson NV,89005.0,City of Henderson,321781,Glyphosate,0.364,5.0,700,ppb,0.0728
+NV,Henderson NV,89005.0,City of Henderson,321781,Manganese,0.0153,100.0,0,ppb,0.000153
+NV,Henderson NV,89005.0,City of Henderson,321781,Molybdenum,2.44,40.0,0,ppb,0.061
+NV,Henderson NV,89005.0,City of Henderson,321781,Monobromoacetic acid,0.2,25.0,0,ppb,0.008
+NV,Henderson NV,89005.0,City of Henderson,321781,Monochloroacetic acid,0.162,53.0,0,ppb,0.003056603773584906
+NV,Henderson NV,89005.0,City of Henderson,321781,Perchlorate,1.94,1.0,0,ppb,1.94
+NV,Henderson NV,89005.0,City of Henderson,321781,Selenium,2.47,30.0,50,ppb,0.08233333333333334
+NV,Henderson NV,89005.0,City of Henderson,321781,Strontium,1.18,1500.0,0,ppb,0.0007866666666666666
+NV,Henderson NV,89005.0,City of Henderson,321781,Vanadium,0.718,21.0,0,ppb,0.03419047619047619
+NV,Goldfield,89010.0,Goldfield Town Water,350,Arsenic,7.88,0.004,10,ppb,1970.0
+NV,Goldfield,89010.0,Goldfield Town Water,350,Bromodichloromethane,0.2,0.06,0,ppb,3.3333333333333335
+NV,Goldfield,89010.0,Goldfield Town Water,350,Dibromochloromethane,0.336,0.1,0,ppb,3.36
+NV,Goldfield,89010.0,Goldfield Town Water,350,Haloacetic acids (HAA5)†,1.4,0.1,60,ppb,13.999999999999998
+NV,Goldfield,89010.0,Goldfield Town Water,350,Nitrate,1.45,0.14,10,ppm,10.357142857142856
+NV,Goldfield,89010.0,Goldfield Town Water,350,Nitrate and nitrite,1.35,0.14,10,ppm,9.642857142857142
+NV,Goldfield,89010.0,Goldfield Town Water,350,Radium combined (-226 &amp; -228),1.18,0.05,5,pCi/L,23.599999999999998
+NV,Goldfield,89010.0,Goldfield Town Water,350,Total trihalomethanes (TTHMs)†,1.3,0.15,80,ppb,8.666666666666668
+NV,Goldfield,89010.0,Goldfield Town Water,350,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Goldfield,89010.0,Goldfield Town Water,350,Uranium,3.35,0.43,20,pCi/L,7.790697674418605
+NV,Goldfield,89010.0,Goldfield Town Water,350,Aluminum,2.31,600.0,0,ppb,0.00385
+NV,Goldfield,89010.0,Goldfield Town Water,350,Barium,26.5,700.0,2000,ppb,0.03785714285714286
+NV,Goldfield,89010.0,Goldfield Town Water,350,Bromoform,0.476,0.5,0,ppb,0.952
+NV,Goldfield,89010.0,Goldfield Town Water,350,Chloroform,0.129,0.4,0,ppb,0.3225
+NV,Goldfield,89010.0,Goldfield Town Water,350,Ethylbenzene,0.25,300.0,700,ppb,0.0008333333333333334
+NV,Goldfield,89010.0,Goldfield Town Water,350,Toluene,0.025,150.0,1000,ppb,0.0001666666666666667
+NV,Goldfield,89010.0,Goldfield Town Water,350,Xylenes (total),1.6,1800.0,10000,ppb,0.0008888888888888889
+NV,Goldfield,89010.0,Silver Peak Water System,138,Arsenic,1.6,0.004,10,ppb,400.0
+NV,Goldfield,89010.0,Silver Peak Water System,138,Haloacetic acids (HAA5)†,6.1,0.1,60,ppb,60.99999999999999
+NV,Goldfield,89010.0,Silver Peak Water System,138,Nitrate,0.665,0.14,10,ppm,4.75
+NV,Goldfield,89010.0,Silver Peak Water System,138,Nitrate and nitrite,1.54,0.14,10,ppm,11.0
+NV,Goldfield,89010.0,Silver Peak Water System,138,Radium combined (-226 &amp; -228),0.92,0.05,5,pCi/L,18.4
+NV,Goldfield,89010.0,Silver Peak Water System,138,Radon,615.0,1.5,0,pCi/L,410.0
+NV,Goldfield,89010.0,Silver Peak Water System,138,Trichloroacetic acid,6.1,0.1,0,ppb,60.99999999999999
+NV,Goldfield,89010.0,Silver Peak Water System,138,Uranium,8.33,0.43,20,pCi/L,19.372093023255815
+NV,Goldfield,89010.0,Silver Peak Water System,138,Aluminum,3.15,600.0,0,ppb,0.0052499999999999995
+NV,Goldfield,89010.0,Silver Peak Water System,138,Barium,49.0,700.0,2000,ppb,0.07
+NV,Goldfield,89010.0,Silver Peak Water System,138,Bromoform,0.213,0.5,0,ppb,0.426
+NV,Goldfield,89010.0,Silver Peak Water System,138,Dibromochloromethane,0.0867,0.1,0,ppb,0.867
+NV,Goldfield,89010.0,Silver Peak Water System,138,Manganese,2.53,100.0,0,ppb,0.0253
+NV,Goldfield,89010.0,Silver Peak Water System,138,Total trihalomethanes (TTHMs)†,0.3,0.15,80,ppb,2.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Arsenic*,1.81,0.004,10,ppb,452.5
+NV,Boulder City NV,89015.0,Boulder City,15000,Bromate*,5.37,0.1,10,ppb,53.699999999999996
+NV,Boulder City NV,89015.0,Boulder City,15000,Bromodichloromethane,16.0,0.06,0,ppb,266.6666666666667
+NV,Boulder City NV,89015.0,Boulder City,15000,Bromoform,1.81,0.5,0,ppb,3.62
+NV,Boulder City NV,89015.0,Boulder City,15000,Chloroform,20.2,0.4,0,ppb,50.49999999999999
+NV,Boulder City NV,89015.0,Boulder City,15000,Chromium (hexavalent),0.0623,0.02,0,ppb,3.115
+NV,Boulder City NV,89015.0,Boulder City,15000,Dibromoacetic acid,3.2,0.04,0,ppb,80.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Dibromochloromethane,11.8,0.1,0,ppb,118.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Dichloroacetic acid,11.9,0.2,0,ppb,59.5
+NV,Boulder City NV,89015.0,Boulder City,15000,Haloacetic acids (HAA5)†,22.1,0.1,60,ppb,221.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Haloacetic acids (HAA9)†,41.1,0.06,0,ppb,685.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Nitrate*,0.438,0.14,10,ppm,3.128571428571428
+NV,Boulder City NV,89015.0,Boulder City,15000,Nitrate and nitrite*,0.438,0.14,10,ppm,3.128571428571428
+NV,Boulder City NV,89015.0,Boulder City,15000,Radium combined (-226 &amp; -228)*,0.16,0.05,5,pCi/L,3.1999999999999997
+NV,Boulder City NV,89015.0,Boulder City,15000,Total trihalomethanes (TTHMs)†,49.8,0.15,80,ppb,332.0
+NV,Boulder City NV,89015.0,Boulder City,15000,Trichloroacetic acid,6.23,0.1,0,ppb,62.300000000000004
+NV,Boulder City NV,89015.0,Boulder City,15000,Uranium*,2.6,0.43,20,pCi/L,6.046511627906977
+NV,Boulder City NV,89015.0,Boulder City,15000,Aluminum*,0.688,600.0,0,ppb,0.0011466666666666665
+NV,Boulder City NV,89015.0,Boulder City,15000,Barium*,118.8,700.0,2000,ppb,0.1697142857142857
+NV,Boulder City NV,89015.0,Boulder City,15000,Chlorate,14.1,210.0,0,ppb,0.06714285714285714
+NV,Boulder City NV,89015.0,Boulder City,15000,Di(2-ethylhexyl) adipate*,0.00385,200.0,400,ppb,1.925e-05
+NV,Boulder City NV,89015.0,Boulder City,15000,Di(2-ethylhexyl) phthalate*,0.0238,3.0,6,ppb,0.007933333333333334
+NV,Boulder City NV,89015.0,Boulder City,15000,Glyphosate*,0.255,5.0,700,ppb,0.051000000000000004
+NV,Boulder City NV,89015.0,Boulder City,15000,Molybdenum,4.36,40.0,0,ppb,0.10900000000000001
+NV,Boulder City NV,89015.0,Boulder City,15000,Monobromoacetic acid,0.273,25.0,0,ppb,0.010920000000000001
+NV,Boulder City NV,89015.0,Boulder City,15000,Monochloroacetic acid,0.435,53.0,0,ppb,0.00820754716981132
+NV,Boulder City NV,89015.0,Boulder City,15000,Perchlorate*,0.603,1.0,0,ppb,0.603
+NV,Boulder City NV,89015.0,Boulder City,15000,Selenium*,2.23,30.0,50,ppb,0.07433333333333333
+NV,Boulder City NV,89015.0,Boulder City,15000,Strontium,1.11,1500.0,0,ppb,0.0007400000000000001
+NV,Boulder City NV,89015.0,Boulder City,15000,Thallium*,0.00174,0.1,2,ppb,0.0174
+NV,Boulder City NV,89015.0,Boulder City,15000,Vanadium,1.66,21.0,0,ppb,0.07904761904761905
+NV,Sandy Valley NV,89019.0,Sky Ranch Estates,110,Uranium,0.45,0.43,20,pCi/L,1.0465116279069768
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Arsenic,2.44,0.004,10,ppb,610.0
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Bromodichloromethane,18.6,0.06,0,ppb,310.00000000000006
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Bromoform,1.84,0.5,0,ppb,3.68
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Chloroform,27.2,0.4,0,ppb,68.0
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Dibromoacetic acid,2.83,0.04,0,ppb,70.75
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Dibromochloromethane,12.4,0.1,0,ppb,124.0
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Dichloroacetic acid,12.7,0.2,0,ppb,63.49999999999999
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Haloacetic acids (HAA5)†,24.5,0.1,60,ppb,245.0
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Haloacetic acids (HAA9)†,34.0,0.06,0,ppb,566.6666666666667
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Nitrate,0.424,0.14,10,ppm,3.028571428571428
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Nitrate and nitrite,0.422,0.14,10,ppm,3.014285714285714
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Total trihalomethanes (TTHMs)†,59.9,0.15,80,ppb,399.3333333333333
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Trichloroacetic acid,8.1,0.1,0,ppb,80.99999999999999
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Uranium,1.55,0.43,20,pCi/L,3.604651162790698
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Aluminum,2.64,600.0,0,ppb,0.0044
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Barium,104.5,700.0,2000,ppb,0.1492857142857143
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Monobromoacetic acid,0.332,25.0,0,ppb,0.01328
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Monochloroacetic acid,0.566,53.0,0,ppb,0.010679245283018867
+NV,Nellis Afb NV,89025.0,Nellis Air Force Base,16857,Selenium,1.74,30.0,50,ppb,0.058
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Arsenic,1.7,0.004,10,ppb,425.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Bromodichloromethane,17.5,0.06,0,ppb,291.6666666666667
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Bromoform,1.85,0.5,0,ppb,3.7
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Chloroform,22.1,0.4,0,ppb,55.25
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Chromium (hexavalent),0.192,0.02,0,ppb,9.6
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Dibromoacetic acid,3.2,0.04,0,ppb,80.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Dibromochloromethane,12.4,0.1,0,ppb,124.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Dichloroacetic acid,11.8,0.2,0,ppb,59.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Haloacetic acids (HAA5)†,21.5,0.1,60,ppb,215.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Haloacetic acids (HAA9)†,39.6,0.06,0,ppb,660.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Nitrate,0.529,0.14,10,ppm,3.7785714285714285
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Nitrate and nitrite,0.532,0.14,10,ppm,3.8
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Radium combined (-226 &amp; -228),0.75,0.05,5,pCi/L,15.0
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Total trihalomethanes (TTHMs)†,53.9,0.15,80,ppb,359.3333333333333
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Trichloroacetic acid,6.34,0.1,0,ppb,63.4
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Uranium,1.39,0.43,20,pCi/L,3.2325581395348837
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Barium,95.2,700.0,2000,ppb,0.136
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Chlorate,13.3,210.0,0,ppb,0.06333333333333334
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Molybdenum,2.34,40.0,0,ppb,0.058499999999999996
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Monobromoacetic acid,0.215,25.0,0,ppb,0.0086
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Monochloroacetic acid,0.324,53.0,0,ppb,0.006113207547169812
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Selenium,1.0,30.0,50,ppb,0.03333333333333333
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Strontium,1.04,1500.0,0,ppb,0.0006933333333333333
+NV,Las Vegas NV,89025.0,North Las Vegas Utilities,306570,Vanadium,0.985,21.0,0,ppb,0.04690476190476191
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Arsenic,1.78,0.004,10,ppb,445.0
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Bromodichloromethane,15.7,0.06,0,ppb,261.6666666666667
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Bromoform,2.2,0.5,0,ppb,4.4
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Chloroform,21.5,0.4,0,ppb,53.75
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Chromium (hexavalent),0.204,0.02,0,ppb,10.2
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Dibromoacetic acid,3.69,0.04,0,ppb,92.25
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Dibromochloromethane,11.8,0.1,0,ppb,118.0
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Dichloroacetic acid,13.7,0.2,0,ppb,68.49999999999999
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Haloacetic acids (HAA5)†,24.6,0.1,60,ppb,246.0
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Haloacetic acids (HAA9)†,43.2,0.06,0,ppb,720.0000000000001
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Nitrate,1.82,0.14,10,ppm,13.0
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Nitrate and nitrite,1.81,0.14,10,ppm,12.928571428571427
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Total trihalomethanes (TTHMs)†,51.2,0.15,80,ppb,341.33333333333337
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Trichloroacetic acid,6.23,0.1,0,ppb,62.300000000000004
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Uranium,1.41,0.43,20,pCi/L,3.2790697674418605
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,24-D,0.000906,20.0,70,ppb,4.53e-05
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Aluminum,0.451,600.0,0,ppb,0.0007516666666666667
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Barium,61.0,700.0,2000,ppb,0.08714285714285715
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Chlorate,79.5,210.0,0,ppb,0.37857142857142856
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Di(2-ethylhexyl) phthalate,0.0469,3.0,6,ppb,0.015633333333333332
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Manganese,1.11,100.0,0,ppb,0.0111
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Molybdenum,0.472,40.0,0,ppb,0.0118
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Monobromoacetic acid,0.254,25.0,0,ppb,0.01016
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Monochloroacetic acid,0.738,53.0,0,ppb,0.013924528301886792
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Radium combined (-226 &amp; -228),0.01,0.05,5,pCi/L,0.19999999999999998
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Selenium,1.63,30.0,50,ppb,0.05433333333333333
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Strontium,0.957,1500.0,0,ppb,0.000638
+NV,Las Vegas NV,89026.0,Las Vegas Valley Water District,1502604,Vanadium,0.242,21.0,0,ppb,0.011523809523809523
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Arsenic,4.93,0.004,10,ppb,1232.5
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Bromodichloromethane,0.137,0.06,0,ppb,2.2833333333333337
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Bromoform,2.04,0.5,0,ppb,4.08
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Chromium (hexavalent),2.53,0.02,0,ppb,126.49999999999999
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Dibromoacetic acid,0.85,0.04,0,ppb,21.25
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Dibromochloromethane,0.766,0.1,0,ppb,7.66
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Haloacetic acids (HAA5)†,0.592,0.1,60,ppb,5.919999999999999
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Haloacetic acids (HAA9)†,4.09,0.06,0,ppb,68.16666666666667
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Nitrate,0.606,0.14,10,ppm,4.328571428571428
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Nitrate and nitrite,0.606,0.14,10,ppm,4.328571428571428
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Radium combined (-226 &amp; -228),0.35,0.05,5,pCi/L,6.999999999999999
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Radon,185.4,1.5,0,pCi/L,123.60000000000001
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Total trihalomethanes (TTHMs)†,4.44,0.15,80,ppb,29.600000000000005
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Uranium,3.06,0.43,20,pCi/L,7.116279069767442
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Antimony,0.1,1.0,6,ppb,0.1
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Barium,34.4,700.0,2000,ppb,0.04914285714285714
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Chlorate,201.8,210.0,0,ppb,0.960952380952381
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Chloroform,0.0742,0.4,0,ppb,0.1855
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Manganese,1.0,100.0,0,ppb,0.01
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Molybdenum,8.51,40.0,0,ppb,0.21275
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Selenium,1.22,30.0,50,ppb,0.04066666666666666
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Strontium,1.85,1500.0,0,ppb,0.0012333333333333335
+NV,Mesquite NV,89026.0,Virgin Valley Water District,18000,Vanadium,1.77,21.0,0,ppb,0.08428571428571428
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Arsenic,2.32,0.004,10,ppb,580.0
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Radium combined (-226 &amp; -228),0.29,0.05,5,pCi/L,5.799999999999999
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Radon,128.35,1.5,0,pCi/L,85.56666666666666
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Uranium,1.99,0.43,20,pCi/L,4.627906976744186
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Aluminum,33.8,600.0,0,ppb,0.056333333333333326
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Barium,80.7,700.0,2000,ppb,0.11528571428571428
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Manganese,2.45,100.0,0,ppb,0.0245
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Nitrate,0.149,0.14,10,ppm,1.064285714285714
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Nitrate and nitrite,0.173,0.14,10,ppm,1.2357142857142855
+NV,Las Vegas NV,89101.0,Sunrise Acres Water Association,231,Selenium,1.03,30.0,50,ppb,0.034333333333333334
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Arsenic,1.13,0.004,10,ppb,282.49999999999994
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Nitrate,0.701,0.14,10,ppm,5.007142857142856
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Nitrate and nitrite,0.65,0.14,10,ppm,4.642857142857142
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Radium combined (-226 &amp; -228),0.26,0.05,5,pCi/L,5.2
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Total trihalomethanes (TTHMs)†,0.683,0.15,80,ppb,4.553333333333334
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Uranium,2.61,0.43,20,pCi/L,6.069767441860465
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Barium,53.7,700.0,2000,ppb,0.07671428571428572
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Bromoform,0.543,0.5,0,ppb,1.086
+NV,Las Vegas NV,89107.0,Rancho Cooperative Water Company,2,Chloroform,0.0427,0.4,0,ppb,0.10675
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Nitrate,0.7,0.14,10,ppm,4.999999999999999
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Nitrate and nitrite,0.838,0.14,10,ppm,5.985714285714285
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Total trihalomethanes (TTHMs)†,0.383,0.15,80,ppb,2.5533333333333337
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Uranium,1.51,0.43,20,pCi/L,3.511627906976744
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Barium,72.0,700.0,2000,ppb,0.10285714285714286
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Bromodichloromethane,0.053,0.06,0,ppb,0.8833333333333333
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Chloroform,0.32,0.4,0,ppb,0.7999999999999999
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Di(2-ethylhexyl) phthalate,0.0943,3.0,6,ppb,0.031433333333333334
+NV,Las Vegas NV,89108.0,Eastland Heights Water Association,400,Manganese,1.25,100.0,0,ppb,0.0125
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Arsenic,0.7,0.004,10,ppb,174.99999999999997
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Radium combined (-226 &amp; -228),0.82,0.05,5,pCi/L,16.4
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Radon,660.0,1.5,0,pCi/L,440.0
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Uranium,1.42,0.43,20,pCi/L,3.302325581395349
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Aluminum,9.4,600.0,0,ppb,0.015666666666666666
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Barium,24.0,700.0,2000,ppb,0.03428571428571429
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Mercury (inorganic),0.73,1.2,2,ppb,0.6083333333333334
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Nitrate,0.114,0.14,10,ppm,0.8142857142857143
+NV,Las Vegas NV,89124.0,Mount Charleston Water Company,20,Nitrate and nitrite,0.131,0.14,10,ppm,0.9357142857142856
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Radium combined (-226 &amp; -228),0.27,0.05,5,pCi/L,5.4
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Radon,247.35,1.5,0,pCi/L,164.9
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Uranium,1.46,0.43,20,pCi/L,3.395348837209302
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Aluminum,17.0,600.0,0,ppb,0.028333333333333332
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Barium,24.8,700.0,2000,ppb,0.03542857142857143
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Chloroform,0.27,0.4,0,ppb,0.675
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Heptachlor epoxide,0.00125,0.006,0.2,ppb,0.20833333333333334
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Nitrate,0.0425,0.14,10,ppm,0.30357142857142855
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Nitrate and nitrite,0.052,0.14,10,ppm,0.3714285714285714
+NV,Las Vegas NV,89124.0,Cold Creek Canyon Homeowners,180,Toluene,0.0909,150.0,1000,ppb,0.000606
+NV,Baker,89301.0,Baker Water and Sewer Gid,85,Barium,26.0,700.0,2000,ppb,0.037142857142857144
+NV,Baker,89301.0,Baker Water and Sewer Gid,85,Ethylbenzene,0.267,300.0,700,ppb,0.0008900000000000001
+NV,Baker,89301.0,Baker Water and Sewer Gid,85,Nitrate,0.127,0.14,10,ppm,0.907142857142857
+NV,Baker,89301.0,Baker Water and Sewer Gid,85,Nitrate and nitrite,0.16,0.14,10,ppm,1.1428571428571428
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Arsenic,2.75,0.004,10,ppb,687.5
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Nitrate,2.56,0.14,10,ppm,18.285714285714285
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Nitrate and nitrite,2.1,0.14,10,ppm,15.0
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Barium,95.0,700.0,2000,ppb,0.1357142857142857
+NV,Las Vegas,89301.0,Ely Maximum Security Prison Ndoc,1099,Manganese,1.67,100.0,0,ppb,0.0167
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Arsenic,2.07,0.004,10,ppb,517.5
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Chromium (hexavalent),0.928,0.02,0,ppb,46.4
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Dibromoacetic acid,0.183,0.04,0,ppb,4.575
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Dichloroacetic acid,1.42,0.2,0,ppb,7.1
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Haloacetic acids (HAA5)†,2.5,0.1,60,ppb,25.0
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Nitrate,2.1,0.14,10,ppm,15.0
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Nitrate and nitrite,1.94,0.14,10,ppm,13.857142857142856
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Radon,776.9,1.5,0,pCi/L,517.9333333333333
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Trichloroacetic acid,0.967,0.1,0,ppb,9.67
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Uranium,1.19,0.43,20,pCi/L,2.7674418604651163
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Aluminum,8.06,600.0,0,ppb,0.013433333333333334
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Barium,90.7,700.0,2000,ppb,0.1295714285714286
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Benzo[a]pyrene,0.00157,0.007,0.2,ppb,0.22428571428571428
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Bromodichloromethane,0.025,0.06,0,ppb,0.4166666666666667
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Bromoform,0.095,0.5,0,ppb,0.19
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Chlorate,3.0,210.0,0,ppb,0.014285714285714285
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Di(2-ethylhexyl) phthalate,0.211,3.0,6,ppb,0.07033333333333333
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Dibromochloromethane,0.068,0.1,0,ppb,0.68
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Diquat,0.153,6.0,20,ppb,0.0255
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Hexachlorobenzene (HCB),0.000646,0.03,1,ppb,0.021533333333333335
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Manganese,6.35,100.0,0,ppb,0.0635
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Molybdenum,0.413,40.0,0,ppb,0.010324999999999999
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Picloram,0.321,166.0,500,ppb,0.001933734939759036
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Selenium,1.36,30.0,50,ppb,0.04533333333333334
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Simazine,0.00364,0.1,4,ppb,0.036399999999999995
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Strontium,0.221,1500.0,0,ppb,0.00014733333333333333
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Total trihalomethanes (TTHMs)†,0.0833,0.15,80,ppb,0.5553333333333333
+NV,Ely,89301.0,Ely Municipal Water Department,5000,Vanadium,1.95,21.0,0,ppb,0.09285714285714286
+NV,Herriman,89301.0,Koa of Ely Campground,30,Nitrate,1.55,0.14,10,ppm,11.071428571428571
+NV,Herriman,89301.0,Koa of Ely Campground,30,Nitrate and nitrite,1.5,0.14,10,ppm,10.714285714285714
+NV,Herriman,89301.0,Koa of Ely Campground,30,Radium combined (-226 &amp; -228),0.32,0.05,5,pCi/L,6.3999999999999995
+NV,Herriman,89301.0,Koa of Ely Campground,30,Uranium,1.07,0.43,20,pCi/L,2.488372093023256
+NV,Herriman,89301.0,Koa of Ely Campground,30,Aluminum,28.6,600.0,0,ppb,0.04766666666666667
+NV,Herriman,89301.0,Koa of Ely Campground,30,Barium,84.0,700.0,2000,ppb,0.12
+NV,Herriman,89301.0,Koa of Ely Campground,30,Bromodichloromethane,0.0645,0.06,0,ppb,1.0750000000000002
+NV,Herriman,89301.0,Koa of Ely Campground,30,Bromoform,0.109,0.5,0,ppb,0.218
+NV,Herriman,89301.0,Koa of Ely Campground,30,Chloroform,0.236,0.4,0,ppb,0.59
+NV,Herriman,89301.0,Koa of Ely Campground,30,Dibromochloromethane,0.127,0.1,0,ppb,1.27
+NV,Herriman,89301.0,Koa of Ely Campground,30,Manganese,16.2,100.0,0,ppb,0.162
+NV,Herriman,89301.0,Koa of Ely Campground,30,Selenium,1.38,30.0,50,ppb,0.046
+NV,Herriman,89301.0,Koa of Ely Campground,30,Toluene,0.0736,150.0,1000,ppb,0.0004906666666666667
+NV,Herriman,89301.0,Koa of Ely Campground,30,Xylenes (total),0.0764,1800.0,10000,ppb,4.2444444444444445e-05
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Arsenic,0.9,0.004,10,ppb,225.0
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Bromoform,6.13,0.5,0,ppb,12.26
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Dibromoacetic acid,4.29,0.04,0,ppb,107.25
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Dibromochloromethane,0.863,0.1,0,ppb,8.629999999999999
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Haloacetic acids (HAA5)†,4.61,0.1,60,ppb,46.1
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Nitrate,1.72,0.14,10,ppm,12.285714285714285
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Nitrate and nitrite,1.82,0.14,10,ppm,13.0
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Radium combined (-226 &amp; -228),0.65,0.05,5,pCi/L,13.0
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Total trihalomethanes (TTHMs)†,9.55,0.15,80,ppb,63.66666666666667
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Uranium,2.21,0.43,20,pCi/L,5.1395348837209305
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Barium,145.0,700.0,2000,ppb,0.20714285714285716
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Bromodichloromethane,0.0307,0.06,0,ppb,0.5116666666666667
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Dichloroacetic acid,0.079,0.2,0,ppb,0.39499999999999996
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Monobromoacetic acid,0.172,25.0,0,ppb,0.00688
+NV,Mcgill,89301.0,Mcgill Water and Sewer District,1200,Selenium,1.7,30.0,50,ppb,0.056666666666666664
+NV,Mcgill,89301.0,Ruth Water District,470,Arsenic,4.5,0.004,10,ppb,1125.0
+NV,Mcgill,89301.0,Ruth Water District,470,Chromium (hexavalent)*,0.928,0.02,0,ppb,46.4
+NV,Mcgill,89301.0,Ruth Water District,470,Dibromochloromethane,0.311,0.1,0,ppb,3.11
+NV,Mcgill,89301.0,Ruth Water District,470,Dichloroacetic acid*,1.42,0.2,0,ppb,7.1
+NV,Mcgill,89301.0,Ruth Water District,470,Radium combined (-226 &amp; -228)*,0.2,0.05,5,pCi/L,4.0
+NV,Mcgill,89301.0,Ruth Water District,470,Radon*,776.9,1.5,0,pCi/L,517.9333333333333
+NV,Mcgill,89301.0,Ruth Water District,470,Thallium,1.1,0.1,2,ppb,11.0
+NV,Mcgill,89301.0,Ruth Water District,470,Total trihalomethanes (TTHMs)†,0.624,0.15,80,ppb,4.16
+NV,Mcgill,89301.0,Ruth Water District,470,Trichloroacetic acid*,0.967,0.1,0,ppb,9.67
+NV,Mcgill,89301.0,Ruth Water District,470,Uranium,7.37,0.43,20,pCi/L,17.13953488372093
+NV,Mcgill,89301.0,Ruth Water District,470,Aluminum*,8.06,600.0,0,ppb,0.013433333333333334
+NV,Mcgill,89301.0,Ruth Water District,470,Barium,180.0,700.0,2000,ppb,0.2571428571428571
+NV,Mcgill,89301.0,Ruth Water District,470,Benzo[a]pyrene*,0.00157,0.007,0.2,ppb,0.22428571428571428
+NV,Mcgill,89301.0,Ruth Water District,470,Bromodichloromethane,0.0408,0.06,0,ppb,0.68
+NV,Mcgill,89301.0,Ruth Water District,470,Bromoform,0.28,0.5,0,ppb,0.56
+NV,Mcgill,89301.0,Ruth Water District,470,Chlorate*,3.0,210.0,0,ppb,0.014285714285714285
+NV,Mcgill,89301.0,Ruth Water District,470,Di(2-ethylhexyl) phthalate*,0.211,3.0,6,ppb,0.07033333333333333
+NV,Mcgill,89301.0,Ruth Water District,470,Dibromoacetic acid,0.0364,0.04,0,ppb,0.91
+NV,Mcgill,89301.0,Ruth Water District,470,Diquat*,0.153,6.0,20,ppb,0.0255
+NV,Mcgill,89301.0,Ruth Water District,470,Haloacetic acids (HAA5)†,0.0364,0.1,60,ppb,0.364
+NV,Mcgill,89301.0,Ruth Water District,470,Hexachlorobenzene (HCB)*,0.000646,0.03,1,ppb,0.021533333333333335
+NV,Mcgill,89301.0,Ruth Water District,470,Manganese,110.0,100.0,0,ppb,1.1
+NV,Mcgill,89301.0,Ruth Water District,470,Molybdenum*,0.413,40.0,0,ppb,0.010324999999999999
+NV,Mcgill,89301.0,Ruth Water District,470,Nitrate,0.11,0.14,10,ppm,0.7857142857142857
+NV,Mcgill,89301.0,Ruth Water District,470,Nitrate and nitrite,0.11,0.14,10,ppm,0.7857142857142857
+NV,Mcgill,89301.0,Ruth Water District,470,Picloram*,0.321,166.0,500,ppb,0.001933734939759036
+NV,Mcgill,89301.0,Ruth Water District,470,Selenium*,1.36,30.0,50,ppb,0.04533333333333334
+NV,Mcgill,89301.0,Ruth Water District,470,Simazine*,0.00364,0.1,4,ppb,0.036399999999999995
+NV,Mcgill,89301.0,Ruth Water District,470,Strontium*,0.221,1500.0,0,ppb,0.00014733333333333333
+NV,Mcgill,89301.0,Ruth Water District,470,Vanadium*,1.95,21.0,0,ppb,0.09285714285714286
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Arsenic,10.5,0.004,10,ppb,2625.0
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Nitrate,0.323,0.14,10,ppm,2.307142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Radium combined (-226 &amp; -228),0.73,0.05,5,pCi/L,14.6
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Total trihalomethanes (TTHMs)†,0.37,0.15,80,ppb,2.466666666666667
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Uranium,2.14,0.43,20,pCi/L,4.976744186046512
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Antimony,0.125,1.0,6,ppb,0.125
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Barium,64.1,700.0,2000,ppb,0.09157142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Bromoform,0.37,0.5,0,ppb,0.74
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Manganese,2.75,100.0,0,ppb,0.0275
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Nitrate and nitrite,0.271,0.14,10,ppm,1.9357142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Selenium,0.875,30.0,50,ppb,0.029166666666666667
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Arsenic,10.5,0.004,10,ppb,2625.0
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Nitrate,0.323,0.14,10,ppm,2.307142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Radium combined (-226 &amp; -228),0.73,0.05,5,pCi/L,14.6
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Total trihalomethanes (TTHMs)†,0.37,0.15,80,ppb,2.466666666666667
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Uranium,2.14,0.43,20,pCi/L,4.976744186046512
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Antimony,0.125,1.0,6,ppb,0.125
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Barium,64.1,700.0,2000,ppb,0.09157142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Bromoform,0.37,0.5,0,ppb,0.74
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Manganese,2.75,100.0,0,ppb,0.0275
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Nitrate and nitrite,0.271,0.14,10,ppm,1.9357142857142857
+NV,Battle Mountain,89310.0,Lander County Sewer and Water District 1 Bm,3635,Selenium,0.875,30.0,50,ppb,0.029166666666666667
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Arsenic,7.43,0.004,10,ppb,1857.5
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Nitrate,0.782,0.14,10,ppm,5.585714285714285
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Nitrate and nitrite,0.79,0.14,10,ppm,5.642857142857142
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+NV,Eureka,89316.0,Devils Gate Gid District 1,65,Barium,100.0,700.0,2000,ppb,0.14285714285714285
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Arsenic,7.0,0.004,10,ppb,1750.0
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Bromodichloromethane,0.303,0.06,0,ppb,5.05
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Dibromochloromethane,0.693,0.1,0,ppb,6.929999999999999
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Nitrate,1.95,0.14,10,ppm,13.928571428571427
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Nitrate and nitrite,2.0,0.14,10,ppm,14.285714285714285
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Radium combined (-226 &amp; -228),0.64,0.05,5,pCi/L,12.799999999999999
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Total trihalomethanes (TTHMs)†,1.77,0.15,80,ppb,11.8
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Uranium*,1.34,0.43,20,pCi/L,3.116279069767442
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Barium,52.0,700.0,2000,ppb,0.07428571428571429
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Bromoform,0.77,0.5,0,ppb,1.54
+NV,Eureka,89316.0,Devils Gate Water System Gid 2,70,Selenium,6.0,30.0,50,ppb,0.2
+NV,Eureka,89316.0,Eureka Water Association,450,Dibromochloromethane,1.07,0.1,0,ppb,10.7
+NV,Eureka,89316.0,Eureka Water Association,450,Total trihalomethanes (TTHMs)†,1.07,0.15,80,ppb,7.133333333333334
+NV,Eureka,89316.0,Eureka Water Association,450,Barium,49.7,700.0,2000,ppb,0.07100000000000001
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Arsenic,9.45,0.004,10,ppb,2362.5
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Dibromochloromethane,0.289,0.1,0,ppb,2.8899999999999997
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Total trihalomethanes (TTHMs)†,0.906,0.15,80,ppb,6.04
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Uranium,3.14,0.43,20,pCi/L,7.302325581395349
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Barium,67.0,700.0,2000,ppb,0.09571428571428571
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Bromodichloromethane,0.113,0.06,0,ppb,1.8833333333333335
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Bromoform,0.156,0.5,0,ppb,0.312
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Manganese,2.95,100.0,0,ppb,0.029500000000000002
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Nitrate,0.137,0.14,10,ppm,0.9785714285714285
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Nitrate and nitrite,0.17,0.14,10,ppm,1.2142857142857142
+NV,Elko,89316.0,The Lodge At Pine Valley,320,Selenium,2.3,30.0,50,ppb,0.07666666666666666
+NV,Gerlach,89402.0,Empire Mining Company,350,Arsenic,2.25,0.004,10,ppb,562.5
+NV,Gerlach,89402.0,Empire Mining Company,350,Radium combined (-226 &amp; -228),0.48,0.05,5,pCi/L,9.6
+NV,Gerlach,89402.0,Empire Mining Company,350,Total trihalomethanes (TTHMs)†,1.4,0.15,80,ppb,9.333333333333334
+NV,Gerlach,89402.0,Empire Mining Company,350,Barium,10.0,700.0,2000,ppb,0.014285714285714285
+NV,Gerlach,89402.0,Empire Mining Company,350,Bromoform,0.9,0.5,0,ppb,1.8
+NV,Gerlach,89402.0,Empire Mining Company,350,Dibromochloromethane,0.0578,0.1,0,ppb,0.578
+NV,Gerlach,89402.0,Empire Mining Company,350,Manganese,70.0,100.0,0,ppb,0.7
+NV,Gerlach,89402.0,Empire Mining Company,350,Nitrate,0.177,0.14,10,ppm,1.264285714285714
+NV,Gerlach,89402.0,Empire Mining Company,350,Nitrate and nitrite,0.213,0.14,10,ppm,1.5214285714285714
+NV,Reno,89402.0,Foothill Trailer Park,35,Nitrate and nitrite,0.315,0.14,10,ppm,2.25
+NV,Reno,89402.0,Foothill Trailer Park,35,Uranium,1.17,0.43,20,pCi/L,2.7209302325581395
+NV,Reno,89402.0,Foothill Trailer Park,35,Barium,15.0,700.0,2000,ppb,0.02142857142857143
+NV,Reno,89402.0,Foothill Trailer Park,35,Nitrate,0.257,0.14,10,ppm,1.8357142857142856
+NV,Reno,89402.0,Gerlach Gid,180,Arsenic,2.0,0.004,10,ppb,500.0
+NV,Reno,89402.0,Gerlach Gid,180,Dibromochloromethane,0.374,0.1,0,ppb,3.7399999999999998
+NV,Reno,89402.0,Gerlach Gid,180,Nitrate,0.531,0.14,10,ppm,3.7928571428571427
+NV,Reno,89402.0,Gerlach Gid,180,Nitrate and nitrite,0.575,0.14,10,ppm,4.107142857142857
+NV,Reno,89402.0,Gerlach Gid,180,Radium combined (-226 &amp; -228),0.73,0.05,5,pCi/L,14.6
+NV,Reno,89402.0,Gerlach Gid,180,Total trihalomethanes (TTHMs)†,1.17,0.15,80,ppb,7.8
+NV,Reno,89402.0,Gerlach Gid,180,Barium,8.0,700.0,2000,ppb,0.011428571428571429
+NV,Reno,89402.0,Gerlach Gid,180,Bromodichloromethane,0.056,0.06,0,ppb,0.9333333333333333
+NV,Reno,89402.0,Gerlach Gid,180,Bromoform,0.736,0.5,0,ppb,1.472
+NV,Reno,89402.0,Gerlach Gid,180,Uranium,0.38,0.43,20,pCi/L,0.8837209302325582
+NV,Incline Village,89402.0,Incline Village Gid,9313,Arsenic,0.917,0.004,10,ppb,229.25
+NV,Incline Village,89402.0,Incline Village Gid,9313,Bromate,1.29,0.1,10,ppb,12.9
+NV,Incline Village,89402.0,Incline Village Gid,9313,Bromodichloromethane,2.09,0.06,0,ppb,34.833333333333336
+NV,Incline Village,89402.0,Incline Village Gid,9313,Chloroform,10.8,0.4,0,ppb,27.0
+NV,Incline Village,89402.0,Incline Village Gid,9313,Dibromochloromethane,0.683,0.1,0,ppb,6.83
+NV,Incline Village,89402.0,Incline Village Gid,9313,Dichloroacetic acid,3.13,0.2,0,ppb,15.649999999999999
+NV,Incline Village,89402.0,Incline Village Gid,9313,Haloacetic acids (HAA5)†,5.08,0.1,60,ppb,50.8
+NV,Incline Village,89402.0,Incline Village Gid,9313,Haloacetic acids (HAA9)†,6.94,0.06,0,ppb,115.66666666666667
+NV,Incline Village,89402.0,Incline Village Gid,9313,Total trihalomethanes (TTHMs)†,14.6,0.15,80,ppb,97.33333333333333
+NV,Incline Village,89402.0,Incline Village Gid,9313,Trichloroacetic acid,1.91,0.1,0,ppb,19.099999999999998
+NV,Incline Village,89402.0,Incline Village Gid,9313,Aluminum,7.71,600.0,0,ppb,0.01285
+NV,Incline Village,89402.0,Incline Village Gid,9313,Barium,10.2,700.0,2000,ppb,0.01457142857142857
+NV,Incline Village,89402.0,Incline Village Gid,9313,Manganese,0.181,100.0,0,ppb,0.00181
+NV,Incline Village,89402.0,Incline Village Gid,9313,Tetrachloroethylene (perchloroethylene),0.08,0.06,5,ppb,1.3333333333333335
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Arsenic,3.33,0.004,10,ppb,832.5
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Nitrate,3.14,0.14,10,ppm,22.428571428571427
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Nitrate and nitrite,3.82,0.14,10,ppm,27.28571428571428
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Radium combined (-226 &amp; -228),0.49,0.05,5,pCi/L,9.799999999999999
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Antimony,0.333,1.0,6,ppb,0.333
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Barium,230.0,700.0,2000,ppb,0.32857142857142857
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Manganese,5.0,100.0,0,ppb,0.05
+NV,Reno,89402.0,Ke Ta Mobile Home Park,60,Uranium,0.45,0.43,20,pCi/L,1.0465116279069768
+NV,Reno,89402.0,Lightning W,163,Arsenic,0.182,0.004,10,ppb,45.5
+NV,Reno,89402.0,Lightning W,163,Barium,17.9,700.0,2000,ppb,0.025571428571428568
+NV,Reno,89402.0,Lightning W,163,Nitrate,0.0485,0.14,10,ppm,0.3464285714285714
+NV,Reno,89402.0,Lightning W,163,Nitrate and nitrite,0.022,0.14,10,ppm,0.1571428571428571
+NV,Reno,89402.0,Lightning W,163,Uranium,0.29,0.43,20,pCi/L,0.6744186046511628
+NV,Reno,89402.0,Old Washoe Estates,135,Arsenic,3.3,0.004,10,ppb,824.9999999999999
+NV,Reno,89402.0,Old Washoe Estates,135,Radium combined (-226 &amp; -228),0.2,0.05,5,pCi/L,4.0
+NV,Reno,89402.0,Old Washoe Estates,135,Total trihalomethanes (TTHMs)†,0.533,0.15,80,ppb,3.5533333333333337
+NV,Reno,89402.0,Old Washoe Estates,135,Uranium,4.02,0.43,20,pCi/L,9.348837209302324
+NV,Reno,89402.0,Old Washoe Estates,135,Barium,47.6,700.0,2000,ppb,0.068
+NV,Reno,89402.0,Old Washoe Estates,135,Bromodichloromethane,0.0786,0.06,0,ppb,1.31
+NV,Reno,89402.0,Old Washoe Estates,135,Chloroform,0.629,0.4,0,ppb,1.5725
+NV,Reno,89402.0,Old Washoe Estates,135,Dichloroacetic acid,0.4,0.2,0,ppb,2.0
+NV,Reno,89402.0,Old Washoe Estates,135,Manganese,5.38,100.0,0,ppb,0.0538
+NV,Reno,89402.0,Old Washoe Estates,135,Mercury (inorganic),0.08,1.2,2,ppb,0.06666666666666667
+NV,Reno,89402.0,Old Washoe Estates,135,Nitrate,0.21,0.14,10,ppm,1.4999999999999998
+NV,Reno,89402.0,Old Washoe Estates,135,Nitrate and nitrite,0.244,0.14,10,ppm,1.7428571428571427
+NV,Reno,89402.0,Old Washoe Estates,135,Vanadium,9.4,21.0,0,ppb,0.44761904761904764
+NV,Verdi,89402.0,Reno Sahara Trailer Park,60,Nitrate,1.63,0.14,10,ppm,11.64285714285714
+NV,Verdi,89402.0,Reno Sahara Trailer Park,60,Nitrate and nitrite,0.715,0.14,10,ppm,5.107142857142857
+NV,Verdi,89402.0,Reno Sahara Trailer Park,60,Radon,396.9,1.5,0,pCi/L,264.59999999999997
+NV,Verdi,89402.0,Reno Sahara Trailer Park,60,Uranium,1.68,0.43,20,pCi/L,3.9069767441860463
+NV,Verdi,89402.0,Reno Sahara Trailer Park,60,Di(2-ethylhexyl) phthalate,0.105,3.0,6,ppb,0.034999999999999996
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Arsenic,2.2,0.004,10,ppb,550.0
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Dichloroacetic acid,1.1,0.2,0,ppb,5.5
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Haloacetic acids (HAA5)†,1.1,0.1,60,ppb,11.0
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Radium combined (-226 &amp; -228),0.46,0.05,5,pCi/L,9.2
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Radon,590.0,1.5,0,pCi/L,393.3333333333333
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Chloroform,0.192,0.4,0,ppb,0.48
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Manganese,16.0,100.0,0,ppb,0.16
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Nitrate,0.066,0.14,10,ppm,0.4714285714285714
+NV,Reno,89402.0,River Bend Mobile Home Park,45,Total trihalomethanes (TTHMs)†,0.24,0.15,80,ppb,1.6
+NV,Reno,89402.0,Rosemount Water Company,54,Bromodichloromethane,1.03,0.06,0,ppb,17.166666666666668
+NV,Reno,89402.0,Rosemount Water Company,54,Chloroform,4.71,0.4,0,ppb,11.774999999999999
+NV,Reno,89402.0,Rosemount Water Company,54,Dichloroacetic acid,2.33,0.2,0,ppb,11.65
+NV,Reno,89402.0,Rosemount Water Company,54,Haloacetic acids (HAA5)†,5.68,0.1,60,ppb,56.8
+NV,Reno,89402.0,Rosemount Water Company,54,Nitrate,0.55,0.14,10,ppm,3.9285714285714284
+NV,Reno,89402.0,Rosemount Water Company,54,Total trihalomethanes (TTHMs)†,6.85,0.15,80,ppb,45.666666666666664
+NV,Reno,89402.0,Rosemount Water Company,54,Trichloroacetic acid,3.35,0.1,0,ppb,33.5
+NV,Reno,89402.0,Rosemount Water Company,54,Uranium,11.84,0.43,20,pCi/L,27.53488372093023
+NV,Reno,89402.0,Rosemount Water Company,54,Nitrate and nitrite,0.183,0.14,10,ppm,1.307142857142857
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Arsenic,10.6,0.004,10,ppb,2650.0
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Nitrate,0.895,0.14,10,ppm,6.392857142857142
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Nitrate and nitrite,0.95,0.14,10,ppm,6.785714285714285
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Total trihalomethanes (TTHMs)†,0.378,0.15,80,ppb,2.52
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Barium,17.0,700.0,2000,ppb,0.024285714285714285
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Bromoform,0.602,0.5,0,ppb,1.204
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Selenium,3.0,30.0,50,ppb,0.1
+NV,Verdi,89402.0,Silver Knolls Mutual Water Company,120,Tetrachloroethylene (perchloroethylene),0.075,0.06,5,ppb,1.25
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Arsenic,8.6,0.004,10,ppb,2150.0
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromodichloromethane,1.86,0.06,0,ppb,31.000000000000004
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromoform,5.13,0.5,0,ppb,10.26
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Chloroform,4.17,0.4,0,ppb,10.424999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromoacetic acid,2.23,0.04,0,ppb,55.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromochloromethane,2.53,0.1,0,ppb,25.299999999999997
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dichloroacetic acid,0.55,0.2,0,ppb,2.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Haloacetic acids (HAA5)†,4.18,0.1,60,ppb,41.8
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate,6.61,0.14,10,ppm,47.214285714285715
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate and nitrite,7.0,0.14,10,ppm,49.99999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radium combined (-226 &amp; -228),0.23,0.05,5,pCi/L,4.6
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radon,642.75,1.5,0,pCi/L,428.5
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Total trihalomethanes (TTHMs)†,13.8,0.15,80,ppb,92.00000000000001
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Uranium,4.19,0.43,20,pCi/L,9.74418604651163
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Manganese,7.0,100.0,0,ppb,0.07
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Arsenic,8.6,0.004,10,ppb,2150.0
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromodichloromethane,1.86,0.06,0,ppb,31.000000000000004
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromoform,5.13,0.5,0,ppb,10.26
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Chloroform,4.17,0.4,0,ppb,10.424999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromoacetic acid,2.23,0.04,0,ppb,55.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromochloromethane,2.53,0.1,0,ppb,25.299999999999997
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dichloroacetic acid,0.55,0.2,0,ppb,2.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Haloacetic acids (HAA5)†,4.18,0.1,60,ppb,41.8
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate,6.61,0.14,10,ppm,47.214285714285715
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate and nitrite,7.0,0.14,10,ppm,49.99999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radium combined (-226 &amp; -228),0.23,0.05,5,pCi/L,4.6
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radon,642.75,1.5,0,pCi/L,428.5
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Total trihalomethanes (TTHMs)†,13.8,0.15,80,ppb,92.00000000000001
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Uranium,4.19,0.43,20,pCi/L,9.74418604651163
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Manganese,7.0,100.0,0,ppb,0.07
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Arsenic,8.6,0.004,10,ppb,2150.0
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromodichloromethane,1.86,0.06,0,ppb,31.000000000000004
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Bromoform,5.13,0.5,0,ppb,10.26
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Chloroform,4.17,0.4,0,ppb,10.424999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromoacetic acid,2.23,0.04,0,ppb,55.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dibromochloromethane,2.53,0.1,0,ppb,25.299999999999997
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Dichloroacetic acid,0.55,0.2,0,ppb,2.75
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Haloacetic acids (HAA5)†,4.18,0.1,60,ppb,41.8
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate,6.61,0.14,10,ppm,47.214285714285715
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Nitrate and nitrite,7.0,0.14,10,ppm,49.99999999999999
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radium combined (-226 &amp; -228),0.23,0.05,5,pCi/L,4.6
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Radon,642.75,1.5,0,pCi/L,428.5
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Total trihalomethanes (TTHMs)†,13.8,0.15,80,ppb,92.00000000000001
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Uranium,4.19,0.43,20,pCi/L,9.74418604651163
+NV,Reno,89402.0,Great Basin Water Co. Spanish Springs,2030,Manganese,7.0,100.0,0,ppb,0.07
+NV,Reno,89402.0,Stampmill,118,Arsenic,3.52,0.004,10,ppb,880.0
+NV,Reno,89402.0,Stampmill,118,Bromodichloromethane,1.29,0.06,0,ppb,21.5
+NV,Reno,89402.0,Stampmill,118,Bromoform,5.07,0.5,0,ppb,10.14
+NV,Reno,89402.0,Stampmill,118,Dibromoacetic acid,0.983,0.04,0,ppb,24.575
+NV,Reno,89402.0,Stampmill,118,Dibromochloromethane,3.67,0.1,0,ppb,36.699999999999996
+NV,Reno,89402.0,Stampmill,118,Haloacetic acids (HAA5)†,0.75,0.1,60,ppb,7.5
+NV,Reno,89402.0,Stampmill,118,Nitrate,2.64,0.14,10,ppm,18.857142857142858
+NV,Reno,89402.0,Stampmill,118,Nitrate and nitrite,3.21,0.14,10,ppm,22.928571428571427
+NV,Reno,89402.0,Stampmill,118,Total trihalomethanes (TTHMs)†,10.2,0.15,80,ppb,68.0
+NV,Reno,89402.0,Stampmill,118,Uranium,3.57,0.43,20,pCi/L,8.30232558139535
+NV,Reno,89402.0,Stampmill,118,Barium,67.5,700.0,2000,ppb,0.09642857142857143
+NV,Reno,89402.0,Stampmill,118,Chloroform,0.122,0.4,0,ppb,0.305
+NV,Reno,89402.0,Stampmill,118,Dichloroacetic acid,0.25,0.2,0,ppb,1.25
+NV,Reno,89402.0,Stampmill,118,Manganese,5.8,100.0,0,ppb,0.057999999999999996
+NV,Reno,89402.0,Stampmill,118,Selenium,1.21,30.0,50,ppb,0.04033333333333333
+NV,Reno,89402.0,Stampmill,118,Toluene,0.326,150.0,1000,ppb,0.0021733333333333335
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Arsenic,8.0,0.004,10,ppb,2000.0
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Nitrate,2.55,0.14,10,ppm,18.21428571428571
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Nitrate and nitrite,2.2,0.14,10,ppm,15.714285714285714
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Radium combined (-226 &amp; -228),1.9,0.05,5,pCi/L,37.99999999999999
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Uranium,3.69,0.43,20,pCi/L,8.581395348837209
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Aluminum,29.8,600.0,0,ppb,0.049666666666666665
+NV,Reno,89402.0,Steamboat Springs Waterworks Inc.,998,Barium,115.0,700.0,2000,ppb,0.16428571428571428
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Arsenic*,2.96,0.004,10,ppb,740.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Bromochloroacetic acid,0.44,0.02,0,ppb,22.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Bromodichloromethane,4.22,0.06,0,ppb,70.33333333333333
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Chloroform,25.7,0.4,0,ppb,64.25
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Chromium (hexavalent),0.0748,0.02,0,ppb,3.74
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Dibromochloromethane,1.16,0.1,0,ppb,11.599999999999998
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Dichloroacetic acid,6.4,0.2,0,ppb,32.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Haloacetic acids (HAA5)†,20.6,0.1,60,ppb,206.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Haloacetic acids (HAA9)†,22.7,0.06,0,ppb,378.3333333333333
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Nitrate*,0.953,0.14,10,ppm,6.807142857142856
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Nitrate and nitrite*,0.801,0.14,10,ppm,5.7214285714285715
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Tetrachloroethylene (perchloroethylene)*,0.159,0.06,5,ppb,2.6500000000000004
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Total trihalomethanes (TTHMs)†,30.9,0.15,80,ppb,206.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Trichloroacetic acid,14.1,0.1,0,ppb,141.0
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Uranium*,1.74,0.43,20,pCi/L,4.046511627906977
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,14-Dioxane*,0.014,0.35,0,ppb,0.04
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,24-D*,0.00357,20.0,70,ppb,0.0001785
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Aluminum*,0.911,600.0,0,ppb,0.0015183333333333333
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Antimony*,0.916,1.0,6,ppb,0.916
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Barium*,45.3,700.0,2000,ppb,0.06471428571428571
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Benzo[a]pyrene*,0.000625,0.007,0.2,ppb,0.08928571428571429
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Bromoform,0.239,0.5,0,ppb,0.478
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Chlorate,88.9,210.0,0,ppb,0.42333333333333334
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Dibromoacetic acid,0.0535,0.04,0,ppb,1.3375
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Hexachlorocyclopentadiene*,0.0006,2.0,50,ppb,0.0003
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Manganese,2.12,100.0,0,ppb,0.0212
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Mercury (inorganic)*,0.00728,1.2,2,ppb,0.006066666666666667
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Molybdenum,1.1,40.0,0,ppb,0.027500000000000004
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Monobromoacetic acid*,0.346,25.0,0,ppb,0.013839999999999998
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Monochloroacetic acid*,0.0962,53.0,0,ppb,0.0018150943396226414
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Radium combined (-226 &amp; -228)*,0.07,0.05,5,pCi/L,1.4000000000000001
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Strontium,0.131,1500.0,0,ppb,8.733333333333333e-05
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Thallium*,0.13,0.1,2,ppb,1.3
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Trichloroethylene*,0.0282,0.4,5,ppb,0.0705
+NV,Sun Valley,89402.0,Sun Valley Gid,17000,Vanadium,1.04,21.0,0,ppb,0.049523809523809526
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Arsenic,2.96,0.004,10,ppb,740.0
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Bromochloroacetic acid,0.86,0.02,0,ppb,43.0
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Bromodichloromethane,4.13,0.06,0,ppb,68.83333333333333
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Chloroform,25.5,0.4,0,ppb,63.75
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Chromium (hexavalent),0.584,0.02,0,ppb,29.2
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Dibromoacetic acid,0.126,0.04,0,ppb,3.15
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Dibromochloromethane,0.999,0.1,0,ppb,9.99
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Dichloroacetic acid,8.27,0.2,0,ppb,41.349999999999994
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Haloacetic acids (HAA5)†,21.7,0.1,60,ppb,216.99999999999997
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Haloacetic acids (HAA9)†,21.0,0.06,0,ppb,350.0
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Nitrate,0.953,0.14,10,ppm,6.807142857142856
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Nitrate and nitrite,0.801,0.14,10,ppm,5.7214285714285715
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Tetrachloroethylene (perchloroethylene),0.159,0.06,5,ppb,2.6500000000000004
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Total trihalomethanes (TTHMs)†,31.1,0.15,80,ppb,207.33333333333334
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Trichloroacetic acid,12.6,0.1,0,ppb,125.99999999999999
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Uranium,1.74,0.43,20,pCi/L,4.046511627906977
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,14-Dioxane,0.014,0.35,0,ppb,0.04
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,24-D,0.00357,20.0,70,ppb,0.0001785
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Aluminum,0.911,600.0,0,ppb,0.0015183333333333333
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Antimony,0.916,1.0,6,ppb,0.916
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Barium,45.3,700.0,2000,ppb,0.06471428571428571
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Benzo[a]pyrene,0.000625,0.007,0.2,ppb,0.08928571428571429
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Bromoform,0.297,0.5,0,ppb,0.594
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Chlorate,58.0,210.0,0,ppb,0.2761904761904762
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Hexachlorocyclopentadiene,0.0006,2.0,50,ppb,0.0003
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Manganese,2.64,100.0,0,ppb,0.0264
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Mercury (inorganic),0.00728,1.2,2,ppb,0.006066666666666667
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Molybdenum,1.27,40.0,0,ppb,0.03175
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Monobromoacetic acid,0.346,25.0,0,ppb,0.013839999999999998
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Monochloroacetic acid,0.0962,53.0,0,ppb,0.0018150943396226414
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Radium combined (-226 &amp; -228),0.07,0.05,5,pCi/L,1.4000000000000001
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Strontium,0.206,1500.0,0,ppb,0.00013733333333333333
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Thallium,0.13,0.1,2,ppb,1.3
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Trichloroethylene,0.0282,0.4,5,ppb,0.0705
+NV,Reno,89402.0,Truckee Meadows Water Authority,311932,Vanadium,3.91,21.0,0,ppb,0.18619047619047618
+NV,Reno,89402.0,Verdi Meadows Utility Company Inc.,510,Arsenic,4.45,0.004,10,ppb,1112.5
+NV,Reno,89402.0,Verdi Meadows Utility Company Inc.,510,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Reno,89402.0,Verdi Meadows Utility Company Inc.,510,Barium,16.7,700.0,2000,ppb,0.023857142857142855
+NV,Reno,89402.0,Verdi Meadows Utility Company Inc.,510,Manganese,46.7,100.0,0,ppb,0.467
+NV,Reno,89402.0,Webb Mobile Home Park,30,Arsenic,1.5,0.004,10,ppb,375.0
+NV,Reno,89402.0,Webb Mobile Home Park,30,Nitrate,0.785,0.14,10,ppm,5.607142857142857
+NV,Reno,89402.0,Webb Mobile Home Park,30,Nitrate and nitrite,0.72,0.14,10,ppm,5.142857142857142
+NV,Reno,89402.0,Webb Mobile Home Park,30,Radium combined (-226 &amp; -228),0.91,0.05,5,pCi/L,18.2
+NV,Reno,89402.0,Webb Mobile Home Park,30,Uranium,2.01,0.43,20,pCi/L,4.674418604651162
+NV,Reno,89402.0,Webb Mobile Home Park,30,Barium,10.0,700.0,2000,ppb,0.014285714285714285
+NV,Reno,89402.0,Webb Mobile Home Park,30,Manganese,0.5,100.0,0,ppb,0.005
+NV,Reno,89402.0,Webb Mobile Home Park,30,Mercury (inorganic),0.5,1.2,2,ppb,0.4166666666666667
+NV,Sparks,89403.0,Canyon Gid,1310,Arsenic,6.21,0.004,10,ppb,1552.5
+NV,Sparks,89403.0,Canyon Gid,1310,Bromodichloromethane,1.32,0.06,0,ppb,22.000000000000004
+NV,Sparks,89403.0,Canyon Gid,1310,Bromoform,3.83,0.5,0,ppb,7.66
+NV,Sparks,89403.0,Canyon Gid,1310,Dibromoacetic acid,2.25,0.04,0,ppb,56.25
+NV,Sparks,89403.0,Canyon Gid,1310,Dibromochloromethane,3.23,0.1,0,ppb,32.3
+NV,Sparks,89403.0,Canyon Gid,1310,Haloacetic acids (HAA5)†,2.4,0.1,60,ppb,23.999999999999996
+NV,Sparks,89403.0,Canyon Gid,1310,Total trihalomethanes (TTHMs)†,10.9,0.15,80,ppb,72.66666666666667
+NV,Sparks,89403.0,Canyon Gid,1310,Aluminum,10.4,600.0,0,ppb,0.017333333333333333
+NV,Sparks,89403.0,Canyon Gid,1310,Barium,15.7,700.0,2000,ppb,0.022428571428571426
+NV,Sparks,89403.0,Canyon Gid,1310,Chloroform,0.282,0.4,0,ppb,0.7049999999999998
+NV,Sparks,89403.0,Canyon Gid,1310,Manganese,21.7,100.0,0,ppb,0.217
+NV,Sparks,89403.0,Canyon Gid,1310,Monochloroacetic acid,0.708,53.0,0,ppb,0.013358490566037735
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Arsenic,4.54,0.004,10,ppb,1135.0
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Bromodichloromethane,0.743,0.06,0,ppb,12.383333333333333
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Bromoform,1.14,0.5,0,ppb,2.28
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Chloroform,1.31,0.4,0,ppb,3.275
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Chromium (hexavalent),0.334,0.02,0,ppb,16.7
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Dibromoacetic acid,1.03,0.04,0,ppb,25.75
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Dibromochloromethane,1.3,0.1,0,ppb,13.0
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Haloacetic acids (HAA5)†,0.692,0.1,60,ppb,6.919999999999999
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Haloacetic acids (HAA9)†,2.39,0.06,0,ppb,39.833333333333336
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Nitrate,0.891,0.14,10,ppm,6.364285714285714
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Nitrate and nitrite,0.821,0.14,10,ppm,5.864285714285713
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Radon,716.36,1.5,0,pCi/L,477.5733333333333
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Total trihalomethanes (TTHMs)†,9.02,0.15,80,ppb,60.13333333333333
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Uranium,2.51,0.43,20,pCi/L,5.837209302325581
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Barium,43.8,700.0,2000,ppb,0.06257142857142857
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Chlorate,25.4,210.0,0,ppb,0.12095238095238095
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Cobalt,0.11,70.0,0,ppb,0.0015714285714285715
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Dichloroacetic acid,0.0833,0.2,0,ppb,0.4165
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Manganese,0.922,100.0,0,ppb,0.00922
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Molybdenum,3.55,40.0,0,ppb,0.08875
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Radium combined (-226 &amp; -228),0.08,0.05,5,pCi/L,1.5999999999999999
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Strontium,0.749,1500.0,0,ppb,0.0004993333333333333
+NV,Dayton,89403.0,Dayton Valley Water System,15830,Vanadium,9.7,21.0,0,ppb,0.4619047619047619
+NV,Fernely,89403.0,Fernley Public Works,19790,Arsenic,3.52,0.004,10,ppb,880.0
+NV,Fernely,89403.0,Fernley Public Works,19790,Bromodichloromethane,2.86,0.06,0,ppb,47.666666666666664
+NV,Fernely,89403.0,Fernley Public Works,19790,Bromoform,9.95,0.5,0,ppb,19.9
+NV,Fernely,89403.0,Fernley Public Works,19790,Chromium (hexavalent),0.535,0.02,0,ppb,26.75
+NV,Fernely,89403.0,Fernley Public Works,19790,Dibromoacetic acid,4.86,0.04,0,ppb,121.5
+NV,Fernely,89403.0,Fernley Public Works,19790,Dibromochloromethane,7.74,0.1,0,ppb,77.39999999999999
+NV,Fernely,89403.0,Fernley Public Works,19790,Dichloroacetic acid,0.629,0.2,0,ppb,3.145
+NV,Fernely,89403.0,Fernley Public Works,19790,Haloacetic acids (HAA5)†,5.85,0.1,60,ppb,58.49999999999999
+NV,Fernely,89403.0,Fernley Public Works,19790,Haloacetic acids (HAA9)†,8.09,0.06,0,ppb,134.83333333333334
+NV,Fernely,89403.0,Fernley Public Works,19790,Nitrate,2.32,0.14,10,ppm,16.57142857142857
+NV,Fernely,89403.0,Fernley Public Works,19790,Nitrate and nitrite,1.8,0.14,10,ppm,12.857142857142856
+NV,Fernely,89403.0,Fernley Public Works,19790,Radon,369.0,1.5,0,pCi/L,246.0
+NV,Fernely,89403.0,Fernley Public Works,19790,Total trihalomethanes (TTHMs)†,21.0,0.15,80,ppb,140.0
+NV,Fernely,89403.0,Fernley Public Works,19790,Uranium,2.68,0.43,20,pCi/L,6.232558139534884
+NV,Fernely,89403.0,Fernley Public Works,19790,14-Dioxane,0.121,0.35,0,ppb,0.34571428571428575
+NV,Fernely,89403.0,Fernley Public Works,19790,Antimony,0.5,1.0,6,ppb,0.5
+NV,Fernely,89403.0,Fernley Public Works,19790,Barium,34.5,700.0,2000,ppb,0.04928571428571429
+NV,Fernely,89403.0,Fernley Public Works,19790,Chlorate,89.0,210.0,0,ppb,0.4238095238095238
+NV,Fernely,89403.0,Fernley Public Works,19790,Chloroform,0.428,0.4,0,ppb,1.0699999999999998
+NV,Fernely,89403.0,Fernley Public Works,19790,Manganese,1.24,100.0,0,ppb,0.0124
+NV,Fernely,89403.0,Fernley Public Works,19790,Molybdenum,10.7,40.0,0,ppb,0.26749999999999996
+NV,Fernely,89403.0,Fernley Public Works,19790,Monobromoacetic acid,0.252,25.0,0,ppb,0.01008
+NV,Fernely,89403.0,Fernley Public Works,19790,Monochloroacetic acid,0.0354,53.0,0,ppb,0.0006679245283018868
+NV,Fernely,89403.0,Fernley Public Works,19790,Radium combined (-226 &amp; -228),0.03,0.05,5,pCi/L,0.6
+NV,Fernely,89403.0,Fernley Public Works,19790,Selenium,3.0,30.0,50,ppb,0.1
+NV,Fernely,89403.0,Fernley Public Works,19790,Strontium,0.535,1500.0,0,ppb,0.0003566666666666667
+NV,Fernely,89403.0,Fernley Public Works,19790,Trichloroacetic acid,0.0813,0.1,0,ppb,0.813
+NV,Fernely,89403.0,Fernley Public Works,19790,Vanadium,2.48,21.0,0,ppb,0.1180952380952381
+NV,Po Box 435,89403.0,Storey County Water District,1420,Bromodichloromethane,0.855,0.06,0,ppb,14.25
+NV,Po Box 435,89403.0,Storey County Water District,1420,Chloroform,29.6,0.4,0,ppb,74.0
+NV,Po Box 435,89403.0,Storey County Water District,1420,Dibromochloromethane,0.297,0.1,0,ppb,2.9699999999999998
+NV,Po Box 435,89403.0,Storey County Water District,1420,Dichloroacetic acid,12.9,0.2,0,ppb,64.5
+NV,Po Box 435,89403.0,Storey County Water District,1420,Haloacetic acids (HAA5)†,32.8,0.1,60,ppb,327.99999999999994
+NV,Po Box 435,89403.0,Storey County Water District,1420,Total trihalomethanes (TTHMs)†,31.6,0.15,80,ppb,210.66666666666669
+NV,Po Box 435,89403.0,Storey County Water District,1420,Trichloroacetic acid,18.0,0.1,0,ppb,180.0
+NV,Po Box 435,89403.0,Storey County Water District,1420,Di(2-ethylhexyl) phthalate,0.103,3.0,6,ppb,0.034333333333333334
+NV,Po Box 435,89403.0,Storey County Water District,1420,Dibromoacetic acid,0.0736,0.04,0,ppb,1.8399999999999999
+NV,Po Box 435,89403.0,Storey County Water District,1420,Monobromoacetic acid,0.6,25.0,0,ppb,0.024
+NV,Po Box 435,89403.0,Storey County Water District,1420,Monochloroacetic acid,1.02,53.0,0,ppb,0.019245283018867926
+NV,Po Box 435,89403.0,Storey County Water District,1420,Nitrate,0.0183,0.14,10,ppm,0.1307142857142857
+NV,Yerington,89403.0,Weed Heights Development,340,Arsenic,9.21,0.004,10,ppb,2302.5
+NV,Yerington,89403.0,Weed Heights Development,340,Bromodichloromethane,0.6,0.06,0,ppb,10.0
+NV,Yerington,89403.0,Weed Heights Development,340,Bromoform,1.46,0.5,0,ppb,2.92
+NV,Yerington,89403.0,Weed Heights Development,340,Dibromoacetic acid,0.55,0.04,0,ppb,13.75
+NV,Yerington,89403.0,Weed Heights Development,340,Dibromochloromethane,1.7,0.1,0,ppb,17.0
+NV,Yerington,89403.0,Weed Heights Development,340,Haloacetic acids (HAA5)†,0.55,0.1,60,ppb,5.5
+NV,Yerington,89403.0,Weed Heights Development,340,Nitrate,0.289,0.14,10,ppm,2.064285714285714
+NV,Yerington,89403.0,Weed Heights Development,340,Radium combined (-226 &amp; -228),0.63,0.05,5,pCi/L,12.6
+NV,Yerington,89403.0,Weed Heights Development,340,Total trihalomethanes (TTHMs)†,3.75,0.15,80,ppb,25.0
+NV,Yerington,89403.0,Weed Heights Development,340,Uranium,6.87,0.43,20,pCi/L,15.976744186046512
+NV,Yerington,89403.0,Weed Heights Development,340,Barium,30.3,700.0,2000,ppb,0.04328571428571429
+NV,Yerington,89403.0,Weed Heights Development,340,Manganese,0.6,100.0,0,ppb,0.006
+NV,Yerington,89403.0,Weed Heights Development,340,Mercury (inorganic),0.0667,1.2,2,ppb,0.05558333333333333
+NV,Yerington,89403.0,Weed Heights Development,340,Nitrate and nitrite,0.277,0.14,10,ppm,1.9785714285714286
+NV,Yerington,89403.0,Weed Heights Development,340,Selenium,1.67,30.0,50,ppb,0.05566666666666666
+NV,Yerington,89403.0,Yerington City of,5050,Arsenic,4.16,0.004,10,ppb,1040.0
+NV,Yerington,89403.0,Yerington City of,5050,Bromodichloromethane,1.63,0.06,0,ppb,27.166666666666664
+NV,Yerington,89403.0,Yerington City of,5050,Bromoform,3.6,0.5,0,ppb,7.2
+NV,Yerington,89403.0,Yerington City of,5050,Dibromoacetic acid,1.49,0.04,0,ppb,37.25
+NV,Yerington,89403.0,Yerington City of,5050,Dibromochloromethane,3.4,0.1,0,ppb,34.0
+NV,Yerington,89403.0,Yerington City of,5050,Haloacetic acids (HAA5)†,1.49,0.1,60,ppb,14.899999999999999
+NV,Yerington,89403.0,Yerington City of,5050,Radium combined (-226 &amp; -228),0.57,0.05,5,pCi/L,11.399999999999999
+NV,Yerington,89403.0,Yerington City of,5050,Radon,672.0,1.5,0,pCi/L,448.0
+NV,Yerington,89403.0,Yerington City of,5050,Total trihalomethanes (TTHMs)†,9.54,0.15,80,ppb,63.599999999999994
+NV,Yerington,89403.0,Yerington City of,5050,Uranium,14.34,0.43,20,pCi/L,33.348837209302324
+NV,Yerington,89403.0,Yerington City of,5050,Barium,73.0,700.0,2000,ppb,0.10428571428571429
+NV,Yerington,89403.0,Yerington City of,5050,Chloroform,0.452,0.4,0,ppb,1.13
+NV,Yerington,89403.0,Yerington City of,5050,Di(2-ethylhexyl) phthalate,0.349,3.0,6,ppb,0.11633333333333333
+NV,Yerington,89403.0,Yerington City of,5050,Dichloroacetic acid,0.08,0.2,0,ppb,0.39999999999999997
+NV,Yerington,89403.0,Yerington City of,5050,Manganese,47.8,100.0,0,ppb,0.478
+NV,Yerington,89403.0,Yerington City of,5050,Nitrate,0.188,0.14,10,ppm,1.3428571428571427
+NV,Yerington,89403.0,Yerington City of,5050,Nitrate and nitrite,0.154,0.14,10,ppm,1.0999999999999999
+NV,Winnemucca,89404.0,Golconda Gid,60,Arsenic,3.0,0.004,10,ppb,750.0
+NV,Winnemucca,89404.0,Golconda Gid,60,Bromodichloromethane,2.37,0.06,0,ppb,39.5
+NV,Winnemucca,89404.0,Golconda Gid,60,Bromoform,1.48,0.5,0,ppb,2.96
+NV,Winnemucca,89404.0,Golconda Gid,60,Chloroform,2.25,0.4,0,ppb,5.625
+NV,Winnemucca,89404.0,Golconda Gid,60,Dibromoacetic acid,1.62,0.04,0,ppb,40.5
+NV,Winnemucca,89404.0,Golconda Gid,60,Dibromochloromethane,3.39,0.1,0,ppb,33.9
+NV,Winnemucca,89404.0,Golconda Gid,60,Dichloroacetic acid,1.45,0.2,0,ppb,7.249999999999999
+NV,Winnemucca,89404.0,Golconda Gid,60,Haloacetic acids (HAA5)†,4.47,0.1,60,ppb,44.699999999999996
+NV,Winnemucca,89404.0,Golconda Gid,60,Radium combined (-226 &amp; -228),0.93,0.05,5,pCi/L,18.6
+NV,Winnemucca,89404.0,Golconda Gid,60,Total trihalomethanes (TTHMs)†,9.5,0.15,80,ppb,63.333333333333336
+NV,Winnemucca,89404.0,Golconda Gid,60,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Winnemucca,89404.0,Golconda Gid,60,Uranium,1.84,0.43,20,pCi/L,4.279069767441861
+NV,Winnemucca,89404.0,Golconda Gid,60,Barium,28.0,700.0,2000,ppb,0.04
+NV,Winnemucca,89404.0,Golconda Gid,60,Manganese,1.0,100.0,0,ppb,0.01
+NV,Winnemucca,89404.0,Golconda Gid,60,Nitrate,0.175,0.14,10,ppm,1.2499999999999998
+NV,Winnemucca,89404.0,Golconda Gid,60,Nitrate and nitrite,0.143,0.14,10,ppm,1.0214285714285714
+NV,Reno,89404.0,Gold Country Estates,737,Arsenic,3.27,0.004,10,ppb,817.5
+NV,Reno,89404.0,Gold Country Estates,737,Bromodichloromethane,0.186,0.06,0,ppb,3.1
+NV,Reno,89404.0,Gold Country Estates,737,Bromoform,2.25,0.5,0,ppb,4.5
+NV,Reno,89404.0,Gold Country Estates,737,Dibromoacetic acid,0.7,0.04,0,ppb,17.5
+NV,Reno,89404.0,Gold Country Estates,737,Dibromochloromethane,0.845,0.1,0,ppb,8.45
+NV,Reno,89404.0,Gold Country Estates,737,Haloacetic acids (HAA5)†,0.7,0.1,60,ppb,6.999999999999999
+NV,Reno,89404.0,Gold Country Estates,737,Nitrate,5.26,0.14,10,ppm,37.57142857142857
+NV,Reno,89404.0,Gold Country Estates,737,Nitrate and nitrite,2.2,0.14,10,ppm,15.714285714285714
+NV,Reno,89404.0,Gold Country Estates,737,Radium combined (-226 &amp; -228),0.3,0.05,5,pCi/L,5.999999999999999
+NV,Reno,89404.0,Gold Country Estates,737,Total trihalomethanes (TTHMs)†,3.3,0.15,80,ppb,22.0
+NV,Reno,89404.0,Gold Country Estates,737,Uranium,1.56,0.43,20,pCi/L,3.6279069767441863
+NV,Reno,89404.0,Gold Country Estates,737,Barium,108.7,700.0,2000,ppb,0.15528571428571428
+NV,Reno,89404.0,Gold Country Estates,737,Manganese,3.78,100.0,0,ppb,0.0378
+NV,Reno,89404.0,Gold Country Estates,737,Selenium,14.9,30.0,50,ppb,0.4966666666666667
+NV,Reno,89404.0,Gold Country Estates,737,Xylenes (total),0.0663,1800.0,10000,ppb,3.683333333333333e-05
+NV,Orovada,89404.0,Orovada Water District,200,Arsenic,1.4,0.004,10,ppb,349.99999999999994
+NV,Orovada,89404.0,Orovada Water District,200,Nitrate,0.448,0.14,10,ppm,3.1999999999999997
+NV,Orovada,89404.0,Orovada Water District,200,Nitrate and nitrite,0.538,0.14,10,ppm,3.8428571428571425
+NV,Orovada,89404.0,Orovada Water District,200,Radium combined (-226 &amp; -228),0.16,0.05,5,pCi/L,3.1999999999999997
+NV,Orovada,89404.0,Orovada Water District,200,24-D,0.0567,20.0,70,ppb,0.002835
+NV,Orovada,89404.0,Orovada Water District,200,Barium,79.5,700.0,2000,ppb,0.11357142857142857
+NV,Orovada,89404.0,Orovada Water District,200,Manganese,0.5,100.0,0,ppb,0.005
+NV,Orovada,89404.0,Orovada Water District,200,Uranium,0.22,0.43,20,pCi/L,0.5116279069767442
+NV,Winnemucca,89404.0,Star City Properties,285,Nitrate,2.88,0.14,10,ppm,20.57142857142857
+NV,Winnemucca,89404.0,Star City Properties,285,Nitrate and nitrite,3.6,0.14,10,ppm,25.71428571428571
+NV,Winnemucca,89404.0,Star City Properties,285,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Winnemucca,89404.0,Star City Properties,285,Uranium,1.68,0.43,20,pCi/L,3.9069767441860463
+NV,Winnemucca,89404.0,Star City Properties,285,Aluminum,31.0,600.0,0,ppb,0.051666666666666666
+NV,Winnemucca,89404.0,Star City Properties,285,Barium,120.0,700.0,2000,ppb,0.17142857142857143
+NV,Winnemucca,89404.0,Star City Properties,285,Selenium,4.0,30.0,50,ppb,0.13333333333333333
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Arsenic,4.5,0.004,10,ppb,1125.0
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Nitrate and nitrite,0.514,0.14,10,ppm,3.6714285714285713
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Radium combined (-226 &amp; -228),0.8,0.05,5,pCi/L,16.0
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Aluminum,10.5,600.0,0,ppb,0.0175
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Barium,80.0,700.0,2000,ppb,0.11428571428571428
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Nitrate,0.267,0.14,10,ppm,1.907142857142857
+NV,Valmy,89404.0,Valmy Station Mobile Home Park,96,Selenium,2.0,30.0,50,ppb,0.06666666666666667
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Arsenic,4.72,0.004,10,ppb,1180.0
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Bromoform,1.55,0.5,0,ppb,3.1
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Dibromoacetic acid,0.167,0.04,0,ppb,4.175
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Nitrate,1.72,0.14,10,ppm,12.285714285714285
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Nitrate and nitrite,1.78,0.14,10,ppm,12.714285714285714
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Radium combined (-226 &amp; -228),0.17,0.05,5,pCi/L,3.4
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Total trihalomethanes (TTHMs)†,1.55,0.15,80,ppb,10.333333333333334
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Uranium,2.68,0.43,20,pCi/L,6.232558139534884
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Aluminum,6.0,600.0,0,ppb,0.01
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Barium,73.3,700.0,2000,ppb,0.1047142857142857
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Haloacetic acids (HAA5)†,0.167,0.1,60,ppb,1.67
+NV,Winnemucca,89404.0,Winnemucca City of,8066,Selenium,1.83,30.0,50,ppb,0.061000000000000006
+NV,Fallon,89406.0,Carson River Estates,90,Arsenic,0.701,0.004,10,ppb,175.24999999999997
+NV,Fallon,89406.0,Carson River Estates,90,Bromodichloromethane,0.174,0.06,0,ppb,2.9
+NV,Fallon,89406.0,Carson River Estates,90,Haloacetic acids (HAA5)†,0.34,0.1,60,ppb,3.4
+NV,Fallon,89406.0,Carson River Estates,90,Radium combined (-226 &amp; -228),0.7,0.05,5,pCi/L,13.999999999999998
+NV,Fallon,89406.0,Carson River Estates,90,Radon,205.05,1.5,0,pCi/L,136.70000000000002
+NV,Fallon,89406.0,Carson River Estates,90,Total trihalomethanes (TTHMs)†,0.524,0.15,80,ppb,3.4933333333333336
+NV,Fallon,89406.0,Carson River Estates,90,Aluminum,8.17,600.0,0,ppb,0.013616666666666666
+NV,Fallon,89406.0,Carson River Estates,90,Bromoform,0.0857,0.5,0,ppb,0.1714
+NV,Fallon,89406.0,Carson River Estates,90,Di(2-ethylhexyl) phthalate,0.286,3.0,6,ppb,0.09533333333333333
+NV,Fallon,89406.0,Carson River Estates,90,Dibromochloromethane,0.114,0.1,0,ppb,1.14
+NV,Fallon,89406.0,Carson River Estates,90,Manganese,27.0,100.0,0,ppb,0.27
+NV,Fallon,89406.0,Carson River Estates,90,Monobromoacetic acid,0.34,25.0,0,ppb,0.013600000000000001
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Bromodichloromethane,0.406,0.06,0,ppb,6.7666666666666675
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Bromoform,14.0,0.5,0,ppb,28.0
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Dibromoacetic acid,3.84,0.04,0,ppb,96.0
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Dibromochloromethane,3.61,0.1,0,ppb,36.099999999999994
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Haloacetic acids (HAA5)†,5.04,0.1,60,ppb,50.4
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Total trihalomethanes (TTHMs)†,18.1,0.15,80,ppb,120.66666666666669
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Trichloroacetic acid,1.23,0.1,0,ppb,12.299999999999999
+NV,Fallon,89406.0,Fallon Naval Air Station,1500,Chloroform,0.0192,0.4,0,ppb,0.047999999999999994
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Arsenic,7.33,0.004,10,ppb,1832.5
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Bromodichloromethane,0.49,0.06,0,ppb,8.166666666666666
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Dibromochloromethane,0.55,0.1,0,ppb,5.5
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Radium combined (-226 &amp; -228),0.34,0.05,5,pCi/L,6.8
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Total trihalomethanes (TTHMs)†,1.6,0.15,80,ppb,10.666666666666668
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Barium,150.0,700.0,2000,ppb,0.21428571428571427
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Chloroform,0.55,0.4,0,ppb,1.375
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Manganese,71.2,100.0,0,ppb,0.7120000000000001
+NV,Fallon,89406.0,R and M Mobile Home Park,130,Uranium,0.22,0.43,20,pCi/L,0.5116279069767442
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Arsenic,3.45,0.004,10,ppb,862.5
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Bromodichloromethane,1.12,0.06,0,ppb,18.666666666666668
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Bromoform,2.09,0.5,0,ppb,4.18
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Dibromoacetic acid,0.3,0.04,0,ppb,7.5
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Dibromochloromethane,1.98,0.1,0,ppb,19.799999999999997
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Haloacetic acids (HAA5)†,0.3,0.1,60,ppb,2.9999999999999996
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Manganese,228.5,100.0,0,ppb,2.285
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Radium combined (-226 &amp; -228),1.16,0.05,5,pCi/L,23.199999999999996
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Total trihalomethanes (TTHMs)†,7.14,0.15,80,ppb,47.6
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Uranium,2.35,0.43,20,pCi/L,5.465116279069767
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Barium,76.0,700.0,2000,ppb,0.10857142857142857
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Chloroform,0.52,0.4,0,ppb,1.3
+NV,Reno`,89406.0,Sage Valley Park Llc,188,Mercury (inorganic),0.2,1.2,2,ppb,0.16666666666666669
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Arsenic,11.1,0.004,10,ppb,2775.0
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Bromodichloromethane,0.843,0.06,0,ppb,14.05
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Chloroform,1.7,0.4,0,ppb,4.25
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Dichloroacetic acid,1.02,0.2,0,ppb,5.1
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Haloacetic acids (HAA5)†,2.68,0.1,60,ppb,26.8
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Total trihalomethanes (TTHMs)†,2.72,0.15,80,ppb,18.133333333333336
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Trichloroacetic acid,1.4,0.1,0,ppb,13.999999999999998
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Dibromochloromethane,0.167,0.1,0,ppb,1.67
+NV,Auburn,89406.0,Tolas Waterworks Co-op,250,Monobromoacetic acid,0.2,25.0,0,ppb,0.008
+NV,Minden,89410.0,Cave Rock Skyland,1267,Arsenic,1.17,0.004,10,ppb,292.5
+NV,Minden,89410.0,Cave Rock Skyland,1267,Bromodichloromethane,1.71,0.06,0,ppb,28.5
+NV,Minden,89410.0,Cave Rock Skyland,1267,Chloroform,3.55,0.4,0,ppb,8.874999999999998
+NV,Minden,89410.0,Cave Rock Skyland,1267,Dibromochloromethane,0.732,0.1,0,ppb,7.319999999999999
+NV,Minden,89410.0,Cave Rock Skyland,1267,Dichloroacetic acid,1.86,0.2,0,ppb,9.3
+NV,Minden,89410.0,Cave Rock Skyland,1267,Haloacetic acids (HAA5)†,3.03,0.1,60,ppb,30.299999999999997
+NV,Minden,89410.0,Cave Rock Skyland,1267,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Minden,89410.0,Cave Rock Skyland,1267,Total trihalomethanes (TTHMs)†,6.0,0.15,80,ppb,40.0
+NV,Minden,89410.0,Cave Rock Skyland,1267,Trichloroacetic acid,1.1,0.1,0,ppb,11.0
+NV,Minden,89410.0,Cave Rock Skyland,1267,Barium,12.5,700.0,2000,ppb,0.017857142857142856
+NV,Minden,89410.0,Cave Rock Skyland,1267,Monochloroacetic acid,0.0583,53.0,0,ppb,0.0010999999999999998
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Arsenic,13.2,0.004,10,ppb,3299.9999999999995
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Bromodichloromethane,0.235,0.06,0,ppb,3.9166666666666665
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Bromoform,1.97,0.5,0,ppb,3.94
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Dibromochloromethane,1.28,0.1,0,ppb,12.799999999999999
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Nitrate,2.15,0.14,10,ppm,15.357142857142856
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Nitrate and nitrite,2.3,0.14,10,ppm,16.428571428571427
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Total trihalomethanes (TTHMs)†,3.48,0.15,80,ppb,23.2
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Uranium,1.68,0.43,20,pCi/L,3.9069767441860463
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Barium,81.0,700.0,2000,ppb,0.11571428571428571
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Manganese,3.0,100.0,0,ppb,0.03
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Arsenic,13.2,0.004,10,ppb,3299.9999999999995
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Bromodichloromethane,0.235,0.06,0,ppb,3.9166666666666665
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Bromoform,1.97,0.5,0,ppb,3.94
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Dibromochloromethane,1.28,0.1,0,ppb,12.799999999999999
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Nitrate,2.15,0.14,10,ppm,15.357142857142856
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Nitrate and nitrite,2.3,0.14,10,ppm,16.428571428571427
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Total trihalomethanes (TTHMs)†,3.48,0.15,80,ppb,23.2
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Uranium,1.68,0.43,20,pCi/L,3.9069767441860463
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Barium,81.0,700.0,2000,ppb,0.11571428571428571
+NV,Minden,89410.0,Fairgrounds/sunrise Estates,20,Manganese,3.0,100.0,0,ppb,0.03
+NV,Minden,89410.0,Foothill Water System,346,Arsenic,0.125,0.004,10,ppb,31.25
+NV,Minden,89410.0,Foothill Water System,346,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+NV,Minden,89410.0,Foothill Water System,346,Uranium,6.3,0.43,20,pCi/L,14.651162790697674
+NV,Minden,89410.0,Foothill Water System,346,Barium,1.25,700.0,2000,ppb,0.0017857142857142857
+NV,Minden,89410.0,Foothill Water System,346,Manganese,0.333,100.0,0,ppb,0.00333
+NV,Minden,89410.0,Foothill Water System,346,Nitrate,0.102,0.14,10,ppm,0.7285714285714284
+NV,Minden,89410.0,Foothill Water System,346,Nitrate and nitrite,0.08,0.14,10,ppm,0.5714285714285714
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Arsenic,0.31,0.004,10,ppb,77.5
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Nitrate,1.95,0.14,10,ppm,13.928571428571427
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Nitrate and nitrite,1.95,0.14,10,ppm,13.928571428571427
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Radium combined (-226 &amp; -228),0.24,0.05,5,pCi/L,4.8
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Uranium,2.72,0.43,20,pCi/L,6.325581395348838
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Barium,130.1,700.0,2000,ppb,0.18585714285714286
+NV,Gardnerville,89410.0,Gardnerville Water Company,4500,Manganese,2.5,100.0,0,ppb,0.025
+NV,Chino,89410.0,Holbrook Station Rv and Mobile Home Park,180,Arsenic,11.0,0.004,10,ppb,2750.0
+NV,Chino,89410.0,Holbrook Station Rv and Mobile Home Park,180,Nitrate,1.72,0.14,10,ppm,12.285714285714285
+NV,Chino,89410.0,Holbrook Station Rv and Mobile Home Park,180,Nitrate and nitrite,3.32,0.14,10,ppm,23.71428571428571
+NV,Chino,89410.0,Holbrook Station Rv and Mobile Home Park,180,Uranium,4.02,0.43,20,pCi/L,9.348837209302324
+NV,Carson City,89410.0,Indian Hills Gid,5700,Arsenic,2.36,0.004,10,ppb,590.0
+NV,Carson City,89410.0,Indian Hills Gid,5700,Dibromochloromethane,0.271,0.1,0,ppb,2.71
+NV,Carson City,89410.0,Indian Hills Gid,5700,Nitrate,2.72,0.14,10,ppm,19.428571428571427
+NV,Carson City,89410.0,Indian Hills Gid,5700,Nitrate and nitrite,2.72,0.14,10,ppm,19.428571428571427
+NV,Carson City,89410.0,Indian Hills Gid,5700,Radon,180.8,1.5,0,pCi/L,120.53333333333335
+NV,Carson City,89410.0,Indian Hills Gid,5700,Total trihalomethanes (TTHMs)†,0.55,0.15,80,ppb,3.666666666666667
+NV,Carson City,89410.0,Indian Hills Gid,5700,Uranium,4.0,0.43,20,pCi/L,9.30232558139535
+NV,Carson City,89410.0,Indian Hills Gid,5700,Barium,42.5,700.0,2000,ppb,0.060714285714285714
+NV,Carson City,89410.0,Indian Hills Gid,5700,Bromodichloromethane,0.056,0.06,0,ppb,0.9333333333333333
+NV,Carson City,89410.0,Indian Hills Gid,5700,Bromoform,0.11,0.5,0,ppb,0.22
+NV,Carson City,89410.0,Indian Hills Gid,5700,Manganese,1.75,100.0,0,ppb,0.0175
+NV,Stateline,89410.0,Kingsbury Gid,3839,Arsenic,1.0,0.004,10,ppb,250.0
+NV,Stateline,89410.0,Kingsbury Gid,3839,Bromate,2.41,0.1,10,ppb,24.1
+NV,Stateline,89410.0,Kingsbury Gid,3839,Bromochloroacetic acid,1.95,0.02,0,ppb,97.5
+NV,Stateline,89410.0,Kingsbury Gid,3839,Bromodichloromethane,2.11,0.06,0,ppb,35.166666666666664
+NV,Stateline,89410.0,Kingsbury Gid,3839,Chloroform,9.06,0.4,0,ppb,22.65
+NV,Stateline,89410.0,Kingsbury Gid,3839,Dibromochloromethane,0.759,0.1,0,ppb,7.59
+NV,Stateline,89410.0,Kingsbury Gid,3839,Dichloroacetic acid,4.62,0.2,0,ppb,23.099999999999998
+NV,Stateline,89410.0,Kingsbury Gid,3839,Haloacetic acids (HAA5)†,8.45,0.1,60,ppb,84.49999999999999
+NV,Stateline,89410.0,Kingsbury Gid,3839,Radium combined (-226 &amp; -228),1.14,0.05,5,pCi/L,22.799999999999997
+NV,Stateline,89410.0,Kingsbury Gid,3839,Radon,13.4,1.5,0,pCi/L,8.933333333333334
+NV,Stateline,89410.0,Kingsbury Gid,3839,Total trihalomethanes (TTHMs)†,12.0,0.15,80,ppb,80.0
+NV,Stateline,89410.0,Kingsbury Gid,3839,Trichloroacetic acid,3.79,0.1,0,ppb,37.9
+NV,Stateline,89410.0,Kingsbury Gid,3839,Antimony,0.333,1.0,6,ppb,0.333
+NV,Stateline,89410.0,Kingsbury Gid,3839,Barium,12.5,700.0,2000,ppb,0.017857142857142856
+NV,Stateline,89410.0,Kingsbury Gid,3839,Bromoform,0.05,0.5,0,ppb,0.1
+NV,Stateline,89410.0,Kingsbury Gid,3839,Manganese,0.167,100.0,0,ppb,0.00167
+NV,Stateline,89410.0,Kingsbury Gid,3839,Monochloroacetic acid,0.0385,53.0,0,ppb,0.0007264150943396226
+NV,Stateline,89410.0,Kingsbury Gid,3839,Toluene,0.157,150.0,1000,ppb,0.0010466666666666667
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Bromodichloromethane,0.7,0.06,0,ppb,11.666666666666666
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Chloroform,2.69,0.4,0,ppb,6.725
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Dibromochloromethane,0.343,0.1,0,ppb,3.43
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Dichloroacetic acid,0.829,0.2,0,ppb,4.145
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Haloacetic acids (HAA5)†,1.58,0.1,60,ppb,15.8
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Radium combined (-226 &amp; -228),1.67,0.05,5,pCi/L,33.4
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Total trihalomethanes (TTHMs)†,4.23,0.15,80,ppb,28.200000000000003
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Trichloroacetic acid,0.529,0.1,0,ppb,5.29
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Uranium,12.4,0.43,20,pCi/L,28.837209302325583
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Manganese,3.5,100.0,0,ppb,0.035
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Nitrate,0.095,0.14,10,ppm,0.6785714285714285
+NV,Stateline,89410.0,Logan Creek Estates Gid,60,Nitrate and nitrite,0.06,0.14,10,ppm,0.4285714285714285
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Arsenic,5.0,0.004,10,ppb,1250.0
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Nitrate,3.83,0.14,10,ppm,27.357142857142854
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Nitrate and nitrite,4.57,0.14,10,ppm,32.64285714285714
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Uranium,4.69,0.43,20,pCi/L,10.906976744186048
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Barium,80.0,700.0,2000,ppb,0.11428571428571428
+NV,Auburn,89410.0,Pinion Pines Mobile Home Park,30,Selenium,1.0,30.0,50,ppb,0.03333333333333333
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Arsenic,4.34,0.004,10,ppb,1085.0
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Nitrate,2.0,0.14,10,ppm,14.285714285714285
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Nitrate and nitrite,1.31,0.14,10,ppm,9.357142857142856
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Radium combined (-226 &amp; -228),0.32,0.05,5,pCi/L,6.3999999999999995
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Tetrachloroethylene (perchloroethylene),1.99,0.06,5,ppb,33.166666666666664
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Uranium,1.56,0.43,20,pCi/L,3.6279069767441863
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Barium,79.5,700.0,2000,ppb,0.11357142857142857
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Chloroform,0.225,0.4,0,ppb,0.5625
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Manganese,40.0,100.0,0,ppb,0.4
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Total trihalomethanes (TTHMs)†,0.18,0.15,80,ppb,1.2
+NV,Gardnerville,89410.0,Topaz Lake Water Company Inc.,40,Trichloroethylene,0.163,0.4,5,ppb,0.4075
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Arsenic,0.367,0.004,10,ppb,91.75
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Bromodichloromethane,0.334,0.06,0,ppb,5.566666666666667
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Dibromochloromethane,0.628,0.1,0,ppb,6.279999999999999
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Haloacetic acids (HAA5)†,1.2,0.1,60,ppb,11.999999999999998
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Nitrate,1.88,0.14,10,ppm,13.428571428571427
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Nitrate and nitrite,2.07,0.14,10,ppm,14.785714285714283
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Total trihalomethanes (TTHMs)†,2.99,0.15,80,ppb,19.933333333333337
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Trichloroacetic acid,0.317,0.1,0,ppb,3.17
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Barium,72.0,700.0,2000,ppb,0.10285714285714286
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Bromoform,0.6,0.5,0,ppb,1.2
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Chloromethane,0.0914,2.69,0,ppb,0.03397769516728624
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Dichloroacetic acid,0.367,0.2,0,ppb,1.835
+NV,Wellington,89410.0,Topaz Ranch Estates Gid and Water Co.,2100,Monochloroacetic acid,0.4,53.0,0,ppb,0.007547169811320755
+NV,Minden,89410.0,Town of Minden,3500,Arsenic,7.63,0.004,10,ppb,1907.5
+NV,Minden,89410.0,Town of Minden,3500,Nitrate,0.889,0.14,10,ppm,6.35
+NV,Minden,89410.0,Town of Minden,3500,Nitrate and nitrite,0.746,0.14,10,ppm,5.328571428571428
+NV,Minden,89410.0,Town of Minden,3500,Radium combined (-226 &amp; -228),0.24,0.05,5,pCi/L,4.8
+NV,Minden,89410.0,Town of Minden,3500,Radon,466.37,1.5,0,pCi/L,310.91333333333336
+NV,Minden,89410.0,Town of Minden,3500,Uranium,3.86,0.43,20,pCi/L,8.976744186046512
+NV,Minden,89410.0,Town of Minden,3500,Aluminum,52.0,600.0,0,ppb,0.08666666666666667
+NV,Minden,89410.0,Town of Minden,3500,Barium,96.8,700.0,2000,ppb,0.1382857142857143
+NV,Minden,89410.0,Town of Minden,3500,Manganese,2.19,100.0,0,ppb,0.0219
+NV,Minden,89410.0,Uppaway Water System,85,Arsenic,1.0,0.004,10,ppb,250.0
+NV,Minden,89410.0,Uppaway Water System,85,Bromodichloromethane,0.748,0.06,0,ppb,12.466666666666667
+NV,Minden,89410.0,Uppaway Water System,85,Chloroform,1.34,0.4,0,ppb,3.35
+NV,Minden,89410.0,Uppaway Water System,85,Dibromochloromethane,0.522,0.1,0,ppb,5.22
+NV,Minden,89410.0,Uppaway Water System,85,Haloacetic acids (HAA5)†,0.467,0.1,60,ppb,4.67
+NV,Minden,89410.0,Uppaway Water System,85,Radium combined (-226 &amp; -228),0.51,0.05,5,pCi/L,10.2
+NV,Minden,89410.0,Uppaway Water System,85,Total trihalomethanes (TTHMs)†,2.61,0.15,80,ppb,17.4
+NV,Minden,89410.0,Uppaway Water System,85,Trichloroacetic acid,0.467,0.1,0,ppb,4.67
+NV,Minden,89410.0,Uppaway Water System,85,Uranium,5.36,0.43,20,pCi/L,12.465116279069768
+NV,Minden,89410.0,Uppaway Water System,85,Manganese,0.5,100.0,0,ppb,0.005
+NV,Minden,89410.0,Uppaway Water System,85,Mercury (inorganic),0.2,1.2,2,ppb,0.16666666666666669
+NV,Minden,89410.0,Uppaway Water System,85,Nitrate,0.0892,0.14,10,ppm,0.6371428571428571
+NV,Minden,89410.0,Uppaway Water System,85,Nitrate and nitrite,0.0725,0.14,10,ppm,0.5178571428571428
+NV,Minden,89410.0,Uppaway Water System,85,Toluene,0.87,150.0,1000,ppb,0.0058
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Arsenic,1.0,0.004,10,ppb,250.0
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Bromate,0.37,0.1,10,ppb,3.6999999999999997
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Bromodichloromethane,1.41,0.06,0,ppb,23.5
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Chloroform,3.86,0.4,0,ppb,9.649999999999999
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Dibromochloromethane,0.66,0.1,0,ppb,6.6
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Dichloroacetic acid,1.05,0.2,0,ppb,5.25
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Haloacetic acids (HAA5)†,2.44,0.1,60,ppb,24.4
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Radium combined (-226 &amp; -228),0.64,0.05,5,pCi/L,12.799999999999999
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Total trihalomethanes (TTHMs)†,5.94,0.15,80,ppb,39.6
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Trichloroacetic acid,0.832,0.1,0,ppb,8.319999999999999
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Barium,33.8,700.0,2000,ppb,0.04828571428571428
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Manganese,0.86,100.0,0,ppb,0.0086
+NV,Minden,89410.0,Zephyr Cove Water Utility Distr,1209,Monochloroacetic acid,0.506,53.0,0,ppb,0.009547169811320755
+NV,Carlin,89414.0,Carlin Utilities,2500,Arsenic,7.67,0.004,10,ppb,1917.5
+NV,Carlin,89414.0,Carlin Utilities,2500,Bromodichloromethane,7.34,0.06,0,ppb,122.33333333333333
+NV,Carlin,89414.0,Carlin Utilities,2500,Bromoform,3.78,0.5,0,ppb,7.56
+NV,Carlin,89414.0,Carlin Utilities,2500,Chloroform,3.94,0.4,0,ppb,9.85
+NV,Carlin,89414.0,Carlin Utilities,2500,Dibromoacetic acid,3.74,0.04,0,ppb,93.5
+NV,Carlin,89414.0,Carlin Utilities,2500,Dibromochloromethane,7.95,0.1,0,ppb,79.5
+NV,Carlin,89414.0,Carlin Utilities,2500,Dichloroacetic acid,5.31,0.2,0,ppb,26.549999999999997
+NV,Carlin,89414.0,Carlin Utilities,2500,Haloacetic acids (HAA5)†,10.6,0.1,60,ppb,105.99999999999999
+NV,Carlin,89414.0,Carlin Utilities,2500,Nitrate,0.654,0.14,10,ppm,4.671428571428571
+NV,Carlin,89414.0,Carlin Utilities,2500,Nitrate and nitrite,0.582,0.14,10,ppm,4.157142857142857
+NV,Carlin,89414.0,Carlin Utilities,2500,Radium combined (-226 &amp; -228),1.55,0.05,5,pCi/L,31.0
+NV,Carlin,89414.0,Carlin Utilities,2500,Total trihalomethanes (TTHMs)†,23.0,0.15,80,ppb,153.33333333333334
+NV,Carlin,89414.0,Carlin Utilities,2500,Trichloroacetic acid,0.514,0.1,0,ppb,5.14
+NV,Carlin,89414.0,Carlin Utilities,2500,Uranium,4.69,0.43,20,pCi/L,10.906976744186048
+NV,Carlin,89414.0,Carlin Utilities,2500,Antimony,0.5,1.0,6,ppb,0.5
+NV,Carlin,89414.0,Carlin Utilities,2500,Barium,101.0,700.0,2000,ppb,0.1442857142857143
+NV,Carlin,89414.0,Carlin Utilities,2500,Manganese,2.25,100.0,0,ppb,0.0225
+NV,Carlin,89414.0,Carlin Utilities,2500,Monobromoacetic acid,0.157,25.0,0,ppb,0.00628
+NV,Carlin,89414.0,Carlin Utilities,2500,Monochloroacetic acid,0.843,53.0,0,ppb,0.01590566037735849
+NV,Carlin,89414.0,Carlin Utilities,2500,Selenium,3.5,30.0,50,ppb,0.11666666666666667
+NV,Elko,89414.0,City of Elko,20451,Arsenic,5.47,0.004,10,ppb,1367.5
+NV,Elko,89414.0,City of Elko,20451,Chromium (hexavalent),0.68,0.02,0,ppb,34.0
+NV,Elko,89414.0,City of Elko,20451,Dibromoacetic acid,0.358,0.04,0,ppb,8.95
+NV,Elko,89414.0,City of Elko,20451,Dibromochloromethane,0.46,0.1,0,ppb,4.6
+NV,Elko,89414.0,City of Elko,20451,Haloacetic acids (HAA5)†,0.633,0.1,60,ppb,6.33
+NV,Elko,89414.0,City of Elko,20451,Haloacetic acids (HAA9)†,0.72,0.06,0,ppb,12.0
+NV,Elko,89414.0,City of Elko,20451,Nitrate,2.55,0.14,10,ppm,18.21428571428571
+NV,Elko,89414.0,City of Elko,20451,Nitrate and nitrite,2.36,0.14,10,ppm,16.857142857142854
+NV,Elko,89414.0,City of Elko,20451,Radium combined (-226 &amp; -228),0.54,0.05,5,pCi/L,10.8
+NV,Elko,89414.0,City of Elko,20451,Radon,621.52,1.5,0,pCi/L,414.34666666666664
+NV,Elko,89414.0,City of Elko,20451,Total trihalomethanes (TTHMs)†,1.74,0.15,80,ppb,11.6
+NV,Elko,89414.0,City of Elko,20451,Trichloroacetic acid,0.275,0.1,0,ppb,2.75
+NV,Elko,89414.0,City of Elko,20451,Uranium,8.9,0.43,20,pCi/L,20.697674418604652
+NV,Elko,89414.0,City of Elko,20451,14-Dioxane,0.00294,0.35,0,ppb,0.0084
+NV,Elko,89414.0,City of Elko,20451,Aluminum,89.2,600.0,0,ppb,0.14866666666666667
+NV,Elko,89414.0,City of Elko,20451,Barium,104.8,700.0,2000,ppb,0.14971428571428572
+NV,Elko,89414.0,City of Elko,20451,Bromodichloromethane,0.116,0.06,0,ppb,1.9333333333333336
+NV,Elko,89414.0,City of Elko,20451,Bromoform,0.668,0.5,0,ppb,1.336
+NV,Elko,89414.0,City of Elko,20451,Cadmium,0.0625,0.04,5,ppb,1.5625
+NV,Elko,89414.0,City of Elko,20451,Chlorate,88.0,210.0,0,ppb,0.41904761904761906
+NV,Elko,89414.0,City of Elko,20451,Chloroform,0.0333,0.4,0,ppb,0.08325
+NV,Elko,89414.0,City of Elko,20451,Manganese,6.21,100.0,0,ppb,0.0621
+NV,Elko,89414.0,City of Elko,20451,Mercury (inorganic),0.005,1.2,2,ppb,0.004166666666666667
+NV,Elko,89414.0,City of Elko,20451,Molybdenum,1.85,40.0,0,ppb,0.04625
+NV,Elko,89414.0,City of Elko,20451,Selenium,2.56,30.0,50,ppb,0.08533333333333333
+NV,Elko,89414.0,City of Elko,20451,Strontium,0.451,1500.0,0,ppb,0.0003006666666666667
+NV,Elko,89414.0,City of Elko,20451,Tetrachloroethylene (perchloroethylene),0.0431,0.06,5,ppb,0.7183333333333334
+NV,Elko,89414.0,City of Elko,20451,Trichloroethylene,0.368,0.4,5,ppb,0.9199999999999999
+NV,Elko,89414.0,City of Elko,20451,Vanadium,13.5,21.0,0,ppb,0.6428571428571429
+NV,Jackpot,89414.0,Jackpot Water System,1240,Arsenic,2.14,0.004,10,ppb,535.0
+NV,Jackpot,89414.0,Jackpot Water System,1240,Bromodichloromethane,1.02,0.06,0,ppb,17.0
+NV,Jackpot,89414.0,Jackpot Water System,1240,Bromoform,2.09,0.5,0,ppb,4.18
+NV,Jackpot,89414.0,Jackpot Water System,1240,Chloroform,1.65,0.4,0,ppb,4.124999999999999
+NV,Jackpot,89414.0,Jackpot Water System,1240,Dibromoacetic acid,1.25,0.04,0,ppb,31.25
+NV,Jackpot,89414.0,Jackpot Water System,1240,Dibromochloromethane,1.88,0.1,0,ppb,18.799999999999997
+NV,Jackpot,89414.0,Jackpot Water System,1240,Haloacetic acids (HAA5)†,1.54,0.1,60,ppb,15.4
+NV,Jackpot,89414.0,Jackpot Water System,1240,Nitrate,1.31,0.14,10,ppm,9.357142857142856
+NV,Jackpot,89414.0,Jackpot Water System,1240,Nitrate and nitrite,1.31,0.14,10,ppm,9.357142857142856
+NV,Jackpot,89414.0,Jackpot Water System,1240,Radium combined (-226 &amp; -228),2.14,0.05,5,pCi/L,42.8
+NV,Jackpot,89414.0,Jackpot Water System,1240,Total trihalomethanes (TTHMs)†,7.82,0.15,80,ppb,52.13333333333334
+NV,Jackpot,89414.0,Jackpot Water System,1240,Uranium,16.19,0.43,20,pCi/L,37.651162790697676
+NV,Jackpot,89414.0,Jackpot Water System,1240,Barium,184.0,700.0,2000,ppb,0.26285714285714284
+NV,Jackpot,89414.0,Jackpot Water System,1240,Chloromethane,0.0233,2.69,0,ppb,0.008661710037174721
+NV,Jackpot,89414.0,Jackpot Water System,1240,Dichloroacetic acid,0.191,0.2,0,ppb,0.955
+NV,Jackpot,89414.0,Jackpot Water System,1240,Ethylbenzene,0.142,300.0,700,ppb,0.0004733333333333333
+NV,Jackpot,89414.0,Jackpot Water System,1240,Manganese,6.14,100.0,0,ppb,0.061399999999999996
+NV,Jackpot,89414.0,Jackpot Water System,1240,Monobromoacetic acid,0.1,25.0,0,ppb,0.004
+NV,Jackpot,89414.0,Jackpot Water System,1240,Selenium,0.4,30.0,50,ppb,0.013333333333333334
+NV,Jackpot,89414.0,Jackpot Water System,1240,Tetrachloroethylene (perchloroethylene),0.032,0.06,5,ppb,0.5333333333333333
+NV,Jackpot,89414.0,Jackpot Water System,1240,Xylenes (total),1.38,1800.0,10000,ppb,0.0007666666666666666
+NV,Elko,89414.0,Jarbidge Water System,200,Bromochloroacetic acid,0.135,0.02,0,ppb,6.75
+NV,Elko,89414.0,Jarbidge Water System,200,Bromodichloromethane,0.503,0.06,0,ppb,8.383333333333333
+NV,Elko,89414.0,Jarbidge Water System,200,Chloroform,6.15,0.4,0,ppb,15.375
+NV,Elko,89414.0,Jarbidge Water System,200,Dichloroacetic acid,7.28,0.2,0,ppb,36.4
+NV,Elko,89414.0,Jarbidge Water System,200,Haloacetic acids (HAA5)†,14.9,0.1,60,ppb,149.0
+NV,Elko,89414.0,Jarbidge Water System,200,Radium combined (-226 &amp; -228),0.8,0.05,5,pCi/L,16.0
+NV,Elko,89414.0,Jarbidge Water System,200,Total trihalomethanes (TTHMs)†,7.38,0.15,80,ppb,49.2
+NV,Elko,89414.0,Jarbidge Water System,200,Trichloroacetic acid,7.3,0.1,0,ppb,73.0
+NV,Elko,89414.0,Jarbidge Water System,200,Aluminum,113.8,600.0,0,ppb,0.18966666666666665
+NV,Elko,89414.0,Jarbidge Water System,200,Manganese,11.3,100.0,0,ppb,0.113
+NV,Elko,89414.0,Jarbidge Water System,200,Monochloroacetic acid,0.278,53.0,0,ppb,0.005245283018867925
+NV,Elko,89414.0,Jarbidge Water System,200,Nitrate,0.058,0.14,10,ppm,0.41428571428571426
+NV,Elko,89414.0,Jarbidge Water System,200,Nitrate and nitrite,0.0617,0.14,10,ppm,0.44071428571428567
+NV,Elko,89414.0,Jarbidge Water System,200,Selenium,0.5,30.0,50,ppb,0.016666666666666666
+NV,Lamoille,89414.0,Lamoille Water Users Association,200,Radon,5200.2,1.5,0,pCi/L,3466.7999999999997
+NV,Lamoille,89414.0,Lamoille Water Users Association,200,Uranium,1.05,0.43,20,pCi/L,2.4418604651162794
+NV,Lamoille,89414.0,Lamoille Water Users Association,200,Manganese,3.0,100.0,0,ppb,0.03
+NV,Lamoille,89414.0,Lamoille Water Users Association,200,Nitrate,0.244,0.14,10,ppm,1.7428571428571427
+NV,Lamoille,89414.0,Lamoille Water Users Association,200,Nitrate and nitrite,0.22,0.14,10,ppm,1.5714285714285714
+NV,Elko,89414.0,Montello Water System,287,Arsenic,0.85,0.004,10,ppb,212.5
+NV,Elko,89414.0,Montello Water System,287,Dibromochloromethane,0.493,0.1,0,ppb,4.93
+NV,Elko,89414.0,Montello Water System,287,Nitrate,0.386,0.14,10,ppm,2.757142857142857
+NV,Elko,89414.0,Montello Water System,287,Nitrate and nitrite,0.34,0.14,10,ppm,2.4285714285714284
+NV,Elko,89414.0,Montello Water System,287,Radium combined (-226 &amp; -228),1.05,0.05,5,pCi/L,21.0
+NV,Elko,89414.0,Montello Water System,287,Total trihalomethanes (TTHMs)†,1.06,0.15,80,ppb,7.066666666666667
+NV,Elko,89414.0,Montello Water System,287,Uranium,1.47,0.43,20,pCi/L,3.4186046511627906
+NV,Elko,89414.0,Montello Water System,287,Barium,81.0,700.0,2000,ppb,0.11571428571428571
+NV,Elko,89414.0,Montello Water System,287,Bromodichloromethane,0.0944,0.06,0,ppb,1.5733333333333333
+NV,Elko,89414.0,Montello Water System,287,Bromoform,0.527,0.5,0,ppb,1.054
+NV,Elko,89414.0,Montello Water System,287,Ethylbenzene,1.11,300.0,700,ppb,0.0037
+NV,Elko,89414.0,Montello Water System,287,Manganese,11.0,100.0,0,ppb,0.11
+NV,Elko,89414.0,Montello Water System,287,Selenium,2.9,30.0,50,ppb,0.09666666666666666
+NV,Elko,89414.0,Montello Water System,287,Xylenes (total),6.6,1800.0,10000,ppb,0.0036666666666666666
+NV,Mountain City,89414.0,Mountain City Water and Sewer,30,Nitrate,0.724,0.14,10,ppm,5.171428571428571
+NV,Mountain City,89414.0,Mountain City Water and Sewer,30,Nitrate and nitrite,0.74,0.14,10,ppm,5.285714285714286
+NV,Mountain City,89414.0,Mountain City Water and Sewer,30,Radon,117.0,1.5,0,pCi/L,78.0
+NV,Mountain City,89414.0,Mountain City Water and Sewer,30,Barium,32.0,700.0,2000,ppb,0.045714285714285714
+NV,Mountain City,89414.0,Mountain City Water and Sewer,30,Dibromochloromethane,0.2,0.1,0,ppb,2.0
+NV,Elko,89414.0,Nevada Youth Training Center,100,Arsenic,5.0,0.004,10,ppb,1250.0
+NV,Elko,89414.0,Nevada Youth Training Center,100,Nitrate,1.17,0.14,10,ppm,8.357142857142856
+NV,Elko,89414.0,Nevada Youth Training Center,100,Nitrate and nitrite,1.16,0.14,10,ppm,8.285714285714285
+NV,Elko,89414.0,Nevada Youth Training Center,100,Barium,80.0,700.0,2000,ppb,0.11428571428571428
+NV,Elko,89414.0,Nevada Youth Training Center,100,Selenium,2.0,30.0,50,ppb,0.06666666666666667
+NV,Elko,89414.0,Nevada Youth Training Center,100,Uranium,0.74,0.43,20,pCi/L,1.7209302325581395
+NV,Elko,89414.0,Tuscarora Water System,72,Bromodichloromethane,0.346,0.06,0,ppb,5.766666666666667
+NV,Elko,89414.0,Tuscarora Water System,72,Dibromoacetic acid,0.0933,0.04,0,ppb,2.3325
+NV,Elko,89414.0,Tuscarora Water System,72,Dibromochloromethane,0.443,0.1,0,ppb,4.43
+NV,Elko,89414.0,Tuscarora Water System,72,Haloacetic acids (HAA5)†,0.727,0.1,60,ppb,7.27
+NV,Elko,89414.0,Tuscarora Water System,72,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Elko,89414.0,Tuscarora Water System,72,Total trihalomethanes (TTHMs)†,1.34,0.15,80,ppb,8.933333333333334
+NV,Elko,89414.0,Tuscarora Water System,72,Barium,61.0,700.0,2000,ppb,0.08714285714285715
+NV,Elko,89414.0,Tuscarora Water System,72,Bromoform,0.272,0.5,0,ppb,0.544
+NV,Elko,89414.0,Tuscarora Water System,72,Chloroform,0.131,0.4,0,ppb,0.3275
+NV,Elko,89414.0,Tuscarora Water System,72,Manganese,1.0,100.0,0,ppb,0.01
+NV,Elko,89414.0,Tuscarora Water System,72,Monochloroacetic acid,0.633,53.0,0,ppb,0.011943396226415095
+NV,Elko,89414.0,Tuscarora Water System,72,Nitrate,0.0183,0.14,10,ppm,0.1307142857142857
+NV,Elko,89414.0,Tuscarora Water System,72,Nitrate and nitrite,0.022,0.14,10,ppm,0.1571428571428571
+NV,Elko,89414.0,Tuscarora Water System,72,Uranium,0.67,0.43,20,pCi/L,1.558139534883721
+NV,Elko,89414.0,Tuscarora Water System,72,Xylenes (total),0.835,1800.0,10000,ppb,0.00046388888888888885
+NV,Winnemucca,89414.0,Valley View Rv Park,250,Arsenic,4.93,0.004,10,ppb,1232.5
+NV,Winnemucca,89414.0,Valley View Rv Park,250,Nitrate,1.66,0.14,10,ppm,11.857142857142856
+NV,Winnemucca,89414.0,Valley View Rv Park,250,Nitrate and nitrite,1.73,0.14,10,ppm,12.357142857142856
+NV,Winnemucca,89414.0,Valley View Rv Park,250,Uranium,8.71,0.43,20,pCi/L,20.255813953488374
+NV,Winnemucca,89414.0,Valley View Rv Park,250,Manganese,8.33,100.0,0,ppb,0.0833
+NV,West Wendover,89414.0,West Wendover Water System,4200,Arsenic,3.8,0.004,10,ppb,949.9999999999999
+NV,West Wendover,89414.0,West Wendover Water System,4200,Dibromoacetic acid,0.385,0.04,0,ppb,9.625
+NV,West Wendover,89414.0,West Wendover Water System,4200,Haloacetic acids (HAA5)†,0.385,0.1,60,ppb,3.85
+NV,West Wendover,89414.0,West Wendover Water System,4200,Nitrate,1.26,0.14,10,ppm,9.0
+NV,West Wendover,89414.0,West Wendover Water System,4200,Nitrate and nitrite,1.28,0.14,10,ppm,9.142857142857142
+NV,West Wendover,89414.0,West Wendover Water System,4200,Radium combined (-226 &amp; -228),0.99,0.05,5,pCi/L,19.799999999999997
+NV,West Wendover,89414.0,West Wendover Water System,4200,Uranium,3.79,0.43,20,pCi/L,8.813953488372093
+NV,West Wendover,89414.0,West Wendover Water System,4200,Aluminum,7.0,600.0,0,ppb,0.011666666666666667
+NV,West Wendover,89414.0,West Wendover Water System,4200,Barium,120.0,700.0,2000,ppb,0.17142857142857143
+NV,West Wendover,89414.0,West Wendover Water System,4200,Bromodichloromethane,0.00975,0.06,0,ppb,0.1625
+NV,West Wendover,89414.0,West Wendover Water System,4200,Bromoform,0.0983,0.5,0,ppb,0.1966
+NV,West Wendover,89414.0,West Wendover Water System,4200,Chloroform,0.065,0.4,0,ppb,0.1625
+NV,West Wendover,89414.0,West Wendover Water System,4200,Dibromochloromethane,0.0383,0.1,0,ppb,0.383
+NV,West Wendover,89414.0,West Wendover Water System,4200,Manganese,3.3,100.0,0,ppb,0.033
+NV,West Wendover,89414.0,West Wendover Water System,4200,Toluene,0.0388,150.0,1000,ppb,0.00025866666666666665
+NV,West Wendover,89414.0,West Wendover Water System,4200,Total trihalomethanes (TTHMs)†,0.242,0.15,80,ppb,1.6133333333333333
+NV,West Wendover,89414.0,West Wendover Water System,4200,Xylenes (total),0.0313,1800.0,10000,ppb,1.738888888888889e-05
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Arsenic,5.8,0.004,10,ppb,1450.0
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Bromodichloromethane,7.13,0.06,0,ppb,118.83333333333334
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Bromoform,10.2,0.5,0,ppb,20.4
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Chloroform,4.59,0.4,0,ppb,11.475
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Dibromoacetic acid,2.16,0.04,0,ppb,54.0
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Dibromochloromethane,11.9,0.1,0,ppb,119.0
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Dichloroacetic acid,1.89,0.2,0,ppb,9.45
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Haloacetic acids (HAA5)†,5.47,0.1,60,ppb,54.699999999999996
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Radon,829.53,1.5,0,pCi/L,553.02
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Total trihalomethanes (TTHMs)†,37.3,0.15,80,ppb,248.66666666666666
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Trichloroacetic acid,0.994,0.1,0,ppb,9.94
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Uranium,12.48,0.43,20,pCi/L,29.02325581395349
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Aluminum,45.1,600.0,0,ppb,0.07516666666666667
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Barium,22.0,700.0,2000,ppb,0.03142857142857143
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Mercury (inorganic),0.213,1.2,2,ppb,0.1775
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Monobromoacetic acid,0.0583,25.0,0,ppb,0.002332
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Monochloroacetic acid,0.388,53.0,0,ppb,0.007320754716981132
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Nitrate,0.0213,0.14,10,ppm,0.15214285714285714
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Nitrate and nitrite,0.032,0.14,10,ppm,0.22857142857142856
+NV,Hawthorne,89415.0,Hawthorne Army Depot,300,Selenium,1.77,30.0,50,ppb,0.059000000000000004
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Arsenic,2.42,0.004,10,ppb,605.0
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Haloacetic acids (HAA5)†,4.57,0.1,60,ppb,45.7
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Nitrate,0.629,0.14,10,ppm,4.492857142857143
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Nitrate and nitrite,0.74,0.14,10,ppm,5.285714285714286
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Radium combined (-226 &amp; -228),0.93,0.05,5,pCi/L,18.6
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Total trihalomethanes (TTHMs)†,0.46,0.15,80,ppb,3.066666666666667
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Trichloroacetic acid,4.57,0.1,0,ppb,45.7
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Uranium,8.26,0.43,20,pCi/L,19.209302325581394
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Barium,24.8,700.0,2000,ppb,0.03542857142857143
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Bromoform,0.373,0.5,0,ppb,0.746
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Dibromochloromethane,0.0925,0.1,0,ppb,0.9249999999999999
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Manganese,0.1,100.0,0,ppb,0.001
+NV,Hawthorne,89415.0,Hawthorne Utilities,2900,Selenium,1.2,30.0,50,ppb,0.04
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Arsenic,5.64,0.004,10,ppb,1410.0
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Dibromochloromethane,0.32,0.1,0,ppb,3.1999999999999997
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Haloacetic acids (HAA5)†,0.667,0.1,60,ppb,6.67
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Radium combined (-226 &amp; -228),0.22,0.05,5,pCi/L,4.3999999999999995
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Total trihalomethanes (TTHMs)†,1.3,0.15,80,ppb,8.666666666666668
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Trichloroacetic acid,0.667,0.1,0,ppb,6.67
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Barium,51.0,700.0,2000,ppb,0.07285714285714286
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Bromodichloromethane,0.0467,0.06,0,ppb,0.7783333333333333
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Bromoform,0.932,0.5,0,ppb,1.864
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Manganese,1.5,100.0,0,ppb,0.015
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Nitrate,0.163,0.14,10,ppm,1.1642857142857141
+NV,Hawthorne,89415.0,Mina Luning Water System,200,Nitrate and nitrite,0.0757,0.14,10,ppm,0.5407142857142857
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Arsenic,6.2,0.004,10,ppb,1550.0
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Bromoform,4.36,0.5,0,ppb,8.72
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Dibromoacetic acid,1.93,0.04,0,ppb,48.25
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Dibromochloromethane,0.318,0.1,0,ppb,3.1799999999999997
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Haloacetic acids (HAA5)†,5.63,0.1,60,ppb,56.3
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Nitrate,0.644,0.14,10,ppm,4.6
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Nitrate and nitrite,0.697,0.14,10,ppm,4.978571428571428
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Radium combined (-226 &amp; -228),1.61,0.05,5,pCi/L,32.2
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Radon,579.0,1.5,0,pCi/L,386.0
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Total trihalomethanes (TTHMs)†,4.73,0.15,80,ppb,31.53333333333334
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Trichloroacetic acid,3.5,0.1,0,ppb,35.0
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Uranium,11.2,0.43,20,pCi/L,26.046511627906977
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Barium,67.5,700.0,2000,ppb,0.09642857142857143
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Bromodichloromethane,0.0455,0.06,0,ppb,0.7583333333333333
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Manganese,6.4,100.0,0,ppb,0.064
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Monobromoacetic acid,0.2,25.0,0,ppb,0.008
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Selenium,6.5,30.0,50,ppb,0.21666666666666667
+NV,Hawthorne,89415.0,Walker Lake Gid,300,Thallium,0.167,0.1,2,ppb,1.67
+NV,Lovelock,89418.0,Imlay Water System,200,Arsenic,7.75,0.004,10,ppb,1937.5
+NV,Lovelock,89418.0,Imlay Water System,200,Bromodichloromethane,0.167,0.06,0,ppb,2.7833333333333337
+NV,Lovelock,89418.0,Imlay Water System,200,Nitrate,0.66,0.14,10,ppm,4.714285714285714
+NV,Lovelock,89418.0,Imlay Water System,200,Nitrate and nitrite,0.473,0.14,10,ppm,3.378571428571428
+NV,Lovelock,89418.0,Imlay Water System,200,Radium combined (-226 &amp; -228),0.9,0.05,5,pCi/L,18.0
+NV,Lovelock,89418.0,Imlay Water System,200,Total trihalomethanes (TTHMs)†,0.6,0.15,80,ppb,4.0
+NV,Lovelock,89418.0,Imlay Water System,200,Uranium,1.34,0.43,20,pCi/L,3.116279069767442
+NV,Lovelock,89418.0,Imlay Water System,200,Aluminum,26.0,600.0,0,ppb,0.043333333333333335
+NV,Lovelock,89418.0,Imlay Water System,200,Barium,43.3,700.0,2000,ppb,0.061857142857142854
+NV,Lovelock,89418.0,Imlay Water System,200,Chloroform,0.233,0.4,0,ppb,0.5825
+NV,Lovelock,89418.0,Imlay Water System,200,Dibromochloromethane,0.2,0.1,0,ppb,2.0
+NV,Lovelock,89418.0,Imlay Water System,200,Selenium,3.67,30.0,50,ppb,0.12233333333333334
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Arsenic*,5.67,0.004,10,ppb,1417.5
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Bromodichloromethane,0.188,0.06,0,ppb,3.1333333333333333
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Bromoform,1.41,0.5,0,ppb,2.82
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Dibromochloromethane,0.538,0.1,0,ppb,5.38
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Nitrate*,0.777,0.14,10,ppm,5.55
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Nitrate and nitrite*,0.776,0.14,10,ppm,5.542857142857143
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Radium combined (-226 &amp; -228)*,0.13,0.05,5,pCi/L,2.6
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Total trihalomethanes (TTHMs)†,2.14,0.15,80,ppb,14.266666666666667
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Uranium*,2.01,0.43,20,pCi/L,4.674418604651162
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Aluminum*,13.4,600.0,0,ppb,0.022333333333333334
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Barium*,98.2,700.0,2000,ppb,0.1402857142857143
+NV,Las Vegas,89418.0,Lovelock Correctional Center Nevada Department of Corrections,1630,Selenium*,1.5,30.0,50,ppb,0.05
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Arsenic,5.67,0.004,10,ppb,1417.5
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Nitrate,0.777,0.14,10,ppm,5.55
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Nitrate and nitrite,0.776,0.14,10,ppm,5.542857142857143
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Radium combined (-226 &amp; -228),0.13,0.05,5,pCi/L,2.6
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Total trihalomethanes (TTHMs)†,0.811,0.15,80,ppb,5.406666666666667
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Uranium,2.01,0.43,20,pCi/L,4.674418604651162
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Aluminum,13.4,600.0,0,ppb,0.022333333333333334
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Barium,98.2,700.0,2000,ppb,0.1402857142857143
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Bromoform,0.538,0.5,0,ppb,1.076
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Dibromochloromethane,0.0854,0.1,0,ppb,0.854
+NV,Lovelock,89418.0,Lovelock Meadows Water District,3562,Selenium,1.5,30.0,50,ppb,0.05
+NV,Carson City,89701.0,Carson City Public Works,56000,Arsenic,6.36,0.004,10,ppb,1590.0
+NV,Carson City,89701.0,Carson City Public Works,56000,Bromochloroacetic acid,0.165,0.02,0,ppb,8.25
+NV,Carson City,89701.0,Carson City Public Works,56000,Bromodichloromethane,0.878,0.06,0,ppb,14.633333333333335
+NV,Carson City,89701.0,Carson City Public Works,56000,Chloroform,12.9,0.4,0,ppb,32.25
+NV,Carson City,89701.0,Carson City Public Works,56000,Chromium (hexavalent),0.22,0.02,0,ppb,11.0
+NV,Carson City,89701.0,Carson City Public Works,56000,Dibromochloromethane,0.599,0.1,0,ppb,5.989999999999999
+NV,Carson City,89701.0,Carson City Public Works,56000,Dichloroacetic acid,5.77,0.2,0,ppb,28.849999999999998
+NV,Carson City,89701.0,Carson City Public Works,56000,Haloacetic acids (HAA5)†,15.2,0.1,60,ppb,151.99999999999997
+NV,Carson City,89701.0,Carson City Public Works,56000,Haloacetic acids (HAA9)†,13.8,0.06,0,ppb,230.00000000000003
+NV,Carson City,89701.0,Carson City Public Works,56000,Nitrate,2.42,0.14,10,ppm,17.285714285714285
+NV,Carson City,89701.0,Carson City Public Works,56000,Nitrate and nitrite,1.17,0.14,10,ppm,8.357142857142856
+NV,Carson City,89701.0,Carson City Public Works,56000,Radon,1590.0,1.5,0,pCi/L,1060.0
+NV,Carson City,89701.0,Carson City Public Works,56000,Total trihalomethanes (TTHMs)†,15.3,0.15,80,ppb,102.00000000000001
+NV,Carson City,89701.0,Carson City Public Works,56000,Trichloroacetic acid,9.1,0.1,0,ppb,90.99999999999999
+NV,Carson City,89701.0,Carson City Public Works,56000,Uranium,11.18,0.43,20,pCi/L,26.0
+NV,Carson City,89701.0,Carson City Public Works,56000,14-Dioxane,0.00933,0.35,0,ppb,0.02665714285714286
+NV,Carson City,89701.0,Carson City Public Works,56000,24-D,0.00172,20.0,70,ppb,8.6e-05
+NV,Carson City,89701.0,Carson City Public Works,56000,Aluminum,3.25,600.0,0,ppb,0.005416666666666667
+NV,Carson City,89701.0,Carson City Public Works,56000,Barium,27.6,700.0,2000,ppb,0.03942857142857143
+NV,Carson City,89701.0,Carson City Public Works,56000,Bromoform,0.255,0.5,0,ppb,0.51
+NV,Carson City,89701.0,Carson City Public Works,56000,Chlorate,53.4,210.0,0,ppb,0.2542857142857143
+NV,Carson City,89701.0,Carson City Public Works,56000,Dibromoacetic acid,0.0511,0.04,0,ppb,1.2774999999999999
+NV,Carson City,89701.0,Carson City Public Works,56000,Hexachlorocyclopentadiene,0.00573,2.0,50,ppb,0.002865
+NV,Carson City,89701.0,Carson City Public Works,56000,Manganese,27.4,100.0,0,ppb,0.27399999999999997
+NV,Carson City,89701.0,Carson City Public Works,56000,Molybdenum,4.92,40.0,0,ppb,0.123
+NV,Carson City,89701.0,Carson City Public Works,56000,Monochloroacetic acid,0.045,53.0,0,ppb,0.0008490566037735849
+NV,Carson City,89701.0,Carson City Public Works,56000,Radium combined (-226 &amp; -228),0.09,0.05,5,pCi/L,1.7999999999999998
+NV,Carson City,89701.0,Carson City Public Works,56000,Strontium,0.39,1500.0,0,ppb,0.00026000000000000003
+NV,Carson City,89701.0,Carson City Public Works,56000,Vanadium,5.0,21.0,0,ppb,0.23809523809523808
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Arsenic,1.1,0.004,10,ppb,275.0
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Dibromoacetic acid,1.29,0.04,0,ppb,32.25
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Haloacetic acids (HAA5)†,2.8,0.1,60,ppb,27.999999999999996
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Nitrate,2.0,0.14,10,ppm,14.285714285714285
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Radium combined (-226 &amp; -228),0.45,0.05,5,pCi/L,9.0
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Atrazine,0.155,0.1,3,ppb,1.5499999999999998
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Barium,8.95,700.0,2000,ppb,0.012785714285714284
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Monobromoacetic acid,0.223,25.0,0,ppb,0.00892
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Monochloroacetic acid,1.93,53.0,0,ppb,0.03641509433962264
+NV,Carson City,89701.0,Cottonwood Mobile Home Park,250,Selenium,6.1,30.0,50,ppb,0.2033333333333333
+NV,Reno,89701.0,Terrace Garden Apartments,55,Arsenic,4.0,0.004,10,ppb,1000.0
+NV,Reno,89701.0,Terrace Garden Apartments,55,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+NV,Reno,89701.0,Terrace Garden Apartments,55,Uranium,13.07,0.43,20,pCi/L,30.395348837209305
+NV,Reno,89701.0,Terrace Garden Apartments,55,Aluminum,56.7,600.0,0,ppb,0.0945
+NV,Reno,89701.0,Terrace Garden Apartments,55,Manganese,22.5,100.0,0,ppb,0.225

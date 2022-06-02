@@ -1,0 +1,400 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+NY,10464,United Water Westchester Rate District 1,146723,2608,36005
+NY,10466,Mount Vernon Water Department,67292,2066,36005
+NY,10467,Yonkers City,196086,1566,36005
+NY,10501,Windsor Farms Water District,150,1938,36119
+NY,10501,Yorktown Consoldated Water District #1,68719,1809,36119
+NY,10502,Greenburgh Consolidated Water District #1,247405,1755,36119
+NY,10504,New Castle/Stanwood WD,28501,429,36119
+NY,10505,Westchester County Water District #1,340839,4,36119
+NY,10505,Northern Westchester Joint Water Works,67469,8,36119
+NY,10505,White Plains City,59353,1989,36119
+NY,10507,Bedford Hills/taconic Corr. Facilities,1300,950,36119
+NY,10507,Khal Adas Kashau,650,138,36119
+NY,10507,Mount Kisco Water Department,9620,1094,36119
+NY,10507,796 Bedford Road Apartments,40,108,36119
+NY,10509,Danbury Water Department,62055,1348,36079
+NY,10509,South Norwalk Electric and Water,42000,1358,36079
+NY,10509,Norwalk First Taxing District,40256,1034,36079
+NY,10509,Bethel Water Department,9507,591,36079
+NY,10510,Ossining Water Department,30000,1871,36119
+NY,10510,Sleepy Hollow (village),9870,934,36119
+NY,10510,Pleasantville Road Water District,2809,449,36119
+NY,10511,Cortlandt Consolidated WD,28369,1224,36119
+NY,10511,Montrose Improvement District,33669,512,36119
+NY,10511,Peekskill City,52969,1902,36119
+NY,10512,Poughkeepsie Townwide Water District,52277,2239,36079
+NY,10512,Poughkeepsie City,29871,1849,36079
+NY,10512,Beacon City,21080,1478,36079
+NY,10512,United Wappinger Water Improvement District,14000,1234,36079
+NY,10512,Fishkill Village,11337,202,36079
+NY,10512,Hyde Park / D.c.w.w.a. Plant,9636,1219,36079
+NY,10512,Rhinebeck Village Water,5600,1604,36079
+NY,10512,Brinkerhoff Water District,3863,322,36079
+NY,10514,Briarcliff Manor Village,9190,1421,36119
+NY,10514,Applehill Farm Water District,209,399,36119
+NY,10514,Old Farm Hill Water District,1768,1182,36119
+NY,10514,Mill River Water District,74,348,36119
+NY,10514,Bear Ridge Lake Water District,518,456,36119
+NY,10516,Cold Spring Village,2666,1363,36079
+NY,10516,Brewster Village,2440,1245,36079
+NY,10516,Watchtower Bible Tract Society,1501,891,36079
+NY,10516,Mount Ebo Ws,1500,124,36079
+NY,10516,Hill Sparrow Master Homeowners Association,938,116,36079
+NY,10518,Meadows At Cross River,630,269,36119
+NY,10518,Four Winds Hospital,400,1265,36119
+NY,10519,Juengstville Farm Association,45,80,36119
+NY,10520,Yeshiva Kehileth Yakov,150,263,36119
+NY,10520,Danish Home For The Aged Inc.,27,375,36119
+NY,10522,Irvington Water Supply,6631,1896,36119
+NY,10523,Elmsford Village,4600,761,36119
+NY,10526,Goldens Bridge Community Association,250,92,36119
+NY,10526,Indian Hill Subdivision,320,298,36119
+NY,10533,Tarrytown Water Supply,11000,2016,36119
+NY,10536,Michelle Estates,340,181,36119
+NY,10538,Larchmont Village,6485,1571,36119
+NY,10538,Scarsdale Water Department,20608,1619,36119
+NY,10548,Buchanan Village,2200,939,36119
+NY,10549,Cedar Downs Water District,195,149,36119
+NY,10549,Ramleh Water Works Corporation Inc.,80,127,36119
+NY,10549,Old Post Road Water District,1500,514,36119
+NY,10560,Salem Chase,175,119,36119
+NY,10560,Bridleside Apartments,230,200,36119
+NY,10560,Cotswold Water Supply,150,206,36119
+NY,10560,Pabst Water Company Inc.,250,432,36119
+NY,10560,Pietschs Gardens,337,243,36119
+NY,10562,Sunshine Children's Home & Rehab Center,130,329,36119
+NY,10562,Croton-on-hudson Village,8000,298,36119
+NY,10570,Kensico Water District,17917,2151,36119
+NY,10570,Pace University,2753,483,36119
+NY,10589,Lincoln Hall School,500,321,36119
+NY,10589,Somers Chase Water Works Corporation,224,153,36119
+NY,10589,Somers Manor Nursing Home Inc.,400,83,36119
+NY,10595,North Castle Water District #1,2500,5837,36119
+NY,10598,Amawalk-shenorock Water District,3800,1481,36119
+NY,10901,Hillburn Village,950,1564,36087
+NY,10901,Hilltop House,73,33,36087
+NY,10901,J&r Mobile Homes,75,12,36087
+NY,10901,Lake Lucille Prop Owners Association,92,12,36087
+NY,10901,Mount Ivy Enterprises,170,12,36087
+NY,10901,Nyack Village Water Supply,14700,2006,36087
+NY,10901,Oak Tree La Hav Ltd,140,13,36087
+NY,10901,Pomona Country Club,30,145,36087
+NY,10901,Pomona Glen,50,7,36087
+NY,10901,St. Marys Villa,55,54,36087
+NY,10901,Sunrise Bungalows,50,13,36087
+NY,10901,Torne Brook Farm,50,13,36087
+NY,10901,United Water New York,270950,2166,36087
+NY,10910,Kiryas Joel Village,31988,332,36071
+NY,10910,Middletown City,30850,1143,36071
+NY,10910,New Windsor Consolidated WD,30450,1061,36071
+NY,10910,Newburgh City,28000,733,36071
+NY,10910,Newburgh Consolidated WD,26313,1406,36071
+NY,10910,Wallkill Consolidated WD,18175,1937,36071
+NY,10910,Woodbury Cons. WD,10741,348,36071
+NY,10910,Monroe Village,10465,772,36071
+NY,10910,Port Jervis City,9000,207,36071
+NY,10925,Passaic Valley Water Commission,310121,2494,36071
+NY,10925,Wayne Township Division of Water,55000,1666,36071
+NY,10925,Manchester Utilities Authority,12000,2703,36071
+NY,10925,Pompton Lakes Mua,11435,578,36071
+NY,10964,Ridgewood Water,61700,3208,36087
+NY,10964,Fair Lawn Water Department,31000,3680,36087
+NY,10964,Mahwah Water Department,26777,1758,36087
+NY,11010,Franklin Square WD,20000,63,36059
+NY,11030,Plandome,1600,145,36059
+NY,11050,Sands Point,2800,567,36059
+NY,11507,Albertson WD,13500,661,36059
+NY,11545,Glenwood Water District,1000,95,36059
+NY,11549,New York American Water - Lynbrook,220000,346,36059
+NY,11549,Town of Hempstead Water Department,110000,466,36059
+NY,11561,Long Beach City,35000,20,36059
+NY,11561,Lido-point Lookout Water District,6000,2,36059
+NY,11568,Old Westbury,4700,45,36059
+NY,11570,Rockville Centre,24700,126,36059
+NY,11576,Manhasset Lakeville WD,44600,126,36059
+NY,11590,Westbury WD,20500,219,36059
+NY,11596,East Williston,2503,535,36059
+NY,11702,Saltaire Water District,2000,0,36103
+NY,11714,Bethpage WD,33000,214,36059
+NY,11721,Greenlawn WD,42000,165,36103
+NY,11724,South Huntington Water Department,81760,155,36103
+NY,11731,Dix Hills Water District,34522,35,36103
+NY,11735,South Farmingdale WD,44700,67,36103
+NY,11754,Smithtown WD,19635,159,36103
+NY,11754,St James WD,10587,152,36103
+NY,11758,Massapequa WD,43000,44,36059
+NY,11803,Plainview WD,35000,216,36059
+NY,11901,Riverhead WD,35000,834,36103
+NY,11901,Peconic View Mobile Home Park,40,1012,36103
+NY,12007,Albany City,132082,1238,36001
+NY,12007,Guilderland Town WD,30000,2412,36001
+NY,12008,Glenville Water District #11,63776,586,36093
+NY,12008,Schenectady City Water Works,82116,380,36093
+NY,12008,Scotia Village Water Works,12800,1041,36093
+NY,12010,Saratoga Springs City,35900,1640,36057
+NY,12010,Waterford Water Works,24800,1113,36057
+NY,12015,Athens Village,1700,1223,36039
+NY,12017,Hudson City,7500,526,36021
+NY,12017,Greenport Water District No. 1,4250,796,36021
+NY,12017,Stockport Water District #2 (consolidated),3100,1331,36021
+NY,12017,Chatham Village,2156,33,36021
+NY,12018,City of Troy Public Utilities,117581,1866,36083
+NY,12020,Wilton Water & Sewer Authority,9375,1015,36091
+NY,12020,Moreau Water District #2 (queensbury),6600,976,36091
+NY,12023,Watervliet City,9889,1321,36001
+NY,12023,Ravena Village,4500,1716,36001
+NY,12023,Menands Village,3900,1754,36001
+NY,12025,Gloversville Water Works,18625,849,36035
+NY,12025,Johnstown Water Works,10851,625,36035
+NY,12028,Hudson Falls Village (queensbury),8800,1180,36115
+NY,12028,Kingsbury Water District (queensbury),4500,1283,36115
+NY,12028,Great Meadow/washington Corr. Facilities,3802,819,36115
+NY,12028,Fort Edward Village,3232,813,36115
+NY,12031,Central Park,35,6,36095
+NY,12031,Cobleskill Water District,500,469,36095
+NY,12031,Middleburgh Village,1500,318,36095
+NY,12031,Richmondville Village,918,1086,36095
+NY,12031,Schoharie Village,922,398,36095
+NY,12031,Sharon Springs Village,558,834,36095
+NY,12031,Trout Haven Lake Association,45,90,36095
+NY,12031,Valleyview Village,51,12,36095
+NY,12031,Warnerville Trailer Court,90,27,36095
+NY,12031,Warnerville Water District # 1,1300,631,36095
+NY,12032,Aspen Hills Water District,60,805,36041
+NY,12032,Goodspeed Mobile Home Park,60,16,36041
+NY,12032,Hale Creek Asacta Center,610,1056,36041
+NY,12032,Northampton,1000,41,36041
+NY,12032,Northville,1180,327,36041
+NY,12032,Paradise Pines Mobile Home Park,350,30,36041
+NY,12032,Petoff Garden Apartments,46,185,36041
+NY,12032,Pine Tree Hill Mobile Home Park,20,131,36041
+NY,12032,Sacandaga Meadows Mobile Home,58,80,36041
+NY,12032,Twin Pines Estates,45,102,36041
+NY,12064,Richfield Springs Village,1200,1436,36077
+NY,12064,Otego Village,1010,203,36077
+NY,12068,Fort Plain,2976,342,36057
+NY,12069,Canajoharie,2300,355,36057
+NY,12069,Capstone Center For Rehab and Nursing,330,709,36057
+NY,12069,Palatine Bridge,890,452,36057
+NY,12069,Pattersonville Mobile Home #1,81,526,36057
+NY,12093,Sidney Village,3800,272,36095
+NY,12093,Roxbury Water District,1080,197,36095
+NY,12108,Indian Lake Water District,900,993,36041
+NY,12108,Raquette Lake Water District,90,196,36041
+NY,12108,Wells Water District,450,28,36041
+NY,12168,Adams Fire District,8162,63,36083
+NY,12401,Saugerties (village) Water Dis,8635,360,36111
+NY,12401,Ulster Water District,6190,852,36111
+NY,12401,Ellenville (village) Water Dis,4323,487,36111
+NY,12401,Glasco Water District,3920,477,36111
+NY,12401,Marlborough Water District,3248,1210,36111
+NY,12458,Monticello Village,9000,1425,36111
+NY,12701,Villages of Chestnut Ridge,1386,199,36105
+NY,12701,Livingston Manor Water District,1200,214,36105
+NY,12701,Villa Roma Country Club,1150,488,36105
+NY,12701,Roscoe-rockland Water District,1000,144,36105
+NY,12801,Antlers At Diamond Point,125,1120,36113
+NY,12801,Arcady Bay Estates,350,926,36113
+NY,12801,Bolton Water District,1809,768,36113
+NY,12801,Chestertown Water District,750,345,36113
+NY,12801,Diamond Point Water District,493,0,36113
+NY,12801,Glens Falls City,14000,2021,36113
+NY,12801,Gore Village @ North Creek,48,130,36113
+NY,12801,Green Harbour Development,100,238,36113
+NY,12801,Green Mansions Homeowners Association Tennis & Swim,180,167,36113
+NY,12801,K & J Adirondack Properties LLC,45,18,36113
+NY,12801,Lagoon Manor Homeowners Association,180,885,36113
+NY,12801,North Creek Water District,1100,86,36113
+NY,12801,Queensbury Water District,39799,1104,36113
+NY,12801,Warrensburg Water District,4100,504,36113
+NY,12809,Fort Ann Water Supply,530,120,36115
+NY,12809,Fort Edward Water District #1 (qby/hf),1800,1045,36115
+NY,12809,Granville Village,2640,363,36115
+NY,12809,Kingsbury Carriage Court,30,926,36115
+NY,12809,Salem Water Department,915,2101,36115
+NY,12809,Washington Center,225,402,36115
+NY,12809,Whitehall Village,2800,1231,36115
+NY,12851,Lake Placid V,5000,959,36031
+NY,12851,Moriah Water District,3100,1512,36031
+NY,12851,Schroon Lake Water District,2750,63,36031
+NY,12914,Adirondack Airport Community,90,5,36033
+NY,12914,Bangor Water District,375,711,36033
+NY,12914,Burke V,273,193,36033
+NY,12914,Chateaugay V,1100,260,36033
+NY,12914,Oak Hills Mobile Home Park,850,958,36033
+NY,13020,Apple Ridge Apartments East,44,417,36067
+NY,13020,Baldwinsville Village,9200,751,36067
+NY,13020,Cardiff Tookes Spring,152,560,36067
+NY,13020,Elbridge Village,2919,1208,36067
+NY,13020,Lords Hill Apartments,100,451,36067
+NY,13020,Skaneateles Village,6110,1355,36067
+NY,13020,Syracuse City,512329,1239,36067
+NY,13021,Owasco Water District,4800,1397,36011
+NY,13021,Sennett Water District #6,3767,1638,36011
+NY,13024,Union Springs Village,3000,511,36011
+NY,13028,Oswego City,38444,1290,36075
+NY,13028,Scriba Water District (oswego),9044,1168,36075
+NY,13028,Mexico Village,2600,273,36075
+NY,13032,Lee Water District,36000,1701,36053
+NY,13032,Hamilton Village,4239,189,36053
+NY,13032,Morrisville State College,3450,468,36053
+NY,13032,Sherrill - Kenwood Water District,3163,1258,36053
+NY,13040,Cincinnatus Water District,650,166,36023
+NY,13040,Cold Brook Trailer Park,70,0,36023
+NY,13040,Creamery Hills Senior Living Center,48,150,36023
+NY,13040,Empire/ripley Hill Mobile Home Park,64,35,36023
+NY,13040,Marathon Village,1407,562,36023
+NY,13040,Mcbride Mobile Court,54,50,36023
+NY,13040,Mcgraw Village,1306,433,36023
+NY,13040,Parker Manor Trailer Park,64,340,36023
+NY,13040,Riverside Manor Trailer Park,131,98,36023
+NY,13040,Rocky Acres Mobile Home Park,43,46,36023
+NY,13040,Scott Water District No. 1,154,90,36023
+NY,13040,Truxton Scattered Housing,30,215,36023
+NY,13040,Virgil Water District #1 - Greek Peak Waterworks,1400,360,36023
+NY,13045,Ithaca City,45627,1387,36023
+NY,13045,SCLIWC,23395,1072,36023
+NY,13045,Ithaca Town WD,13000,635,36023
+NY,13052,Norwich City,8700,541,36053
+NY,13061,Madison Village,410,120,36053
+NY,13061,Maple View Manor Mobile Home Park,67,6,36053
+NY,13061,Morrisville Village,2199,578,36053
+NY,13061,Route 8 Estates,125,140,36053
+NY,13061,Sleepy Hollow Subdivision,27,24,36053
+NY,13062,Newfield WDS,2300,1214,36109
+NY,13065,Border City Water District,1600,488,36099
+NY,13065,Fayette Water District # 5,100,1277,36099
+NY,13065,Interlaken Village,650,943,36099
+NY,13065,Ovid Village,990,1677,36099
+NY,13065,Romulus Water District,563,548,36099
+NY,13065,Seneca County Water District #1,2133,384,36099
+NY,13065,Town of Waterloo Water District,250,516,36099
+NY,13065,Varick Water District,350,368,36099
+NY,13065,Waterloo Village,9767,471,36099
+NY,13065,Willard Drug Treatment Center,1572,1358,36099
+NY,13065,Willard Water District,372,1592,36099
+NY,13124,Greene Water District #1,112,486,36017
+NY,13124,Little Johns Trailer Park,43,303,36017
+NY,13124,New York State Veterans Home,600,114,36017
+NY,13124,Oxford Village,1738,161,36017
+NY,13124,Preston Manor,40,2512,36017
+NY,13124,Smyrna Village,211,300,36017
+NY,13143,Palmyra-Macedon-Walworth CSA,26023,1481,36117
+NY,13143,Williamson Town WD,12000,1025,36117
+NY,13143,Sodus-huron-wolcott-butler Csa,6892,1018,36117
+NY,13143,Marion-arcadia-sodus Csa,5400,1212,36117
+NY,13146,Arnold Apartments,44,377,36117
+NY,13146,Buckingham Estates,57,5,36117
+NY,13146,Palmyra South Sa,190,1492,36117
+NY,13146,Palmyra Village,3580,1283,36117
+NY,13305,Croghan Village,1682,183,36049
+NY,13305,Glenfield Water District,200,764,36049
+NY,13305,Harrisville Village,700,230,36049
+NY,13305,Lowville Village,4350,1819,36049
+NY,13305,Lyons Falls Village,850,61,36049
+NY,13305,Martinsburg Water District,310,271,36049
+NY,13305,Port Leyden Village,820,53,36049
+NY,13324,Herkimer Village,8760,880,36043
+NY,13324,Little Falls City,5800,552,36043
+NY,13324,Frankfort,4016,1128,36043
+NY,13601,DANC (Watertown / Ft. Drum),35150,1881,36045
+NY,13601,Fort Drum,34400,2106,36045
+NY,13601,Watertown City,29406,2249,36045
+NY,13601,Cape Vincent Village,4870,905,36045
+NY,13601,Black River Village,4240,527,36045
+NY,13601,Sackets Harbor Village,3195,1318,36045
+NY,13601,Adams Village,3000,295,36045
+NY,13730,City of Binghamton,74879,1104,36017
+NY,13730,Endicott Municipal Water Works,45000,2435,36017
+NY,13730,Chenango Consolidated WD #1,10667,211,36017
+NY,13732,Airways Mobile Home Park,69,155,36107
+NY,13732,Barton,300,181,36107
+NY,13732,Glenmary Mobile Home Park,60,66,36107
+NY,13732,Green Valley Mobile Home Park,120,1585,36107
+NY,13732,Owego Water District #1,715,1003,36107
+NY,13732,Pine Manor Mobile Home Park,180,74,36107
+NY,13732,Waverly Village,4830,338,36107
+NY,14001,Erie County Water Authority (ECWA),532221,1446,36029
+NY,14001,Niagara County Water District,151008,6,36029
+NY,14001,Town of Tonawanda Water Department,78423,1208,36029
+NY,14001,North Tonawanda City,31568,1382,36029
+NY,14001,ECWA Orchard Park,23387,1446,36029
+NY,14004,ECWA West Seneca,23181,1446,36029
+NY,14004,Batavia City,21970,1057,36029
+NY,14005,Alexander Village,785,1664,36037
+NY,14005,Apple Grove Mobile Home Park,100,292,36037
+NY,14005,Elba Village,706,784,36037
+NY,14008,Hartland Water District,4117,1119,36063
+NY,14008,Lewiston Village,2781,1072,36063
+NY,14008,Lincoln Village Lockport Wd #2,253,6,36063
+NY,14008,Lockport WD#3,20529,1389,36063
+NY,14008,Newfane Water District No. 123 Consol,3477,989,36063
+NY,14008,Niagara Water Improvement Area,8400,952,36063
+NY,14008,Pendleton Town Water District,6050,989,36063
+NY,14008,Royalton Townwide Water District,7710,1017,36063
+NY,14008,Somerset Consolidated Water District,2723,1165,36063
+NY,14008,Wheatfield WD,18117,1623,36063
+NY,14008,Wilson Town Water District,5993,1079,36063
+NY,14008,Youngstown,2021,1073,36063
+NY,14009,Allegany Village,4176,66,36121
+NY,14009,Gowanda Village,2919,979,36121
+NY,14009,Attica Correctional,2000,1442,36121
+NY,14009,Randolph Town Water District,1955,185,36121
+NY,14024,Wellsville Village Public Water,5700,1611,36121
+NY,14029,Alfred State College,3600,203,36003
+NY,14029,Almond Village Public Water,670,258,36003
+NY,14029,Angelica Village Public Water,950,468,36003
+NY,14029,Bolivar-richburg Water System,1640,321,36003
+NY,14029,Creekside Homes,54,6,36003
+NY,14029,Cuba Village Public Water,1800,47,36003
+NY,14029,Friendship Town Water District,1380,724,36003
+NY,14029,Genesee Heights Mobile Home Park,55,29,36003
+NY,14029,Houghton Water District,2000,2287,36003
+NY,14029,Scio Water District,990,131,36003
+NY,14029,Stannards Water Inc.,499,52,36003
+NY,14029,Val-e-vue Court,40,2575,36003
+NY,14029,Whitesville Water District,475,552,36003
+NY,14030,Grand Island Town Water Department,19500,980,36029
+NY,14039,Cowlesville Water District,175,1525,36121
+NY,14039,Gardeau Water District,60,2047,36121
+NY,14039,Highland Glens Subdivision,160,644,36121
+NY,14039,Pike Town,375,46,36121
+NY,14039,Silver Lake Institute - Castile Water District #1,440,2212,36121
+NY,14039,Varysburg Water District #1,350,406,36121
+NY,14039,Warsaw Town Water District,140,1424,36121
+NY,14039,Wyoming Correctional,1600,1589,36121
+NY,14041,Franklinville Village,1860,145,36009
+NY,14041,Little Valley Village,1338,53,36009
+NY,14041,Cattaraugus Village,1185,528,36009
+NY,14048,Jamestown BPU,46712,549,36013
+NY,14048,Fredonia Village,10984,2310,36013
+NY,14058,Albion Village,17206,750,36037
+NY,14103,Cottages At Troutburg,25,1430,36073
+NY,14103,Holley Village,2375,591,36073
+NY,14103,Lyndonville Village,2943,900,36073
+NY,14103,Mcwa Kendall Water District,3000,1190,36073
+NY,14103,Yates Water District #2,175,2594,36073
+NY,14414,Monroe County Water Authority (MCWA),490000,1190,36051
+NY,14414,Brockport Village,22200,1268,36051
+NY,14414,Geneseo Village,13350,1750,36051
+NY,14414,Sea Breeze Water District,9900,1045,36051
+NY,14415,Benton Water District #1,320,793,36123
+NY,14415,Dresden Village,700,1439,36123
+NY,14415,Dundee Village,1725,504,36123
+NY,14415,Keuka Park Water District,3244,1079,36123
+NY,14415,Milo Town Csa,1124,1279,36123
+NY,14415,Penn Yan Village,10572,1018,36123
+NY,14415,Sunnyside Estates,30,63,36123
+NY,14415,Turtle Rock Village,48,569,36123
+NY,14418,Hornell City,9592,1208,36123
+NY,14418,Bath Village Consolidated Sampling Area,6298,619,36123
+NY,14418,Morningside Heights Water District / Erwin,3039,940,36123
+NY,14418,Canisteo Village,2336,349,36123
+NY,14418,Painted Post Village,2334,197,36123
+NY,14420,Hilton Village,5856,1234,36055
+NY,14420,Ocfs,130,1976,36055
+NY,14424,Canandaigua-Farmington Consolidated WD,40732,1958,36069
+NY,14424,Geneva City,13914,2232,36069
+NY,14424,MCWA - VWB,8532,838,36069
+NY,14435,Dansville Village,8900,871,36051

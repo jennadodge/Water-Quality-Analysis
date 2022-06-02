@@ -1,0 +1,319 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+SC,29001,High Hills,12110,89,45027
+SC,29001,Manning Town of,5908,104,45027
+SC,29001,Shaw Air Force Base,2250,181,45027
+SC,29001,Dalzell Water District (sc4320001),3912,39,45027
+SC,29003,Bamberg Public Works,3735,44,45009
+SC,29003,Denmark Town of,3500,43,45009
+SC,29003,Ehrhardt Town of,507,840,45009
+SC,29003,Olar Govan Water System,257,17,45009
+SC,29006,City of Aiken,42286,1042,45081
+SC,29006,Joint Municipal WSC,34317,1278,45081
+SC,29006,City of West Columbia,29294,1307,45081
+SC,29006,North Augusta,27593,1815,45081
+SC,29006,City of Cayce,19269,1570,45081
+SC,29006,Breezy Hill WD,15282,1246,45081
+SC,29006,Beech Island Water District,8016,24,45081
+SC,29006,Gaston Rural Water District (sc3220002),7550,46,45081
+SC,29006,Valley Psa (sc0220012),7065,129,45081
+SC,29009,Alligator Rural Water (sc1320004),4128,16,45055
+SC,29009,Bethune Rural Water,2633,38,45055
+SC,29009,Bethune Town of,488,946,45055
+SC,29009,Bishopville Town of,3810,84,45055
+SC,29009,Cassatt Water Kershaw-lee Company RWA,25061,94,45055
+SC,29009,Cheraw Town of,6595,374,45055
+SC,29009,Chesterfield Rural Water,20239,78,45055
+SC,29009,Chesterfield Town of,1568,66,45055
+SC,29009,City of Camden,15877,1368,45055
+SC,29009,Jefferson Town of,720,266,45055
+SC,29009,Lugoff Elgin Water Authority,20584,1708,45055
+SC,29009,Lynchburg Town of,640,121,45055
+SC,29009,Mcbee Town of,882,24,45055
+SC,29009,Pageland City of,2706,78,45055
+SC,29009,Westside Estates Apartments,66,20,45055
+SC,29014,Ridgeway Manor (sc2070002),68,141,45039
+SC,29014,Chester Metro,12719,1246,45039
+SC,29014,Jenkinsville Water Company,2503,867,45039
+SC,29014,Midcounty Water District 1,1487,101,45039
+SC,29014,Mitford Water District (sc2020005),1828,1371,45039
+SC,29014,Ridgeway Town of,950,1050,45039
+SC,29014,Winnsboro Town of,7888,764,45039
+SC,29016,City of Columbia,319500,115,45079
+SC,29016,Fort Jackson,32391,1329,45079
+SC,29018,Bowman Town of,1277,62,45075
+SC,29018,Branchville Town of,1218,90,45075
+SC,29018,Bull Swamp Rural Water Company,2350,61,45075
+SC,29018,DCPW Ashley Phosphate,22659,798,45075
+SC,29018,Dcwa Calomet Valley,261,1208,45075
+SC,29018,DCWA Knightsville,23513,914,45075
+SC,29018,Dcwa Reevesville,232,1040,45075
+SC,29018,Dcwa Tranquil Acres,838,1107,45075
+SC,29018,Dcws Edisto Tribal Council,868,851,45075
+SC,29018,Dcws I-95,99,1058,45075
+SC,29018,Dcws Southern Palms,1270,744,45075
+SC,29018,Elloree Water System,1498,85,45075
+SC,29018,Eutawville Town of,555,20,45075
+SC,29018,Harleyville Town of,710,58,45075
+SC,29018,Holly Hill Town of,1710,289,45075
+SC,29018,Lake Marion Regional Water Plt,25,163,45075
+SC,29018,Lieber Correctional Institute,1646,142,45075
+SC,29018,North Town of,1378,131,45075
+SC,29018,Norway Town of,775,1628,45075
+SC,29018,Orangeburg County,280,248,45075
+SC,29018,Orangeburg DPU,41440,1961,45075
+SC,29018,Ridgeville Town of,606,426,45075
+SC,29018,Santee Town of,2388,287,45075
+SC,29018,Springfield Town of,700,287,45075
+SC,29018,St. George Town of,2226,26,45075
+SC,29018,Summerville,81750,2089,45075
+SC,29030,St. Matthews Town of,2644,46,45017
+SC,29030,Upper Calhoun/belleville,1779,86,45017
+SC,29030,Upper Calhoun/sandy Run,1247,48,45017
+SC,29031,Browns Creek Water District,2871,1528,45023
+SC,29031,Carlisle Town of,499,1170,45023
+SC,29031,City of Union,11757,260,45023
+SC,29031,Jonesville Town of,1904,1232,45023
+SC,29031,Lockhart Town of,545,1111,45023
+SC,29031,Meansville Riley Water District,7402,1236,45023
+SC,29031,Rocky Creek Water District,2837,1511,45023
+SC,29031,Santuck Hebron Water Company,3131,1648,45023
+SC,29033,Gilbert-summit Water District,6710,136,45063
+SC,29033,Batesburg Leesville DPW,5520,925,45063
+SC,29033,Bgwc I-20,5680,1237,45063
+SC,29033,Amicks Ferry Water System,3655,1023,45063
+SC,29033,Swansea Town of,1923,1207,45063
+SC,29036,City of Newberry,9528,1997,45063
+SC,29036,Newberry County Water & Sewer Authority,9711,1256,45063
+SC,29037,Aaa Perry Water System,88,36,45071
+SC,29037,Boys Farm Inc.,40,18,45071
+SC,29037,Clinton City of,10109,847,45071
+SC,29037,Bgwc Tanglewood S/d (sc4150011),29,356,45071
+SC,29037,Gray Court Town of,1069,885,45071
+SC,29037,Laurens County W&S Comm.,36314,1524,45071
+SC,29037,Laurens CPW,13882,1574,45071
+SC,29037,Prosperity Town of,1132,1252,45071
+SC,29037,Ranch Road Water (sc3050008),40,19,45071
+SC,29037,Richard Deason Mobile Home Park (sc4160011),55,1,45071
+SC,29037,Ridge Spring Town of,1351,942,45071
+SC,29037,Saluda County Water & Sewer Authority,3558,1241,45071
+SC,29037,Saluda CPW,3831,1834,45071
+SC,29037,Sunset Pointe S/d,60,24,45071
+SC,29037,Whitmire Town of,2256,1101,45071
+SC,29040,American Mobile Home Plaza,173,34,45085
+SC,29040,Hibiscus Homes (sc4360037),280,107,45085
+SC,29040,Crescent Mobile Home Park (sc4360011),259,104,45085
+SC,29040,Bgwc Oakland Plantation (sc4350006),1180,43,45085
+SC,29040,Bgwc Pocalla Development (sc4350007),327,5,45085
+SC,29040,Granada Subdivision (sc4350008),150,61,45085
+SC,29040,Maysville Town of,983,1173,45085
+SC,29040,Oswego Rural Water Company,3282,104,45085
+SC,29040,Pinewood Town of,455,30,45085
+SC,29040,Quail Hollow S/d (sc4350014),72,10,45085
+SC,29040,Sumter Co-wedgefield-stateburg Water District,1200,105,45085
+SC,29040,Sumter-wessex S/d,412,355,45085
+SC,29044,Hopkins Community Water System,2200,34,45079
+SC,29044,Eastover Town of,813,99,45079
+SC,29044,Bgwc Raintree Acres (sc4050015),799,1489,45079
+SC,29056,Barrineau Water System,1879,108,45089
+SC,29056,Clarendon Co. W&s Hwy 260 (sc1450013),927,324,45089
+SC,29056,Clarendon County Water & Sewer,886,293,45089
+SC,29056,Bgwc Rock Bluff S/d,45,553,45089
+SC,29056,Cypress Pointe Condos (sc1470304),154,0,45089
+SC,29056,Eagle Point S/d,189,1536,45089
+SC,29056,Gin Pond Shores Water Company,72,0,45089
+SC,29056,Goat Island WSC,40,1,45089
+SC,29056,Greeleyville Town of,974,566,45089
+SC,29056,Hemingway Town of,3418,1279,45089
+SC,29056,Kingstree Town of,6284,631,45089
+SC,29056,Lake Marion Shores Water System,570,98,45089
+SC,29056,Lane Town of,627,447,45089
+SC,29056,Stuckey Town of,317,340,45089
+SC,29056,Summerton Town of,2096,104,45089
+SC,29056,Turbeville Town of,1459,105,45089
+SC,29056,Wcwsa (sc4510007),6834,919,45089
+SC,29056,Wyboo Water Department Inc.,240,261,45089
+SC,29058,Catawba River Wsp,25,631,45057
+SC,29058,City of Lancaster,13075,1912,45057
+SC,29058,Heath Springs Town of,1000,853,45057
+SC,29058,Kershaw Town of,2500,699,45057
+SC,29059,BCWSA East Cooper,10705,953,45075
+SC,29059,Bcwsa Lake Moultrie Estates,156,746,45075
+SC,29059,Bcwsa Sangaree WD,62883,825,45075
+SC,29059,Bcwsa Sineath Mobile Home Park,625,776,45075
+SC,29059,City of Goose Creek,25121,1025,45075
+SC,29059,Garnett Mobile Home Park,41,0,45075
+SC,29059,Jamestown Town of,746,1119,45075
+SC,29059,Macdougall Correctional Institution,790,280,45075
+SC,29059,Mepkin Abbey,30,523,45075
+SC,29059,Moncks Corner City of,7250,725,45075
+SC,29059,Sandy Run Mobile Home Park,39,9,45075
+SC,29059,Santee Cooper Reg Water,25,735,45075
+SC,29069,Darlington County W&SA,45911,62,45031
+SC,29069,Darlington City of,5858,17,45031
+SC,29069,Hartsville City of,8575,52,45031
+SC,29069,Lamar Town of,980,161,45031
+SC,29081,City of Walterboro,11689,136,45009
+SC,29081,Edisto Beach Town of,5568,138,45009
+SC,29081,Faith Cathedral Fellowship Inc.,40,0,45009
+SC,29081,Fishing Creek Property Owners Association,98,1,45009
+SC,29081,Lodge Town of,121,0,45009
+SC,29081,Smoaks Town of,176,20,45009
+SC,29081,Williams Town of,103,0,45009
+SC,29114,City of Florence,70925,621,45041
+SC,29114,Coward Town of,2120,79,45041
+SC,29114,Johnsonville City of,5078,188,45041
+SC,29114,Lake City City of,8341,207,45041
+SC,29114,Olanta Town of,667,39,45041
+SC,29114,Pamplico Town of,1514,124,45041
+SC,29114,Scranton Town of,1026,66,45041
+SC,29129,Edgefield County WSA,24978,1795,45003
+SC,29138,Greenwood CPW,47947,930,45081
+SC,29138,Hyde Park S/d (sc2450001),234,25,45081
+SC,29138,Mathews Heights (sc2450021),78,28,45081
+SC,29138,Ninety Six CPW (sc2410002),2880,826,45081
+SC,29138,Ware Shoals Town of,2363,840,45081
+SC,29164,Aiken-vale Svc C City of,145,14,45003
+SC,29164,Avondale Mills Inc. (sc0240002),1215,320,45003
+SC,29164,Bath Water District,751,1183,45003
+SC,29164,Burnettown Water District,1048,50,45003
+SC,29164,Cameron Mobile Home Park (sc0260038),83,6,45003
+SC,29164,Clearwater Ws District (sc0220015),543,74,45003
+SC,29164,College Acres Public Works District,1389,126,45003
+SC,29164,Bgwc Hunters Glen S/d,242,82,45003
+SC,29164,Jackson Town of,3602,231,45003
+SC,29164,Langley Water District,759,171,45003
+SC,29164,Monetta Town of,974,990,45003
+SC,29164,New Ellenton-cpw,6071,16,45003
+SC,29164,New Holland Water District,309,50,45003
+SC,29164,Oakhill S/d,243,36,45003
+SC,29164,Perry Town of,701,4,45003
+SC,29164,Salley Town of,465,63,45003
+SC,29164,Talatha Water District,1737,145,45003
+SC,29164,Trolley Run Station Development,1598,14,45003
+SC,29401,Burbage Brothers Mobile Home Park (sc1060063),158,1,45019
+SC,29401,Dewees Utilities (sc1050011),43,758,45019
+SC,29401,Jericho Trailer Park,95,2,45019
+SC,29401,Sullivans Island Town of,2243,756,45019
+SC,29401,Wa Burbage Trailer Park 1,74,0,45019
+SC,29401,Windwood Farm Home (sc1070963),33,872,45019
+SC,29440,Andrews Town of,3895,443,45043
+SC,29440,Browns Ferry Water Company,2479,1000,45043
+SC,29440,Gcwsd Carvers Bay (sc2220013),2885,833,45043
+SC,29440,Gcwsd Garden City Point (sc2220011),1868,1337,45043
+SC,29440,Gcwsd Kilsock Water System,4352,918,45043
+SC,29440,Gcwsd Plantersville System,1121,869,45043
+SC,29440,Gcwsd Red Hill,726,1162,45043
+SC,29440,GCWSD Waccamaw Neck,38364,1964,45043
+SC,29440,Gcwsd Wedgefield Plantation,1104,763,45043
+SC,29440,Georgetown City of,9245,268,45043
+SC,29511,Bucksport Water Company,15297,1771,45051
+SC,29511,City of Conway,23595,1296,45051
+SC,29511,City of Myrtle Beach,50920,1264,45051
+SC,29511,Conway Rural,10823,1541,45051
+SC,29511,Grand Strand Water and Sewer Authority,172016,1484,45051
+SC,29511,Gsw&sa-myrtle Beach (sc2620009),25,838,45051
+SC,29511,Lakewood Campground,4364,843,45051
+SC,29511,Little River WSA,22256,1418,45051
+SC,29511,Loris City of,3613,1447,45051
+SC,29511,North Myrtle Beach,29872,1300,45051
+SC,29511,Ocean Lakes Ltd,6243,1121,45051
+SC,29512,Bennettsville City of,9070,943,45069
+SC,29512,Clio Town of,733,74,45069
+SC,29512,Marlboro Water Company,4588,225,45069
+SC,29512,Mccoll Town of,2213,118,45069
+SC,29512,Wallace Water Company,2928,194,45069
+SC,29519,Gsw&sa-marion City of,8331,536,45067
+SC,29519,Gsw&sa-nichols Town of,633,635,45067
+SC,29519,Marco Rural Water Company,15082,965,45067
+SC,29519,Mullins City of,6715,480,45067
+SC,29525,Dillon City of,6244,1421,45069
+SC,29525,Lake View Town of,1183,266,45069
+SC,29525,Latta Town of,1968,257,45069
+SC,29525,Trico Water Company,15717,203,45069
+SC,29611,Electric City Utilities,38594,807,45045
+SC,29611,Easley Combined Util,29967,1371,45045
+SC,29611,Powdersville Water District,35000,1359,45045
+SC,29611,Clemson,17953,909,45045
+SC,29611,West Anderson WD,15563,1104,45045
+SC,29611,Hammond WD,14058,993,45045
+SC,29611,Six Mile WD,13553,467,45045
+SC,29620,Abbeville City of,5324,1030,45001
+SC,29620,Calhoun Falls Town of,2300,1023,45001
+SC,29620,Colony East II,23,20,45001
+SC,29620,Bgwc Purdy Shores,268,916,45001
+SC,29620,Donalds-due West WSA (sc0120001),5200,1877,45001
+SC,29620,McCormick County Water & Sewer Authority,8500,1376,45001
+SC,29620,McCormick CPW,2042,1139,45001
+SC,29621,Sandy Springs Water Company Inc,11077,1096,45007
+SC,29630,Pickens Water Treatment Plant,10871,1707,45077
+SC,29630,Big Creek WS District,10428,932,45077
+SC,29631,Bethlehem-roanoke Water District,6334,411,45077
+SC,29631,Central Town of,3495,1193,45077
+SC,29631,Clemson University,8316,741,45077
+SC,29631,Cliffs At Keowee (sc3950009),23,65,45077
+SC,29631,College Place (sc3970301),114,996,45077
+SC,29631,Crawford Edge (sc3970303),552,1115,45077
+SC,29631,Dacusville-cedarrock Wt Company,8700,758,45077
+SC,29631,Easley Central Water District #1,3141,1882,45077
+SC,29631,Gauley Falls 2 4 5 6,23,4,45077
+SC,29631,Gauley Falls WS (sc3950004),36,1,45077
+SC,29631,Liberty City of,3338,279,45077
+SC,29631,River Bluff S/d,190,21,45077
+SC,29631,Rock Point Homeowners Association,6,164,45077
+SC,29631,Table Rock Resort (sc3970300),26,79,45077
+SC,29643,City of Seneca,33916,1139,45073
+SC,29643,Pioneer Rural Water District,15518,1203,45073
+SC,29643,City of Walhalla,15768,2024,45073
+SC,29643,Starr-iva Water District,8688,868,45073
+SC,29658,Bay Ridge S/d,62,34,45073
+SC,29658,Cherokee Creek Boys School (sc3770002),26,0,45073
+SC,29658,Chickasaw Point,490,1422,45073
+SC,29658,Harts Cove and Tory Pointe,560,919,45073
+SC,29658,View At The Pier The (sc3770300),864,1335,45073
+SC,29658,Isaqueena Point Utility System,36,799,45073
+SC,29658,Keowee Bay S/d,115,26,45073
+SC,29658,Keowee Key Utility System Inc.,4075,1066,45073
+SC,29658,Salem Town of,2278,573,45073
+SC,29658,Turtlehead At Keowee S/d,32,3,45073
+SC,29658,West Union Town of,468,2006,45073
+SC,29658,Westminster City of,7589,1129,45073
+SC,29702,City of Rock Hill,74377,1478,45021
+SC,29702,York County East WD,25218,1322,45021
+SC,29702,Fort Mill,16943,1183,45021
+SC,29702,Tega Cay City of,10500,1153,45021
+SC,29702,Bgwc Lake Wylie Area (sc4650006),10214,1163,45021
+SC,29702,York City of,7258,1283,45021
+SC,29702,Clover Town of,6623,1872,45021
+SC,29704,York County West Water District,4272,1435,45091
+SC,29704,Riverview Rural Cws,2200,1171,45091
+SC,29704,Sharon Town of,573,30,45091
+SC,29810,Allendale Industrial Park,2270,110,45005
+SC,29810,Allendale Town of,3882,50,45005
+SC,29810,Fairfax Town of,1962,64,45005
+SC,29810,Ulmer Town of,245,94,45005
+SC,29812,Barnwell Town of,4563,4,45011
+SC,29812,Blackville Town of,2320,240,45011
+SC,29812,Elko Town of,371,43,45011
+SC,29812,Hilda Town of,311,1,45011
+SC,29812,Williston Town of,2953,99,45011
+SC,29827,Brunson Town of,649,82,45005
+SC,29827,Estill Town of,3990,270,45005
+SC,29827,Furman Town of,238,0,45005
+SC,29827,Gifford Town of,260,26,45005
+SC,29827,Hampton Town of,3015,24,45005
+SC,29827,Scotia Town of,161,0,45005
+SC,29827,Varnville Town of,1865,30,45005
+SC,29827,Yemassee Town of,1228,154,45005
+SC,29902,Beaufort Mobile Home Park,107,0,45013
+SC,29902,Beaufort-Jasper Water & Sewer Authority,120236,1880,45013
+SC,29902,Broad Creek Public Service District,3481,234,45013
+SC,29902,Callawassie Island (sc0750041),900,1727,45013
+SC,29902,Daufuskie Isl Util-haig Point,608,466,45013
+SC,29902,Fripp Island Public Service District,3536,1986,45013
+SC,29902,Harbor Island (sc0750013),1039,1847,45013
+SC,29902,Hilton Head PSD 1,25558,543,45013
+SC,29902,South Island PSD,18299,1009,45013
+SC,29902,Water Oak Utility Company,2318,1773,45013
+SC,29909,Bjw&sa Palm Key,153,543,45013
+SC,29909,Palmetto Mobile Home Park 2 (sc2760013),48,0,45013
+SC,29909,Ridgeland Town of,2678,418,45013

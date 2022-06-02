@@ -1,0 +1,266 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+05001,43.67309,-72.37943,White River Junction,VT,Vermont,True,,9317.0,84.2,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05009,43.64769,-72.34395,White River Junction,VT,Vermont,True,,,,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05030,43.39989,-72.40981,Ascutney,VT,Vermont,True,,,,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05031,43.72361,-72.5872,Barnard,VT,Vermont,True,,97.0,15.0,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05032,43.80193,-72.65708,Bethel,VT,Vermont,True,,2823.0,16.0,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05033,44.00229,-72.16412,Bradford,VT,Vermont,True,,2517.0,26.4,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05034,43.58921,-72.62178,Bridgewater,VT,Vermont,True,,218.0,23.9,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05035,43.61723,-72.67998,Bridgewater Corners,VT,Vermont,True,,654.0,6.2,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05036,44.026,-72.57843,Brookfield,VT,Vermont,True,,1139.0,14.3,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05037,43.46033,-72.48371,Brownsville,VT,Vermont,True,,900.0,27.1,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05038,43.99313,-72.45859,Chelsea,VT,Vermont,True,,1304.0,11.5,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05039,44.03407,-72.2975,Corinth,VT,Vermont,True,,1272.0,12.1,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05040,44.06796,-72.20438,East Corinth,VT,Vermont,True,,628.0,21.1,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05041,43.96702,-72.54264,East Randolph,VT,Vermont,True,,433.0,29.9,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05042,44.24013,-72.1053,East Ryegate,VT,Vermont,True,,492.0,7.1,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05043,43.80658,-72.21194,East Thetford,VT,Vermont,True,,1018.0,43.4,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05045,43.9144,-72.19881,Fairlee,VT,Vermont,True,,1997.0,17.9,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05046,44.23864,-72.25024,Groton,VT,Vermont,True,,1133.0,7.0,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05048,43.5798,-72.42692,Hartland,VT,Vermont,True,,2938.0,38.3,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05050,44.26442,-72.06414,McIndoe Falls,VT,Vermont,True,,138.0,160.3,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05051,44.08525,-72.11753,Newbury,VT,Vermont,True,,1445.0,17.4,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05052,43.6008,-72.35698,North Hartland,VT,Vermont,True,,283.0,47.1,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05053,43.71799,-72.48362,North Pomfret,VT,Vermont,True,,281.0,13.9,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05055,43.75481,-72.31145,Norwich,VT,Vermont,True,,3264.0,31.4,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05056,43.52895,-72.72397,Plymouth,VT,Vermont,True,,407.0,3.9,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05058,43.87917,-72.26999,Post Mills,VT,Vermont,True,,344.0,44.8,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05059,43.64233,-72.43061,Quechee,VT,Vermont,True,,441.0,30.3,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05060,43.96199,-72.68594,Randolph,VT,Vermont,True,,4177.0,21.2,50017,Orange,"{""50017"": 82.16, ""50027"": 11.68, ""50023"": 6.16}",Orange|Windsor|Washington,50017|50027|50023,False,False,America/New_York
+05061,43.93023,-72.58087,Randolph Center,VT,Vermont,True,,1562.0,21.6,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05062,43.5012,-72.58358,Reading,VT,Vermont,True,,463.0,5.0,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05065,43.79079,-72.41617,Sharon,VT,Vermont,True,,1061.0,14.7,50027,Windsor,"{""50027"": 94.87, ""50017"": 5.13}",Windsor|Orange,50027|50017,False,False,America/New_York
+05067,43.69162,-72.53944,South Pomfret,VT,Vermont,True,,188.0,6.4,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05068,43.79188,-72.52931,South Royalton,VT,Vermont,True,,2997.0,19.5,50027,Windsor,"{""50027"": 99.69, ""50017"": 0.31}",Windsor|Orange,50027|50017,False,False,America/New_York
+05069,44.17366,-72.14317,South Ryegate,VT,Vermont,True,,591.0,13.0,50017,Orange,"{""50017"": 60.45, ""50005"": 39.55}",Orange|Caledonia,50017|50005,False,False,America/New_York
+05070,43.84225,-72.35099,South Strafford,VT,Vermont,True,,484.0,17.5,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05071,43.56461,-72.56842,South Woodstock,VT,Vermont,True,,149.0,4.0,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05072,43.88132,-72.38545,Strafford,VT,Vermont,True,,591.0,9.0,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05073,43.62901,-72.46108,Taftsville,VT,Vermont,True,,,,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05075,43.84356,-72.28255,Thetford Center,VT,Vermont,True,,941.0,11.9,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05076,44.14503,-72.22659,Topsham,VT,Vermont,True,,327.0,4.6,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05077,43.89961,-72.47789,Tunbridge,VT,Vermont,True,,1186.0,11.9,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05079,43.95622,-72.32214,Vershire,VT,Vermont,True,,715.0,7.8,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05081,44.14292,-72.08451,Wells River,VT,Vermont,True,,492.0,9.8,50017,Orange,"{""50017"": 83.51, ""50005"": 16.49}",Orange|Caledonia,50017|50005,False,False,America/New_York
+05083,43.9184,-72.26782,West Fairlee,VT,Vermont,True,,200.0,97.7,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05084,43.72791,-72.45177,West Hartford,VT,Vermont,True,,51.0,8.8,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05086,44.1182,-72.30249,West Topsham,VT,Vermont,True,,599.0,7.9,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05088,43.67332,-72.30726,Wilder,VT,Vermont,True,,,,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05089,43.49686,-72.4515,Windsor,VT,Vermont,True,,3992.0,35.2,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05091,43.64707,-72.55165,Woodstock,VT,Vermont,True,,3605.0,20.6,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05101,43.1783,-72.48333,Bellows Falls,VT,Vermont,True,,4324.0,59.9,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05141,43.15615,-72.55929,Cambridgeport,VT,Vermont,True,,206.0,203.5,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05142,43.40454,-72.58457,Cavendish,VT,Vermont,True,,714.0,10.3,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05143,43.26267,-72.63095,Chester,VT,Vermont,True,,4113.0,13.9,50027,Windsor,"{""50027"": 77.14, ""50025"": 22.86}",Windsor|Windham,50027|50025,False,False,America/New_York
+05146,43.17867,-72.62307,Grafton,VT,Vermont,True,,531.0,4.9,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05148,43.24503,-72.81224,Londonderry,VT,Vermont,True,,1223.0,17.6,50025,Windham,"{""50025"": 63.83, ""50003"": 34.89, ""50027"": 1.28}",Windham|Bennington|Windsor,50025|50003|50027,False,False,America/New_York
+05149,43.40368,-72.7029,Ludlow,VT,Vermont,True,,1885.0,17.2,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05150,43.33653,-72.52727,North Springfield,VT,Vermont,True,,701.0,133.8,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05151,43.39374,-72.49566,Perkinsville,VT,Vermont,True,,1466.0,23.8,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05152,43.251,-72.92008,Peru,VT,Vermont,True,,445.0,4.7,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05153,43.42885,-72.63487,Proctorsville,VT,Vermont,True,,588.0,11.1,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05154,43.13558,-72.53424,Saxtons River,VT,Vermont,True,,575.0,90.5,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05155,43.17717,-72.8228,South Londonderry,VT,Vermont,True,,770.0,14.1,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05156,43.30719,-72.46928,Springfield,VT,Vermont,True,,9300.0,58.8,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05158,43.10299,-72.47296,Westminster,VT,Vermont,True,,1136.0,42.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05161,43.3166,-72.8067,Weston,VT,Vermont,True,,629.0,6.9,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05201,42.87652,-73.1426,Bennington,VT,Vermont,True,,14147.0,55.1,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05250,43.12048,-73.19337,Arlington,VT,Vermont,True,,3625.0,15.3,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05251,43.26189,-73.08269,Dorset,VT,Vermont,True,,1115.0,10.3,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05252,43.06642,-73.06132,East Arlington,VT,Vermont,True,,326.0,3.2,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05253,43.25235,-72.99913,East Dorset,VT,Vermont,True,,483.0,14.1,50003,Bennington,"{""50003"": 95.38, ""50021"": 4.62}",Bennington|Rutland,50003|50021,False,False,America/New_York
+05254,43.15937,-73.06911,Manchester,VT,Vermont,True,,148.0,22.8,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05255,43.16696,-73.06685,Manchester Center,VT,Vermont,True,,4091.0,41.0,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05257,42.96538,-73.25156,North Bennington,VT,Vermont,True,,2750.0,60.4,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05260,42.81594,-73.26173,North Pownal,VT,Vermont,True,,593.0,39.6,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05261,42.77516,-73.21273,Pownal,VT,Vermont,True,,2441.0,32.5,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05262,42.97935,-73.12066,Shaftsbury,VT,Vermont,True,,2241.0,12.0,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05301,42.84346,-72.65901,Brattleboro,VT,Vermont,True,,16037.0,42.9,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05340,43.16215,-72.93486,Bondville,VT,Vermont,True,,781.0,6.9,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05341,42.96407,-72.7972,East Dover,VT,Vermont,True,,558.0,16.3,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05342,42.77468,-72.80015,Jacksonville,VT,Vermont,True,,466.0,10.3,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05343,43.09744,-72.80105,Jamaica,VT,Vermont,True,,779.0,6.5,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05344,42.83896,-72.73257,Marlboro,VT,Vermont,True,,,,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05345,42.99516,-72.66747,Newfane,VT,Vermont,True,,2018.0,19.8,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05346,43.02337,-72.53043,Putney,VT,Vermont,True,,4942.0,27.2,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05350,42.79879,-72.97187,Readsboro,VT,Vermont,True,,672.0,7.1,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05351,42.92867,-72.73728,South Newfane,VT,Vermont,True,,,,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05352,42.78796,-73.07862,Stamford,VT,Vermont,True,,897.0,8.8,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05353,43.06501,-72.66484,Townshend,VT,Vermont,True,,1146.0,12.3,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05354,42.76211,-72.52553,Vernon,VT,Vermont,True,,2392.0,48.0,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05355,43.02079,-72.80645,Wardsboro,VT,Vermont,True,,719.0,10.2,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05356,42.95423,-72.86952,West Dover,VT,Vermont,True,,482.0,8.4,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05358,42.77396,-72.73164,West Halifax,VT,Vermont,True,,139.0,3.6,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05359,43.15184,-72.72121,West Townshend,VT,Vermont,True,,585.0,7.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05360,43.02778,-72.94378,West Wardsboro,VT,Vermont,True,,287.0,1.6,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05361,42.78021,-72.87935,Whitingham,VT,Vermont,True,,1076.0,14.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05362,42.94609,-72.6816,Williamsville,VT,Vermont,True,,113.0,6.7,50025,Windham,"{""50025"": 100}",Windham,50025,False,False,America/New_York
+05363,42.88301,-72.89554,Wilmington,VT,Vermont,True,,1917.0,11.8,50025,Windham,"{""50025"": 66.67, ""50003"": 33.33}",Windham|Bennington,50025|50003,False,False,America/New_York
+05401,44.47484,-73.21758,Burlington,VT,Vermont,True,,30152.0,1907.6,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05403,44.447,-73.17229,South Burlington,VT,Vermont,True,,18919.0,446.1,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05404,44.49483,-73.18467,Winooski,VT,Vermont,True,,7320.0,2023.3,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05405,44.47475,-73.19649,Burlington,VT,Vermont,True,,3469.0,6784.9,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05408,44.48969,-73.27139,Burlington,VT,Vermont,True,,9430.0,901.7,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05439,44.49573,-73.16524,Colchester,VT,Vermont,True,,1450.0,3852.1,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05440,44.95214,-73.2848,Alburgh,VT,Vermont,True,,1801.0,23.9,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York
+05441,44.7686,-72.78669,Bakersfield,VT,Vermont,True,,844.0,26.9,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05442,44.76164,-72.68043,Belvidere Center,VT,Vermont,True,,400.0,4.3,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05443,44.12976,-73.03347,Bristol,VT,Vermont,True,,6947.0,24.8,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05444,44.62628,-72.88242,Cambridge,VT,Vermont,True,,1373.0,18.9,50015,Lamoille,"{""50015"": 60.08, ""50011"": 39.12, ""50007"": 0.8}",Lamoille|Franklin|Chittenden,50015|50011|50007,False,False,America/New_York
+05445,44.30896,-73.23593,Charlotte,VT,Vermont,True,,3817.0,35.7,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05446,44.5541,-73.21647,Colchester,VT,Vermont,True,,15827.0,167.1,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05447,44.93615,-72.70447,East Berkshire,VT,Vermont,True,,86.0,33.6,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05448,44.75374,-72.8872,East Fairfield,VT,Vermont,True,,936.0,9.6,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05450,44.89075,-72.79074,Enosburg Falls,VT,Vermont,True,,5073.0,13.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05452,44.5238,-73.06479,Essex Junction,VT,Vermont,True,,22021.0,210.7,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05454,44.7056,-73.02294,Fairfax,VT,Vermont,True,,5156.0,41.4,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05455,44.80352,-72.96568,Fairfield,VT,Vermont,True,,1307.0,13.9,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05456,44.20776,-73.25796,Ferrisburgh,VT,Vermont,True,,1136.0,19.1,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05457,44.97294,-72.91832,Franklin,VT,Vermont,True,,1823.0,18.6,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05458,44.71838,-73.29837,Grand Isle,VT,Vermont,True,,2133.0,49.0,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York
+05459,44.95568,-73.01861,Highgate Center,VT,Vermont,True,,2035.0,35.0,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05461,44.32094,-73.09176,Hinesburg,VT,Vermont,True,,4645.0,42.8,50007,Chittenden,"{""50007"": 93.75, ""50001"": 6.25}",Chittenden|Addison,50007|50001,False,False,America/New_York
+05462,44.29909,-72.95228,Huntington,VT,Vermont,True,,1850.0,18.9,50007,Chittenden,"{""50007"": 99.88, ""50001"": 0.12}",Chittenden|Addison,50007|50001,False,False,America/New_York
+05463,44.86297,-73.34254,Isle La Motte,VT,Vermont,True,,450.0,22.0,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York
+05464,44.65469,-72.81897,Jeffersonville,VT,Vermont,True,,3263.0,22.4,50015,Lamoille,"{""50015"": 75.52, ""50011"": 24.48}",Lamoille|Franklin,50015|50011,False,False,America/New_York
+05465,44.45882,-72.93058,Jericho,VT,Vermont,True,,5306.0,35.0,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05468,44.65378,-73.15343,Milton,VT,Vermont,True,,13678.0,84.5,50007,Chittenden,"{""50007"": 84.26, ""50011"": 15.74}",Chittenden|Franklin,50007|50011,False,False,America/New_York
+05471,44.85739,-72.58942,Montgomery Center,VT,Vermont,True,,656.0,5.2,50011,Franklin,"{""50011"": 92.71, ""50019"": 7.29}",Franklin|Orleans,50011|50019,False,False,America/New_York
+05472,44.11377,-73.1611,New Haven,VT,Vermont,True,,1777.0,16.0,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05473,44.24119,-73.19346,North Ferrisburgh,VT,Vermont,True,,1351.0,26.6,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05474,44.83445,-73.26687,North Hero,VT,Vermont,True,,1018.0,29.2,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York
+05476,44.96055,-72.6457,Richford,VT,Vermont,True,,3226.0,19.4,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05477,44.3936,-72.99152,Richmond,VT,Vermont,True,,4481.0,51.8,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05478,44.7941,-73.11714,Saint Albans,VT,Vermont,True,,15173.0,98.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05481,44.80833,-73.1396,Saint Albans Bay,VT,Vermont,True,,,,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05482,44.39057,-73.24134,Shelburne,VT,Vermont,True,,7741.0,122.9,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05483,44.88322,-72.98484,Sheldon,VT,Vermont,True,,1515.0,26.7,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05485,44.90405,-72.97567,Sheldon Springs,VT,Vermont,True,,108.0,2540.5,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05486,44.62958,-73.31444,South Hero,VT,Vermont,True,,1641.0,43.6,50013,Grand Isle,"{""50013"": 100}",Grand Isle,50013,False,False,America/New_York
+05487,44.23082,-73.01096,Starksboro,VT,Vermont,True,,1504.0,12.5,50001,Addison,"{""50001"": 89.36, ""50007"": 10.64}",Addison|Chittenden,50001|50007,False,False,America/New_York
+05488,44.92214,-73.14286,Swanton,VT,Vermont,True,,7763.0,44.8,50011,Franklin,"{""50011"": 100}",Franklin,50011,False,False,America/New_York
+05489,44.5458,-72.89471,Underhill,VT,Vermont,True,,3510.0,23.0,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05491,44.12101,-73.32111,Vergennes,VT,Vermont,True,,5919.0,26.1,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05492,44.71324,-72.75853,Waterville,VT,Vermont,True,,740.0,16.3,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05494,44.60472,-73.01523,Westford,VT,Vermont,True,,1657.0,23.0,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05495,44.42901,-73.09197,Williston,VT,Vermont,True,,10584.0,119.3,50007,Chittenden,"{""50007"": 100}",Chittenden,50007,False,False,America/New_York
+05602,44.2848,-72.61498,Montpelier,VT,Vermont,True,,11724.0,51.5,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05640,44.34734,-72.49675,Adamant,VT,Vermont,True,,309.0,49.2,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05641,44.18602,-72.45108,Barre,VT,Vermont,True,,16326.0,93.9,50023,Washington,"{""50023"": 61.58, ""50017"": 38.42}",Washington|Orange,50023|50017,False,False,America/New_York
+05647,44.41001,-72.29126,Cabot,VT,Vermont,True,,1155.0,16.4,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05648,44.38372,-72.49355,Calais,VT,Vermont,True,,429.0,17.9,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05649,44.14004,-72.36589,East Barre,VT,Vermont,True,,390.0,29.8,50017,Orange,"{""50017"": 91.15, ""50023"": 8.85}",Orange|Washington,50017|50023,False,False,America/New_York
+05650,44.4002,-72.44235,East Calais,VT,Vermont,True,,1095.0,17.8,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05651,44.27777,-72.49246,East Montpelier,VT,Vermont,True,,1421.0,32.6,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05652,44.72824,-72.58674,Eden,VT,Vermont,True,,610.0,7.5,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05653,44.70141,-72.49275,Eden Mills,VT,Vermont,True,,644.0,7.9,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05654,44.14053,-72.48092,Graniteville,VT,Vermont,True,,1122.0,90.3,50017,Orange,"{""50017"": 51.41, ""50023"": 48.59}",Orange|Washington,50017|50023,False,False,America/New_York
+05655,44.62461,-72.56462,Hyde Park,VT,Vermont,True,,2930.0,30.0,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05656,44.64898,-72.68825,Johnson,VT,Vermont,True,,3625.0,29.6,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05658,44.35921,-72.35399,Marshfield,VT,Vermont,True,,1592.0,15.9,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05660,44.24733,-72.76808,Moretown,VT,Vermont,True,,1566.0,16.1,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05661,44.53743,-72.61724,Morrisville,VT,Vermont,True,,6013.0,35.6,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05663,44.14946,-72.67239,Northfield,VT,Vermont,True,,6847.0,43.5,50023,Washington,"{""50023"": 97.22, ""50017"": 2.78}",Washington|Orange,50023|50017,False,False,America/New_York
+05664,44.16718,-72.65316,Northfield Falls,VT,Vermont,True,,46.0,1066.7,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05666,44.34125,-72.43873,North Montpelier,VT,Vermont,True,,,,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05667,44.28122,-72.3986,Plainfield,VT,Vermont,True,,1939.0,15.1,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05669,44.05325,-72.75155,Roxbury,VT,Vermont,True,,891.0,7.1,50023,Washington,"{""50023"": 69.76, ""50001"": 22.82, ""50017"": 7.42}",Washington|Addison|Orange,50023|50001|50017,False,False,America/New_York
+05670,44.17799,-72.50558,South Barre,VT,Vermont,True,,,,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05672,44.48151,-72.72174,Stowe,VT,Vermont,True,,4447.0,23.6,50015,Lamoille,"{""50015"": 100}",Lamoille,50015,False,False,America/New_York
+05673,44.19371,-72.84356,Waitsfield,VT,Vermont,True,,2414.0,17.6,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05674,44.11112,-72.86081,Warren,VT,Vermont,True,,1688.0,16.3,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05675,44.07386,-72.41821,Washington,VT,Vermont,True,,1192.0,12.4,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05676,44.34825,-72.80984,Waterbury,VT,Vermont,True,,4686.0,19.3,50023,Washington,"{""50023"": 79.15, ""50007"": 20.85}",Washington|Chittenden,50023|50007,False,False,America/New_York
+05677,44.39194,-72.70841,Waterbury Center,VT,Vermont,True,,2330.0,57.3,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05678,44.15577,-72.47445,Websterville,VT,Vermont,True,,251.0,119.2,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05679,44.10677,-72.54052,Williamstown,VT,Vermont,True,,3323.0,33.4,50017,Orange,"{""50017"": 100}",Orange,50017,False,False,America/New_York
+05680,44.53785,-72.46838,Wolcott,VT,Vermont,True,,2104.0,12.5,50015,Lamoille,"{""50015"": 97.72, ""50023"": 2.28}",Lamoille|Washington,50015|50023,False,False,America/New_York
+05681,44.45377,-72.38016,Woodbury,VT,Vermont,True,,373.0,10.7,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05682,44.40354,-72.57219,Worcester,VT,Vermont,True,,1284.0,10.9,50023,Washington,"{""50023"": 100}",Washington,50023,False,False,America/New_York
+05701,43.63365,-72.91368,Rutland,VT,Vermont,True,,19722.0,112.4,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05730,43.40262,-72.81508,Belmont,VT,Vermont,True,,279.0,5.4,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05731,43.7532,-73.28857,Benson,VT,Vermont,True,,,,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05732,43.67998,-73.18648,Bomoseen,VT,Vermont,True,,984.0,34.8,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05733,43.81746,-73.09216,Brandon,VT,Vermont,True,,6035.0,21.6,50021,Rutland,"{""50021"": 60.42, ""50001"": 39.58}",Rutland|Addison,50021|50001,False,False,America/New_York
+05734,43.98243,-73.33286,Bridport,VT,Vermont,True,,1228.0,11.0,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05735,43.64475,-73.15456,Castleton,VT,Vermont,True,,3944.0,34.4,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05736,43.60483,-73.01273,Center Rutland,VT,Vermont,True,,528.0,60.3,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05737,43.76778,-72.90434,Chittenden,VT,Vermont,True,,951.0,7.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05738,43.52895,-72.85637,Cuttingsville,VT,Vermont,True,,1274.0,9.7,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05739,43.34488,-73.0295,Danby,VT,Vermont,True,,1291.0,10.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05742,43.43685,-72.9045,East Wallingford,VT,Vermont,True,,599.0,9.4,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05743,43.67118,-73.30726,Fair Haven,VT,Vermont,True,,3668.0,14.3,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05744,43.69034,-73.08272,Florence,VT,Vermont,True,,540.0,8.1,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05746,43.72098,-72.78836,Gaysville,VT,Vermont,True,,,,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05747,44.00354,-72.85494,Granville,VT,Vermont,True,,352.0,3.4,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05748,43.92004,-72.91064,Hancock,VT,Vermont,True,,450.0,4.5,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05751,43.6542,-72.78941,Killington,VT,Vermont,True,,678.0,5.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05753,43.9991,-73.17403,Middlebury,VT,Vermont,True,,10500.0,48.4,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05757,43.48279,-73.12325,Middletown Springs,VT,Vermont,True,,715.0,11.2,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05758,43.44797,-72.78386,Mount Holly,VT,Vermont,True,,624.0,9.8,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05759,43.53926,-72.96483,North Clarendon,VT,Vermont,True,,1526.0,29.9,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05760,43.80359,-73.29517,Orwell,VT,Vermont,True,,873.0,9.4,50001,Addison,"{""50001"": 99.43, ""50021"": 0.57}",Addison|Rutland,50001|50021,False,False,America/New_York
+05761,43.34786,-73.14855,Pawlet,VT,Vermont,True,,817.0,7.7,50021,Rutland,"{""50021"": 78.94, ""50003"": 21.06}",Rutland|Bennington,50021|50003,False,False,America/New_York
+05762,43.79246,-72.8291,Pittsfield,VT,Vermont,True,,350.0,6.7,50021,Rutland,"{""50021"": 99.86, ""50027"": 0.14}",Rutland|Windsor,50021|50027,False,False,America/New_York
+05763,43.73678,-72.98946,Pittsford,VT,Vermont,True,,2778.0,29.6,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05764,43.52854,-73.19401,Poultney,VT,Vermont,True,,3251.0,28.2,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05765,43.65068,-73.03648,Proctor,VT,Vermont,True,,1763.0,95.1,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05766,43.98833,-72.99072,Ripton,VT,Vermont,True,,437.0,3.4,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05767,43.87513,-72.82878,Rochester,VT,Vermont,True,,1120.0,7.6,50027,Windsor,"{""50027"": 99.3, ""50021"": 0.7}",Windsor|Rutland,50027|50021,False,False,America/New_York
+05768,43.29846,-73.22168,Rupert,VT,Vermont,True,,,,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05769,43.91948,-73.11651,Salisbury,VT,Vermont,True,,1206.0,15.1,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05770,43.88662,-73.32771,Shoreham,VT,Vermont,True,,1061.0,9.8,50001,Addison,"{""50001"": 100}",Addison,50001,False,False,America/New_York
+05772,43.75989,-72.74003,Stockbridge,VT,Vermont,True,,679.0,6.4,50027,Windsor,"{""50027"": 100}",Windsor,50027,False,False,America/New_York
+05773,43.40902,-72.96858,Wallingford,VT,Vermont,True,,2619.0,13.4,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05774,43.42708,-73.17435,Wells,VT,Vermont,True,,1011.0,14.1,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05775,43.35437,-73.22804,West Pawlet,VT,Vermont,True,,641.0,15.1,50021,Rutland,"{""50021"": 92.37, ""50003"": 7.63}",Rutland|Bennington,50021|50003,False,False,America/New_York
+05776,43.24494,-73.20392,West Rupert,VT,Vermont,True,,661.0,10.9,50003,Bennington,"{""50003"": 100}",Bennington,50003,False,False,America/New_York
+05777,43.5552,-73.05504,West Rutland,VT,Vermont,True,,3245.0,28.1,50021,Rutland,"{""50021"": 100}",Rutland,50021,False,False,America/New_York
+05778,43.87279,-73.21228,Whiting,VT,Vermont,True,,762.0,11.2,50001,Addison,"{""50001"": 92.43, ""50021"": 7.57}",Addison|Rutland,50001|50021,False,False,America/New_York
+05819,44.40397,-71.98837,Saint Johnsbury,VT,Vermont,True,,8980.0,39.1,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05820,44.74862,-72.37351,Albany,VT,Vermont,True,,434.0,12.5,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05821,44.3175,-72.10866,Barnet,VT,Vermont,True,,1181.0,14.5,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05822,44.75555,-72.15478,Barton,VT,Vermont,True,,1289.0,11.7,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05824,44.43741,-71.86449,Concord,VT,Vermont,True,,1090.0,8.2,50009,Essex,"{""50009"": 68.97, ""50005"": 31.03}",Essex|Caledonia,50009|50005,False,False,America/New_York
+05825,44.86019,-72.25664,Coventry,VT,Vermont,True,,95.0,37.3,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05826,44.6444,-72.40404,Craftsbury,VT,Vermont,True,,801.0,10.7,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05827,44.68135,-72.36198,Craftsbury Common,VT,Vermont,True,,304.0,7.0,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05828,44.43748,-72.12334,Danville,VT,Vermont,True,,2025.0,14.0,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05829,44.95349,-72.0759,Derby,VT,Vermont,True,,1889.0,30.6,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05830,44.97717,-71.98278,Derby Line,VT,Vermont,True,,1170.0,13.5,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05832,44.59546,-71.91027,East Burke,VT,Vermont,True,,1079.0,16.6,50005,Caledonia,"{""50005"": 99.89, ""50009"": 0.11}",Caledonia|Essex,50005|50009,False,False,America/New_York
+05833,44.83182,-71.96965,East Charleston,VT,Vermont,True,,138.0,46.8,50019,Orleans,"{""50019"": 99.89, ""50009"": 0.11}",Orleans|Essex,50019|50009,False,False,America/New_York
+05836,44.5196,-72.25173,East Hardwick,VT,Vermont,True,,1311.0,15.4,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05837,44.66868,-71.8386,East Haven,VT,Vermont,True,,347.0,2.7,50009,Essex,"{""50009"": 75.11, ""50005"": 24.89}",Essex|Caledonia,50009|50005,False,False,America/New_York
+05839,44.67342,-72.21171,Glover,VT,Vermont,True,,802.0,13.0,50019,Orleans,"{""50019"": 98.41, ""50005"": 1.59}",Orleans|Caledonia,50019|50005,False,False,America/New_York
+05840,44.61297,-71.73129,Granby,VT,Vermont,True,,,,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05841,44.60794,-72.30232,Greensboro,VT,Vermont,True,,377.0,6.0,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05842,44.57966,-72.24453,Greensboro Bend,VT,Vermont,True,,462.0,9.8,50019,Orleans,"{""50019"": 65.31, ""50005"": 34.69}",Orleans|Caledonia,50019|50005,False,False,America/New_York
+05843,44.50355,-72.33366,Hardwick,VT,Vermont,True,,2253.0,18.7,50005,Caledonia,"{""50005"": 87.72, ""50023"": 12.28}",Caledonia|Washington,50005|50023,False,False,America/New_York
+05845,44.79146,-72.30699,Irasburg,VT,Vermont,True,,1481.0,13.3,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05846,44.82671,-71.82795,Island Pond,VT,Vermont,True,,1173.0,4.4,50009,Essex,"{""50009"": 93.51, ""50019"": 6.49}",Essex|Orleans,50009|50019,False,False,America/New_York
+05847,44.79165,-72.45679,Lowell,VT,Vermont,True,,965.0,6.6,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05850,44.55955,-72.03417,Lyndon Center,VT,Vermont,True,,249.0,68.8,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05851,44.55297,-72.05732,Lyndonville,VT,Vermont,True,,6212.0,29.3,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05853,44.89499,-71.96167,Morgan,VT,Vermont,True,,625.0,8.3,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05855,44.92829,-72.1943,Newport,VT,Vermont,True,,6819.0,44.5,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05857,44.93381,-72.3092,Newport Center,VT,Vermont,True,,2724.0,26.4,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05858,44.53587,-71.8046,North Concord,VT,Vermont,True,,417.0,2.5,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05859,44.95987,-72.43833,North Troy,VT,Vermont,True,,1815.0,11.3,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05860,44.80018,-72.10353,Orleans,VT,Vermont,True,,2686.0,13.5,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05862,44.31971,-72.23133,Peacham,VT,Vermont,True,,451.0,7.3,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05866,44.63863,-72.12699,Sheffield,VT,Vermont,True,,678.0,7.6,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05867,44.66505,-72.04366,Sutton,VT,Vermont,True,,896.0,10.0,50005,Caledonia,"{""50005"": 99.86, ""50019"": 0.14}",Caledonia|Orleans,50005|50019,False,False,America/New_York
+05868,44.91881,-72.3675,Troy,VT,Vermont,True,,241.0,20.6,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05871,44.68367,-71.95193,West Burke,VT,Vermont,True,,1335.0,13.4,50005,Caledonia,"{""50005"": 100}",Caledonia,50005,False,False,America/New_York
+05872,44.86059,-72.03473,West Charleston,VT,Vermont,True,,830.0,10.5,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05873,44.40619,-72.21841,West Danville,VT,Vermont,True,,624.0,9.3,50005,Caledonia,"{""50005"": 94.68, ""50023"": 5.32}",Caledonia|Washington,50005|50023,False,False,America/New_York
+05874,44.87546,-72.46172,Westfield,VT,Vermont,True,,580.0,5.7,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05875,44.70947,-72.26753,Barton,VT,Vermont,True,,490.0,8.3,50019,Orleans,"{""50019"": 100}",Orleans,50019,False,False,America/New_York
+05901,44.94197,-71.68079,Averill,VT,Vermont,True,,17.0,0.2,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05902,45.00881,-71.49472,Beecher Falls,VT,Vermont,True,,174.0,51.5,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05903,44.9379,-71.58286,Canaan,VT,Vermont,True,,776.0,4.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05904,44.41597,-71.70762,Gilman,VT,Vermont,True,,192.0,134.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05905,44.70151,-71.66672,Guildhall,VT,Vermont,True,,880.0,1.8,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05906,44.47431,-71.71538,Lunenburg,VT,Vermont,True,,1411.0,11.2,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York
+05907,44.9502,-71.82577,Norton,VT,Vermont,True,,109.0,0.6,50009,Essex,"{""50009"": 100}",Essex,50009,False,False,America/New_York

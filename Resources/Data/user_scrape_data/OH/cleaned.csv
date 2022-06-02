@@ -1,0 +1,449 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+OH,43001,Buckeye Lake Village of Public Water System,2746,1258,39089
+OH,43001,City of Heath PWS,10000,303,39089
+OH,43001,Country Hills Mobile Home Park,48,10,39089
+OH,43001,Granville Village of,5646,490,39089
+OH,43001,Green Meadows Mobile Home Park,50,297,39089
+OH,43001,Hebron Village Public Water System,2360,795,39089
+OH,43001,Johnstown Village Public Water System,4806,749,39089
+OH,43001,Licking County Harbor Hills Public Water System,938,2371,39089
+OH,43001,Newark City PWS,47573,1602,39089
+OH,43001,Pataskala City,9100,479,39089
+OH,43001,Southwest Licking Community Water,12088,1077,39089
+OH,43001,St. Louisville Village Public Water System,374,362,39089
+OH,43001,Utica Village Public Water System,2235,106,39089
+OH,43001,Wilkins Mobile Home Park,115,16,39089
+OH,43001,Winding Creek Estates,57,260,39089
+OH,43003,Ashley Village Public Water System,1286,1376,39041
+OH,43003,Candlewood Lake Association Inc.,1100,878,39041
+OH,43003,Cardington Village Public Water System,2046,848,39041
+OH,43003,Del-Co Water Company Inc.,141407,2063,39041
+OH,43003,Delaware City PWS,34982,814,39041
+OH,43003,Mount Gilead Village Public Water System,3660,2133,39041
+OH,43004,Reynoldsburg City PWS,35893,1672,39049
+OH,43005,Colonial Terrace Mobile Home Park,84,87,39083
+OH,43005,Danville Village Public Water System,1044,386,39083
+OH,43005,Fredericktown Village,2493,466,39083
+OH,43005,Gambier Village Public Water System,2391,37,39083
+OH,43005,Knox County Water and Wastewater Public Water System,7500,369,39083
+OH,43005,Martinsburg Village Public Water System,185,173,39083
+OH,43005,Mount Vernon City PWS,17837,11,39083
+OH,43005,Westgate Mobile Home Community,150,11,39083
+OH,43006,Big Prairie Water Company,200,731,39031
+OH,43006,Bomac Mobile Home Park,45,44,39031
+OH,43006,Castle Nursing Homes Inc. Public Water System,428,602,39031
+OH,43006,Coshocton PWS,11204,429,39031
+OH,43006,Echoing Hills Village,25,217,39031
+OH,43006,Glenmont Village Public Water System,280,115,39031
+OH,43006,Holmes County Jail,195,168,39031
+OH,43006,House of Jacob,28,155,39031
+OH,43006,Killbuck Village Public Water System,900,226,39031
+OH,43006,Millers Acres Home Owner Association,100,998,39031
+OH,43006,Millersburg Village Public Water System,3025,248,39031
+OH,43006,Nashville Village Public Water System,197,41,39031
+OH,43006,Walnut Creek Water Company,1750,2368,39031
+OH,43006,West Lafayette Public Water System,2568,253,39031
+OH,43006,Winesburg Area Development Corporation,1250,435,39031
+OH,43007,Marysville City PWS,22800,1357,39159
+OH,43007,Milford Center Village Public Water System,1669,282,39159
+OH,43007,Richwood Village Public Water System,2156,512,39159
+OH,43009,Grandview Heights Civic Association Public Water System,120,690,39021
+OH,43009,Mechanicsburg Village Public Water System,1644,209,39021
+OH,43009,North Lewisburg Village Public Water System,1850,953,39021
+OH,43009,Saint Paris Village Public Water System,2089,662,39021
+OH,43009,Urbana City PWS,11500,310,39021
+OH,43010,Catawba Village Public Water System,296,642,39023
+OH,43010,City of Springfield,59357,948,39023
+OH,43010,Clark County Green Meadows 2 Public Water System,2000,389,39023
+OH,43010,Clark County Limecrest Public Water System,120,1074,39023
+OH,43010,Clark County Maplewood Public Water System,500,812,39023
+OH,43010,Clark County Northridge 1 Public Water System,9800,957,39023
+OH,43010,Clark County Park Layne Public Water System,6600,176,39023
+OH,43010,Clark County Rockway Public Water System,450,867,39023
+OH,43010,Enon Heights Mobile Home,65,29,39023
+OH,43010,Enon Village of Public Water System,2415,213,39023
+OH,43010,Fairway Terrace Mobile Home Park Public Water System,800,112,39023
+OH,43010,Garden Acres Water Company Public Water System,241,1038,39023
+OH,43010,Greenlawn Condos,190,2143,39023
+OH,43010,Honeycreek Village Mobile Home Park Public Water System,225,171,39023
+OH,43010,Lawrenceville Village Public Water System,302,1380,39023
+OH,43010,New Carlisle City Public Water System,5735,874,39023
+OH,43010,North Hampton Village Public Water System,490,1154,39023
+OH,43010,Park Terrace Mobile Home Park,100,27,39023
+OH,43010,Rolling Terrace Mobile Home Park,100,1616,39023
+OH,43010,South Charleston Village Public Water System,1660,133,39023
+OH,43010,South Vienna Village of,565,1855,39023
+OH,43016,Columbus Public Water System,1159817,1452,39049
+OH,43019,Mansfield City,51000,2084,39083
+OH,43019,Shelby City,9317,1308,39083
+OH,43019,Ontario City,6225,373,39083
+OH,43019,Lexington Village,4320,1018,39083
+OH,43029,Camp Wissalohican Water System,30,1772,39097
+OH,43029,Choctaw Utilities Inc.,2000,52,39097
+OH,43029,Cordles Mobile Home Park,40,1864,39097
+OH,43029,Greentree Mobile Home Park,170,1,39097
+OH,43029,London City Public Water System,8871,2205,39097
+OH,43029,Mount Sterling Village Public Water System,1860,839,39097
+OH,43029,Odrc-london Correctional,5769,480,39097
+OH,43029,Picket Fences Mobile Home Community,27,1820,39097
+OH,43029,Plain City Village Public Water System,4235,675,39097
+OH,43029,Plumwood Mobile Home Park,96,860,39097
+OH,43029,Rosedale Bible Institute,110,54,39097
+OH,43029,South Solon Village Public Water System,395,406,39097
+OH,43029,Suburbans Community Mobile Home Park,655,1,39097
+OH,43046,Lancaster City PWS,40400,967,39045
+OH,43054,Gahanna City PWS,33323,1770,39049
+OH,43060,Belle Center Village Public Water System,834,412,39021
+OH,43060,Bellefontaine City PWS,13370,540,39021
+OH,43060,Cottonwood Enterprises,20,91,39021
+OH,43060,Degraff Village Public Water System,1215,653,39021
+OH,43060,Heartland of Indian Lake - Rc,53,227,39021
+OH,43060,Lakeridge Resorts Inc. Mobile Home Park,40,92,39021
+OH,43060,Lakeview Village Public Water System,1072,388,39021
+OH,43060,Quincy Village Public Water System,706,431,39021
+OH,43060,Rushsylvania Village Public Water System,516,342,39021
+OH,43065,Aqua Ohio - Timberbrook Pw,865,712,39041
+OH,43065,Aqua Ohio - Worthington Hills Public Water System,3112,200,39041
+OH,43065,Community Gardens Mobile Home Park,74,479,39041
+OH,43065,Leonard Park Public Water System,266,1419,39041
+OH,43065,Lockbourne Village Public Water System,275,1130,39041
+OH,43065,Obetz Satellite 1 Public Water System,192,3042,39041
+OH,43065,Obetz Village Public Water System,3822,407,39041
+OH,43076,New Lexington,5161,1135,39127
+OH,43101,Chillicothe City PWS,21899,1013,39141
+OH,43101,Clarksburg Village Public Water System,455,207,39141
+OH,43101,Frankfort Village Public Water System,1010,214,39141
+OH,43101,Kingston Village Public Water System,1032,146,39141
+OH,43102,Circleville City PWS,13444,602,39045
+OH,43106,I-71 & Sr-35 Public Water System,50,989,39047
+OH,43106,Ranch of Opportunity Public Water System,90,141,39047
+OH,43106,Village of Bloomingburg,850,1177,39047
+OH,43106,Washington Court House PWS,14100,827,39047
+OH,43107,Logan City of,6704,1173,39045
+OH,43111,Murray City Village Public Water System,449,1109,39073
+OH,43111,Scenic Hills Estates,32,38,39073
+OH,43111,Skyline Trailer Court,78,17,39073
+OH,43112,Amanda Village Public Water System,737,292,39045
+OH,43112,Baltimore Village Public Water System,2966,401,39045
+OH,43112,Colony Village Mobile Home Park,75,5,39045
+OH,43112,Heartland/fairfield Care,190,564,39045
+OH,43112,Lithopolis Village Public Water System,1200,232,39045
+OH,43112,Little Walnut Water Treatment Facility,1428,201,39045
+OH,43112,Millersport Village Public Water System,4030,1109,39045
+OH,43112,Odrc-southeastern Correctional Institute,1880,14,39045
+OH,43112,Rustic Ridge Mobile Home Park,450,331,39045
+OH,43112,Sugar Grove Village Public Water System,426,376,39045
+OH,43112,Thurston Village Public Water System,604,1507,39045
+OH,43113,Ashville Village Public Water System,4097,69,39129
+OH,43113,Carvel Manor Mobile Home Park,148,1740,39129
+OH,43113,Darbyville Village Public Water System,293,1041,39129
+OH,43113,Johnson Mobile Home Park,57,207,39129
+OH,43113,Wagon Wheel Mobile Home,118,2236,39129
+OH,43123,Oak Hills Mobile Home Park,850,958,39049
+OH,43138,Old Straitsville Water Association,3377,1446,39073
+OH,43152,Hamden Village Public Water System,970,1670,39073
+OH,43152,Zaleski Village Public Water System,485,2,39073
+OH,43153,Fairborn Public Water System,32352,643,39097
+OH,43153,Wright-Patterson AFB Area A PWS,16551,1888,39097
+OH,43302,Crestline City Public Water System,5088,204,39101
+OH,43302,Galion City,10175,1568,39101
+OH,43302,La Rue Village Public Water System,803,76,39101
+OH,43302,Oakridge Estates,230,123,39101
+OH,43310,Ada Village,5952,703,39065
+OH,43310,Dunkirk Village Public Water System,875,378,39065
+OH,43310,Kenton City,8360,572,39065
+OH,43310,Mcguffey Village Public Water System,501,431,39065
+OH,43316,Arcadia Village Water,594,1529,39175
+OH,43316,Arlington Village Water,1500,277,39175
+OH,43316,Attica Village,1148,1240,39175
+OH,43316,Brook Park Estates Mobile Home Park Public Water System,90,1,39175
+OH,43316,Carey Village Public Water System,3674,475,39175
+OH,43316,Findlay City,41202,1564,39175
+OH,43316,Fostoria Mobile Estates,36,636,39175
+OH,43316,Green Springs Village,1247,1408,39175
+OH,43316,Hopewell Estates Mobile Home Park,75,104,39175
+OH,43316,Mccomb Village,1700,1249,39175
+OH,43316,Mount Blanchard Village,481,579,39175
+OH,43316,Newell Company,1377,275,39175
+OH,43316,Rawson Village Water,560,753,39175
+OH,43316,Republic Village,550,188,39175
+OH,43316,Sycamore Village Public Water System,914,802,39175
+OH,43316,Upper Sandusky City,6596,1098,39175
+OH,43331,Cridersville Village,1852,891,39091
+OH,43331,Minster Village,2810,221,39091
+OH,43331,New Bremen Village,2978,547,39091
+OH,43331,New Knoxville Village,879,576,39091
+OH,43331,Wapakoneta City,10867,1712,39091
+OH,43402,Bradner Village Water,985,406,39173
+OH,43402,Maurers Mobile Home Park,190,66,39173
+OH,43402,North Baltimore Village,3361,1086,39173
+OH,43402,Northwestern W and SD - Toledo Svce Area,15600,4958,39173
+OH,43402,Tontogany Village Water,552,1285,39173
+OH,43402,Village Green Mobile Home Park,318,869,39173
+OH,43402,Wagoner Home Rentals Public Water System,76,664,39173
+OH,43402,Wayne Village Water,864,600,39173
+OH,43406,Apollo Mobile Home Park,35,106,39173
+OH,43406,Clyde City,6325,1043,39173
+OH,43406,Gibsonburg Village Public Water System,2506,382,39173
+OH,43406,Lindsey Village Water,446,288,39173
+OH,43406,Shorewood Village Subdivision,359,519,39173
+OH,43406,Woodville Village,2135,1030,39173
+OH,43408,Ottawa County Regional Water District,17348,1519,39123
+OH,43408,Port Clinton City Public Water System,6056,1577,39123
+OH,43408,Put-in-bay Village,700,1030,39123
+OH,43412,City of Toledo,360000,1097,39095
+OH,43412,Waterville City,5520,1125,39095
+OH,43412,Whitehouse Village,4149,1351,39095
+OH,43438,Huron City,7075,911,39043
+OH,43438,Kelleys Island Village,1000,1198,39043
+OH,43438,Sandusky City,25793,1554,39043
+OH,43438,Vermilion City,10594,1601,39043
+OH,43501,Aqua Ohio - Seneca,750,665,39171
+OH,43501,Bryan Municipal Utilities,8545,784,39171
+OH,43501,Edgerton Village,2012,753,39171
+OH,43501,Edon Village,980,729,39171
+OH,43501,Montpelier Village,4374,1143,39171
+OH,43501,North Pine Estates,50,164,39171
+OH,43501,Pioneer Village,1380,1307,39171
+OH,43501,West Unity Village,1671,536,39171
+OH,43501,Williams Co/hillside Country Living,256,894,39171
+OH,43502,Napoleon City,8749,1071,39051
+OH,43504,Delta Village,3518,1047,39095
+OH,43504,Fayette Village,1340,823,39095
+OH,43504,Swancreek Water District 1,112,972,39095
+OH,43506,Brunersburg Water District - Airport,40,6489,39171
+OH,43506,Christi Water System Inc.,483,1904,39171
+OH,43510,Hamler Village,575,767,39069
+OH,43510,Henry County Regional Water & Sewer District - Co. Rd. P,54,3559,39069
+OH,43510,Lhs Maumee Youth Center,56,1256,39069
+OH,43510,Liberty Center Village,1180,1012,39069
+OH,43512,Ottawa Village,4803,1662,39039
+OH,43516,Columbus Grove Village,2137,650,39069
+OH,43701,Frazeysburg Public Water System,1326,274,39119
+OH,43701,Greenlawn Estates Mobile Home Park,200,1544,39119
+OH,43701,South Zanesville Public Water System,2800,340,39119
+OH,43711,Caldwell Village Public Water System,7550,1059,39121
+OH,43711,Clear Water Corporation,3024,1202,39121
+OH,43711,Noble Water Company,830,826,39121
+OH,43713,Barnesville,6500,1299,39013
+OH,43713,Belmont County Sanitary District 3 PWS,24387,2544,39013
+OH,43713,Belmont Public Water System,475,743,39013
+OH,43713,Bethesda Public Water System,1362,1340,39013
+OH,43713,Martins Ferry Public Water System,6800,667,39013
+OH,43713,Morristown Public Water System,299,1451,39013
+OH,43713,Powhatan Point Public Water System,1807,193,39013
+OH,43713,Shadyside Public Water System,3689,218,39013
+OH,43713,York Township Water Authority Public Water System,481,232,39013
+OH,43716,Monroe Water District,4491,1416,39111
+OH,43720,Chesterhill Village Public Water System,823,506,39119
+OH,43720,Mcconnelsville Village,1780,580,39119
+OH,43720,Morgan Meigsville - Sr 376 Public Water System,68,3022,39119
+OH,43722,Guernsey County Water Department,9981,2227,39059
+OH,43722,Pleasant City Village of,900,2407,39059
+OH,43728,Athens County The Plains S.d. 1 Public Water System,3276,1527,39115
+OH,43728,Athens PWS,24024,1161,39115
+OH,43728,Bishopville Water and Sewer District,1154,1929,39115
+OH,43728,Burr Oak Regional Water District,761,1010,39115
+OH,43728,Coolville Village Public Water System,859,418,39115
+OH,43728,Le-ax Regional Water District PWS,19311,1217,39115
+OH,43728,Nelsonville Public Water System,5816,1170,39115
+OH,43728,Sunday Creek Valley Water Public Water System,5373,1167,39115
+OH,43730,Northern Perry County water #1,1946,602,39127
+OH,43730,Portersville East Branch Water Company,2250,1073,39127
+OH,43730,Roberts Trailer Park,50,1576,39127
+OH,43730,Somerset Village of,1480,943,39127
+OH,43730,Southern Perry County irish Ridge,98,4112,39127
+OH,43749,Baltic Village Public Water System,743,87,39059
+OH,43749,Bolivar Village Public Water System,994,262,39059
+OH,43749,Newcomerstown Village Public Water System,3822,382,39059
+OH,43749,Strasburg Village Public Water System,2610,456,39059
+OH,43749,Tcmsd-wilkshire Hills Public Water System,6121,207,39059
+OH,43749,Tuscarawas Village Public Water System,1056,276,39059
+OH,43903,Rayland Village Public Water System,434,397,39019
+OH,43903,Rockwood Park,200,41,39019
+OH,43903,Tiltonsville Public Water System,1372,158,39019
+OH,43920,Guilford Highlands Mobile Home Park Public Water System,90,278,39029
+OH,43920,Guilford Lake Estates,125,1013,39029
+OH,43920,Ivystone Water System,30,336,39029
+OH,43920,Salem City,16850,2368,39029
+OH,43950,Bowerston Village Public Water System,517,340,39013
+OH,43950,Deersville Village Public Water System,82,530,39013
+OH,43950,Freeport Village Public Water System,455,675,39013
+OH,43950,Hcwsd - East Cadiz,200,1373,39013
+OH,44001,Avon Lake City PWS,22998,1099,39093
+OH,44001,Elyria Water Department,68000,1397,39093
+OH,44001,Grafton Village Public Water System,2634,1479,39093
+OH,44001,North Ridgeville City PWS,29465,1251,39093
+OH,44001,Oberlin Water Department,8286,1250,39093
+OH,44001,Sheffield Village Public Water System,3982,1329,39093
+OH,44003,Dfc Mobile Home Park,85,220,39007
+OH,44003,Orwell Village Public Water System,1519,983,39007
+OH,44003,Rock Creek Village,600,2600,39007
+OH,44021,Aqua Ohio - Auburn Lakes Public Water System,290,152,39055
+OH,44021,Bainbrook Water Company Public Water System,350,175,39055
+OH,44021,Chardon City Public Water System,5100,374,39055
+OH,44021,Geauga County-bainbridge,3000,1392,39055
+OH,44021,Heather Hill Care Communities,650,450,39055
+OH,44021,Kimberly Estates,288,1702,39055
+OH,44021,Lake Lucerne Club Company,980,288,39055
+OH,44021,Leaders Mobile Home Park Public Water System,700,141,39055
+OH,44021,Manchester Farms Water,79,488,39055
+OH,44021,Maple Ridge Mobile Home Community Limited,130,37,39055
+OH,44021,Middlefield Village Public Water System,2694,801,39055
+OH,44021,Paw Paw Lake,120,224,39055
+OH,44021,Scranton Woods,114,402,39055
+OH,44021,Troy Oaks Homes,450,272,39055
+OH,44021,Whitetail Run Homeowners,250,190,39055
+OH,44021,Wilders Mobile Home Park Public Water System,225,22,39055
+OH,44022,Bedford City PWS,13074,1147,39035
+OH,44024,Aqua Ohio Inc. - Mentor,83000,1693,39055
+OH,44024,Lake County West Water Subdistrict,78379,1420,39055
+OH,44028,Daleside Systems Inc.,28,1203,39093
+OH,44028,Granger Lake Condo 1 Public Water System,131,864,39093
+OH,44028,Medina Co/sharon Springs,371,954,39093
+OH,44028,Seville Village Public Water System,2296,1965,39093
+OH,44041,Fairport Harbor Village Public Water System,3180,1103,39007
+OH,44041,Lake County Pinecrest Subdistrict,298,1989,39007
+OH,44056,Akron City Public Water System,280000,2287,39153
+OH,44056,Barberton City,29550,2078,39153
+OH,44056,Tallmadge City PWS,17900,2096,39153
+OH,44062,Warren City PWS,46832,2011,39055
+OH,44062,Trumbull County - Bazetta/champion,7698,9817,39055
+OH,44094,Chagrin Falls Village Public Water System,5000,1211,39085
+OH,44094,Columbia Park Water System Public Water System,1330,1174,39085
+OH,44201,Alliance City PWS,22232,2022,39133
+OH,44201,Ravenna City PWS,14000,2348,39133
+OH,44201,Louisville City Public Water System,9100,569,39133
+OH,44201,Stark County Water District,7242,1055,39133
+OH,44203,Wooster City PWS,26619,1229,39153
+OH,44234,Garrettsville Village Public Water System,2958,295,39133
+OH,44234,Hiram Village Public Water System,2017,69,39133
+OH,44234,Windham Village Public Water System,1900,1678,39133
+OH,44235,Ashland City,20648,1475,39103
+OH,44235,Bailey Lakes Village,450,1735,39103
+OH,44235,Hayesville Village,448,67,39103
+OH,44235,Jeromesville Village,500,105,39103
+OH,44235,Loudonville Village,2641,1057,39103
+OH,44235,Mohican River Estates,97,217,39103
+OH,44235,Perrysville Village,735,252,39103
+OH,44235,Southwood Estates,39,205,39103
+OH,44401,Campbell City Public Water System,8500,1336,39099
+OH,44401,Canfield City Public Water System,7505,1531,39099
+OH,44401,Sebring Village Public Water System,8100,1541,39099
+OH,44401,Youngstown City Public Water System,148000,1512,39099
+OH,44402,Aqua Ohio - Masury,5000,2521,39155
+OH,44402,Boyds Kinsman Home Public Water System,65,293,39155
+OH,44402,Concord Care Center of Cortland,80,64,39155
+OH,44402,Fowler Mobile Home Park,37,4,39155
+OH,44402,Lake View Mobile Home Park,220,842,39155
+OH,44402,Lordstown Village Public Water System,3633,1186,39155
+OH,44402,Newton Falls City,6300,1656,39155
+OH,44402,Plalan Lake Water Association,240,202,39155
+OH,44402,Pleasant Park Mobile Court,130,35,39155
+OH,44618,Canal Fulton City Public Water System,5479,948,39169
+OH,44805,Plymouth Village,1857,1190,39005
+OH,44807,Bellevue City,8202,1080,39147
+OH,44807,New London Village -plant 2,25,24,39147
+OH,44807,Northern Ohio Rural Water,17080,3997,39147
+OH,44807,Norw - South District,4709,1236,39147
+OH,45001,Addyston Village Public Water System,900,83,39061
+OH,45001,Dry Fork Mobile Home Park,230,25,39061
+OH,45001,Glendale Village Public Water System,2500,281,39061
+OH,45001,Indian Hill City PWS,15000,825,39061
+OH,45001,Reading City Public Water System,8604,985,39061
+OH,45003,Crouse Mobile Home Park,267,34,39135
+OH,45003,Eldorado Village Public Water System,539,518,39135
+OH,45003,Fairfield City PWS,42647,740,39135
+OH,45003,Hamilton Public Water System,62477,83,39135
+OH,45003,Lakengren Water Authority,2950,1436,39135
+OH,45003,New Paris Village Public Water System,1681,403,39135
+OH,45003,Trenton City PWS,12000,284,39135
+OH,45003,Verona Village Public Water System,492,127,39135
+OH,45005,Caesars Lake Mobile Home Park Public Water System,90,46,39165
+OH,45005,Franklin Public Water System,11396,777,39165
+OH,45005,Morrow Village Public Water System,2200,312,39165
+OH,45005,Otterbein-lebanon Retreat Center,1332,457,39165
+OH,45005,South Lebanon Village Public Water System,4115,1275,39165
+OH,45005,Warren County Sharts Road Public Water System,145,749,39165
+OH,45005,Wayne Mobile Inc.,118,74,39165
+OH,45005,Waynesville Village Public Water System,3130,327,39165
+OH,45005,Western Water Company,40651,961,39165
+OH,45042,Dayton Public Water System,141359,754,39017
+OH,45066,Huber Heights Public Water System,38278,662,39165
+OH,45101,Brown County Rural Water,22818,650,39015
+OH,45101,Georgetown Village Public Water System,4331,868,39015
+OH,45101,Mount Orab Village Public Water System,6607,1065,39015
+OH,45101,Peebles Public Water System,2000,1031,39015
+OH,45101,Ripley-union Rural Water Public Water System,1300,590,39015
+OH,45101,Sardinia Village Public Water System,850,895,39015
+OH,45101,Seaman Village Public Water System,1059,933,39015
+OH,45101,West Union Public Water System,3241,746,39015
+OH,45102,Bethel Village Public Water System,2732,1275,39025
+OH,45102,Clermont Public Water System,113000,1654,39025
+OH,45102,Felicity Village Public Water System,2516,579,39025
+OH,45102,Loveland City PWS,12800,784,39025
+OH,45102,Milford City Public Water System,6400,629,39025
+OH,45102,Williamsburg Village Public Water System,2490,1598,39025
+OH,45113,Blanchester Village Public Water System,4500,1130,39027
+OH,45113,New Vienna Village,1200,1045,39027
+OH,45113,Sabina Village Public Water System,2564,832,39027
+OH,45118,Greenfield City Public Water System,4600,370,39015
+OH,45118,Leesburg Village,1300,84,39015
+OH,45118,Lynchburg Village Public Water System,1515,181,39015
+OH,45133,Dawsons Mobile Home Park Public Water System,48,82,39071
+OH,45133,Pike Water Inc.-ross 2 Public Water System,865,556,39071
+OH,45133,Pike Water Inc.- Plant PWS,18490,1624,39071
+OH,45133,Piketon Village Public Water System,2300,336,39071
+OH,45177,Cedarville University,4000,463,39027
+OH,45177,Greene County - Clyo Public Water System,423,3012,39027
+OH,45302,Anna,1567,502,39149
+OH,45302,Emerald Ii,328,55,39149
+OH,45302,Kettlersville Well Association Public Water System,200,1009,39149
+OH,45302,Lake View Village Mobile Home Park,60,182,39149
+OH,45302,Mccartyville Well Association Public Water System,250,164,39149
+OH,45302,Northview Utility Corporation Public Water System,75,376,39149
+OH,45302,Shelby County Water and Sewer Public Water System,375,534,39149
+OH,45302,West Lake Village Mobile Home Park Public Water System,85,239,39149
+OH,45303,Ansonia Village Public Water System,1174,2109,39037
+OH,45303,Bradford Village Public Water System,2000,510,39037
+OH,45303,Gettysburg Village Public Water System,513,1083,39037
+OH,45303,Greenville City PWS,13223,999,39037
+OH,45308,A and R Reck Mobile Home Park,45,24,39037
+OH,45308,Covington Village Public Water System,2584,849,39037
+OH,45308,Fletcher Village Public Water System,550,155,39037
+OH,45308,Miami Co-camp Troy Public Water System,3312,680,39037
+OH,45308,Miami Co-deer Cliff Run Public Water System,526,520,39037
+OH,45308,Miami Co-n25a Extension,126,621,39037
+OH,45309,Miamisburg City PWS,20000,553,39113
+OH,45310,Coldwater Village,4427,1755,39107
+OH,45310,Grand Lake Estates,102,1235,39107
+OH,45310,Village of Chickasaw,300,177,39107
+OH,45315,Brookville Lake Estates,210,94,39113
+OH,45315,Germantown City Public Water System,5547,116,39113
+OH,45315,Phillipsburg Village Public Water System,557,279,39113
+OH,45315,Trotwood City Public Water System,9000,933,39113
+OH,45315,Union City Public Water System,6419,536,39113
+OH,45315,Voyager Village Mobile Home Park,200,739,39113
+OH,45315,West Carrollton City PWS,12000,282,39113
+OH,45601,Oak Hill Village of,1551,628,39141
+OH,45601,Wellston Public Water System,7000,1449,39141
+OH,45614,Gallia CCounty o Rural Water Association,20546,2359,39053
+OH,45616,Portsmouth Public Water System,40475,1557,39001
+OH,45616,Scioto Water Inc. - Gliem Rd. Public Water System,132,6298,39001
+OH,45616,Scioto Water Inc-sr125,795,3183,39001
+OH,45619,Aqua Ohio - Lawrence County,9481,1460,39087
+OH,45619,Hecla Water Association-Plant PWS,33042,1503,39087
+OH,45619,Ironton PWS,11129,1043,39087
+OH,45619,Proctorville Village Public Water System,650,465,39087
+OH,45619,South Point Village,3958,159,39087
+OH,45620,Pomeroy Village Public Water System,1800,99,39053
+OH,45620,Rutland Village Public Water System,469,276,39053
+OH,45801,Beaverdam Water Treatment Plant,382,933,39003
+OH,45801,Bluffton Village,4125,2543,39003
+OH,45801,Elida Village,4500,1394,39003
+OH,45801,Spencerville Village,2223,454,39003
+OH,45807,Country Acres Golf Club,350,889,39003
+OH,45807,Kalida Village,1542,1627,39003
+OH,45807,Rainbow Mobile Home Park,31,8,39003
+OH,45832,Convoy Village,1085,833,39161
+OH,45832,Middle Point Village,576,753,39161

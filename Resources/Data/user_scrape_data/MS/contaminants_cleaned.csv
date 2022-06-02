@@ -1,0 +1,46 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+MS,Oxford,38601,Anchor Water Association,2000,Bromodichloromethane,1.82,0.06,0,ppb,30.333333333333336
+MS,Oxford,38601,Anchor Water Association,2000,Chloroform,3.58,0.4,0,ppb,8.95
+MS,Oxford,38601,Anchor Water Association,2000,Dibromochloromethane,0.74,0.1,0,ppb,7.3999999999999995
+MS,Oxford,38601,Anchor Water Association,2000,Dichloroacetic acid,2.0,0.2,0,ppb,10.0
+MS,Oxford,38601,Anchor Water Association,2000,Haloacetic acids (HAA5)†,3.5,0.1,60,ppb,35.0
+MS,Oxford,38601,Anchor Water Association,2000,Total trihalomethanes (TTHMs)†,6.13,0.15,80,ppb,40.86666666666667
+MS,Oxford,38601,Anchor Water Association,2000,Trichloroacetic acid,1.5,0.1,0,ppb,15.0
+MS,Oxford,38601,Anchor Water Association,2000,Barium,2.43,700.0,2000,ppb,0.0034714285714285715
+MS,Oxford,38601,Campground Water Association,1151,Bromodichloromethane,0.627,0.06,0,ppb,10.450000000000001
+MS,Oxford,38601,Campground Water Association,1151,Dibromochloromethane,0.437,0.1,0,ppb,4.37
+MS,Oxford,38601,Campground Water Association,1151,Haloacetic acids (HAA5)†,3.67,0.1,60,ppb,36.699999999999996
+MS,Oxford,38601,Campground Water Association,1151,Nitrate,1.31,0.14,10,ppm,9.357142857142856
+MS,Oxford,38601,Campground Water Association,1151,Nitrate and nitrite,1.31,0.14,10,ppm,9.357142857142856
+MS,Oxford,38601,Campground Water Association,1151,Total trihalomethanes (TTHMs)†,1.65,0.15,80,ppb,11.0
+MS,Oxford,38601,Campground Water Association,1151,Barium,35.0,700.0,2000,ppb,0.05
+MS,Oxford,38601,Campground Water Association,1151,Chloroform,0.59,0.4,0,ppb,1.4749999999999999
+MS,Oxford,38601,Campground Water Association,1151,Dichloroacetic acid,0.333,0.2,0,ppb,1.665
+MS,Oxford,38601,Campground Water Association,1151,Monobromoacetic acid,1.33,25.0,0,ppb,0.053200000000000004
+MS,Oxford,38601,Campground Water Association,1151,Monochloroacetic acid,2.0,53.0,0,ppb,0.03773584905660377
+MS,Oxford,38601,City of Oxford,25000,Bromodichloromethane,0.795,0.06,0,ppb,13.250000000000002
+MS,Oxford,38601,City of Oxford,25000,Chromium (hexavalent),0.8,0.02,0,ppb,40.0
+MS,Oxford,38601,City of Oxford,25000,Dibromochloromethane,0.733,0.1,0,ppb,7.329999999999999
+MS,Oxford,38601,City of Oxford,25000,Haloacetic acids (HAA5)†,2.37,0.1,60,ppb,23.7
+MS,Oxford,38601,City of Oxford,25000,Haloacetic acids (HAA9)†,1.01,0.06,0,ppb,16.833333333333336
+MS,Oxford,38601,City of Oxford,25000,Nitrate,1.13,0.14,10,ppm,8.07142857142857
+MS,Oxford,38601,City of Oxford,25000,Nitrate and nitrite,1.13,0.14,10,ppm,8.07142857142857
+MS,Oxford,38601,City of Oxford,25000,Radium combined (-226 &amp; -228),2.43,0.05,5,pCi/L,48.6
+MS,Oxford,38601,City of Oxford,25000,Total trihalomethanes (TTHMs)†,2.52,0.15,80,ppb,16.8
+MS,Oxford,38601,City of Oxford,25000,11-Dichloroethane,0.0193,3.0,0,ppb,0.0064333333333333334
+MS,Oxford,38601,City of Oxford,25000,14-Dioxane,0.211,0.35,0,ppb,0.6028571428571429
+MS,Oxford,38601,City of Oxford,25000,Barium,39.0,700.0,2000,ppb,0.055714285714285716
+MS,Oxford,38601,City of Oxford,25000,Bromoform,0.333,0.5,0,ppb,0.666
+MS,Oxford,38601,City of Oxford,25000,Chloroform,0.662,0.4,0,ppb,1.655
+MS,Oxford,38601,City of Oxford,25000,Dibromoacetic acid,0.0526,0.04,0,ppb,1.315
+MS,Oxford,38601,City of Oxford,25000,Dichloroacetic acid,0.0526,0.2,0,ppb,0.263
+MS,Oxford,38601,City of Oxford,25000,Manganese,14.8,100.0,0,ppb,0.14800000000000002
+MS,Oxford,38601,City of Oxford,25000,Monochloroacetic acid,2.26,53.0,0,ppb,0.04264150943396226
+MS,Oxford,38601,City of Oxford,25000,Strontium,0.0492,1500.0,0,ppb,3.28e-05
+MS,Oxford,38601,City of Oxford,25000,Xylenes (total),0.0542,1800.0,10000,ppb,3.011111111111111e-05
+MS,Oxford,38601,College Hill Water Association,982,Haloacetic acids (HAA5)†,3.33,0.1,60,ppb,33.3
+MS,Oxford,38601,College Hill Water Association,982,Nitrate,0.422,0.14,10,ppm,3.014285714285714
+MS,Oxford,38601,College Hill Water Association,982,Nitrate and nitrite,0.423,0.14,10,ppm,3.021428571428571
+MS,Oxford,38601,College Hill Water Association,982,Barium,13.1,700.0,2000,ppb,0.018714285714285715
+MS,Oxford,38601,College Hill Water Association,982,Monobromoacetic acid,0.667,25.0,0,ppb,0.026680000000000002
+MS,Oxford,38601,College Hill Water Association,982,Monochloroacetic acid,2.67,53.0,0,ppb,0.050377358490566036

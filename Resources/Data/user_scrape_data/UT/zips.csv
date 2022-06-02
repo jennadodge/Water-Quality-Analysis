@@ -1,0 +1,299 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+84001,40.34525,-110.27241,Altamont,UT,Utah,True,,688.0,12.7,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84002,40.42467,-110.27784,Altonah,UT,Utah,True,,314.0,3.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84003,40.46629,-111.69334,American Fork,UT,Utah,True,,51917.0,272.4,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84004,40.48444,-111.74447,Alpine,UT,Utah,True,,10573.0,131.8,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84005,40.32277,-111.99942,Eagle Mountain,UT,Utah,True,,34422.0,364.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84006,40.59682,-112.12373,Bingham Canyon,UT,Utah,True,,839.0,12.5,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84007,40.34115,-110.21717,Bluebell,UT,Utah,True,,722.0,13.5,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84008,40.03341,-109.19376,Bonanza,UT,Utah,True,,,,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84009,40.55221,-112.05362,South Jordan,UT,Utah,True,,,,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84010,40.87433,-111.83042,Bountiful,UT,Utah,True,,46326.0,470.5,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84013,40.2958,-112.0913,Cedar Valley,UT,Utah,True,,910.0,7.9,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84014,40.93311,-111.85308,Centerville,UT,Utah,True,,17527.0,526.3,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84015,41.12073,-112.06129,Clearfield,UT,Utah,True,,67245.0,1246.7,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84017,40.9549,-111.20582,Coalville,UT,Utah,True,,4569.0,3.4,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84018,41.20535,-111.42716,Croydon,UT,Utah,True,,284.0,0.6,49029,Morgan,"{""49029"": 100}",Morgan,49029,False,False,America/Denver
+84020,40.49885,-111.8635,Draper,UT,Utah,True,,48594.0,690.7,49035,Salt Lake,"{""49035"": 80.22, ""49049"": 19.78}",Salt Lake|Utah,49035|49049,False,False,America/Denver
+84021,40.10998,-110.51593,Duchesne,UT,Utah,True,,3793.0,2.4,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84022,40.17921,-112.81371,Dugway,UT,Utah,True,,672.0,1.8,49045,Tooele,"{""49045"": 75.59, ""49023"": 24.41}",Tooele|Juab,49045|49023,False,False,America/Denver
+84023,40.83781,-109.20665,Dutch John,UT,Utah,True,,167.0,0.4,49009,Daggett,"{""49009"": 100}",Daggett,49009,False,False,America/Denver
+84024,41.00765,-111.44721,Echo,UT,Utah,True,,44.0,2.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84025,40.97667,-111.89874,Farmington,UT,Utah,True,,24497.0,664.8,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84026,40.29122,-109.83882,Fort Duchesne,UT,Utah,True,,1306.0,13.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84027,40.15643,-110.79453,Fruitland,UT,Utah,True,,587.0,1.0,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84028,41.93107,-111.38267,Garden City,UT,Utah,True,,573.0,4.5,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver
+84029,40.6483,-112.98298,Grantsville,UT,Utah,True,,11844.0,3.5,49045,Tooele,"{""49045"": 99.64, ""49003"": 0.36}",Tooele|Box Elder,49045|49003,False,False,America/Denver
+84031,40.60493,-110.63735,Hanna,UT,Utah,True,,210.0,0.1,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84032,40.35839,-111.188,Heber City,UT,Utah,True,,24229.0,28.5,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver
+84033,40.98002,-111.49148,Henefer,UT,Utah,True,,1156.0,6.2,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84034,39.99427,-113.9575,Ibapah,UT,Utah,True,,206.0,0.2,49045,Tooele,"{""49045"": 69.79, ""49023"": 21.01, ""32033"": 9.2}",Tooele|Juab|White Pine,49045|49023|32033,False,False,America/Denver
+84035,40.39024,-109.28208,Jensen,UT,Utah,True,,343.0,0.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84036,40.66022,-111.1093,Kamas,UT,Utah,True,,7754.0,9.0,49043,Summit,"{""49043"": 71.81, ""49051"": 28.19}",Summit|Wasatch,49043|49051,False,False,America/Denver
+84037,40.99281,-111.91444,Kaysville,UT,Utah,True,,39119.0,310.8,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84038,41.87926,-111.29692,Laketown,UT,Utah,True,,407.0,2.4,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver
+84039,40.44602,-109.80972,Lapoint,UT,Utah,True,,664.0,2.9,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84040,41.09121,-111.89674,Layton,UT,Utah,True,,25376.0,404.1,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84041,41.07137,-111.98416,Layton,UT,Utah,True,,51512.0,1332.2,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84042,40.34113,-111.72466,Lindon,UT,Utah,True,,11135.0,542.2,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84043,40.41209,-111.87377,Lehi,UT,Utah,True,,67436.0,836.2,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84044,40.73,-112.1474,Magna,UT,Utah,True,,27029.0,142.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84045,40.28574,-111.91384,Saratoga Springs,UT,Utah,True,,31199.0,231.9,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84046,40.95339,-109.82786,Manila,UT,Utah,True,,412.0,1.4,49009,Daggett,"{""49009"": 100}",Daggett,49009,False,False,America/Denver
+84047,40.61533,-111.89176,Midvale,UT,Utah,True,,33454.0,2023.6,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84049,40.5136,-111.51657,Midway,UT,Utah,True,,5883.0,30.4,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver
+84050,41.02244,-111.67229,Morgan,UT,Utah,True,,11666.0,11.6,49029,Morgan,"{""49029"": 100}",Morgan,49029,False,False,America/Denver
+84051,40.39552,-110.43131,Mountain Home,UT,Utah,True,,547.0,4.2,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84052,40.16829,-109.99089,Myton,UT,Utah,True,,1457.0,3.9,49013,Duchesne,"{""49013"": 53.72, ""49047"": 46.28}",Duchesne|Uintah,49013|49047,False,False,America/Denver
+84053,40.43325,-109.98941,Neola,UT,Utah,True,,1133.0,14.0,49013,Duchesne,"{""49013"": 67.27, ""49047"": 32.73}",Duchesne|Uintah,49013|49047,False,False,America/Denver
+84054,40.84078,-111.91754,North Salt Lake,UT,Utah,True,,20516.0,924.2,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84055,40.71889,-111.16106,Oakley,UT,Utah,True,,1503.0,4.6,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84056,41.12679,-111.99084,Hill Afb,UT,Utah,True,,3568.0,142.9,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84057,40.31427,-111.70948,Orem,UT,Utah,True,,40565.0,2542.3,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84058,40.27474,-111.71468,Orem,UT,Utah,True,,42952.0,2065.8,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84059,40.30353,-111.74853,Vineyard,UT,Utah,True,,,,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84060,40.6418,-111.50332,Park City,UT,Utah,True,,8684.0,76.5,49043,Summit,"{""49043"": 75.59, ""49051"": 24.41}",Summit|Wasatch,49043|49051,False,False,America/Denver
+84061,40.74721,-111.3417,Peoa,UT,Utah,True,,292.0,2.1,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84062,40.38586,-111.68421,Pleasant Grove,UT,Utah,True,,47591.0,362.4,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84063,40.21007,-109.69285,Randlett,UT,Utah,True,,152.0,0.7,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84064,41.67086,-111.12293,Randolph,UT,Utah,True,,1007.0,2.2,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver
+84065,40.495,-111.9444,Riverton,UT,Utah,True,,46338.0,866.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84066,40.34671,-110.05171,Roosevelt,UT,Utah,True,,12573.0,20.2,49013,Duchesne,"{""49013"": 78.95, ""49047"": 21.05}",Duchesne|Uintah,49013|49047,False,False,America/Denver
+84067,41.17189,-112.04803,Roy,UT,Utah,True,,40009.0,1883.8,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84069,40.36521,-112.48548,Rush Valley,UT,Utah,True,,479.0,3.3,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver
+84070,40.57707,-111.88916,Sandy,UT,Utah,True,,30595.0,1609.9,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84071,40.4191,-112.32475,Stockton,UT,Utah,True,,1806.0,5.7,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver
+84072,40.3641,-110.633,Tabiona,UT,Utah,True,,340.0,0.8,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84073,40.3456,-110.41394,Talmage,UT,Utah,True,,271.0,3.8,49013,Duchesne,"{""49013"": 100}",Duchesne,49013,False,False,America/Denver
+84074,40.57379,-112.29914,Tooele,UT,Utah,True,,53254.0,118.0,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver
+84075,41.05975,-112.06933,Syracuse,UT,Utah,True,,30427.0,336.2,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84076,40.44718,-109.84017,Tridell,UT,Utah,True,,451.0,22.2,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84078,40.46403,-109.5084,Vernal,UT,Utah,True,,29654.0,8.6,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84080,40.02168,-112.44818,Vernon,UT,Utah,True,,349.0,0.5,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver
+84081,40.60275,-112.03821,West Jordan,UT,Utah,True,,50158.0,1251.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84082,40.3404,-111.36184,Wallsburg,UT,Utah,True,,1079.0,2.8,49051,Wasatch,"{""49051"": 100}",Wasatch,49051,False,False,America/Denver
+84083,40.84354,-113.6944,Wendover,UT,Utah,True,,1384.0,0.9,49045,Tooele,"{""49045"": 100}",Tooele,49045,False,False,America/Denver
+84084,40.62139,-111.96603,West Jordan,UT,Utah,True,,38463.0,2236.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84085,40.58609,-109.92642,Whiterocks,UT,Utah,True,,473.0,1.9,49047,Uintah,"{""49047"": 100}",Uintah,49047,False,False,America/Denver
+84086,41.41644,-111.20858,Woodruff,UT,Utah,True,,428.0,1.4,49033,Rich,"{""49033"": 100}",Rich,49033,False,False,America/Denver
+84087,40.8891,-111.92898,Woods Cross,UT,Utah,True,,15976.0,445.1,49011,Davis,"{""49011"": 100}",Davis,49011,False,False,America/Denver
+84088,40.59507,-111.96077,West Jordan,UT,Utah,True,,38761.0,1597.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84092,40.55803,-111.74205,Sandy,UT,Utah,True,,28699.0,204.1,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84093,40.59473,-111.82863,Sandy,UT,Utah,True,,24140.0,1691.1,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84094,40.57177,-111.86201,Sandy,UT,Utah,True,,29586.0,2247.1,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84095,40.55856,-111.94165,South Jordan,UT,Utah,True,,73808.0,2469.1,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84096,40.50539,-112.08546,Herriman,UT,Utah,True,,53693.0,291.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84097,40.3048,-111.67318,Orem,UT,Utah,True,,22994.0,1471.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84098,40.73988,-111.53504,Park City,UT,Utah,True,,19395.0,104.3,49043,Summit,"{""49043"": 100}",Summit,49043,False,False,America/Denver
+84101,40.75628,-111.89996,Salt Lake City,UT,Utah,True,,5202.0,1088.9,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84102,40.75992,-111.86367,Salt Lake City,UT,Utah,True,,19016.0,3801.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84103,40.8034,-111.84708,Salt Lake City,UT,Utah,True,,22881.0,430.6,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84104,40.74846,-111.98286,Salt Lake City,UT,Utah,True,,26761.0,478.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84105,40.73841,-111.85982,Salt Lake City,UT,Utah,True,,22812.0,2863.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84106,40.70678,-111.85571,Salt Lake City,UT,Utah,True,,35166.0,2248.7,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84107,40.65799,-111.88447,Salt Lake City,UT,Utah,True,,34914.0,1787.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84108,40.78811,-111.7365,Salt Lake City,UT,Utah,True,,21864.0,116.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84109,40.70196,-111.7051,Salt Lake City,UT,Utah,True,,25217.0,170.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84111,40.75575,-111.88431,Salt Lake City,UT,Utah,True,,13030.0,3697.9,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84112,40.7652,-111.84123,Salt Lake City,UT,Utah,True,,2402.0,1047.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84113,40.76248,-111.83291,Salt Lake City,UT,Utah,True,,190.0,380.8,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84114,40.77794,-111.88831,Salt Lake City,UT,Utah,True,,,,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84115,40.71467,-111.89266,Salt Lake City,UT,Utah,True,,27627.0,1756.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84116,40.83258,-112.01691,Salt Lake City,UT,Utah,True,,34588.0,265.3,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84117,40.66167,-111.83561,Salt Lake City,UT,Utah,True,,23799.0,1636.1,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84118,40.65598,-112.03812,Salt Lake City,UT,Utah,True,,71133.0,2115.3,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84119,40.70289,-111.94591,West Valley City,UT,Utah,True,,53536.0,1795.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84120,40.69686,-112.00178,West Valley City,UT,Utah,True,,51130.0,1954.9,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84121,40.62557,-111.69864,Salt Lake City,UT,Utah,True,,39895.0,239.0,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84123,40.65837,-111.92177,Salt Lake City,UT,Utah,True,,38082.0,1777.3,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84124,40.67113,-111.80705,Salt Lake City,UT,Utah,True,,22884.0,1145.2,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84128,40.70518,-112.04259,West Valley City,UT,Utah,True,,27921.0,1286.4,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84129,40.6536,-111.96209,Salt Lake City,UT,Utah,True,,,,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84138,40.76675,-111.88724,Salt Lake City,UT,Utah,True,,,,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84150,40.77151,-111.89107,Salt Lake City,UT,Utah,True,,,,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84180,40.77044,-111.9011,Salt Lake City,UT,Utah,True,,0.0,0.0,49035,Salt Lake,"{""49035"": 100}",Salt Lake,49035,False,False,America/Denver
+84301,41.61368,-112.12723,Bear River City,UT,Utah,True,,721.0,98.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84302,41.57956,-112.04769,Brigham City,UT,Utah,True,,26259.0,127.5,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84304,41.82722,-111.99867,Cache Junction,UT,Utah,True,,120.0,10.6,49005,Cache,"{""49005"": 99.86, ""49003"": 0.14}",Cache|Box Elder,49005|49003,False,False,America/Denver
+84305,41.94388,-112.05804,Clarkston,UT,Utah,True,,691.0,4.8,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84306,41.78272,-112.06323,Collinston,UT,Utah,True,,269.0,4.5,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84307,41.5535,-112.49192,Corinne,UT,Utah,True,,969.0,0.6,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84308,41.9656,-111.96681,Cornish,UT,Utah,True,,253.0,7.0,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84309,41.71375,-112.09908,Deweyville,UT,Utah,True,,396.0,17.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84310,41.3371,-111.84598,Eden,UT,Utah,True,,4653.0,17.0,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84311,41.82012,-112.1106,Fielding,UT,Utah,True,,724.0,31.3,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84312,41.77976,-112.15681,Garland,UT,Utah,True,,4766.0,74.1,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84313,41.34615,-113.71268,Grouse Creek,UT,Utah,True,,62.0,0.0,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84314,41.64929,-112.09292,Honeyville,UT,Utah,True,,1211.0,60.2,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84315,41.16681,-112.13672,Hooper,UT,Utah,True,,9218.0,199.4,49057,Weber,"{""49057"": 77.87, ""49011"": 22.13}",Weber|Davis,49057|49011,False,False,America/Denver
+84316,41.77328,-112.44504,Howell,UT,Utah,True,,347.0,3.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84317,41.30359,-111.62178,Huntsville,UT,Utah,True,,2536.0,4.5,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84318,41.80167,-111.80422,Hyde Park,UT,Utah,True,,4883.0,338.0,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84319,41.59401,-111.659,Hyrum,UT,Utah,True,,8961.0,34.1,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84320,41.96011,-111.85252,Lewiston,UT,Utah,True,,2609.0,21.3,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84321,41.77938,-111.68316,Logan,UT,Utah,True,,46634.0,81.8,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84322,41.75822,-111.81256,Logan,UT,Utah,True,,,,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84324,41.49253,-111.93868,Mantua,UT,Utah,True,,1017.0,17.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84325,41.73869,-111.99303,Mendon,UT,Utah,True,,2174.0,19.6,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84326,41.67228,-111.81772,Millville,UT,Utah,True,,1892.0,204.2,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84327,41.86555,-111.99512,Newton,UT,Utah,True,,800.0,18.4,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84328,41.53937,-111.8444,Paradise,UT,Utah,True,,1440.0,11.7,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84329,41.79229,-113.47079,Park Valley,UT,Utah,True,,127.0,0.1,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84330,41.9063,-112.17019,Plymouth,UT,Utah,True,,380.0,4.1,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84331,41.94354,-112.35869,Portage,UT,Utah,True,,262.0,0.7,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84332,41.70313,-111.81205,Providence,UT,Utah,True,,7945.0,768.0,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84333,41.91008,-111.79882,Richmond,UT,Utah,True,,2896.0,48.4,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84334,41.78955,-112.15189,Riverside,UT,Utah,True,,212.0,181.9,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84335,41.82907,-111.88074,Smithfield,UT,Utah,True,,13713.0,80.8,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84336,41.87159,-112.74697,Snowville,UT,Utah,True,,317.0,0.3,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84337,41.69223,-112.28486,Tremonton,UT,Utah,True,,13390.0,30.8,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84338,41.91133,-111.93527,Trenton,UT,Utah,True,,546.0,22.2,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84339,41.62546,-111.939,Wellsville,UT,Utah,True,,5830.0,36.3,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84340,41.39312,-112.15705,Willard,UT,Utah,True,,3207.0,38.5,49003,Box Elder,"{""49003"": 100}",Box Elder,49003,False,False,America/Denver
+84341,41.77197,-111.81128,Logan,UT,Utah,True,,24949.0,901.2,49005,Cache,"{""49005"": 100}",Cache,49005,False,False,America/Denver
+84401,41.21962,-112.03352,Ogden,UT,Utah,True,,41324.0,520.2,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84403,41.19379,-111.9038,Ogden,UT,Utah,True,,36762.0,417.3,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84404,41.27198,-112.11705,Ogden,UT,Utah,True,,64249.0,257.7,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84405,41.15747,-111.96499,Ogden,UT,Utah,True,,33402.0,697.0,49057,Weber,"{""49057"": 66.21, ""49011"": 33.79}",Weber|Davis,49057|49011,False,False,America/Denver
+84408,41.19252,-111.93966,Ogden,UT,Utah,True,,,,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84414,41.32578,-111.96547,Ogden,UT,Utah,True,,31210.0,554.9,49057,Weber,"{""49057"": 100}",Weber,49057,False,False,America/Denver
+84501,39.53214,-110.80393,Price,UT,Utah,True,,12983.0,23.3,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84511,37.52687,-109.42054,Blanding,UT,Utah,True,,4695.0,9.9,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver
+84512,37.16255,-109.55921,Bluff,UT,Utah,True,,822.0,1.1,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver
+84513,39.24932,-111.00912,Castle Dale,UT,Utah,True,,1426.0,33.2,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84515,38.96824,-109.23876,Cisco,UT,Utah,True,,0.0,0.0,49019,Grand,"{""49019"": 100}",Grand,49019,False,False,America/Denver
+84516,39.12842,-111.06703,Clawson,UT,Utah,True,,84.0,2.1,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84518,39.3917,-110.88478,Cleveland,UT,Utah,True,,831.0,4.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84520,39.53392,-110.41949,East Carbon,UT,Utah,True,,1261.0,74.3,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84521,39.4213,-110.78709,Elmo,UT,Utah,True,,761.0,5.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84522,38.90991,-111.20987,Emery,UT,Utah,True,,344.0,1.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84523,39.0946,-111.2014,Ferron,UT,Utah,True,,1719.0,5.8,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84525,38.87947,-110.33217,Green River,UT,Utah,True,,814.0,0.6,49015,Emery,"{""49015"": 79.71, ""49019"": 20.29}",Emery|Grand,49015|49019,False,False,America/Denver
+84526,39.72395,-111.04571,Helper,UT,Utah,True,,4114.0,8.2,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84528,39.43404,-111.08778,Huntington,UT,Utah,True,,2867.0,4.5,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84529,39.71151,-110.7733,Kenilworth,UT,Utah,True,,,,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84530,38.23736,-109.40846,La Sal,UT,Utah,True,,255.0,0.1,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver
+84531,37.0683,-109.86371,Mexican Hat,UT,Utah,True,,776.0,1.1,49037,San Juan,"{""49037"": 78.79, ""04001"": 21.21}",San Juan|Apache,49037|04001,False,False,America/Denver
+84532,38.53898,-109.45916,Moab,UT,Utah,True,,10103.0,2.5,49019,Grand,"{""49019"": 55.97, ""49037"": 44.03}",Grand|San Juan,49019|49037,False,False,America/Denver
+84533,37.40827,-110.56844,Lake Powell,UT,Utah,True,,105.0,0.0,49037,San Juan,"{""49037"": 68.55, ""49025"": 31.45}",San Juan|Kane,49037|49025,False,False,America/Denver
+84534,37.21283,-109.26826,Montezuma Creek,UT,Utah,True,,2714.0,2.2,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver
+84535,37.84244,-109.28673,Monticello,UT,Utah,True,,3354.0,1.4,49037,San Juan,"{""49037"": 100}",San Juan,49037,False,False,America/Denver
+84536,37.14017,-110.23104,Monument Valley,UT,Utah,True,,1239.0,0.8,49037,San Juan,"{""49037"": 97.26, ""04017"": 2.74}",San Juan|Navajo,49037|04017,False,False,America/Denver
+84537,39.29966,-111.17345,Orangeville,UT,Utah,True,,1253.0,3.9,49015,Emery,"{""49015"": 100}",Emery,49015,False,False,America/Denver
+84539,39.5761,-110.4007,Sunnyside,UT,Utah,True,,328.0,13.0,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84540,39.20039,-109.55281,Thompson,UT,Utah,True,,99.0,0.0,49019,Grand,"{""49019"": 100}",Grand,49019,False,False,America/Denver
+84542,39.64433,-110.59916,Wellington,UT,Utah,True,,1596.0,37.5,49007,Carbon,"{""49007"": 100}",Carbon,49007,False,False,America/Denver
+84601,40.22593,-111.6955,Provo,UT,Utah,True,,33771.0,979.9,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84602,40.25412,-111.65009,Provo,UT,Utah,True,,,,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84604,40.3313,-111.57284,Provo,UT,Utah,True,,46099.0,187.7,49049,Utah,"{""49049"": 88.33, ""49051"": 11.67}",Utah|Wasatch,49049|49051,False,False,America/Denver
+84606,40.2149,-111.62619,Provo,UT,Utah,True,,37351.0,1245.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84620,38.92244,-111.92427,Aurora,UT,Utah,True,,916.0,17.8,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84621,39.05109,-111.82959,Axtell,UT,Utah,True,,111.0,7.4,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84622,39.09816,-111.81353,Centerfield,UT,Utah,True,,1604.0,33.4,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84623,39.45608,-111.59063,Chester,UT,Utah,True,,454.0,10.5,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84624,39.38429,-112.58756,Delta,UT,Utah,True,,5641.0,7.3,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84626,39.93359,-111.98545,Elberta,UT,Utah,True,,466.0,1.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84627,39.35515,-111.58457,Ephraim,UT,Utah,True,,7563.0,67.1,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84628,39.93583,-112.13419,Eureka,UT,Utah,True,,669.0,24.9,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver
+84629,39.76574,-111.44752,Fairview,UT,Utah,True,,3309.0,5.3,49039,Sanpete,"{""49039"": 67.22, ""49049"": 32.78}",Sanpete|Utah,49039|49049,False,False,America/Denver
+84630,39.31069,-111.8342,Fayette,UT,Utah,True,,522.0,3.8,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84631,38.99771,-112.39675,Fillmore,UT,Utah,True,,2912.0,8.9,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84632,39.64498,-111.64649,Fountain Green,UT,Utah,True,,1158.0,11.7,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84633,39.94026,-111.89281,Goshen,UT,Utah,True,,1032.0,16.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84634,39.18028,-111.83561,Gunnison,UT,Utah,True,,3657.0,20.4,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84635,39.39181,-112.72132,Hinckley,UT,Utah,True,,927.0,11.4,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84636,39.13961,-112.3389,Holden,UT,Utah,True,,578.0,3.4,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84637,38.72183,-112.48706,Kanosh,UT,Utah,True,,796.0,2.4,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84638,39.50192,-112.25773,Leamington,UT,Utah,True,,362.0,3.1,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84639,39.51071,-111.90225,Levan,UT,Utah,True,,908.0,1.6,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver
+84640,39.47622,-112.39942,Lynndyl,UT,Utah,True,,127.0,0.7,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84642,39.20135,-111.60893,Manti,UT,Utah,True,,3790.0,11.7,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84643,39.12873,-111.68485,Mayfield,UT,Utah,True,,507.0,4.1,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84644,38.87008,-112.37511,Meadow,UT,Utah,True,,,,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84645,39.85159,-111.83946,Mona,UT,Utah,True,,3204.0,15.8,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver
+84646,39.54565,-111.61121,Moroni,UT,Utah,True,,1592.0,13.9,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84647,39.52708,-111.40658,Mount Pleasant,UT,Utah,True,,4063.0,15.2,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84648,39.68659,-111.86819,Nephi,UT,Utah,True,,6659.0,15.3,49023,Juab,"{""49023"": 100}",Juab,49023,False,False,America/Denver
+84649,39.34661,-112.32992,Oak City,UT,Utah,True,,1047.0,2.7,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84651,39.95633,-111.69342,Payson,UT,Utah,True,,27142.0,82.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84652,39.01706,-111.8785,Redmond,UT,Utah,True,,770.0,20.0,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84653,40.04803,-111.66804,Salem,UT,Utah,True,,9481.0,228.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84654,38.89144,-111.64442,Salina,UT,Utah,True,,2886.0,4.3,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84655,39.97427,-111.80716,Santaquin,UT,Utah,True,,13877.0,115.8,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84656,39.23513,-112.1088,Scipio,UT,Utah,True,,367.0,37.3,49027,Millard,"{""49027"": 100}",Millard,49027,False,False,America/Denver
+84657,38.81817,-111.94022,Sigurd,UT,Utah,True,,430.0,6.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84660,40.00724,-111.4268,Spanish Fork,UT,Utah,True,,42535.0,45.3,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84662,39.43978,-111.48573,Spring City,UT,Utah,True,,1477.0,8.4,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84663,40.19266,-111.48917,Springville,UT,Utah,True,,34642.0,122.0,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84664,40.12627,-111.57712,Mapleton,UT,Utah,True,,9994.0,385.7,49049,Utah,"{""49049"": 100}",Utah,49049,False,False,America/Denver
+84665,39.19527,-111.66109,Sterling,UT,Utah,True,,683.0,12.2,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84667,39.48926,-111.65115,Wales,UT,Utah,True,,418.0,8.5,49039,Sanpete,"{""49039"": 100}",Sanpete,49039,False,False,America/Denver
+84701,38.69586,-111.90474,Richfield,UT,Utah,True,,8877.0,15.0,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84710,37.46925,-112.51251,Alton,UT,Utah,True,,363.0,1.8,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver
+84711,38.71294,-112.0606,Annabella,UT,Utah,True,,826.0,63.1,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84712,38.14076,-111.97783,Antimony,UT,Utah,True,,111.0,0.3,49031,Piute,"{""49031"": 62.42, ""49017"": 37.58}",Piute|Garfield,49031|49017,False,False,America/Denver
+84713,38.3292,-112.54441,Beaver,UT,Utah,True,,3480.0,8.6,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver
+84714,37.84815,-113.75547,Beryl,UT,Utah,True,,631.0,0.6,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84715,38.33221,-111.60317,Bicknell,UT,Utah,True,,316.0,4.0,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver
+84716,37.97152,-111.4493,Boulder,UT,Utah,True,,471.0,0.7,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84718,37.57954,-112.08306,Cannonville,UT,Utah,True,,350.0,8.4,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84719,37.65532,-112.76974,Brian Head,UT,Utah,True,,43.0,0.2,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84720,37.55477,-113.25665,Cedar City,UT,Utah,True,,22132.0,25.0,49021,Iron,"{""49021"": 69.02, ""49053"": 30.98}",Iron|Washington,49021|49053,False,False,America/Denver
+84721,37.77021,-113.13308,Cedar City,UT,Utah,True,,25286.0,52.2,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84722,37.48553,-113.57582,Central,UT,Utah,True,,940.0,3.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84723,38.17611,-112.2519,Circleville,UT,Utah,True,,880.0,24.1,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver
+84724,38.67417,-112.15015,Elsinore,UT,Utah,True,,1110.0,105.2,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84725,37.53928,-113.78042,Enterprise,UT,Utah,True,,1602.0,4.1,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84726,37.7514,-111.57911,Escalante,UT,Utah,True,,764.0,0.9,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84728,39.23887,-113.95719,Garrison,UT,Utah,True,,46.0,0.1,49027,Millard,"{""49027"": 99.7, ""32033"": 0.3}",Millard|White Pine,49027|32033,False,False,America/Denver
+84729,37.35858,-112.61527,Glendale,UT,Utah,True,,427.0,2.1,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver
+84730,38.74504,-112.00084,Glenwood,UT,Utah,True,,435.0,12.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84731,38.19714,-112.76195,Greenville,UT,Utah,True,,78.0,0.3,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver
+84732,38.4453,-111.90408,Greenwich,UT,Utah,True,,45.0,1.7,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver
+84733,37.29597,-113.79775,Gunlock,UT,Utah,True,,160.0,1.0,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84734,38.36353,-110.5658,Hanksville,UT,Utah,True,,315.0,0.3,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver
+84735,37.64627,-112.44997,Hatch,UT,Utah,True,,171.0,0.5,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84736,37.63732,-111.7938,Henrieville,UT,Utah,True,,,,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84737,37.08321,-113.26032,Hurricane,UT,Utah,True,,19316.0,29.8,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84738,37.20987,-113.70888,Ivins,UT,Utah,True,,9493.0,77.2,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84739,38.64204,-112.22299,Joseph,UT,Utah,True,,634.0,9.0,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84740,38.27504,-112.26689,Junction,UT,Utah,True,,271.0,1.9,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver
+84741,37.19749,-112.25533,Kanab,UT,Utah,True,,6180.0,1.8,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver
+84742,37.52102,-113.14592,Kanarraville,UT,Utah,True,,308.0,2.1,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84743,38.20827,-112.18572,Kingston,UT,Utah,True,,17.0,1.0,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver
+84744,38.64207,-111.93627,Koosharem,UT,Utah,True,,316.0,1.1,49041,Sevier,"{""49041"": 95.97, ""49031"": 4.03}",Sevier|Piute,49041|49031,False,False,America/Denver
+84745,37.20838,-113.26266,La Verkin,UT,Utah,True,,4413.0,340.7,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84746,37.23867,-113.35055,Leeds,UT,Utah,True,,961.0,19.3,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84747,38.44628,-111.63773,Loa,UT,Utah,True,,1224.0,8.2,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver
+84749,38.36687,-111.47667,Lyman,UT,Utah,True,,141.0,0.6,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver
+84750,38.44205,-112.1947,Marysvale,UT,Utah,True,,590.0,1.7,49031,Piute,"{""49031"": 100}",Piute,49031,False,False,America/Denver
+84751,38.44392,-113.0618,Milford,UT,Utah,True,,2370.0,3.0,49001,Beaver,"{""49001"": 90.57, ""49027"": 9.43}",Beaver|Millard,49001|49027,False,False,America/Denver
+84752,38.24975,-112.88434,Minersville,UT,Utah,True,,826.0,6.4,49001,Beaver,"{""49001"": 100}",Beaver,49001,False,False,America/Denver
+84753,37.95019,-113.87967,Modena,UT,Utah,True,,5.0,0.0,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84754,38.60521,-112.11747,Monroe,UT,Utah,True,,4033.0,19.5,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84755,37.22652,-112.78532,Mount Carmel,UT,Utah,True,,47.0,0.3,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver
+84756,37.74249,-113.54772,Newcastle,UT,Utah,True,,326.0,1.8,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84757,37.45227,-113.25166,New Harmony,UT,Utah,True,,1373.0,9.9,49053,Washington,"{""49053"": 96.69, ""49021"": 3.31}",Washington|Iron,49053|49021,False,False,America/Denver
+84758,37.27041,-112.68529,Orderville,UT,Utah,True,,461.0,1.3,49025,Kane,"{""49025"": 100}",Kane,49025,False,False,America/Denver
+84759,37.92238,-112.38423,Panguitch,UT,Utah,True,,2175.0,1.8,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84760,37.96299,-112.68551,Paragonah,UT,Utah,True,,525.0,0.6,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84761,37.84603,-112.87124,Parowan,UT,Utah,True,,3556.0,10.8,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84762,37.46882,-112.72644,Duck Creek Village,UT,Utah,True,,75.0,0.2,49025,Kane,"{""49025"": 90.73, ""49017"": 9.27}",Kane|Garfield,49025|49017,False,False,America/Denver
+84763,37.14667,-113.06947,Rockville,UT,Utah,True,,221.0,5.9,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84764,37.72035,-112.06689,Bryce,UT,Utah,True,,250.0,0.6,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84765,37.31012,-113.92535,Santa Clara,UT,Utah,True,,7234.0,58.1,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84766,38.59762,-112.33567,Sevier,UT,Utah,True,,287.0,0.9,49041,Sevier,"{""49041"": 100}",Sevier,49041,False,False,America/Denver
+84767,37.20152,-112.9858,Springdale,UT,Utah,True,,647.0,1.1,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84770,37.13818,-113.6294,Saint George,UT,Utah,True,,43594.0,233.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84772,37.79706,-112.94168,Summit,UT,Utah,True,,252.0,66.5,49021,Iron,"{""49021"": 100}",Iron,49021,False,False,America/Denver
+84773,38.24958,-111.47045,Teasdale,UT,Utah,True,,242.0,1.6,49055,Wayne,"{""49055"": 100}",Wayne,49055,False,False,America/Denver
+84774,37.24324,-113.28089,Toquerville,UT,Utah,True,,1681.0,25.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84775,38.28881,-111.04073,Torrey,UT,Utah,True,,460.0,0.4,49055,Wayne,"{""49055"": 92.39, ""49017"": 7.61}",Wayne|Garfield,49055|49017,False,False,America/Denver
+84776,37.62956,-112.08217,Tropic,UT,Utah,True,,481.0,18.4,49017,Garfield,"{""49017"": 100}",Garfield,49017,False,False,America/Denver
+84779,37.33381,-113.11869,Virgin,UT,Utah,True,,760.0,1.3,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84780,37.12798,-113.48108,Washington,UT,Utah,True,,27518.0,172.0,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84781,37.41197,-113.47217,Pine Valley,UT,Utah,True,,122.0,0.6,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84782,37.35939,-113.67522,Veyo,UT,Utah,True,,638.0,11.8,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84783,37.28556,-113.65639,Dammeron Valley,UT,Utah,True,,738.0,8.3,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84784,37.01858,-112.96941,Hildale,UT,Utah,True,,2921.0,266.5,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver
+84790,37.04615,-113.55738,Saint George,UT,Utah,True,,47849.0,382.2,49053,Washington,"{""49053"": 100}",Washington,49053,False,False,America/Denver

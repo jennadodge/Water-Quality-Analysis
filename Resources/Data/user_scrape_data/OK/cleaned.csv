@@ -1,0 +1,330 @@
+State,Zip,Utility,Population Served,Contaminant_Factor,county_FIPS
+OK,73001,Apache,1521,90,40015
+OK,73001,Binger Public Works Authority,708,1808,40015
+OK,73001,Bridgeport,109,410,40015
+OK,73001,Caddo County Rural Water District #1 (lookeba),275,5583,40015
+OK,73001,Carnegie,1637,1306,40015
+OK,73001,Cement,530,1456,40015
+OK,73001,Chickasha Lake Park,50,734,40015
+OK,73001,Cyril Town of,1168,1306,40015
+OK,73001,Eakly Development Corporation,277,3762,40015
+OK,73001,Fort Cobb,667,839,40015
+OK,73001,Gracemont Public Works Authority,336,2193,40015
+OK,73001,Hydro Public Works Authority,1060,1136,40015
+OK,73004,Grant County Rural Water District #1,100,39,40051
+OK,73004,Chickasha Municipal Authority,16036,2720,40051
+OK,73005,Verden,659,176,40015
+OK,73007,Oklahoma City,644000,1836,40109
+OK,73010,Dibble,550,1403,40051
+OK,73013,Deer Creek Rural Water Corporation,5500,484,40109
+OK,73014,Calumet,600,197,40017
+OK,73014,Okarche,1110,1319,40017
+OK,73014,Geary,1258,906,40017
+OK,73015,Washita County Rural Water District #2,1032,109,40015
+OK,73016,Cashion,900,720,40073
+OK,73016,Piedmont Municpal Authority,7542,2319,40073
+OK,73020,Choctaw,3926,225,40109
+OK,73020,Midwest City,55935,1843,40109
+OK,73021,Corn Public Works Authority,591,2586,40149
+OK,73022,Canadian County Rural Water District # 1,750,454,40017
+OK,73022,El Reno,16212,2828,40017
+OK,73022,Lake Forest Mobile Home Park,500,1936,40017
+OK,73024,Custer County Rural Water District #3,960,1002,40149
+OK,73027,Payne County Rw Corporation #3,3000,1131,40083
+OK,73027,Payne County Rural Water District #3,1400,239,40083
+OK,73027,Langston Public Works Authority,1670,1081,40083
+OK,73030,Ardmore,24283,1612,40099
+OK,73030,West Davis Rural Water District,500,2047,40099
+OK,73031,Blanchard,2966,1294,40087
+OK,73031,Byars,275,652,40087
+OK,73031,Goldsby Water Authority Trust,2000,1121,40087
+OK,73031,Mcclain County Rural Water District # 8,1897,306,40087
+OK,73031,Whippoorwill Estates,83,1302,40087
+OK,73041,Beckham County Rural Water District # 1,1595,1049,40075
+OK,73041,Gotebo,272,1625,40075
+OK,73043,Canton,650,301,40011
+OK,73043,Greenfield Public Works Authority,123,788,40011
+OK,73043,Hitchcock Development Inc.,141,326,40011
+OK,73043,Longdale,363,320,40011
+OK,73043,North Blaine Water Corporation,960,446,40011
+OK,73043,Okeene,1240,1485,40011
+OK,73043,Watonga,4658,125,40011
+OK,73044,Coyle,289,511,40083
+OK,73044,Guthrie,9925,737,40083
+OK,73045,Mcloud,2939,376,40109
+OK,73052,Lindsay Public Works Authority,2850,262,40049
+OK,73057,Elmore City Rw Corporation,1107,997,40049
+OK,73057,Garfield County Rural Water District # 4,334,6730,40049
+OK,73058,Blue Quail Logan County,75,19,40083
+OK,73058,Mulhall,265,570,40083
+OK,73058,Orlando,201,562,40083
+OK,73058,Whispering Oaks,350,37,40083
+OK,73061,Morrison Public Works Authority,950,785,40103
+OK,73061,Lone Chimney Water Association,150,1658,40103
+OK,73064,Tuttle,4500,211,40017
+OK,73066,Tinker AFB Bio-env Eng,24645,411,40109
+OK,73066,Del City,22128,1113,40109
+OK,73066,Harrah,4190,60,40109
+OK,73066,Nichols Hills,4020,1254,40109
+OK,73069,Oklahoma University,34000,1683,40027
+OK,73070,Bluejay Mobile Village,138,355,40027
+OK,73070,Stonetown Clearview Mhc,170,2387,40027
+OK,73070,Lexington & Joseph Harp Correctional Institution,3000,699,40027
+OK,73070,Magnolia Park,50,21,40027
+OK,73070,Pecan Tree Water Association,22,1452,40027
+OK,73070,Prairie Creek Village Mobile Home Park,145,4,40027
+OK,73070,Wildfire Estates Homeowners,285,45,40027
+OK,73074,Paoli,610,1143,40049
+OK,73075,Pauls Valley,6256,1328,40049
+OK,73077,Spiro,2200,1487,40103
+OK,73082,Rush Springs,1278,1234,40051
+OK,73086,Southern Okla Water Corp,11250,2573,40099
+OK,73401,Mannsville Public Works Authority,587,110,40019
+OK,73425,Comanche Public Works Authority,1649,2834,40137
+OK,73425,Stephens County Rural Water District #3 (meridian),1610,2497,40137
+OK,73435,Western Carter County Water Corporation,2000,1393,40019
+OK,73435,Wilson Municipal Authority,1600,83,40019
+OK,73446,Oakland Public Works Authority,1050,1686,40095
+OK,73448,Thackerville,2000,252,40085
+OK,73448,Marietta Public Works Authority,2626,291,40085
+OK,73449,Bryan County Rw&sd #5,8325,2104,40013
+OK,73450,Milburn Public Works Authority,317,322,40069
+OK,73456,Ringling,1200,142,40067
+OK,73456,Cornish,41,178,40067
+OK,73459,City of Gainesville,16200,1256,40085
+OK,73460,Tishomingo Water Treatment Plant,3000,971,40069
+OK,73460,Murray State College,1150,1219,40069
+OK,73488,Garvin County Rural Water District # 6 (wells),1680,1796,40019
+OK,73501,Lawton,92757,19,40031
+OK,73503,Cache,2371,1972,40031
+OK,73521,Harmon Electric,188,381,40065
+OK,73521,Olustee Public Water Supply,607,3383,40065
+OK,73521,Blair Public Works Authority,894,147,40065
+OK,73521,Martha,205,2804,40065
+OK,73527,Tillman County Rural Water District #1,1500,1278,40031
+OK,73528,Chattanooga Public Water System,627,545,40033
+OK,73530,Rra Hinds Wildcat Water System,178,797,40141
+OK,73531,Grandfield,1110,1723,40033
+OK,73531,City of Burkburnett,11150,688,40033
+OK,73532,Harper County Water Corporation,198,556,40065
+OK,73537,Duke Central Vue Water,318,295,40065
+OK,73538,Elgin Public Water Supply,1440,320,40031
+OK,73540,Faxon,134,789,40031
+OK,73541,Sterling Public Works Authority,762,424,40031
+OK,73542,Davidson,375,1757,40141
+OK,73543,Geronimo,1200,737,40031
+OK,73544,Harmon Water Corporation,1132,114,40057
+OK,73544,Gould Public Works Authority,206,114,40057
+OK,73547,Mangum Public Water Supply,2924,489,40055
+OK,73547,Granite Public Water Supply,1425,421,40055
+OK,73547,Thirsty Water Corporation,81,178,40055
+OK,73552,Indiahoma Public Works Authority,350,4157,40031
+OK,73562,Cotton County Rural Water District # 1,600,4154,40033
+OK,73565,Ryan Utilities Authority,800,5786,40067
+OK,73569,Terral,386,722,40067
+OK,73601,Frontier Development Authority,437,1616,40039
+OK,73601,Arapaho,748,1470,40039
+OK,73622,Bessie,190,1173,40149
+OK,73624,Dill City,526,1293,40149
+OK,73626,Canute,524,1334,40149
+OK,73628,Cheyenne,778,2418,40129
+OK,73632,New Cordell Utility Authority,2903,2086,40149
+OK,73639,Custer City Public Water Supply,393,944,40039
+OK,73642,Roger Mills Rural Water District # 2 (red Star),800,3067,40129
+OK,73644,Elk City,10510,844,40009
+OK,73646,Butler,345,1378,40011
+OK,73646,Camargo Rural Water District #2,150,60,40011
+OK,73646,Country East Mobile Home Park,97,2592,40011
+OK,73646,Dewey County Rural Water District #1,129,19,40011
+OK,73646,Foss Reservoir Mcd,12,1320,40011
+OK,73646,Leedey,436,1002,40011
+OK,73646,Seiling,860,132,40011
+OK,73646,Taloga,372,89,40011
+OK,73646,Vici,668,216,40011
+OK,73647,Burns Flat Public Water Supply,2057,1840,40149
+OK,73651,Hobart,3746,1009,40075
+OK,73655,Lone Wolf,440,634,40075
+OK,73655,Kiowa Rural Water District #1,135,351,40075
+OK,73662,Sayre,4375,354,40009
+OK,73664,Sentinel Public Water Supply,859,378,40149
+OK,73668,Potters Trailer Park,21,119,40009
+OK,73673,Reed Water Corp,175,712,40055
+OK,73701,Enid,49347,1443,40047
+OK,73701,Breckinridge Public Works Authority,239,1441,40047
+OK,73703,Vance Air Force Base,3231,1501,40047
+OK,73703,Lahoma Public Works Authority,577,3280,40047
+OK,73703,Highpoint Mobile Home Park,600,97,40047
+OK,73703,Sw Water Inc.,200,830,40047
+OK,73716,Aline,214,209,40151
+OK,73716,Major County Rural Water District #1,1000,472,40151
+OK,73717,Woods County Rural Water District # 1,426,1045,40151
+OK,73717,Alva,5208,324,40151
+OK,73718,Ames,199,2009,40093
+OK,73722,Burlington,156,409,40003
+OK,73726,Carmen Public Works Authority,355,2090,40003
+OK,73728,Cherokee,1630,759,40003
+OK,73728,Alfalfa County Rural Water Sewer & Solid Waste Management District #1,550,750,40003
+OK,73729,Cleo Springs,326,832,40093
+OK,73730,Covington,553,1417,40047
+OK,73734,Kingfisher,5073,2414,40073
+OK,73734,Dover Public Works Trust Authority,400,1173,40073
+OK,73735,Drummond,405,1232,40047
+OK,73737,Fairview,2690,192,40093
+OK,73738,Garber Municipal Authority,845,1442,40047
+OK,73749,Wakita,430,940,40003
+OK,73749,Jet,230,71,40003
+OK,73758,Manchester,104,684,40053
+OK,73760,Meno,195,1488,40093
+OK,73766,R&c Water Corporation,400,1258,40053
+OK,73766,Pond Creek,982,557,40053
+OK,73773,Waukomis Public Works Authority,1366,412,40047
+OK,73834,Buffalo,1200,224,40059
+OK,73842,Freedom,275,175,40151
+OK,73848,Laverne,1097,1014,40007
+OK,73852,Quinlan Community Rural Water District #1,185,93,40153
+OK,73860,Waynoka,993,230,40151
+OK,73901,Guymon,11442,926,40139
+OK,73901,Hardesty Utilities,277,1256,40139
+OK,73901,Hooker,1788,967,40139
+OK,73901,Optima,400,168,40139
+OK,73901,Texhoma,935,1559,40139
+OK,73931,Beaver County Rural Water District #1 Turpin,500,1386,40007
+OK,73937,Boise City Public Works Authority,1483,658,40025
+OK,73937,Keyes Utility Authority,315,1122,40025
+OK,74002,Osage County Rural Water District # 1,930,6994,40113
+OK,74003,Bar-dew Water Association Inc.,130,1448,40113
+OK,74003,Dewey Public Works Authority,3490,1541,40113
+OK,74003,Bartlesville,34748,1388,40113
+OK,74008,Bixby Public Works Authority,18750,1586,40143
+OK,74008,Jenks PWA,16924,1610,40143
+OK,74008,Tulsa,471000,1228,40143
+OK,74010,Slick,148,299,40037
+OK,74014,Broken Arrow Municipal Authority,98850,1783,40145
+OK,74014,Mayes County Rural Water District # 2,6280,5976,40145
+OK,74016,Rogers County Rural Water District # 2,2750,9183,40131
+OK,74016,Consolidated Rural Water District #1 Nowata and Rogers County,1612,2196,40131
+OK,74016,Claremore,15873,3178,40131
+OK,74022,Copan Public Works Authority,733,1386,40147
+OK,74027,Nowata County Rural Water District # 3,225,8290,40105
+OK,74027,Lenapah Public Works Authority,298,1637,40105
+OK,74030,Oilton,1435,102,40037
+OK,74035,Osage Public Works Authority,275,2,40113
+OK,74044,Pawnee County Rural Water District #1,3200,70,40037
+OK,74046,Drumright,2876,754,40037
+OK,74046,Sapulpa,19702,2546,40037
+OK,74046,Valley Brook Mobile Home Park,114,1390,40037
+OK,74048,Nowata Municipal Authority,3971,1661,40105
+OK,74056,Pawhuska,3800,1479,40113
+OK,74056,Elgin City of,81,334,40113
+OK,74058,Pawnee,2230,1277,40117
+OK,74063,Tulsa County Water Improvement District #14,1400,1549,40143
+OK,74070,Sperry,1200,1093,40113
+OK,74072,South Coffeyville,790,1140,40105
+OK,74074,OSU Water Plant,13000,2576,40119
+OK,74079,Davenport Utility Authority,881,2886,40081
+OK,74115,Carriage Village,500,1180,40143
+OK,74301,Craig County Rural Water District #1,315,3714,40035
+OK,74301,Vinita Utilities Authority,6472,1332,40035
+OK,74301,Big Cabin Public Works Authority,293,2142,40035
+OK,74301,Ketchum Public Works Authority,4025,1896,40035
+OK,74330,Adair,704,850,40097
+OK,74331,Afton Public Works Authority,1428,1498,40041
+OK,74331,Bernice,504,224,40041
+OK,74338,West Siloam Springs,877,1667,40041
+OK,74342,Delaware County Rural Water District # 1,465,1498,40041
+OK,74343,Fairland Public Works Authority,1025,74,40115
+OK,74352,Locust Grove,1600,753,40097
+OK,74352,Peggs Water Company,1925,107,40097
+OK,74354,Wyandotte Tribe of Oklahoma,51,365,40115
+OK,74368,England Shores Mobile Home Park,55,32,40041
+OK,74368,Hickory Meadows,157,77,40041
+OK,74369,Welch Public Works Authority,800,559,40035
+OK,74401,Muskogee,38310,2879,40101
+OK,74401,Muskogee County Rural Water District #1 (oktaha),2280,12609,40101
+OK,74401,Porter Public Works Authority,2400,1865,40101
+OK,74401,Okay Public Works Authority,767,2889,40101
+OK,74422,Boynton Public Works Authority,450,2030,40101
+OK,74425,Longtown Rw&sd #1 (pittsburg County),5444,7427,40121
+OK,74426,Porum Public Works Authority,5000,2241,40091
+OK,74426,Eufaula Public Works Authority,4462,2280,40091
+OK,74427,Adair County Rural Water District #1 (cherry Tree),2000,4137,40021
+OK,74429,Coweta,9450,1572,40145
+OK,74430,Indianola Rural Water District #18,2000,1887,40121
+OK,74431,Beggs,1364,2105,40111
+OK,74431,Henryetta,6096,1174,40111
+OK,74431,Okmulgee County Rural Water District #1,1890,13160,40111
+OK,74431,Kusa Rural Water District #3,240,1620,40111
+OK,74434,Fort Gibson,4700,1382,40101
+OK,74434,Wagoner County Rural Water District #1,397,2062,40101
+OK,74434,Hulbert Public Works Authority,1007,649,40101
+OK,74434,Braggs Water Works,1030,49,40101
+OK,74438,Mcintosh County Rural Water District #1,345,8228,40091
+OK,74438,Mcintosh County Rural Water District #6 (vivian),1500,345,40091
+OK,74445,Morris,1440,411,40111
+OK,74451,Burnt Cabin Rural Water District,208,1034,40021
+OK,74454,Tullahassee Water,106,2848,40145
+OK,74462,Stigler,2731,1355,40061
+OK,74467,Wagoner,7982,1436,40145
+OK,74501,Adamson Rural Water District #8,4306,2038,40121
+OK,74501,McAlester PWA,18206,2732,40121
+OK,74501,Krebs Utility Authority,2051,1356,40121
+OK,74501,Haileyville,889,1901,40121
+OK,74523,Antlers,2547,1505,40127
+OK,74525,Atoka Public Water System,2988,2384,40005
+OK,74525,Stringtown Public Works Authority,1105,2684,40005
+OK,74536,Clayton Public Works Authority,719,1597,40127
+OK,74538,Centrahoma Water County Inc.,150,1344,40029
+OK,74538,Coalgate Public Works Authority,2005,1232,40029
+OK,74546,Hartshorne,2300,1744,40121
+OK,74547,Latimer County Rural Water District #1,2750,2595,40121
+OK,74549,Pushmataha County Rural Water District #1,1200,5043,40079
+OK,74571,Talihina PWA,1297,1775,40077
+OK,74601,Noble County Rural Water District # 4,142,825,40071
+OK,74637,Fairfax,1555,1058,40113
+OK,74637,Grayhorse Rural Water District,100,3007,40113
+OK,74641,Kaw City Water Authority,372,21,40071
+OK,74643,Lamont,464,1206,40053
+OK,74721,Achille,506,34,40013
+OK,74721,Bokchito,564,381,40013
+OK,74721,Bryan County Rural Water District #6,990,6,40013
+OK,74721,Kenefic,165,34,40013
+OK,74722,Broken Bow Public Works Authority,4320,943,40089
+OK,74722,Garvin,150,768,40089
+OK,74722,Haworth Public Works Authority,354,1479,40089
+OK,74722,Idabel Public Works Authority,6952,3049,40089
+OK,74722,Mccurtain County Rural Water District #1,3842,3996,40089
+OK,74722,Wright City Public Works Authority,792,1338,40089
+OK,74727,Lamar County Water Supply District,22269,2594,40023
+OK,74736,Red River County Water Supply Corporation,6738,1765,40089
+OK,74756,Choctaw County Rural Water District #1,2300,952,40023
+OK,74801,Shawnee Municipal Authority,29990,1383,40125
+OK,74801,Tecumseh Utility Authority,6098,955,40125
+OK,74804,Pottawatomie County Development Authority,1200,2037,40125
+OK,74820,Ada,22600,1829,40123
+OK,74820,Pontotoc County Rural Water District # 1 (homer),441,946,40123
+OK,74820,Sasakwa Rural Water District,210,245,40123
+OK,74820,Konawa Public Works Authority,1479,1606,40123
+OK,74825,Allen Public Works Authority,937,199,40123
+OK,74826,St. Louis Rural Water District,225,23,40125
+OK,74839,Dustin Public Water System,496,285,40063
+OK,74850,Hughes County Rural Water District #1,1185,2631,40063
+OK,74866,Steelman Estates,45,47,40125
+OK,74866,Timber Creek Mobile Home Park East & West,40,5,40125
+OK,74868,Bowlegs Lima Water,2500,54,40133
+OK,74883,Wetumka,1451,1945,40063
+OK,74884,Wewoka Public Works Authority,3450,2626,40133
+OK,74902,Bonanza Waterworks,555,1302,40079
+OK,74902,Central City Water,1235,717,40079
+OK,74902,Fcmtc Waterworks,500,1130,40079
+OK,74902,James Fork Regional Water District,11538,1311,40079
+OK,74902,Lavaca Waterworks,3550,799,40079
+OK,74902,Milltown-washburn,3807,1163,40079
+OK,74930,Panama Public Works Authority,1400,1522,40079
+OK,74932,Poteau Public Works Authority,7939,1565,40079
+OK,74932,Leflore County Consolidated Rural Water District #1,1800,5747,40079
+OK,74936,Sequoyah County Rural Water District #3,1040,7692,40135
+OK,74941,Keota Public Works Authority,564,1662,40061
+OK,74948,Muldrow Public Works Authority,3104,1645,40135
+OK,74955,Sallisaw,7989,1093,40135
+OK,74960,Stilwell,3276,1128,40001
+OK,74966,Wister,1002,1235,40079

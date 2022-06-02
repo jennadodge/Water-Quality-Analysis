@@ -1,0 +1,1124 @@
+State,City,Zip,Utility,People served,Contaminant,Utility Measuremnt,EWG HEALTH GUIDELINE,Legal Limit,Units,Contaminant_Factor
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Bromodichloromethane,4.1,0.06,0,ppb,68.33333333333333
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Chloroform,12.7,0.4,0,ppb,31.749999999999996
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Chromium (hexavalent),0.0638,0.02,0,ppb,3.1899999999999995
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Dibromochloromethane,0.799,0.1,0,ppb,7.99
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Haloacetic acids (HAA5)†,30.4,0.1,60,ppb,303.99999999999994
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Haloacetic acids (HAA9)†,31.2,0.06,0,ppb,520.0
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Nitrate,0.378,0.14,10,ppm,2.6999999999999997
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Radium combined (-226 &amp; -228),1.89,0.05,5,pCi/L,37.8
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Total trihalomethanes (TTHMs)†,35.8,0.15,80,ppb,238.66666666666666
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Chlorate,105.1,210.0,0,ppb,0.5004761904761904
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Manganese,2.34,100.0,0,ppb,0.023399999999999997
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Strontium,0.108,1500.0,0,ppb,7.2e-05
+TN,Clarksville,37010.0,Clarksville Water Department,215421,Vanadium,0.225,21.0,0,ppb,0.010714285714285714
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Chromium (hexavalent)*,0.116,0.02,0,ppb,5.8
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Haloacetic acids (HAA5)†,28.1,0.1,60,ppb,281.0
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Haloacetic acids (HAA9)*†,47.1,0.06,0,ppb,785.0
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Total trihalomethanes (TTHMs)†,43.8,0.15,80,ppb,292.0
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Chlorate*,9.25,210.0,0,ppb,0.04404761904761905
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Manganese*,0.291,100.0,0,ppb,0.00291
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Strontium*,0.102,1500.0,0,ppb,6.8e-05
+TN,Clarksville,37010.0,Cumberland Heights Utility District,3339,Vanadium*,0.213,21.0,0,ppb,0.010142857142857143
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Bromodichloromethane,5.26,0.06,0,ppb,87.66666666666667
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Chloroform,22.2,0.4,0,ppb,55.49999999999999
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Dibromochloromethane,0.829,0.1,0,ppb,8.29
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Nitrate,0.616,0.14,10,ppm,4.3999999999999995
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Atrazine,0.0149,0.1,3,ppb,0.149
+TN,Clarksville,37010.0,Cunningham East Mont Wat Trailer Pl,25,Carbon tetrachloride,0.0713,0.1,5,ppb,0.713
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Chromium (hexavalent),0.116,0.02,0,ppb,5.8
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Haloacetic acids (HAA5)†,31.8,0.1,60,ppb,318.0
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Haloacetic acids (HAA9)†,47.1,0.06,0,ppb,785.0
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Total trihalomethanes (TTHMs)†,52.1,0.15,80,ppb,347.33333333333337
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Chlorate,9.25,210.0,0,ppb,0.04404761904761905
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Manganese,0.291,100.0,0,ppb,0.00291
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Strontium,0.102,1500.0,0,ppb,6.8e-05
+TN,Clarksville,37010.0,Cunningham Utility District,14625,Vanadium,0.213,21.0,0,ppb,0.010142857142857143
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Atrazine*,0.552,0.1,3,ppb,5.5200000000000005
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Bromodichloromethane*,2.43,0.06,0,ppb,40.50000000000001
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Chloroform*,4.74,0.4,0,ppb,11.85
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Chromium (hexavalent)*,0.489,0.02,0,ppb,24.45
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Dibromochloromethane*,0.756,0.1,0,ppb,7.56
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Haloacetic acids (HAA5)†,33.8,0.1,60,ppb,337.99999999999994
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Haloacetic acids (HAA9)†,36.1,0.06,0,ppb,601.6666666666667
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Nitrate*,5.01,0.14,10,ppm,35.78571428571428
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Radium combined (-226 &amp; -228)*,0.85,0.05,5,pCi/L,17.0
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Total trihalomethanes (TTHMs)†,42.6,0.15,80,ppb,284.0
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Manganese,0.27,100.0,0,ppb,0.0027
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Simazine*,0.0199,0.1,4,ppb,0.199
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Strontium*,0.255,1500.0,0,ppb,0.00017
+TN,Greenbrier,37010.0,Greenbrier Water & Sewer Department,8521,Vanadium*,0.463,21.0,0,ppb,0.02204761904761905
+TN,Woodlawn,37010.0,Woodlawn Utility District,10017,Haloacetic acids (HAA5)†,43.1,0.1,60,ppb,431.0
+TN,Woodlawn,37010.0,Woodlawn Utility District,10017,Total trihalomethanes (TTHMs)†,56.3,0.15,80,ppb,375.3333333333333
+TN,Carthage,37012.0,Cordell Hull Utility District,3004,Haloacetic acids (HAA5)†,47.5,0.1,60,ppb,475.0
+TN,Carthage,37012.0,Cordell Hull Utility District,3004,Total trihalomethanes (TTHMs)†,60.9,0.15,80,ppb,406.0
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Chromium (hexavalent),0.0838,0.02,0,ppb,4.1899999999999995
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Haloacetic acids (HAA5)†,34.3,0.1,60,ppb,342.99999999999994
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Haloacetic acids (HAA9)†,42.1,0.06,0,ppb,701.6666666666667
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Nitrate,0.456,0.14,10,ppm,3.257142857142857
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Total trihalomethanes (TTHMs)†,36.4,0.15,80,ppb,242.66666666666666
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Chlorate,238.8,210.0,0,ppb,1.1371428571428572
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Manganese,12.9,100.0,0,ppb,0.129
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Strontium,0.137,1500.0,0,ppb,9.133333333333334e-05
+TN,Lebanon,37012.0,Gladeville Utility District,19510,Vanadium,0.2,21.0,0,ppb,0.009523809523809525
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Bromodichloromethane,4.2,0.06,0,ppb,70.0
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Chloroform,11.9,0.4,0,ppb,29.75
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Dibromochloromethane,0.799,0.1,0,ppb,7.99
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Haloacetic acids (HAA5)†,37.5,0.1,60,ppb,375.0
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Haloacetic acids (HAA9)†,36.9,0.06,0,ppb,615.0
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Nitrate,0.845,0.14,10,ppm,6.035714285714285
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Nitrate and nitrite,1.6,0.14,10,ppm,11.428571428571429
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Radium combined (-226 &amp; -228),0.29,0.05,5,pCi/L,5.799999999999999
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Total trihalomethanes (TTHMs)†,49.1,0.15,80,ppb,327.33333333333337
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Barium,30.9,700.0,2000,ppb,0.04414285714285714
+TN,Lebanon,37012.0,Laguardo Utility District,12277,Manganese,0.652,100.0,0,ppb,0.006520000000000001
+TN,Lebanon,37012.0,Lebanon Water System,38426,Bromodichloromethane,3.39,0.06,0,ppb,56.50000000000001
+TN,Lebanon,37012.0,Lebanon Water System,38426,Chloroform,14.4,0.4,0,ppb,36.0
+TN,Lebanon,37012.0,Lebanon Water System,38426,Chromium (hexavalent),0.0413,0.02,0,ppb,2.065
+TN,Lebanon,37012.0,Lebanon Water System,38426,Dibromochloromethane,0.313,0.1,0,ppb,3.13
+TN,Lebanon,37012.0,Lebanon Water System,38426,Haloacetic acids (HAA5)†,26.5,0.1,60,ppb,265.0
+TN,Lebanon,37012.0,Lebanon Water System,38426,Haloacetic acids (HAA9)†,24.4,0.06,0,ppb,406.6666666666667
+TN,Lebanon,37012.0,Lebanon Water System,38426,Radium combined (-226 &amp; -228),1.94,0.05,5,pCi/L,38.8
+TN,Lebanon,37012.0,Lebanon Water System,38426,Total trihalomethanes (TTHMs)†,35.7,0.15,80,ppb,238.00000000000003
+TN,Lebanon,37012.0,Lebanon Water System,38426,Chlorate,113.8,210.0,0,ppb,0.5419047619047619
+TN,Lebanon,37012.0,Lebanon Water System,38426,Manganese,0.96,100.0,0,ppb,0.0096
+TN,Lebanon,37012.0,Lebanon Water System,38426,Nitrate,0.238,0.14,10,ppm,1.6999999999999997
+TN,Lebanon,37012.0,Lebanon Water System,38426,Strontium,0.1,1500.0,0,ppb,6.666666666666667e-05
+TN,Lebanon,37012.0,Lebanon Water System,38426,Vanadium,0.15,21.0,0,ppb,0.007142857142857143
+TN,South Carthage,37012.0,Smith Utility District,7964,Bromodichloromethane,3.54,0.06,0,ppb,59.0
+TN,South Carthage,37012.0,Smith Utility District,7964,Chloroform,20.3,0.4,0,ppb,50.75
+TN,South Carthage,37012.0,Smith Utility District,7964,Haloacetic acids (HAA5)†,34.9,0.1,60,ppb,348.99999999999994
+TN,South Carthage,37012.0,Smith Utility District,7964,Haloacetic acids (HAA9)†,41.1,0.06,0,ppb,685.0
+TN,South Carthage,37012.0,Smith Utility District,7964,Nitrate,0.292,0.14,10,ppm,2.0857142857142854
+TN,South Carthage,37012.0,Smith Utility District,7964,Total trihalomethanes (TTHMs)†,31.5,0.15,80,ppb,210.0
+TN,South Carthage,37012.0,Smith Utility District,7964,Dibromochloromethane,0.196,0.1,0,ppb,1.96
+TN,South Carthage,37012.0,Smith Utility District,7964,Manganese,2.54,100.0,0,ppb,0.0254
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Bromodichloromethane*,3.54,0.06,0,ppb,59.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Chloroform*,20.3,0.4,0,ppb,50.75
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA5)†,35.4,0.1,60,ppb,353.99999999999994
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA9)*†,41.1,0.06,0,ppb,685.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Nitrate*,0.292,0.14,10,ppm,2.0857142857142854
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Total trihalomethanes (TTHMs)†,33.1,0.15,80,ppb,220.66666666666669
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Dibromochloromethane*,0.196,0.1,0,ppb,1.96
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Manganese*,2.54,100.0,0,ppb,0.0254
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Bromodichloromethane*,3.54,0.06,0,ppb,59.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Chloroform*,20.3,0.4,0,ppb,50.75
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA5)†,35.4,0.1,60,ppb,353.99999999999994
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA9)*†,41.1,0.06,0,ppb,685.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Nitrate*,0.292,0.14,10,ppm,2.0857142857142854
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Total trihalomethanes (TTHMs)†,33.1,0.15,80,ppb,220.66666666666669
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Dibromochloromethane*,0.196,0.1,0,ppb,1.96
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Manganese*,2.54,100.0,0,ppb,0.0254
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Bromodichloromethane*,3.54,0.06,0,ppb,59.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Chloroform*,20.3,0.4,0,ppb,50.75
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA5)†,35.4,0.1,60,ppb,353.99999999999994
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Haloacetic acids (HAA9)*†,41.1,0.06,0,ppb,685.0
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Nitrate*,0.292,0.14,10,ppm,2.0857142857142854
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Total trihalomethanes (TTHMs)†,33.1,0.15,80,ppb,220.66666666666669
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Dibromochloromethane*,0.196,0.1,0,ppb,1.96
+TN,Gordonsville,37012.0,South Side Utility District #1,3958,Manganese*,2.54,100.0,0,ppb,0.0254
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Bromodichloromethane*,3.54,0.06,0,ppb,59.0
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Chloroform*,20.3,0.4,0,ppb,50.75
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Haloacetic acids (HAA5)†,37.7,0.1,60,ppb,377.0
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Haloacetic acids (HAA9)*†,41.1,0.06,0,ppb,685.0
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Nitrate*,0.292,0.14,10,ppm,2.0857142857142854
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Total trihalomethanes (TTHMs)†,38.3,0.15,80,ppb,255.33333333333331
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Dibromochloromethane*,0.196,0.1,0,ppb,1.96
+TN,Riddleton,37012.0,Twenty Five Utility District,1826,Manganese*,2.54,100.0,0,ppb,0.0254
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Bromodichloromethane,2.57,0.06,0,ppb,42.833333333333336
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Chloroform,8.17,0.4,0,ppb,20.424999999999997
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Chromium (hexavalent),0.095,0.02,0,ppb,4.75
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Haloacetic acids (HAA5)†,32.2,0.1,60,ppb,322.0
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Haloacetic acids (HAA9)†,43.4,0.06,0,ppb,723.3333333333334
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Nitrate,0.409,0.14,10,ppm,2.921428571428571
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Total trihalomethanes (TTHMs)†,35.5,0.15,80,ppb,236.66666666666669
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,14-Dioxane,0.025,0.35,0,ppb,0.07142857142857144
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Manganese,0.575,100.0,0,ppb,0.00575
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Strontium,0.102,1500.0,0,ppb,6.8e-05
+TN,Mount Juliet,37012.0,West Wilson Utility District,72928,Vanadium,0.263,21.0,0,ppb,0.012523809523809524
+TN,Lavergne,37014.0,La Vergne Water System,35233,Bromodichloromethane,5.44,0.06,0,ppb,90.66666666666667
+TN,Lavergne,37014.0,La Vergne Water System,35233,Chloroform,14.8,0.4,0,ppb,37.0
+TN,Lavergne,37014.0,La Vergne Water System,35233,Chromium (hexavalent),0.0638,0.02,0,ppb,3.1899999999999995
+TN,Lavergne,37014.0,La Vergne Water System,35233,Dibromochloromethane,1.27,0.1,0,ppb,12.7
+TN,Lavergne,37014.0,La Vergne Water System,35233,Haloacetic acids (HAA5)†,37.3,0.1,60,ppb,372.99999999999994
+TN,Lavergne,37014.0,La Vergne Water System,35233,Haloacetic acids (HAA9)†,30.8,0.06,0,ppb,513.3333333333334
+TN,Lavergne,37014.0,La Vergne Water System,35233,Nitrate,0.928,0.14,10,ppm,6.628571428571428
+TN,Lavergne,37014.0,La Vergne Water System,35233,Radium combined (-226 &amp; -228),1.2,0.05,5,pCi/L,23.999999999999996
+TN,Lavergne,37014.0,La Vergne Water System,35233,Total trihalomethanes (TTHMs)†,49.1,0.15,80,ppb,327.33333333333337
+TN,Lavergne,37014.0,La Vergne Water System,35233,Chlorate,217.5,210.0,0,ppb,1.0357142857142858
+TN,Lavergne,37014.0,La Vergne Water System,35233,Manganese,11.7,100.0,0,ppb,0.11699999999999999
+TN,Lavergne,37014.0,La Vergne Water System,35233,Monochlorobenzene (chlorobenzene),0.0766,70.0,100,ppb,0.0010942857142857143
+TN,Lavergne,37014.0,La Vergne Water System,35233,Strontium,0.104,1500.0,0,ppb,6.933333333333333e-05
+TN,Lavergne,37014.0,La Vergne Water System,35233,Vanadium,0.05,21.0,0,ppb,0.002380952380952381
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Bromodichloromethane*,3.61,0.06,0,ppb,60.166666666666664
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Chloroform*,6.92,0.4,0,ppb,17.299999999999997
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Chromium (hexavalent),0.153,0.02,0,ppb,7.6499999999999995
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Dibromochloromethane*,0.855,0.1,0,ppb,8.549999999999999
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Haloacetic acids (HAA5)†,20.3,0.1,60,ppb,203.0
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Haloacetic acids (HAA9)†,28.6,0.06,0,ppb,476.6666666666667
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Nitrate*,0.377,0.14,10,ppm,2.6928571428571426
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Total trihalomethanes (TTHMs)†,34.8,0.15,80,ppb,232.0
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,14-Dioxane,0.0234,0.35,0,ppb,0.06685714285714286
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Barium*,19.8,700.0,2000,ppb,0.028285714285714286
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Chlorate,9.17,210.0,0,ppb,0.043666666666666666
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Manganese,3.32,100.0,0,ppb,0.0332
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Monochlorobenzene (chlorobenzene)*,0.342,70.0,100,ppb,0.004885714285714286
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Strontium,0.111,1500.0,0,ppb,7.4e-05
+TN,Franklin,37014.0,Mallory Valley Utility Distric,25131,Vanadium*,0.075,21.0,0,ppb,0.0035714285714285713
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Chromium (hexavalent),0.0909,0.02,0,ppb,4.545
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Haloacetic acids (HAA5)†,21.0,0.1,60,ppb,210.0
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Haloacetic acids (HAA9)†,38.2,0.06,0,ppb,636.6666666666667
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Total trihalomethanes (TTHMs)†,38.0,0.15,80,ppb,253.33333333333334
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Chlorate,3.0,210.0,0,ppb,0.014285714285714285
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Manganese,1.27,100.0,0,ppb,0.0127
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Strontium,0.112,1500.0,0,ppb,7.466666666666667e-05
+TN,Franklin,37014.0,Milcrofton Utility District,26003,Vanadium,0.119,21.0,0,ppb,0.005666666666666666
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Bromodichloromethane,2.35,0.06,0,ppb,39.16666666666667
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Chloroform,5.97,0.4,0,ppb,14.924999999999999
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Chromium (hexavalent),0.169,0.02,0,ppb,8.450000000000001
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Dibromochloromethane,0.279,0.1,0,ppb,2.79
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Haloacetic acids (HAA5)†,34.0,0.1,60,ppb,340.0
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Haloacetic acids (HAA9)†,37.9,0.06,0,ppb,631.6666666666666
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Nitrate,0.771,0.14,10,ppm,5.507142857142857
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Radium combined (-226 &amp; -228),0.83,0.05,5,pCi/L,16.599999999999998
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Total trihalomethanes (TTHMs)†,47.2,0.15,80,ppb,314.6666666666667
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Chlorate,144.0,210.0,0,ppb,0.6857142857142857
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Manganese,2.55,100.0,0,ppb,0.0255
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Strontium,0.0953,1500.0,0,ppb,6.353333333333334e-05
+TN,Murfreesboro,37014.0,Murfreesboro Water Department,100535,Vanadium,0.268,21.0,0,ppb,0.012761904761904763
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Bromodichloromethane,0.889,0.06,0,ppb,14.816666666666668
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Chloroform,0.829,0.4,0,ppb,2.0725
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Chromium (hexavalent),0.132,0.02,0,ppb,6.6000000000000005
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Dibromochloromethane,0.403,0.1,0,ppb,4.03
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Haloacetic acids (HAA5)†,29.6,0.1,60,ppb,296.0
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Haloacetic acids (HAA9)†,32.5,0.06,0,ppb,541.6666666666667
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Radium combined (-226 &amp; -228),0.96,0.05,5,pCi/L,19.2
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Total trihalomethanes (TTHMs)†,56.0,0.15,80,ppb,373.33333333333337
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Chlorate,277.5,210.0,0,ppb,1.3214285714285714
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Manganese,3.6,100.0,0,ppb,0.036000000000000004
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Strontium,0.293,1500.0,0,ppb,0.00019533333333333333
+TN,Nolensville,37014.0,Nolensville-college Grove UD,28919,Vanadium,0.158,21.0,0,ppb,0.007523809523809524
+TN,Smyrna,37014.0,Smyrna Water System,51930,Bromodichloromethane,4.12,0.06,0,ppb,68.66666666666667
+TN,Smyrna,37014.0,Smyrna Water System,51930,Chloroform,7.5,0.4,0,ppb,18.75
+TN,Smyrna,37014.0,Smyrna Water System,51930,Chromium (hexavalent),0.173,0.02,0,ppb,8.649999999999999
+TN,Smyrna,37014.0,Smyrna Water System,51930,Dibromochloromethane,1.5,0.1,0,ppb,15.0
+TN,Smyrna,37014.0,Smyrna Water System,51930,Haloacetic acids (HAA5)†,23.1,0.1,60,ppb,231.0
+TN,Smyrna,37014.0,Smyrna Water System,51930,Haloacetic acids (HAA9)†,22.3,0.06,0,ppb,371.6666666666667
+TN,Smyrna,37014.0,Smyrna Water System,51930,Nitrate,0.407,0.14,10,ppm,2.9071428571428566
+TN,Smyrna,37014.0,Smyrna Water System,51930,Radium combined (-226 &amp; -228),1.23,0.05,5,pCi/L,24.599999999999998
+TN,Smyrna,37014.0,Smyrna Water System,51930,Total trihalomethanes (TTHMs)†,35.7,0.15,80,ppb,238.00000000000003
+TN,Smyrna,37014.0,Smyrna Water System,51930,14-Dioxane,0.04,0.35,0,ppb,0.1142857142857143
+TN,Smyrna,37014.0,Smyrna Water System,51930,Aluminum,60.0,600.0,0,ppb,0.1
+TN,Smyrna,37014.0,Smyrna Water System,51930,Chlorate,300.0,210.0,0,ppb,1.4285714285714286
+TN,Smyrna,37014.0,Smyrna Water System,51930,Manganese,1.99,100.0,0,ppb,0.0199
+TN,Smyrna,37014.0,Smyrna Water System,51930,Strontium,0.085,1500.0,0,ppb,5.666666666666667e-05
+TN,Smyrna,37014.0,Smyrna Water System,51930,Vanadium,0.339,21.0,0,ppb,0.016142857142857143
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Bromodichloromethane,5.08,0.06,0,ppb,84.66666666666667
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Chloroform,15.9,0.4,0,ppb,39.75
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Dibromochloromethane,0.847,0.1,0,ppb,8.469999999999999
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Haloacetic acids (HAA5)†,40.1,0.1,60,ppb,401.0
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Nitrate,0.344,0.14,10,ppm,2.457142857142857
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Radium combined (-226 &amp; -228),0.75,0.05,5,pCi/L,15.0
+TN,Ashland City,37015.0,Ashland City Water Department,8030,Total trihalomethanes (TTHMs)†,50.3,0.15,80,ppb,335.3333333333333
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Bromodichloromethane,2.8,0.06,0,ppb,46.666666666666664
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Chloroform,6.59,0.4,0,ppb,16.474999999999998
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Chromium (hexavalent),0.139,0.02,0,ppb,6.95
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Dibromochloromethane,0.743,0.1,0,ppb,7.43
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Haloacetic acids (HAA9)†,30.9,0.06,0,ppb,515.0
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Nitrate,0.606,0.14,10,ppm,4.328571428571428
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Total trihalomethanes (TTHMs)†,43.9,0.15,80,ppb,292.6666666666667
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Manganese,0.13,100.0,0,ppb,0.0013
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Strontium,0.0903,1500.0,0,ppb,6.0200000000000006e-05
+TN,Pleasant View,37015.0,Pleasant View Utility District,17864,Vanadium,0.3,21.0,0,ppb,0.014285714285714285
+TN,Ashland City,37015.0,River Road Utility District,3669,Bromodichloromethane,2.2,0.06,0,ppb,36.66666666666667
+TN,Ashland City,37015.0,River Road Utility District,3669,Chloroform,12.1,0.4,0,ppb,30.249999999999996
+TN,Ashland City,37015.0,River Road Utility District,3669,Haloacetic acids (HAA5)†,36.6,0.1,60,ppb,366.0
+TN,Ashland City,37015.0,River Road Utility District,3669,Radium combined (-226 &amp; -228),0.48,0.05,5,pCi/L,9.6
+TN,Ashland City,37015.0,River Road Utility District,3669,Total trihalomethanes (TTHMs)†,55.1,0.15,80,ppb,367.33333333333337
+TN,Ashland City,37015.0,River Road Utility District,3669,Aluminum,130.0,600.0,0,ppb,0.21666666666666667
+TN,Ashland City,37015.0,River Road Utility District,3669,Barium,16.0,700.0,2000,ppb,0.022857142857142857
+TN,Ashland City,37015.0,River Road Utility District,3669,Nitrate,0.115,0.14,10,ppm,0.8214285714285714
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Bromodichloromethane,2.99,0.06,0,ppb,49.833333333333336
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Chloroform,7.88,0.4,0,ppb,19.7
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Dibromochloromethane,0.508,0.1,0,ppb,5.08
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Haloacetic acids (HAA5)†,30.4,0.1,60,ppb,303.99999999999994
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Nitrate,0.33,0.14,10,ppm,2.357142857142857
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Total trihalomethanes (TTHMs)†,38.4,0.15,80,ppb,256.0
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Aluminum,50.0,600.0,0,ppb,0.08333333333333333
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Barium,31.0,700.0,2000,ppb,0.04428571428571428
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Manganese,9.0,100.0,0,ppb,0.09
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Nitrate and nitrite,0.25,0.14,10,ppm,1.7857142857142856
+TN,Kingston Springs Tn,37015.0,Second South Cheatham Utility District,9291,Selenium,0.367,30.0,50,ppb,0.012233333333333334
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Bromodichloromethane,2.15,0.06,0,ppb,35.833333333333336
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Chloroform,6.07,0.4,0,ppb,15.175
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Haloacetic acids (HAA5)†,8.1,0.1,60,ppb,80.99999999999999
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Nitrate,0.671,0.14,10,ppm,4.792857142857143
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Total trihalomethanes (TTHMs)†,11.8,0.15,80,ppb,78.66666666666667
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Aluminum,3.83,600.0,0,ppb,0.006383333333333334
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Atrazine,0.0425,0.1,3,ppb,0.425
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Barium,27.9,700.0,2000,ppb,0.039857142857142855
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Dibromochloromethane,0.108,0.1,0,ppb,1.0799999999999998
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Manganese,5.3,100.0,0,ppb,0.053
+TN,Tullahoma,37018.0,Duck River Utility Commission,25,Selenium,0.277,30.0,50,ppb,0.009233333333333335
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Chromium (hexavalent)*,0.0475,0.02,0,ppb,2.375
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Haloacetic acids (HAA5)†,33.4,0.1,60,ppb,333.99999999999994
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Haloacetic acids (HAA9)*†,26.9,0.06,0,ppb,448.3333333333333
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Total trihalomethanes (TTHMs)†,44.7,0.15,80,ppb,298.00000000000006
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Chlorate*,39.6,210.0,0,ppb,0.18857142857142858
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Manganese*,0.14,100.0,0,ppb,0.0014000000000000002
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Strontium*,0.0381,1500.0,0,ppb,2.54e-05
+TN,Shelbyville,37018.0,Flat Creek Co-op #2,429,Vanadium*,0.226,21.0,0,ppb,0.010761904761904762
+TN,Manchester,37018.0,Hillsville Utility District,9790,Haloacetic acids (HAA5)†,31.2,0.1,60,ppb,312.0
+TN,Manchester,37018.0,Hillsville Utility District,9790,Haloacetic acids (HAA9)*†,19.3,0.06,0,ppb,321.6666666666667
+TN,Manchester,37018.0,Hillsville Utility District,9790,Total trihalomethanes (TTHMs)†,34.5,0.15,80,ppb,230.0
+TN,Manchester,37018.0,Hillsville Utility District,9790,Chlorate*,41.9,210.0,0,ppb,0.19952380952380952
+TN,Manchester,37018.0,Hillsville Utility District,9790,Chromium (hexavalent)*,0.0259,0.02,0,ppb,1.295
+TN,Manchester,37018.0,Hillsville Utility District,9790,Manganese*,0.955,100.0,0,ppb,0.00955
+TN,Manchester,37018.0,Hillsville Utility District,9790,Strontium*,0.0385,1500.0,0,ppb,2.5666666666666666e-05
+TN,Manchester,37018.0,Hillsville Utility District,9790,Vanadium*,0.223,21.0,0,ppb,0.01061904761904762
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Bromodichloromethane*,2.15,0.06,0,ppb,35.833333333333336
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Chloroform*,6.07,0.4,0,ppb,15.175
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Chromium (hexavalent),0.0475,0.02,0,ppb,2.375
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Haloacetic acids (HAA5)†,29.2,0.1,60,ppb,292.0
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Haloacetic acids (HAA9)†,26.9,0.06,0,ppb,448.3333333333333
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Nitrate*,0.671,0.14,10,ppm,4.792857142857143
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Total trihalomethanes (TTHMs)†,35.6,0.15,80,ppb,237.33333333333334
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Aluminum*,3.83,600.0,0,ppb,0.006383333333333334
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Atrazine*,0.0425,0.1,3,ppb,0.425
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Barium*,27.9,700.0,2000,ppb,0.039857142857142855
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Chlorate,39.6,210.0,0,ppb,0.18857142857142858
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Dibromochloromethane*,0.108,0.1,0,ppb,1.0799999999999998
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Manganese,0.14,100.0,0,ppb,0.0014000000000000002
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Selenium*,0.277,30.0,50,ppb,0.009233333333333335
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Strontium,0.0381,1500.0,0,ppb,2.54e-05
+TN,Tullahoma,37018.0,Tullahoma Board of Utilities,28259,Vanadium,0.226,21.0,0,ppb,0.010761904761904762
+TN,Wartrace,37018.0,Wartrace Water System,3236,Chromium (hexavalent)*,0.0475,0.02,0,ppb,2.375
+TN,Wartrace,37018.0,Wartrace Water System,3236,Haloacetic acids (HAA5)†,36.5,0.1,60,ppb,365.0
+TN,Wartrace,37018.0,Wartrace Water System,3236,Haloacetic acids (HAA9)*†,26.9,0.06,0,ppb,448.3333333333333
+TN,Wartrace,37018.0,Wartrace Water System,3236,Total trihalomethanes (TTHMs)†,41.7,0.15,80,ppb,278.00000000000006
+TN,Wartrace,37018.0,Wartrace Water System,3236,Chlorate*,39.6,210.0,0,ppb,0.18857142857142858
+TN,Wartrace,37018.0,Wartrace Water System,3236,Manganese*,0.14,100.0,0,ppb,0.0014000000000000002
+TN,Wartrace,37018.0,Wartrace Water System,3236,Strontium*,0.0381,1500.0,0,ppb,2.54e-05
+TN,Wartrace,37018.0,Wartrace Water System,3236,Vanadium*,0.226,21.0,0,ppb,0.010761904761904762
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Bromodichloromethane,0.787,0.06,0,ppb,13.116666666666667
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Chloroform,1.04,0.4,0,ppb,2.6
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Haloacetic acids (HAA5)†,2.19,0.1,60,ppb,21.9
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Nitrate,1.08,0.14,10,ppm,7.714285714285714
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Radium combined (-226 &amp; -228),0.83,0.05,5,pCi/L,16.599999999999998
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Total trihalomethanes (TTHMs)†,4.91,0.15,80,ppb,32.733333333333334
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Barium,35.5,700.0,2000,ppb,0.05071428571428571
+TN,Chapel Hill,37019.0,Chapel Hill Water System,2062,Dibromochloromethane,0.198,0.1,0,ppb,1.98
+TN,Lewisburg,37019.0,Marshall County Bd P.u. #1,10800,Haloacetic acids (HAA5)†,39.5,0.1,60,ppb,395.0
+TN,Lewisburg,37019.0,Marshall County Bd P.u. #1,10800,Total trihalomethanes (TTHMs)†,43.2,0.15,80,ppb,288.00000000000006
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Chromium (hexavalent),0.075,0.02,0,ppb,3.75
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Haloacetic acids (HAA5)†,29.7,0.1,60,ppb,297.0
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Haloacetic acids (HAA9)†,50.6,0.06,0,ppb,843.3333333333334
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Total trihalomethanes (TTHMs)†,37.7,0.15,80,ppb,251.33333333333337
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Manganese,3.61,100.0,0,ppb,0.0361
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Strontium,0.0974,1500.0,0,ppb,6.493333333333333e-05
+TN,Bethpage,37022.0,Castalian Springs-Bethpage U D,12245,Vanadium,0.288,21.0,0,ppb,0.013714285714285714
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Bromodichloromethane,2.96,0.06,0,ppb,49.333333333333336
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Chloroform,6.77,0.4,0,ppb,16.924999999999997
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Chromium (hexavalent),0.09,0.02,0,ppb,4.5
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Haloacetic acids (HAA5)†,22.1,0.1,60,ppb,221.0
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Haloacetic acids (HAA9)†,27.3,0.06,0,ppb,455.00000000000006
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Nitrate,0.398,0.14,10,ppm,2.8428571428571425
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Radium combined (-226 &amp; -228),1.22,0.05,5,pCi/L,24.4
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Total trihalomethanes (TTHMs)†,30.7,0.15,80,ppb,204.66666666666666
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Dibromochloromethane,0.0885,0.1,0,ppb,0.8849999999999999
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Strontium,0.0988,1500.0,0,ppb,6.586666666666666e-05
+TN,Gallatin,37022.0,Gallatin Water Department,50162,Vanadium,0.313,21.0,0,ppb,0.014904761904761905
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Bromodichloromethane,2.68,0.06,0,ppb,44.66666666666667
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Chloroform,7.36,0.4,0,ppb,18.4
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Haloacetic acids (HAA5)†,28.1,0.1,60,ppb,281.0
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Nitrate,0.372,0.14,10,ppm,2.657142857142857
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Total trihalomethanes (TTHMs)†,40.1,0.15,80,ppb,267.33333333333337
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Aluminum,4.61,600.0,0,ppb,0.007683333333333334
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Barium,18.0,700.0,2000,ppb,0.025714285714285714
+TN,Hartsville,37022.0,Hartsville-troudale Wat/sew U,8147,Dibromochloromethane,0.166,0.1,0,ppb,1.66
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Arsenic,0.38,0.004,10,ppb,95.0
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Bromodichloromethane,2.24,0.06,0,ppb,37.333333333333336
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Chloroform,11.1,0.4,0,ppb,27.749999999999996
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Chromium (hexavalent),0.06,0.02,0,ppb,3.0
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Dibromochloromethane,0.318,0.1,0,ppb,3.1799999999999997
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Haloacetic acids (HAA5)†,18.0,0.1,60,ppb,180.0
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Haloacetic acids (HAA9)†,23.9,0.06,0,ppb,398.3333333333333
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Nitrate,0.321,0.14,10,ppm,2.2928571428571427
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Total trihalomethanes (TTHMs)†,23.5,0.15,80,ppb,156.66666666666669
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Barium,17.3,700.0,2000,ppb,0.024714285714285716
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Chlorate,186.3,210.0,0,ppb,0.8871428571428572
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Manganese,0.553,100.0,0,ppb,0.00553
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Strontium,0.101,1500.0,0,ppb,6.733333333333333e-05
+TN,Hendersonville,37022.0,Hendersonville Utility District,54488,Vanadium,0.188,21.0,0,ppb,0.008952380952380953
+TN,Lafayette,37022.0,Lafayette Water System,19146,Bromodichloromethane,4.59,0.06,0,ppb,76.5
+TN,Lafayette,37022.0,Lafayette Water System,19146,Chloroform,11.8,0.4,0,ppb,29.5
+TN,Lafayette,37022.0,Lafayette Water System,19146,Chromium (hexavalent),0.175,0.02,0,ppb,8.75
+TN,Lafayette,37022.0,Lafayette Water System,19146,Dibromochloromethane,1.37,0.1,0,ppb,13.700000000000001
+TN,Lafayette,37022.0,Lafayette Water System,19146,Haloacetic acids (HAA5)†,26.7,0.1,60,ppb,267.0
+TN,Lafayette,37022.0,Lafayette Water System,19146,Haloacetic acids (HAA9)†,27.7,0.06,0,ppb,461.6666666666667
+TN,Lafayette,37022.0,Lafayette Water System,19146,Nitrate,1.85,0.14,10,ppm,13.214285714285714
+TN,Lafayette,37022.0,Lafayette Water System,19146,Radium combined (-226 &amp; -228),0.53,0.05,5,pCi/L,10.6
+TN,Lafayette,37022.0,Lafayette Water System,19146,Total trihalomethanes (TTHMs)†,26.2,0.15,80,ppb,174.66666666666666
+TN,Lafayette,37022.0,Lafayette Water System,19146,Atrazine,0.0363,0.1,3,ppb,0.363
+TN,Lafayette,37022.0,Lafayette Water System,19146,Chlorate,6.0,210.0,0,ppb,0.02857142857142857
+TN,Lafayette,37022.0,Lafayette Water System,19146,Strontium,0.0495,1500.0,0,ppb,3.3e-05
+TN,Lafayette,37022.0,Lafayette Water System,19146,Vanadium,0.05,21.0,0,ppb,0.002380952380952381
+TN,Red Boiling Springs,37022.0,Red Boiling Springs Water System,5823,Bromodichloromethane,1.02,0.06,0,ppb,17.0
+TN,Red Boiling Springs,37022.0,Red Boiling Springs Water System,5823,Chloroform,2.82,0.4,0,ppb,7.049999999999999
+TN,Red Boiling Springs,37022.0,Red Boiling Springs Water System,5823,Haloacetic acids (HAA5)†,13.7,0.1,60,ppb,136.99999999999997
+TN,Red Boiling Springs,37022.0,Red Boiling Springs Water System,5823,Nitrate,1.34,0.14,10,ppm,9.571428571428571
+TN,Red Boiling Springs,37022.0,Red Boiling Springs Water System,5823,Total trihalomethanes (TTHMs)†,22.9,0.15,80,ppb,152.66666666666666
+TN,White House,37022.0,White House Utility District,101775,Bromodichloromethane,4.14,0.06,0,ppb,69.0
+TN,White House,37022.0,White House Utility District,101775,Chloroform,15.6,0.4,0,ppb,39.0
+TN,White House,37022.0,White House Utility District,101775,Chromium (hexavalent),0.109,0.02,0,ppb,5.45
+TN,White House,37022.0,White House Utility District,101775,Dibromochloromethane,0.607,0.1,0,ppb,6.069999999999999
+TN,White House,37022.0,White House Utility District,101775,Haloacetic acids (HAA5)†,32.5,0.1,60,ppb,325.0
+TN,White House,37022.0,White House Utility District,101775,Haloacetic acids (HAA9)†,42.9,0.06,0,ppb,715.0
+TN,White House,37022.0,White House Utility District,101775,Radium combined (-226 &amp; -228),0.3,0.05,5,pCi/L,5.999999999999999
+TN,White House,37022.0,White House Utility District,101775,Total trihalomethanes (TTHMs)†,45.4,0.15,80,ppb,302.6666666666667
+TN,White House,37022.0,White House Utility District,101775,Manganese,0.15,100.0,0,ppb,0.0015
+TN,White House,37022.0,White House Utility District,101775,Nitrate,0.0302,0.14,10,ppm,0.2157142857142857
+TN,White House,37022.0,White House Utility District,101775,Strontium,0.113,1500.0,0,ppb,7.533333333333334e-05
+TN,White House,37022.0,White House Utility District,101775,Vanadium,0.4,21.0,0,ppb,0.01904761904761905
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Atrazine*,0.242,0.1,3,ppb,2.42
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Bromodichloromethane*,4.63,0.06,0,ppb,77.16666666666667
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Chloroform*,13.8,0.4,0,ppb,34.5
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Chromium (hexavalent)*,0.116,0.02,0,ppb,5.8
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Dibromochloromethane*,0.827,0.1,0,ppb,8.27
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Haloacetic acids (HAA5)†,35.3,0.1,60,ppb,352.99999999999994
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Nitrate*,0.541,0.14,10,ppm,3.8642857142857143
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Radium combined (-226 &amp; -228)*,1.88,0.05,5,pCi/L,37.599999999999994
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Total trihalomethanes (TTHMs)†,48.4,0.15,80,ppb,322.6666666666667
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Barium*,21.0,700.0,2000,ppb,0.03
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Chlorate*,191.8,210.0,0,ppb,0.9133333333333334
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Manganese*,5.94,100.0,0,ppb,0.0594
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Strontium*,0.119,1500.0,0,ppb,7.933333333333333e-05
+TN,Cumberland City,37023.0,Cumberland City Water Department,1077,Vanadium*,0.228,21.0,0,ppb,0.010857142857142857
+TN,Dover,37023.0,Doalnara Restoration Society USA,123,Nitrate,0.341,0.14,10,ppm,2.4357142857142855
+TN,Dover,37023.0,Doalnara Restoration Society USA,123,Radium combined (-226 &amp; -228),0.37,0.05,5,pCi/L,7.3999999999999995
+TN,Dover,37023.0,Doalnara Restoration Society USA,123,Bromoform,0.0846,0.5,0,ppb,0.1692
+TN,Bumpus M Ills,37023.0,Loon Bay Property Owners Association,134,Haloacetic acids (HAA5)†,0.788,0.1,60,ppb,7.88
+TN,Bumpus M Ills,37023.0,Loon Bay Property Owners Association,134,Radium combined (-226 &amp; -228),1.05,0.05,5,pCi/L,21.0
+TN,Bumpus M Ills,37023.0,Loon Bay Property Owners Association,134,Total trihalomethanes (TTHMs)†,2.5,0.15,80,ppb,16.666666666666668
+TN,Bumpus M Ills,37023.0,Loon Bay Property Owners Association,134,Monochlorobenzene (chlorobenzene),0.131,70.0,100,ppb,0.0018714285714285714
+TN,Bumpus M Ills,37023.0,Loon Bay Property Owners Association,134,Nitrate,0.257,0.14,10,ppm,1.8357142857142856
+TN,Dover,37023.0,North Stewart Utility District,5550,Bromodichloromethane,3.86,0.06,0,ppb,64.33333333333333
+TN,Dover,37023.0,North Stewart Utility District,5550,Chloroform,20.5,0.4,0,ppb,51.25
+TN,Dover,37023.0,North Stewart Utility District,5550,Dibromochloromethane,0.398,0.1,0,ppb,3.98
+TN,Dover,37023.0,North Stewart Utility District,5550,Haloacetic acids (HAA5)†,45.4,0.1,60,ppb,453.99999999999994
+TN,Dover,37023.0,North Stewart Utility District,5550,Nitrate,0.371,0.14,10,ppm,2.65
+TN,Dover,37023.0,North Stewart Utility District,5550,Nitrate and nitrite,0.64,0.14,10,ppm,4.571428571428571
+TN,Dover,37023.0,North Stewart Utility District,5550,Radium combined (-226 &amp; -228),0.65,0.05,5,pCi/L,13.0
+TN,Dover,37023.0,North Stewart Utility District,5550,Total trihalomethanes (TTHMs)†,56.8,0.15,80,ppb,378.6666666666667
+TN,Dover,37023.0,North Stewart Utility District,5550,Barium,21.9,700.0,2000,ppb,0.031285714285714285
+TN,Erin,37023.0,West Stewart Utility District,526,Haloacetic acids (HAA5)†,0.463,0.1,60,ppb,4.63
+TN,Erin,37023.0,West Stewart Utility District,526,Radium combined (-226 &amp; -228),0.58,0.05,5,pCi/L,11.599999999999998
+TN,Erin,37023.0,West Stewart Utility District,526,Total trihalomethanes (TTHMs)†,1.19,0.15,80,ppb,7.933333333333334
+TN,Erin,37023.0,West Stewart Utility District,526,Barium,7.47,700.0,2000,ppb,0.010671428571428571
+TN,Erin,37023.0,West Stewart Utility District,526,Bromodichloromethane,0.0582,0.06,0,ppb,0.9700000000000001
+TN,Erin,37023.0,West Stewart Utility District,526,Chloroform,0.413,0.4,0,ppb,1.0325
+TN,Erin,37023.0,West Stewart Utility District,526,Dibromochloromethane,0.0418,0.1,0,ppb,0.4179999999999999
+TN,Erin,37023.0,West Stewart Utility District,526,Nitrate,0.165,0.14,10,ppm,1.1785714285714286
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Bromodichloromethane,1.94,0.06,0,ppb,32.333333333333336
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Chloroform,4.85,0.4,0,ppb,12.124999999999998
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Haloacetic acids (HAA5)†,25.2,0.1,60,ppb,251.99999999999997
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Total trihalomethanes (TTHMs)†,37.8,0.15,80,ppb,252.0
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Barium,21.1,700.0,2000,ppb,0.030142857142857145
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Dibromochloromethane,0.108,0.1,0,ppb,1.0799999999999998
+TN,Lyles,37025.0,Bon Aqua-lyles Utility District,10728,Nitrate,0.228,0.14,10,ppm,1.6285714285714286
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Bromodichloromethane*,2.3,0.06,0,ppb,38.33333333333333
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Chloroform*,9.47,0.4,0,ppb,23.675
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Chromium (hexavalent)*,0.138,0.02,0,ppb,6.9
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Haloacetic acids (HAA5)†,18.1,0.1,60,ppb,181.0
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Haloacetic acids (HAA9)*†,32.3,0.06,0,ppb,538.3333333333333
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Total trihalomethanes (TTHMs)†,26.3,0.15,80,ppb,175.33333333333334
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Chlorate*,276.1,210.0,0,ppb,1.3147619047619048
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Dibromochloromethane*,0.193,0.1,0,ppb,1.93
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Manganese*,0.788,100.0,0,ppb,0.00788
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Nitrate*,0.264,0.14,10,ppm,1.8857142857142857
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Strontium*,0.103,1500.0,0,ppb,6.866666666666666e-05
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Vanadium*,0.338,21.0,0,ppb,0.016095238095238096
+TN,Dickson,37025.0,Sylvia-tenn City-pond Utility District,5233,Xylenes (total)*,0.0321,1800.0,10000,ppb,1.783333333333333e-05
+TN,Only,37025.0,Turney Center,1558,Arsenic,0.645,0.004,10,ppb,161.25
+TN,Only,37025.0,Turney Center,1558,Bromodichloromethane,4.09,0.06,0,ppb,68.16666666666667
+TN,Only,37025.0,Turney Center,1558,Chloroform,33.3,0.4,0,ppb,83.24999999999999
+TN,Only,37025.0,Turney Center,1558,Dibromochloromethane,0.216,0.1,0,ppb,2.1599999999999997
+TN,Only,37025.0,Turney Center,1558,Haloacetic acids (HAA5)†,39.1,0.1,60,ppb,391.0
+TN,Only,37025.0,Turney Center,1558,Radium combined (-226 &amp; -228),1.01,0.05,5,pCi/L,20.2
+TN,Only,37025.0,Turney Center,1558,Total trihalomethanes (TTHMs)†,64.7,0.15,80,ppb,431.33333333333337
+TN,Only,37025.0,Turney Center,1558,Atrazine,0.199,0.1,3,ppb,1.99
+TN,Only,37025.0,Turney Center,1558,Barium,19.8,700.0,2000,ppb,0.028285714285714286
+TN,Only,37025.0,Turney Center,1558,Nitrate,0.168,0.14,10,ppm,1.2
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Bromodichloromethane,2.01,0.06,0,ppb,33.5
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Chloroform,4.56,0.4,0,ppb,11.399999999999999
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Dibromochloromethane,0.569,0.1,0,ppb,5.6899999999999995
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Haloacetic acids (HAA5)†,5.06,0.1,60,ppb,50.599999999999994
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Nitrate,0.7,0.14,10,ppm,4.999999999999999
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Radium combined (-226 &amp; -228),0.79,0.05,5,pCi/L,15.8
+TN,Vanleer,37025.0,Vanleer Water Department,2995,Total trihalomethanes (TTHMs)†,6.15,0.15,80,ppb,41.00000000000001
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Bromodichloromethane,3.75,0.06,0,ppb,62.5
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Chloroform,20.1,0.4,0,ppb,50.25
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Haloacetic acids (HAA5)†,34.2,0.1,60,ppb,342.0
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Nitrate,0.347,0.14,10,ppm,2.478571428571428
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Radium combined (-226 &amp; -228),0.55,0.05,5,pCi/L,11.0
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Total trihalomethanes (TTHMs)†,43.5,0.15,80,ppb,290.0
+TN,Gainsboro,37030.0,Gainesboro Water System,1499,Barium,17.4,700.0,2000,ppb,0.024857142857142855
+TN,Linden,37033.0,Linden Water Department,6050,Arsenic,0.65,0.004,10,ppb,162.5
+TN,Linden,37033.0,Linden Water Department,6050,Haloacetic acids (HAA5)†,30.6,0.1,60,ppb,306.0
+TN,Linden,37033.0,Linden Water Department,6050,Nitrate,1.05,0.14,10,ppm,7.5
+TN,Linden,37033.0,Linden Water Department,6050,Nitrate and nitrite,1.17,0.14,10,ppm,8.357142857142856
+TN,Linden,37033.0,Linden Water Department,6050,Radium combined (-226 &amp; -228),0.9,0.05,5,pCi/L,18.0
+TN,Linden,37033.0,Linden Water Department,6050,Total trihalomethanes (TTHMs)†,46.4,0.15,80,ppb,309.3333333333333
+TN,Linden,37033.0,Linden Water Department,6050,Barium,395.5,700.0,2000,ppb,0.565
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Bromodichloromethane,2.95,0.06,0,ppb,49.16666666666667
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Chloroform,13.1,0.4,0,ppb,32.75
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Haloacetic acids (HAA5)†,32.7,0.1,60,ppb,327.0
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Radium combined (-226 &amp; -228),0.48,0.05,5,pCi/L,9.6
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Total trihalomethanes (TTHMs)†,46.2,0.15,80,ppb,308.00000000000006
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Atrazine,0.0172,0.1,3,ppb,0.172
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Barium,25.4,700.0,2000,ppb,0.03628571428571428
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Dibromochloromethane,0.0982,0.1,0,ppb,0.9819999999999999
+TN,Lobelville,37033.0,Lobelville Water Department,3298,Nitrate,0.234,0.14,10,ppm,1.6714285714285713
+TN,Ardmore,37047.0,Ardmore Water System,1691,Haloacetic acids (HAA5)†,26.5,0.1,60,ppb,265.0
+TN,Ardmore,37047.0,Ardmore Water System,1691,Nitrate,1.72,0.14,10,ppm,12.285714285714285
+TN,Ardmore,37047.0,Ardmore Water System,1691,Nitrate and nitrite,1.77,0.14,10,ppm,12.642857142857142
+TN,Ardmore,37047.0,Ardmore Water System,1691,Total trihalomethanes (TTHMs)†,27.6,0.15,80,ppb,184.00000000000003
+TN,Pulaski,37047.0,Fairview Utility District,5712,Atrazine*,0.278,0.1,3,ppb,2.7800000000000002
+TN,Pulaski,37047.0,Fairview Utility District,5712,Bromodichloromethane*,3.48,0.06,0,ppb,58.0
+TN,Pulaski,37047.0,Fairview Utility District,5712,Chloroform*,20.9,0.4,0,ppb,52.24999999999999
+TN,Pulaski,37047.0,Fairview Utility District,5712,Chromium (hexavalent)*,0.0963,0.02,0,ppb,4.8149999999999995
+TN,Pulaski,37047.0,Fairview Utility District,5712,Dibromochloromethane*,1.14,0.1,0,ppb,11.399999999999999
+TN,Pulaski,37047.0,Fairview Utility District,5712,Haloacetic acids (HAA5)†,48.2,0.1,60,ppb,482.0
+TN,Pulaski,37047.0,Fairview Utility District,5712,Haloacetic acids (HAA9)*†,37.5,0.06,0,ppb,625.0
+TN,Pulaski,37047.0,Fairview Utility District,5712,Nitrate*,0.908,0.14,10,ppm,6.485714285714285
+TN,Pulaski,37047.0,Fairview Utility District,5712,Total trihalomethanes (TTHMs)†,48.8,0.15,80,ppb,325.3333333333333
+TN,Pulaski,37047.0,Fairview Utility District,5712,Barium*,14.2,700.0,2000,ppb,0.020285714285714285
+TN,Pulaski,37047.0,Fairview Utility District,5712,Manganese*,0.66,100.0,0,ppb,0.0066
+TN,Pulaski,37047.0,Fairview Utility District,5712,Strontium*,0.0784,1500.0,0,ppb,5.2266666666666665e-05
+TN,Pulaski,37047.0,Fairview Utility District,5712,Vanadium*,0.6,21.0,0,ppb,0.02857142857142857
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Atrazine*,0.245,0.1,3,ppb,2.4499999999999997
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Bromodichloromethane*,3.47,0.06,0,ppb,57.833333333333336
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chloroform*,10.6,0.4,0,ppb,26.499999999999996
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chromium (hexavalent)*,0.0625,0.02,0,ppb,3.125
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Dibromochloromethane*,0.39,0.1,0,ppb,3.9
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Haloacetic acids (HAA5)†,36.0,0.1,60,ppb,360.0
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Haloacetic acids (HAA9)*†,49.0,0.06,0,ppb,816.6666666666667
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Nitrate*,0.938,0.14,10,ppm,6.699999999999999
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Total trihalomethanes (TTHMs)†,39.8,0.15,80,ppb,265.3333333333333
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Barium*,17.9,700.0,2000,ppb,0.025571428571428568
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chlorate*,203.8,210.0,0,ppb,0.9704761904761905
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Manganese*,1.36,100.0,0,ppb,0.013600000000000001
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Strontium*,0.111,1500.0,0,ppb,7.4e-05
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Vanadium*,0.2,21.0,0,ppb,0.009523809523809525
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Atrazine*,0.245,0.1,3,ppb,2.4499999999999997
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Bromodichloromethane*,3.47,0.06,0,ppb,57.833333333333336
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chloroform*,10.6,0.4,0,ppb,26.499999999999996
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chromium (hexavalent)*,0.0625,0.02,0,ppb,3.125
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Dibromochloromethane*,0.39,0.1,0,ppb,3.9
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Haloacetic acids (HAA5)†,36.0,0.1,60,ppb,360.0
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Haloacetic acids (HAA9)*†,49.0,0.06,0,ppb,816.6666666666667
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Nitrate*,0.938,0.14,10,ppm,6.699999999999999
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Total trihalomethanes (TTHMs)†,39.8,0.15,80,ppb,265.3333333333333
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Barium*,17.9,700.0,2000,ppb,0.025571428571428568
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Chlorate*,203.8,210.0,0,ppb,0.9704761904761905
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Manganese*,1.36,100.0,0,ppb,0.013600000000000001
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Strontium*,0.111,1500.0,0,ppb,7.4e-05
+TN,Fayetteville,37047.0,Lincoln County Bd of P.u. #2,2179,Vanadium*,0.2,21.0,0,ppb,0.009523809523809525
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Bromodichloromethane,8.81,0.06,0,ppb,146.83333333333334
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Bromoform,1.46,0.5,0,ppb,2.92
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Chloroform,12.3,0.4,0,ppb,30.75
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Chromium (hexavalent)*,0.315,0.02,0,ppb,15.75
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Dibromoacetic acid,2.31,0.04,0,ppb,57.75
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Dibromochloromethane,6.19,0.1,0,ppb,61.9
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Dichloroacetic acid,3.51,0.2,0,ppb,17.549999999999997
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Haloacetic acids (HAA5)†,12.7,0.1,60,ppb,126.99999999999999
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Haloacetic acids (HAA9)*†,6.77,0.06,0,ppb,112.83333333333333
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Nitrate*,4.37,0.14,10,ppm,31.21428571428571
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Radium combined (-226 &amp; -228)*,0.19,0.05,5,pCi/L,3.8
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Total trihalomethanes (TTHMs)†,28.7,0.15,80,ppb,191.33333333333334
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Trichloroacetic acid,1.15,0.1,0,ppb,11.499999999999998
+TN,Lynnville,37047.0,Lynnville Water Department,1062,14-Dioxane*,0.0243,0.35,0,ppb,0.06942857142857142
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Barium*,41.1,700.0,2000,ppb,0.05871428571428572
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Chlorate*,101.1,210.0,0,ppb,0.48142857142857143
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Di(2-ethylhexyl) phthalate*,2.32,3.0,6,ppb,0.7733333333333333
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Diquat*,0.095,6.0,20,ppb,0.015833333333333335
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Glyphosate*,0.1,5.0,700,ppb,0.02
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Manganese*,7.61,100.0,0,ppb,0.0761
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Molybdenum*,1.24,40.0,0,ppb,0.031
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Monobromoacetic acid*,0.443,25.0,0,ppb,0.01772
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Monochloroacetic acid,1.32,53.0,0,ppb,0.02490566037735849
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Selenium*,1.0,30.0,50,ppb,0.03333333333333333
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Simazine*,0.03,0.1,4,ppb,0.3
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Strontium*,0.0965,1500.0,0,ppb,6.433333333333333e-05
+TN,Lynnville,37047.0,Lynnville Water Department,1062,Vanadium*,0.889,21.0,0,ppb,0.042333333333333334
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Atrazine*,0.278,0.1,3,ppb,2.7800000000000002
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Bromodichloromethane*,3.48,0.06,0,ppb,58.0
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Chloroform*,20.9,0.4,0,ppb,52.24999999999999
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Chromium (hexavalent),0.0573,0.02,0,ppb,2.8649999999999998
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Dibromochloromethane*,1.14,0.1,0,ppb,11.399999999999999
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Haloacetic acids (HAA5)†,44.6,0.1,60,ppb,446.0
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Haloacetic acids (HAA9)*†,37.5,0.06,0,ppb,625.0
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Nitrate*,0.908,0.14,10,ppm,6.485714285714285
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Total trihalomethanes (TTHMs)†,49.1,0.15,80,ppb,327.33333333333337
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Barium*,14.2,700.0,2000,ppb,0.020285714285714285
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Chlorate,2.4,210.0,0,ppb,0.011428571428571429
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Manganese,0.155,100.0,0,ppb,0.00155
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Strontium,0.0865,1500.0,0,ppb,5.766666666666666e-05
+TN,Minor Hill,37047.0,Minor Hill Water Utility District,6808,Vanadium,0.561,21.0,0,ppb,0.026714285714285718
+TN,Pulaski,37047.0,Pulaski Water System,10709,Atrazine,0.278,0.1,3,ppb,2.7800000000000002
+TN,Pulaski,37047.0,Pulaski Water System,10709,Bromodichloromethane,3.48,0.06,0,ppb,58.0
+TN,Pulaski,37047.0,Pulaski Water System,10709,Chloroform,20.9,0.4,0,ppb,52.24999999999999
+TN,Pulaski,37047.0,Pulaski Water System,10709,Chromium (hexavalent),0.0963,0.02,0,ppb,4.8149999999999995
+TN,Pulaski,37047.0,Pulaski Water System,10709,Dibromochloromethane,1.14,0.1,0,ppb,11.399999999999999
+TN,Pulaski,37047.0,Pulaski Water System,10709,Haloacetic acids (HAA5)†,36.3,0.1,60,ppb,362.99999999999994
+TN,Pulaski,37047.0,Pulaski Water System,10709,Haloacetic acids (HAA9)†,37.5,0.06,0,ppb,625.0
+TN,Pulaski,37047.0,Pulaski Water System,10709,Nitrate,0.908,0.14,10,ppm,6.485714285714285
+TN,Pulaski,37047.0,Pulaski Water System,10709,Total trihalomethanes (TTHMs)†,36.5,0.15,80,ppb,243.33333333333334
+TN,Pulaski,37047.0,Pulaski Water System,10709,Barium,14.2,700.0,2000,ppb,0.020285714285714285
+TN,Pulaski,37047.0,Pulaski Water System,10709,Manganese,0.66,100.0,0,ppb,0.0066
+TN,Pulaski,37047.0,Pulaski Water System,10709,Strontium,0.0784,1500.0,0,ppb,5.2266666666666665e-05
+TN,Pulaski,37047.0,Pulaski Water System,10709,Vanadium,0.6,21.0,0,ppb,0.02857142857142857
+TN,Prospect,37047.0,South Giles Utility District,3244,Haloacetic acids (HAA5)†,54.7,0.1,60,ppb,547.0
+TN,Prospect,37047.0,South Giles Utility District,3244,Total trihalomethanes (TTHMs)†,53.2,0.15,80,ppb,354.6666666666667
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Atrazine*,0.278,0.1,3,ppb,2.7800000000000002
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Bromodichloromethane*,3.48,0.06,0,ppb,58.0
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Chloroform*,20.9,0.4,0,ppb,52.24999999999999
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Chromium (hexavalent)*,0.0963,0.02,0,ppb,4.8149999999999995
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Dibromochloromethane*,1.14,0.1,0,ppb,11.399999999999999
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Haloacetic acids (HAA5)†,47.2,0.1,60,ppb,472.0
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Haloacetic acids (HAA9)*†,37.5,0.06,0,ppb,625.0
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Nitrate*,0.908,0.14,10,ppm,6.485714285714285
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Total trihalomethanes (TTHMs)†,47.1,0.15,80,ppb,314.0
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Barium*,14.2,700.0,2000,ppb,0.020285714285714285
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Manganese*,0.66,100.0,0,ppb,0.0066
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Strontium*,0.0784,1500.0,0,ppb,5.2266666666666665e-05
+TN,Pulaski,37047.0,Tarpley Shop Utility District,2714,Vanadium*,0.6,21.0,0,ppb,0.02857142857142857
+TN,Erin,37050.0,Erin Water Department,7283,Atrazine,0.242,0.1,3,ppb,2.42
+TN,Erin,37050.0,Erin Water Department,7283,Bromodichloromethane,4.63,0.06,0,ppb,77.16666666666667
+TN,Erin,37050.0,Erin Water Department,7283,Chloroform,13.8,0.4,0,ppb,34.5
+TN,Erin,37050.0,Erin Water Department,7283,Chromium (hexavalent),0.116,0.02,0,ppb,5.8
+TN,Erin,37050.0,Erin Water Department,7283,Dibromochloromethane,0.827,0.1,0,ppb,8.27
+TN,Erin,37050.0,Erin Water Department,7283,Haloacetic acids (HAA5)†,37.8,0.1,60,ppb,377.99999999999994
+TN,Erin,37050.0,Erin Water Department,7283,Nitrate,0.541,0.14,10,ppm,3.8642857142857143
+TN,Erin,37050.0,Erin Water Department,7283,Radium combined (-226 &amp; -228),1.88,0.05,5,pCi/L,37.599999999999994
+TN,Erin,37050.0,Erin Water Department,7283,Total trihalomethanes (TTHMs)†,52.3,0.15,80,ppb,348.6666666666667
+TN,Erin,37050.0,Erin Water Department,7283,Barium,21.0,700.0,2000,ppb,0.03
+TN,Erin,37050.0,Erin Water Department,7283,Chlorate,191.8,210.0,0,ppb,0.9133333333333334
+TN,Erin,37050.0,Erin Water Department,7283,Manganese,5.94,100.0,0,ppb,0.0594
+TN,Erin,37050.0,Erin Water Department,7283,Strontium,0.119,1500.0,0,ppb,7.933333333333333e-05
+TN,Erin,37050.0,Erin Water Department,7283,Vanadium,0.228,21.0,0,ppb,0.010857142857142857
+TN,Tennessee Ridge,37050.0,Tennessee Ridge Water System,3548,Haloacetic acids (HAA5)†,6.12,0.1,60,ppb,61.199999999999996
+TN,Tennessee Ridge,37050.0,Tennessee Ridge Water System,3548,Nitrate,0.863,0.14,10,ppm,6.164285714285714
+TN,Tennessee Ridge,37050.0,Tennessee Ridge Water System,3548,Radium combined (-226 &amp; -228),0.56,0.05,5,pCi/L,11.200000000000001
+TN,Tennessee Ridge,37050.0,Tennessee Ridge Water System,3548,Total trihalomethanes (TTHMs)†,20.7,0.15,80,ppb,138.0
+TN,Mcewen,37061.0,Mcewen Water Department,2948,Haloacetic acids (HAA5)†,0.768,0.1,60,ppb,7.68
+TN,Mcewen,37061.0,Mcewen Water Department,2948,Nitrate,1.13,0.14,10,ppm,8.07142857142857
+TN,Mcewen,37061.0,Mcewen Water Department,2948,Total trihalomethanes (TTHMs)†,1.22,0.15,80,ppb,8.133333333333333
+TN,Mcewen,37061.0,Mcewen Water Department,2948,Chloroform,0.302,0.4,0,ppb,0.7549999999999999
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Bromodichloromethane,2.42,0.06,0,ppb,40.333333333333336
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Chloroform,8.4,0.4,0,ppb,21.0
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Dibromochloromethane,0.232,0.1,0,ppb,2.32
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Haloacetic acids (HAA5)†,33.7,0.1,60,ppb,337.0
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Nitrate,0.649,0.14,10,ppm,4.635714285714285
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Radium combined (-226 &amp; -228),0.42,0.05,5,pCi/L,8.399999999999999
+TN,New Johnsonville,37061.0,New Johnsonville Water Department,2460,Total trihalomethanes (TTHMs)†,49.3,0.15,80,ppb,328.6666666666667
+TN,Waverly,37061.0,Waverly Water Department,8264,Arsenic,1.1,0.004,10,ppb,275.0
+TN,Waverly,37061.0,Waverly Water Department,8264,Bromodichloromethane,5.98,0.06,0,ppb,99.66666666666667
+TN,Waverly,37061.0,Waverly Water Department,8264,Bromoform,1.46,0.5,0,ppb,2.92
+TN,Waverly,37061.0,Waverly Water Department,8264,Chloroform,7.67,0.4,0,ppb,19.174999999999997
+TN,Waverly,37061.0,Waverly Water Department,8264,Dibromoacetic acid,0.0967,0.04,0,ppb,2.4175
+TN,Waverly,37061.0,Waverly Water Department,8264,Dibromochloromethane,4.48,0.1,0,ppb,44.800000000000004
+TN,Waverly,37061.0,Waverly Water Department,8264,Dichloroacetic acid,2.95,0.2,0,ppb,14.75
+TN,Waverly,37061.0,Waverly Water Department,8264,Haloacetic acids (HAA5)†,4.91,0.1,60,ppb,49.1
+TN,Waverly,37061.0,Waverly Water Department,8264,Nitrate,7.84,0.14,10,ppm,55.99999999999999
+TN,Waverly,37061.0,Waverly Water Department,8264,Total trihalomethanes (TTHMs)†,19.6,0.15,80,ppb,130.66666666666669
+TN,Waverly,37061.0,Waverly Water Department,8264,124-Trichlorobenzene,0.149,5.0,70,ppb,0.0298
+TN,Waverly,37061.0,Waverly Water Department,8264,Antimony,0.004,1.0,6,ppb,0.004
+TN,Waverly,37061.0,Waverly Water Department,8264,Barium,86.3,700.0,2000,ppb,0.12328571428571428
+TN,Waverly,37061.0,Waverly Water Department,8264,Mercury (inorganic),0.047,1.2,2,ppb,0.03916666666666667
+TN,Waverly,37061.0,Waverly Water Department,8264,Monochloroacetic acid,0.6,53.0,0,ppb,0.011320754716981131
+TN,Waverly,37061.0,Waverly Water Department,8264,Selenium,2.5,30.0,50,ppb,0.08333333333333333
+TN,Waverly,37061.0,Waverly Water Department,8264,Thallium,0.01,0.1,2,ppb,0.09999999999999999
+TN,Waverly,37061.0,Waverly Water Department,8264,Trichloroacetic acid,0.15,0.1,0,ppb,1.4999999999999998
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Bromodichloromethane,1.18,0.06,0,ppb,19.666666666666668
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Chloroform,4.93,0.4,0,ppb,12.325
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Chromium (hexavalent),0.0988,0.02,0,ppb,4.9399999999999995
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Haloacetic acids (HAA5)†,21.9,0.1,60,ppb,218.99999999999997
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Haloacetic acids (HAA9)†,35.9,0.06,0,ppb,598.3333333333334
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Nitrate,0.42,0.14,10,ppm,2.9999999999999996
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Total trihalomethanes (TTHMs)†,31.3,0.15,80,ppb,208.66666666666669
+TN,Columbia,37091.0,Columbia Power and Water System,64520,14-Dioxane,0.055,0.35,0,ppb,0.15714285714285717
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Atrazine,0.127,0.1,3,ppb,1.27
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Barium,22.3,700.0,2000,ppb,0.031857142857142855
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Chlorate,160.5,210.0,0,ppb,0.7642857142857142
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Manganese,0.413,100.0,0,ppb,0.00413
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Strontium,0.088,1500.0,0,ppb,5.8666666666666665e-05
+TN,Columbia,37091.0,Columbia Power and Water System,64520,Vanadium,0.588,21.0,0,ppb,0.027999999999999997
+TN,Columbia,37091.0,Maury County Water System,18955,Chromium (hexavalent),0.0619,0.02,0,ppb,3.0949999999999998
+TN,Columbia,37091.0,Maury County Water System,18955,Haloacetic acids (HAA5)†,30.6,0.1,60,ppb,306.0
+TN,Columbia,37091.0,Maury County Water System,18955,Haloacetic acids (HAA9)†,38.8,0.06,0,ppb,646.6666666666666
+TN,Columbia,37091.0,Maury County Water System,18955,Total trihalomethanes (TTHMs)†,41.4,0.15,80,ppb,276.0
+TN,Columbia,37091.0,Maury County Water System,18955,Chlorate,375.2,210.0,0,ppb,1.7866666666666666
+TN,Columbia,37091.0,Maury County Water System,18955,Manganese,1.88,100.0,0,ppb,0.018799999999999997
+TN,Columbia,37091.0,Maury County Water System,18955,Strontium,0.103,1500.0,0,ppb,6.866666666666666e-05
+TN,Columbia,37091.0,Maury County Water System,18955,Vanadium,0.502,21.0,0,ppb,0.023904761904761904
+TN,Clifton,37096.0,Clifton Water Department,4032,Bromodichloromethane,5.1,0.06,0,ppb,85.0
+TN,Clifton,37096.0,Clifton Water Department,4032,Chloroform,14.7,0.4,0,ppb,36.74999999999999
+TN,Clifton,37096.0,Clifton Water Department,4032,Dibromochloromethane,1.08,0.1,0,ppb,10.8
+TN,Clifton,37096.0,Clifton Water Department,4032,Haloacetic acids (HAA5)†,31.6,0.1,60,ppb,316.0
+TN,Clifton,37096.0,Clifton Water Department,4032,Nitrate,1.38,0.14,10,ppm,9.857142857142856
+TN,Clifton,37096.0,Clifton Water Department,4032,Total trihalomethanes (TTHMs)†,51.8,0.15,80,ppb,345.3333333333333
+TN,Clifton,37096.0,Clifton Water Department,4032,Atrazine,0.071,0.1,3,ppb,0.7099999999999999
+TN,Clifton,37096.0,Clifton Water Department,4032,Barium,22.6,700.0,2000,ppb,0.032285714285714286
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Haloacetic acids (HAA5)†,1.41,0.1,60,ppb,14.099999999999998
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Radium combined (-226 &amp; -228),0.87,0.05,5,pCi/L,17.4
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Total trihalomethanes (TTHMs)†,2.93,0.15,80,ppb,19.533333333333335
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Barium,11.5,700.0,2000,ppb,0.016428571428571428
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Chloroform,0.56,0.4,0,ppb,1.4000000000000001
+TN,Collinwood,37096.0,Collinwood Water Department,1922,Nitrate,0.0552,0.14,10,ppm,0.39428571428571424
+TN,Hohenwald,37096.0,Hohenwald Water System,10906,Nitrate,0.545,0.14,10,ppm,3.892857142857143
+TN,Hohenwald,37096.0,Hohenwald Water System,10906,Barium,8.31,700.0,2000,ppb,0.011871428571428573
+TN,Hohenwald,37096.0,Hohenwald Water System,10906,Chloroform,0.146,0.4,0,ppb,0.36499999999999994
+TN,Hohenwald,37096.0,Hohenwald Water System,10906,Haloacetic acids (HAA5)†,0.104,0.1,60,ppb,1.0399999999999998
+TN,Hohenwald,37096.0,Hohenwald Water System,10906,Total trihalomethanes (TTHMs)†,0.145,0.15,80,ppb,0.9666666666666667
+TN,Summertown,37096.0,The Farm Water System,180,Bromodichloromethane,0.489,0.06,0,ppb,8.15
+TN,Summertown,37096.0,The Farm Water System,180,Chloroform,1.77,0.4,0,ppb,4.425
+TN,Summertown,37096.0,The Farm Water System,180,Nitrate,0.361,0.14,10,ppm,2.5785714285714283
+TN,Summertown,37096.0,The Farm Water System,180,Total trihalomethanes (TTHMs)†,0.74,0.15,80,ppb,4.933333333333334
+TN,Summertown,37096.0,The Farm Water System,180,Barium,6.09,700.0,2000,ppb,0.0087
+TN,Summertown,37096.0,The Farm Water System,180,Dibromochloromethane,0.0751,0.1,0,ppb,0.751
+TN,Summertown,37096.0,The Farm Water System,180,Haloacetic acids (HAA5)†,0.2,0.1,60,ppb,2.0
+TN,Summertown,37096.0,The Farm Water System,180,Xylenes (total),0.21,1800.0,10000,ppb,0.00011666666666666667
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Bromodichloromethane*,3.95,0.06,0,ppb,65.83333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Chloroform*,18.3,0.4,0,ppb,45.75
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Dibromochloromethane*,0.66,0.1,0,ppb,6.6
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Nitrate*,0.414,0.14,10,ppm,2.957142857142857
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Radium combined (-226 &amp; -228)*,1.16,0.05,5,pCi/L,23.199999999999996
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Total trihalomethanes (TTHMs)†,27.8,0.15,80,ppb,185.33333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Aluminum*,47.7,600.0,0,ppb,0.0795
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Atrazine*,0.0516,0.1,3,ppb,0.516
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Barium*,12.4,700.0,2000,ppb,0.017714285714285714
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Bromodichloromethane*,3.95,0.06,0,ppb,65.83333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Chloroform*,18.3,0.4,0,ppb,45.75
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Dibromochloromethane*,0.66,0.1,0,ppb,6.6
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Nitrate*,0.414,0.14,10,ppm,2.957142857142857
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Radium combined (-226 &amp; -228)*,1.16,0.05,5,pCi/L,23.199999999999996
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Total trihalomethanes (TTHMs)†,27.8,0.15,80,ppb,185.33333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Aluminum*,47.7,600.0,0,ppb,0.0795
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Atrazine*,0.0516,0.1,3,ppb,0.516
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Barium*,12.4,700.0,2000,ppb,0.017714285714285714
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Bromodichloromethane*,3.95,0.06,0,ppb,65.83333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Chloroform*,18.3,0.4,0,ppb,45.75
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Dibromochloromethane*,0.66,0.1,0,ppb,6.6
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Nitrate*,0.414,0.14,10,ppm,2.957142857142857
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Radium combined (-226 &amp; -228)*,1.16,0.05,5,pCi/L,23.199999999999996
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Total trihalomethanes (TTHMs)†,27.8,0.15,80,ppb,185.33333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Aluminum*,47.7,600.0,0,ppb,0.0795
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Atrazine*,0.0516,0.1,3,ppb,0.516
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Barium*,12.4,700.0,2000,ppb,0.017714285714285714
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Bromodichloromethane*,3.95,0.06,0,ppb,65.83333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Chloroform*,18.3,0.4,0,ppb,45.75
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Dibromochloromethane*,0.66,0.1,0,ppb,6.6
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Haloacetic acids (HAA5)†,16.2,0.1,60,ppb,161.99999999999997
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Nitrate*,0.414,0.14,10,ppm,2.957142857142857
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Radium combined (-226 &amp; -228)*,1.16,0.05,5,pCi/L,23.199999999999996
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Total trihalomethanes (TTHMs)†,27.8,0.15,80,ppb,185.33333333333334
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Aluminum*,47.7,600.0,0,ppb,0.0795
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Atrazine*,0.0516,0.1,3,ppb,0.516
+TN,Waynesboro,37096.0,Wayne County B. P. Util. #1,128,Barium*,12.4,700.0,2000,ppb,0.017714285714285714
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Bromodichloromethane,3.95,0.06,0,ppb,65.83333333333334
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Chloroform,18.3,0.4,0,ppb,45.75
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Dibromochloromethane,0.66,0.1,0,ppb,6.6
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Haloacetic acids (HAA5)†,25.1,0.1,60,ppb,251.0
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Nitrate,0.414,0.14,10,ppm,2.957142857142857
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Radium combined (-226 &amp; -228),1.16,0.05,5,pCi/L,23.199999999999996
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Total trihalomethanes (TTHMs)†,34.8,0.15,80,ppb,232.0
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Aluminum,47.7,600.0,0,ppb,0.0795
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Atrazine,0.0516,0.1,3,ppb,0.516
+TN,Waynesboro,37096.0,Waynesboro Water System,4194,Barium,12.4,700.0,2000,ppb,0.017714285714285714
+TN,Altamont,37110.0,Big Creek Utility District,8044,Bromodichloromethane,5.17,0.06,0,ppb,86.16666666666667
+TN,Altamont,37110.0,Big Creek Utility District,8044,Chloroform,14.0,0.4,0,ppb,35.0
+TN,Altamont,37110.0,Big Creek Utility District,8044,Dibromochloromethane,1.27,0.1,0,ppb,12.7
+TN,Altamont,37110.0,Big Creek Utility District,8044,Haloacetic acids (HAA5)†,23.7,0.1,60,ppb,236.99999999999997
+TN,Altamont,37110.0,Big Creek Utility District,8044,Total trihalomethanes (TTHMs)†,37.9,0.15,80,ppb,252.66666666666666
+TN,Altamont,37110.0,Big Creek Utility District,8044,Nitrate,0.0666,0.14,10,ppm,0.4757142857142857
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Bromodichloromethane,7.14,0.06,0,ppb,119.0
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Chloroform,38.3,0.4,0,ppb,95.74999999999999
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Dibromochloromethane,0.727,0.1,0,ppb,7.27
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Haloacetic acids (HAA5)†,44.7,0.1,60,ppb,447.0
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Radium combined (-226 &amp; -228),1.6,0.05,5,pCi/L,32.0
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Total trihalomethanes (TTHMs)†,54.2,0.15,80,ppb,361.33333333333337
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Chlorate,35.3,210.0,0,ppb,0.16809523809523808
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Chromium (hexavalent),0.0295,0.02,0,ppb,1.4749999999999999
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Manganese,10.5,100.0,0,ppb,0.105
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Nitrate,0.128,0.14,10,ppm,0.9142857142857143
+TN,Monteagle,37110.0,Monteagle Public Utility Board,3459,Strontium,0.0601,1500.0,0,ppb,4.006666666666667e-05
+TN,Tracy City,37110.0,Tracy City Water System,4549,Bromodichloromethane,4.6,0.06,0,ppb,76.66666666666666
+TN,Tracy City,37110.0,Tracy City Water System,4549,Chloroform,15.7,0.4,0,ppb,39.24999999999999
+TN,Tracy City,37110.0,Tracy City Water System,4549,Dibromochloromethane,0.795,0.1,0,ppb,7.95
+TN,Tracy City,37110.0,Tracy City Water System,4549,Haloacetic acids (HAA5)†,51.7,0.1,60,ppb,517.0
+TN,Tracy City,37110.0,Tracy City Water System,4549,Total trihalomethanes (TTHMs)†,61.3,0.15,80,ppb,408.6666666666667
+TN,Tracy City,37110.0,Tracy City Water System,4549,Nitrate,0.237,0.14,10,ppm,1.6928571428571426
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Bromodichloromethane,5.57,0.06,0,ppb,92.83333333333334
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Chloroform,31.5,0.4,0,ppb,78.75
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Chromium (hexavalent),0.141,0.02,0,ppb,7.049999999999999
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Dibromochloromethane,0.548,0.1,0,ppb,5.48
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Haloacetic acids (HAA5)†,35.9,0.1,60,ppb,358.99999999999994
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Haloacetic acids (HAA9)†,46.0,0.06,0,ppb,766.6666666666667
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Nitrate,0.511,0.14,10,ppm,3.65
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Total trihalomethanes (TTHMs)†,56.6,0.15,80,ppb,377.33333333333337
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Chlorate,416.3,210.0,0,ppb,1.9823809523809524
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Manganese,0.704,100.0,0,ppb,0.007039999999999999
+TN,Mcminnville,37110.0,Warren County Utility District,25177,Strontium,0.147,1500.0,0,ppb,9.8e-05
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Atrazine,1.02,0.1,3,ppb,10.2
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Bromodichloromethane,4.22,0.06,0,ppb,70.33333333333333
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Chloroform,17.2,0.4,0,ppb,42.99999999999999
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Chromium (hexavalent),0.133,0.02,0,ppb,6.65
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Dibromochloromethane,0.849,0.1,0,ppb,8.489999999999998
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Haloacetic acids (HAA5)†,29.5,0.1,60,ppb,295.0
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Haloacetic acids (HAA9)†,32.3,0.06,0,ppb,538.3333333333333
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Nitrate,1.05,0.14,10,ppm,7.5
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Radium combined (-226 &amp; -228),0.33,0.05,5,pCi/L,6.6
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Total trihalomethanes (TTHMs)†,27.3,0.15,80,ppb,182.0
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Chlorate,61.1,210.0,0,ppb,0.29095238095238096
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Manganese,0.308,100.0,0,ppb,0.00308
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Strontium,0.0471,1500.0,0,ppb,3.1400000000000004e-05
+TN,Morrison,37110.0,West Warren-Viola U. D.,16179,Vanadium,0.166,21.0,0,ppb,0.007904761904761906
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Bromodichloromethane,3.39,0.06,0,ppb,56.50000000000001
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Chloroform,22.0,0.4,0,ppb,55.0
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Haloacetic acids (HAA5)†,31.7,0.1,60,ppb,317.0
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Nitrate,0.41,0.14,10,ppm,2.928571428571428
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Total trihalomethanes (TTHMs)†,30.8,0.15,80,ppb,205.33333333333334
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Atrazine,0.0949,0.1,3,ppb,0.949
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Barium,23.5,700.0,2000,ppb,0.03357142857142857
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Bromodichloromethane,3.39,0.06,0,ppb,56.50000000000001
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Chloroform,22.0,0.4,0,ppb,55.0
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Haloacetic acids (HAA5)†,31.7,0.1,60,ppb,317.0
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Nitrate,0.41,0.14,10,ppm,2.928571428571428
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Total trihalomethanes (TTHMs)†,30.8,0.15,80,ppb,205.33333333333334
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Atrazine,0.0949,0.1,3,ppb,0.949
+TN,Lynchburg,37144.0,Metro Lynchburg/moore County U,6345,Barium,23.5,700.0,2000,ppb,0.03357142857142857
+TN,Celina,37150.0,Celina Water System,5644,Bromodichloromethane,1.87,0.06,0,ppb,31.166666666666668
+TN,Celina,37150.0,Celina Water System,5644,Chloroform,4.03,0.4,0,ppb,10.075
+TN,Celina,37150.0,Celina Water System,5644,Haloacetic acids (HAA5)†,27.2,0.1,60,ppb,272.0
+TN,Celina,37150.0,Celina Water System,5644,Nitrate,0.463,0.14,10,ppm,3.307142857142857
+TN,Celina,37150.0,Celina Water System,5644,Radium combined (-226 &amp; -228),0.74,0.05,5,pCi/L,14.799999999999999
+TN,Celina,37150.0,Celina Water System,5644,Total trihalomethanes (TTHMs)†,32.7,0.15,80,ppb,218.00000000000003
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Bromodichloromethane,3.62,0.06,0,ppb,60.333333333333336
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Chloroform,20.4,0.4,0,ppb,50.99999999999999
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Haloacetic acids (HAA5)†,44.1,0.1,60,ppb,441.0
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Nitrate,0.375,0.14,10,ppm,2.6785714285714284
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Radium combined (-226 &amp; -228),0.4,0.05,5,pCi/L,8.0
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Total trihalomethanes (TTHMs)†,42.7,0.15,80,ppb,284.6666666666667
+TN,Moss,37150.0,Northwest Clay County Utility,4048,Barium,20.4,700.0,2000,ppb,0.02914285714285714
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Bromodichloromethane,3.51,0.06,0,ppb,58.5
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Chloroform,5.59,0.4,0,ppb,13.975
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Chromium (hexavalent),0.0774,0.02,0,ppb,3.8699999999999997
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Dibromochloromethane,1.34,0.1,0,ppb,13.4
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Haloacetic acids (HAA5)†,19.8,0.1,60,ppb,198.0
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Haloacetic acids (HAA9)†,29.8,0.06,0,ppb,496.6666666666667
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Nitrate,0.315,0.14,10,ppm,2.25
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Total trihalomethanes (TTHMs)†,30.8,0.15,80,ppb,205.33333333333334
+TN,Chattanooga,37302.0,Eastside Utility District,59195,14-Dioxane,0.14,0.35,0,ppb,0.4000000000000001
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Chlorate,58.5,210.0,0,ppb,0.2785714285714286
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Manganese,1.15,100.0,0,ppb,0.0115
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Strontium,0.0473,1500.0,0,ppb,3.153333333333333e-05
+TN,Chattanooga,37302.0,Eastside Utility District,59195,Vanadium,0.136,21.0,0,ppb,0.0064761904761904765
+TN,Hixson,37302.0,Hixson Utility District,67138,Bromodichloromethane,0.131,0.06,0,ppb,2.1833333333333336
+TN,Hixson,37302.0,Hixson Utility District,67138,Chromium (hexavalent),0.266,0.02,0,ppb,13.3
+TN,Hixson,37302.0,Hixson Utility District,67138,Haloacetic acids (HAA5)†,2.09,0.1,60,ppb,20.9
+TN,Hixson,37302.0,Hixson Utility District,67138,Haloacetic acids (HAA9)†,1.67,0.06,0,ppb,27.833333333333332
+TN,Hixson,37302.0,Hixson Utility District,67138,Nitrate,0.645,0.14,10,ppm,4.607142857142857
+TN,Hixson,37302.0,Hixson Utility District,67138,Radium combined (-226 &amp; -228),0.48,0.05,5,pCi/L,9.6
+TN,Hixson,37302.0,Hixson Utility District,67138,Total trihalomethanes (TTHMs)†,7.14,0.15,80,ppb,47.6
+TN,Hixson,37302.0,Hixson Utility District,67138,Chlorate,9.25,210.0,0,ppb,0.04404761904761905
+TN,Hixson,37302.0,Hixson Utility District,67138,Chloroform,0.211,0.4,0,ppb,0.5275
+TN,Hixson,37302.0,Hixson Utility District,67138,Manganese,0.188,100.0,0,ppb,0.00188
+TN,Hixson,37302.0,Hixson Utility District,67138,Strontium,0.0615,1500.0,0,ppb,4.1e-05
+TN,Hixson,37302.0,Hixson Utility District,67138,Vanadium,0.275,21.0,0,ppb,0.013095238095238096
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Bromodichloromethane,0.456,0.06,0,ppb,7.6000000000000005
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Chromium (hexavalent),0.147,0.02,0,ppb,7.35
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Haloacetic acids (HAA5)†,6.2,0.1,60,ppb,62.0
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Haloacetic acids (HAA9)†,17.2,0.06,0,ppb,286.6666666666667
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Nitrate,0.672,0.14,10,ppm,4.8
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Total trihalomethanes (TTHMs)†,8.26,0.15,80,ppb,55.06666666666667
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,14-Dioxane,0.0758,0.35,0,ppb,0.2165714285714286
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Chlorate,106.0,210.0,0,ppb,0.5047619047619047
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Chloroform,0.411,0.4,0,ppb,1.0274999999999999
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Manganese,1.53,100.0,0,ppb,0.015300000000000001
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Perfluoroheptanoic acid (PFHPA),0.922,1.0,0,ppt,0.922
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Strontium,0.0418,1500.0,0,ppb,2.7866666666666665e-05
+TN,Georgetown,37302.0,Savannah Valley U. D.,24403,Vanadium,0.235,21.0,0,ppb,0.01119047619047619
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Bromodichloromethane,7.57,0.06,0,ppb,126.16666666666667
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Chloroform,26.7,0.4,0,ppb,66.75
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Chromium (hexavalent),0.0838,0.02,0,ppb,4.1899999999999995
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Dibromochloromethane,1.33,0.1,0,ppb,13.3
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Haloacetic acids (HAA5)†,23.3,0.1,60,ppb,233.0
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Haloacetic acids (HAA9)†,27.5,0.06,0,ppb,458.33333333333337
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Nitrate,0.325,0.14,10,ppm,2.321428571428571
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Radium combined (-226 &amp; -228),0.79,0.05,5,pCi/L,15.8
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Total trihalomethanes (TTHMs)†,51.0,0.15,80,ppb,340.0
+TN,Chattanooga,37302.0,Tennessee American Water,188006,14-Dioxane,0.1,0.35,0,ppb,0.28571428571428575
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Aluminum,16.2,600.0,0,ppb,0.027
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Barium,23.1,700.0,2000,ppb,0.033
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Chlorate,128.1,210.0,0,ppb,0.61
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Manganese,0.129,100.0,0,ppb,0.0012900000000000001
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Strontium,0.0718,1500.0,0,ppb,4.786666666666667e-05
+TN,Chattanooga,37302.0,Tennessee American Water,188006,Vanadium,0.4,21.0,0,ppb,0.01904761904761905
+TN,Bakewell,37302.0,Union Fork-bakewell Utility District,5223,Haloacetic acids (HAA5)†,0.482,0.1,60,ppb,4.819999999999999
+TN,Bakewell,37302.0,Union Fork-bakewell Utility District,5223,Nitrate,0.453,0.14,10,ppm,3.2357142857142853
+TN,Bakewell,37302.0,Union Fork-bakewell Utility District,5223,Radium combined (-226 &amp; -228),1.0,0.05,5,pCi/L,20.0
+TN,Bakewell,37302.0,Union Fork-bakewell Utility District,5223,Total trihalomethanes (TTHMs)†,0.151,0.15,80,ppb,1.0066666666666666
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Bromodichloromethane*,1.85,0.06,0,ppb,30.833333333333336
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Chloroform*,12.5,0.4,0,ppb,31.25
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Haloacetic acids (HAA5)†,14.2,0.1,60,ppb,141.99999999999997
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Radium combined (-226 &amp; -228)*,0.6,0.05,5,pCi/L,11.999999999999998
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Total trihalomethanes (TTHMs)†,20.7,0.15,80,ppb,138.0
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,24-D*,0.133,20.0,70,ppb,0.0066500000000000005
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Atrazine*,0.0111,0.1,3,ppb,0.111
+TN,Calhoun,37303.0,Calhoun-charleston Utility District,2698,Nitrate*,0.242,0.14,10,ppm,1.7285714285714284
+TN,Englewood,37303.0,Englewood Water Department,3665,Bromodichloromethane,7.42,0.06,0,ppb,123.66666666666667
+TN,Englewood,37303.0,Englewood Water Department,3665,Chloroform,16.5,0.4,0,ppb,41.25
+TN,Englewood,37303.0,Englewood Water Department,3665,Haloacetic acids (HAA5)†,32.8,0.1,60,ppb,327.99999999999994
+TN,Englewood,37303.0,Englewood Water Department,3665,Nitrate,1.28,0.14,10,ppm,9.142857142857142
+TN,Englewood,37303.0,Englewood Water Department,3665,Radium combined (-226 &amp; -228),1.36,0.05,5,pCi/L,27.2
+TN,Englewood,37303.0,Englewood Water Department,3665,Total trihalomethanes (TTHMs)†,53.7,0.15,80,ppb,358.00000000000006
+TN,Englewood,37303.0,Englewood Water Department,3665,Atrazine,0.0211,0.1,3,ppb,0.211
+TN,Etowah,37303.0,Etowah Utilities,12628,Bromodichloromethane,2.91,0.06,0,ppb,48.50000000000001
+TN,Etowah,37303.0,Etowah Utilities,12628,Chloroform,19.3,0.4,0,ppb,48.25
+TN,Etowah,37303.0,Etowah Utilities,12628,Haloacetic acids (HAA5)†,36.6,0.1,60,ppb,366.0
+TN,Etowah,37303.0,Etowah Utilities,12628,Haloacetic acids (HAA9)†,36.6,0.06,0,ppb,610.0
+TN,Etowah,37303.0,Etowah Utilities,12628,Radium combined (-226 &amp; -228),1.1,0.05,5,pCi/L,22.0
+TN,Etowah,37303.0,Etowah Utilities,12628,Total trihalomethanes (TTHMs)†,33.1,0.15,80,ppb,220.66666666666669
+TN,Etowah,37303.0,Etowah Utilities,12628,Chromium (hexavalent),0.0289,0.02,0,ppb,1.4449999999999998
+TN,Etowah,37303.0,Etowah Utilities,12628,Nitrate,0.141,0.14,10,ppm,1.007142857142857
+TN,Etowah,37303.0,Etowah Utilities,12628,Strontium,0.0212,1500.0,0,ppb,1.4133333333333334e-05
+TN,Niota,37303.0,Niota Water System,3318,Bromodichloromethane*,1.85,0.06,0,ppb,30.833333333333336
+TN,Niota,37303.0,Niota Water System,3318,Chloroform*,12.5,0.4,0,ppb,31.25
+TN,Niota,37303.0,Niota Water System,3318,Haloacetic acids (HAA5)†,10.5,0.1,60,ppb,105.0
+TN,Niota,37303.0,Niota Water System,3318,Radium combined (-226 &amp; -228)*,0.6,0.05,5,pCi/L,11.999999999999998
+TN,Niota,37303.0,Niota Water System,3318,Total trihalomethanes (TTHMs)†,15.7,0.15,80,ppb,104.66666666666667
+TN,Niota,37303.0,Niota Water System,3318,24-D*,0.133,20.0,70,ppb,0.0066500000000000005
+TN,Niota,37303.0,Niota Water System,3318,Atrazine*,0.0111,0.1,3,ppb,0.111
+TN,Niota,37303.0,Niota Water System,3318,Nitrate*,0.242,0.14,10,ppm,1.7285714285714284
+TN,Riceville,37303.0,Riceville Utility District,3428,Haloacetic acids (HAA5)†,36.3,0.1,60,ppb,362.99999999999994
+TN,Riceville,37303.0,Riceville Utility District,3428,Total trihalomethanes (TTHMs)†,43.7,0.15,80,ppb,291.33333333333337
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Atrazine,0.294,0.1,3,ppb,2.9399999999999995
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Bromodichloromethane,0.742,0.06,0,ppb,12.366666666666667
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Chloroform,1.16,0.4,0,ppb,2.8999999999999995
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Haloacetic acids (HAA5)†,3.48,0.1,60,ppb,34.8
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Nitrate,3.67,0.14,10,ppm,26.21428571428571
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Total trihalomethanes (TTHMs)†,3.51,0.15,80,ppb,23.4
+TN,Belvidere,37306.0,Belvidere Rural Utility Distri,1500,Barium,26.9,700.0,2000,ppb,0.03842857142857143
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Bromodichloromethane,1.13,0.06,0,ppb,18.833333333333332
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Chloroform,1.29,0.4,0,ppb,3.225
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Chromium (hexavalent),0.215,0.02,0,ppb,10.75
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Dibromochloromethane,0.431,0.1,0,ppb,4.31
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Haloacetic acids (HAA5)†,5.8,0.1,60,ppb,57.99999999999999
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Nitrate,2.73,0.14,10,ppm,19.499999999999996
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Total trihalomethanes (TTHMs)†,6.93,0.15,80,ppb,46.2
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Atrazine,0.115,0.1,3,ppb,1.15
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Barium,19.8,700.0,2000,ppb,0.028285714285714286
+TN,Estill Springs,37306.0,Center Grove-winchester Spgs,6275,Strontium,0.0357,1500.0,0,ppb,2.3800000000000003e-05
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Bromodichloromethane,3.24,0.06,0,ppb,54.00000000000001
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Chloroform,8.23,0.4,0,ppb,20.575
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Chromium (hexavalent),0.877,0.02,0,ppb,43.85
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Dibromochloromethane,1.15,0.1,0,ppb,11.499999999999998
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Haloacetic acids (HAA5)†,16.0,0.1,60,ppb,160.0
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Nitrate,2.32,0.14,10,ppm,16.57142857142857
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Total trihalomethanes (TTHMs)†,27.6,0.15,80,ppb,184.00000000000003
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Barium,27.1,700.0,2000,ppb,0.038714285714285715
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Chlorate,261.3,210.0,0,ppb,1.2442857142857144
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Manganese,0.203,100.0,0,ppb,0.00203
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Molybdenum,0.607,40.0,0,ppb,0.015175
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Strontium,1.23,1500.0,0,ppb,0.00082
+TN,Cowan,37306.0,Cowan Board of Public Utilities,2412,Vanadium,0.311,21.0,0,ppb,0.014809523809523809
+TN,Decherd,37306.0,Decherd Water Department,4403,Arsenic,0.515,0.004,10,ppb,128.75
+TN,Decherd,37306.0,Decherd Water Department,4403,Atrazine,0.911,0.1,3,ppb,9.11
+TN,Decherd,37306.0,Decherd Water Department,4403,Bromodichloromethane,1.45,0.06,0,ppb,24.166666666666668
+TN,Decherd,37306.0,Decherd Water Department,4403,Chloroform,3.88,0.4,0,ppb,9.7
+TN,Decherd,37306.0,Decherd Water Department,4403,Haloacetic acids (HAA5)†,10.7,0.1,60,ppb,106.99999999999999
+TN,Decherd,37306.0,Decherd Water Department,4403,Nitrate,3.81,0.14,10,ppm,27.21428571428571
+TN,Decherd,37306.0,Decherd Water Department,4403,Total trihalomethanes (TTHMs)†,14.7,0.15,80,ppb,98.0
+TN,Decherd,37306.0,Decherd Water Department,4403,Barium,30.1,700.0,2000,ppb,0.043000000000000003
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Haloacetic acids (HAA5)†,0.352,0.1,60,ppb,3.5199999999999996
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Nitrate,1.2,0.14,10,ppm,8.571428571428571
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Radium combined (-226 &amp; -228),1.1,0.05,5,pCi/L,22.0
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Total trihalomethanes (TTHMs)†,1.25,0.15,80,ppb,8.333333333333334
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Aluminum,65.0,600.0,0,ppb,0.10833333333333334
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Barium,47.5,700.0,2000,ppb,0.06785714285714285
+TN,Estill Springs,37306.0,Estill Springs Water Departmen,4249,Chloroform,0.702,0.4,0,ppb,1.755
+TN,Huntland,37306.0,Huntland Water System,1534,Bromodichloromethane,0.259,0.06,0,ppb,4.316666666666667
+TN,Huntland,37306.0,Huntland Water System,1534,Haloacetic acids (HAA5)†,5.16,0.1,60,ppb,51.6
+TN,Huntland,37306.0,Huntland Water System,1534,Nitrate,4.26,0.14,10,ppm,30.428571428571423
+TN,Huntland,37306.0,Huntland Water System,1534,Total trihalomethanes (TTHMs)†,7.6,0.15,80,ppb,50.666666666666664
+TN,Huntland,37306.0,Huntland Water System,1534,Atrazine,0.0251,0.1,3,ppb,0.251
+TN,Huntland,37306.0,Huntland Water System,1534,Barium,41.2,700.0,2000,ppb,0.05885714285714286
+TN,Huntland,37306.0,Huntland Water System,1534,Chloroform,0.304,0.4,0,ppb,0.7599999999999999
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Bromodichloromethane,4.37,0.06,0,ppb,72.83333333333334
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Chloroform,18.2,0.4,0,ppb,45.49999999999999
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Dibromochloromethane,0.694,0.1,0,ppb,6.9399999999999995
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Haloacetic acids (HAA5)†,33.7,0.1,60,ppb,337.0
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Radium combined (-226 &amp; -228),0.72,0.05,5,pCi/L,14.399999999999999
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Total trihalomethanes (TTHMs)†,49.6,0.15,80,ppb,330.6666666666667
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Aluminum,123.0,600.0,0,ppb,0.205
+TN,Sewannee,37306.0,Sewanee Utility District,5634,Barium,7.26,700.0,2000,ppb,0.010371428571428571
+TN,Benton,37307.0,Benton Water System,2710,Haloacetic acids (HAA5)†,1.3,0.1,60,ppb,13.0
+TN,Benton,37307.0,Benton Water System,2710,Total trihalomethanes (TTHMs)†,0.175,0.15,80,ppb,1.1666666666666667
+TN,Copperhill,37307.0,Cherokee Hills Water Association,309,Haloacetic acids (HAA5)†,0.915,0.1,60,ppb,9.15
+TN,Copperhill,37307.0,Cherokee Hills Water Association,309,Radium combined (-226 &amp; -228),0.53,0.05,5,pCi/L,10.6
+TN,Copperhill,37307.0,Cherokee Hills Water Association,309,Total trihalomethanes (TTHMs)†,3.05,0.15,80,ppb,20.333333333333332
+TN,Copperhill,37307.0,Cherokee Hills Water Association,309,Nitrate,0.278,0.14,10,ppm,1.9857142857142858
+TN,Turtletown,37307.0,Copper Basin Utility District,2778,Bromodichloromethane,3.57,0.06,0,ppb,59.5
+TN,Turtletown,37307.0,Copper Basin Utility District,2778,Chloroform,22.0,0.4,0,ppb,55.0
+TN,Turtletown,37307.0,Copper Basin Utility District,2778,Haloacetic acids (HAA5)†,37.6,0.1,60,ppb,376.0
+TN,Turtletown,37307.0,Copper Basin Utility District,2778,Radium combined (-226 &amp; -228),0.82,0.05,5,pCi/L,16.4
+TN,Turtletown,37307.0,Copper Basin Utility District,2778,Total trihalomethanes (TTHMs)†,46.2,0.15,80,ppb,308.00000000000006
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Bromodichloromethane*,3.65,0.06,0,ppb,60.833333333333336
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Chloroform*,24.2,0.4,0,ppb,60.49999999999999
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Dichloroacetic acid*,15.6,0.2,0,ppb,78.0
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Haloacetic acids (HAA5)†,32.6,0.1,60,ppb,326.0
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Total trihalomethanes (TTHMs)†,36.7,0.15,80,ppb,244.66666666666669
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Trichloroacetic acid*,19.6,0.1,0,ppb,196.0
+TN,Copperhill,37307.0,Copperhill Water Department,1075,Monochloroacetic acid*,0.102,53.0,0,ppb,0.0019245283018867923
+TN,Decatur,37308.0,Decatur Water Department,5976,Arsenic,0.525,0.004,10,ppb,131.25
+TN,Decatur,37308.0,Decatur Water Department,5976,Bromodichloromethane,2.3,0.06,0,ppb,38.33333333333333
+TN,Decatur,37308.0,Decatur Water Department,5976,Chloroform,1.55,0.4,0,ppb,3.875
+TN,Decatur,37308.0,Decatur Water Department,5976,Dibromochloromethane,1.55,0.1,0,ppb,15.5
+TN,Decatur,37308.0,Decatur Water Department,5976,Haloacetic acids (HAA5)†,14.9,0.1,60,ppb,149.0
+TN,Decatur,37308.0,Decatur Water Department,5976,Haloacetic acids (HAA9)†,5.83,0.06,0,ppb,97.16666666666667
+TN,Decatur,37308.0,Decatur Water Department,5976,Total trihalomethanes (TTHMs)†,28.6,0.15,80,ppb,190.66666666666669
+TN,Decatur,37308.0,Decatur Water Department,5976,Antimony,0.275,1.0,6,ppb,0.275
+TN,Decatur,37308.0,Decatur Water Department,5976,Bromoform,0.3,0.5,0,ppb,0.6
+TN,Decatur,37308.0,Decatur Water Department,5976,Manganese,4.75,100.0,0,ppb,0.0475
+TN,Decatur,37308.0,Decatur Water Department,5976,Nitrate,0.276,0.14,10,ppm,1.9714285714285713
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Bromodichloromethane,1.57,0.06,0,ppb,26.166666666666668
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Chloroform,8.69,0.4,0,ppb,21.724999999999998
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Chromium (hexavalent),0.191,0.02,0,ppb,9.55
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Haloacetic acids (HAA5)†,29.1,0.1,60,ppb,291.0
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Haloacetic acids (HAA9)†,39.8,0.06,0,ppb,663.3333333333333
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Nitrate,0.507,0.14,10,ppm,3.621428571428571
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Radium combined (-226 &amp; -228),0.8,0.05,5,pCi/L,16.0
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Total trihalomethanes (TTHMs)†,33.5,0.15,80,ppb,223.33333333333334
+TN,Cleveland,37310.0,Cleveland Utilities,87960,24-D,0.0625,20.0,70,ppb,0.003125
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Chlorate,2.06,210.0,0,ppb,0.00980952380952381
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Manganese,3.28,100.0,0,ppb,0.032799999999999996
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Strontium,0.0279,1500.0,0,ppb,1.86e-05
+TN,Cleveland,37310.0,Cleveland Utilities,87960,Vanadium,0.259,21.0,0,ppb,0.012333333333333333
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Bromodichloromethane,1.85,0.06,0,ppb,30.833333333333336
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Chloroform,12.5,0.4,0,ppb,31.25
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Haloacetic acids (HAA5)†,23.6,0.1,60,ppb,236.0
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Radium combined (-226 &amp; -228),0.6,0.05,5,pCi/L,11.999999999999998
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Total trihalomethanes (TTHMs)†,34.9,0.15,80,ppb,232.66666666666666
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,24-D,0.133,20.0,70,ppb,0.0066500000000000005
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Atrazine,0.0111,0.1,3,ppb,0.111
+TN,Charleston,37310.0,Hiwassee Utility Commission,98,Nitrate,0.242,0.14,10,ppm,1.7285714285714284
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Bromodichloromethane,0.463,0.06,0,ppb,7.716666666666668
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Chloroform,1.35,0.4,0,ppb,3.375
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Chromium (hexavalent),0.277,0.02,0,ppb,13.850000000000001
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Haloacetic acids (HAA5)†,10.1,0.1,60,ppb,100.99999999999999
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Haloacetic acids (HAA9)†,16.0,0.06,0,ppb,266.6666666666667
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Nitrate,0.957,0.14,10,ppm,6.8357142857142845
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Radium combined (-226 &amp; -228),1.6,0.05,5,pCi/L,32.0
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Total trihalomethanes (TTHMs)†,15.0,0.15,80,ppb,100.0
+TN,Cleveland,37310.0,Ocoee Utility District,19990,14-Dioxane,0.0316,0.35,0,ppb,0.0902857142857143
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Chlorate,171.9,210.0,0,ppb,0.8185714285714286
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Manganese,0.103,100.0,0,ppb,0.0010299999999999999
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Strontium,0.0683,1500.0,0,ppb,4.553333333333333e-05
+TN,Cleveland,37310.0,Ocoee Utility District,19990,Vanadium,0.407,21.0,0,ppb,0.01938095238095238
+TN,Dayton,37321.0,Dayton Water Department,26125,Bromodichloromethane,8.26,0.06,0,ppb,137.66666666666666
+TN,Dayton,37321.0,Dayton Water Department,26125,Chloroform,23.8,0.4,0,ppb,59.5
+TN,Dayton,37321.0,Dayton Water Department,26125,Chromium (hexavalent),0.0688,0.02,0,ppb,3.44
+TN,Dayton,37321.0,Dayton Water Department,26125,Dibromochloromethane,2.07,0.1,0,ppb,20.699999999999996
+TN,Dayton,37321.0,Dayton Water Department,26125,Haloacetic acids (HAA5)†,40.4,0.1,60,ppb,403.99999999999994
+TN,Dayton,37321.0,Dayton Water Department,26125,Haloacetic acids (HAA9)†,51.7,0.06,0,ppb,861.6666666666667
+TN,Dayton,37321.0,Dayton Water Department,26125,Nitrate,0.32,0.14,10,ppm,2.2857142857142856
+TN,Dayton,37321.0,Dayton Water Department,26125,Total trihalomethanes (TTHMs)†,54.3,0.15,80,ppb,362.0
+TN,Dayton,37321.0,Dayton Water Department,26125,14-Dioxane,0.0675,0.35,0,ppb,0.1928571428571429
+TN,Dayton,37321.0,Dayton Water Department,26125,Barium,27.0,700.0,2000,ppb,0.03857142857142857
+TN,Dayton,37321.0,Dayton Water Department,26125,Chlorate,140.6,210.0,0,ppb,0.6695238095238095
+TN,Dayton,37321.0,Dayton Water Department,26125,Manganese,3.72,100.0,0,ppb,0.037200000000000004
+TN,Dayton,37321.0,Dayton Water Department,26125,Monochlorobenzene (chlorobenzene),0.426,70.0,100,ppb,0.0060857142857142854
+TN,Dayton,37321.0,Dayton Water Department,26125,Strontium,0.0621,1500.0,0,ppb,4.1400000000000003e-05
+TN,Dayton,37321.0,Dayton Water Department,26125,Toluene,0.072,150.0,1000,ppb,0.00047999999999999996
+TN,Dayton,37321.0,Dayton Water Department,26125,Vanadium,0.2,21.0,0,ppb,0.009523809523809525
+TN,Dayton,37321.0,Dayton Water Department,26125,Xylenes (total),0.0565,1800.0,10000,ppb,3.138888888888889e-05
+TN,Grandview,37321.0,Grandview Utility District,2044,Bromodichloromethane*,3.08,0.06,0,ppb,51.333333333333336
+TN,Grandview,37321.0,Grandview Utility District,2044,Chloroform*,13.5,0.4,0,ppb,33.75
+TN,Grandview,37321.0,Grandview Utility District,2044,Haloacetic acids (HAA5)†,33.8,0.1,60,ppb,337.99999999999994
+TN,Grandview,37321.0,Grandview Utility District,2044,Haloacetic acids (HAA9)*†,32.5,0.06,0,ppb,541.6666666666667
+TN,Grandview,37321.0,Grandview Utility District,2044,Radium combined (-226 &amp; -228)*,2.73,0.05,5,pCi/L,54.599999999999994
+TN,Grandview,37321.0,Grandview Utility District,2044,Total trihalomethanes (TTHMs)†,48.5,0.15,80,ppb,323.33333333333337
+TN,Grandview,37321.0,Grandview Utility District,2044,Chlorate*,62.0,210.0,0,ppb,0.29523809523809524
+TN,Grandview,37321.0,Grandview Utility District,2044,Chromium (hexavalent)*,0.00438,0.02,0,ppb,0.219
+TN,Grandview,37321.0,Grandview Utility District,2044,Dibromochloromethane*,0.184,0.1,0,ppb,1.8399999999999999
+TN,Grandview,37321.0,Grandview Utility District,2044,Manganese*,10.5,100.0,0,ppb,0.105
+TN,Grandview,37321.0,Grandview Utility District,2044,Nitrate*,0.117,0.14,10,ppm,0.8357142857142856
+TN,Grandview,37321.0,Grandview Utility District,2044,Strontium*,0.0234,1500.0,0,ppb,1.56e-05
+TN,Dayton,37321.0,Laurelbrook School,150,Haloacetic acids (HAA5)†,7.05,0.1,60,ppb,70.5
+TN,Dayton,37321.0,Laurelbrook School,150,Total trihalomethanes (TTHMs)†,11.9,0.15,80,ppb,79.33333333333334
+TN,Dayton,37321.0,Laurelbrook School,150,Chloroform,0.585,0.4,0,ppb,1.4625
+TN,Spring City,37321.0,Newport Resort Water System,150,Chloroform,1.53,0.4,0,ppb,3.8249999999999997
+TN,Spring City,37321.0,Newport Resort Water System,150,Haloacetic acids (HAA5)†,0.348,0.1,60,ppb,3.4799999999999995
+TN,Spring City,37321.0,Newport Resort Water System,150,Nitrate,0.723,0.14,10,ppm,5.164285714285714
+TN,Spring City,37321.0,Newport Resort Water System,150,Total trihalomethanes (TTHMs)†,2.2,0.15,80,ppb,14.666666666666668
+TN,Spring City,37321.0,Spring City Water System,2701,Bromodichloromethane,5.27,0.06,0,ppb,87.83333333333333
+TN,Spring City,37321.0,Spring City Water System,2701,Chloroform,22.4,0.4,0,ppb,55.99999999999999
+TN,Spring City,37321.0,Spring City Water System,2701,Dibromochloromethane,1.1,0.1,0,ppb,11.0
+TN,Spring City,37321.0,Spring City Water System,2701,Haloacetic acids (HAA5)†,18.4,0.1,60,ppb,183.99999999999997
+TN,Spring City,37321.0,Spring City Water System,2701,Radium combined (-226 &amp; -228),2.03,0.05,5,pCi/L,40.599999999999994
+TN,Spring City,37321.0,Spring City Water System,2701,Total trihalomethanes (TTHMs)†,28.2,0.15,80,ppb,188.0
+TN,Spring City,37321.0,Spring City Water System,2701,Nitrate,0.18,0.14,10,ppm,1.2857142857142856
+TN,Spring City,37321.0,Spring City Water System,2701,Xylenes (total),0.03,1800.0,10000,ppb,1.6666666666666667e-05
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Bromodichloromethane,2.94,0.06,0,ppb,49.0
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Chloroform,7.15,0.4,0,ppb,17.875
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Chromium (hexavalent),0.149,0.02,0,ppb,7.449999999999999
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Dibromochloromethane,1.27,0.1,0,ppb,12.7
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Haloacetic acids (HAA5)†,10.9,0.1,60,ppb,109.0
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Haloacetic acids (HAA9)†,10.9,0.06,0,ppb,181.66666666666669
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Nitrate,0.434,0.14,10,ppm,3.0999999999999996
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Radium combined (-226 &amp; -228),1.95,0.05,5,pCi/L,39.0
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Total trihalomethanes (TTHMs)†,18.8,0.15,80,ppb,125.33333333333334
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Chlorate,145.0,210.0,0,ppb,0.6904761904761905
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Manganese,0.122,100.0,0,ppb,0.00122
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Strontium,0.0716,1500.0,0,ppb,4.773333333333333e-05
+TN,Kingston,37321.0,Watts Bar Utility District,13404,Vanadium,0.338,21.0,0,ppb,0.016095238095238096
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Bromodichloromethane*,5.17,0.06,0,ppb,86.16666666666667
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Chloroform*,14.0,0.4,0,ppb,35.0
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Dibromochloromethane*,1.27,0.1,0,ppb,12.7
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Haloacetic acids (HAA5)†,26.8,0.1,60,ppb,268.0
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Total trihalomethanes (TTHMs)†,42.6,0.15,80,ppb,284.0
+TN,Dunlap,37327.0,Cagle-fredonia Utility District,2417,Nitrate*,0.0666,0.14,10,ppm,0.4757142857142857
+TN,Dunlap,37327.0,Dunlap Water System,7296,Bromodichloromethane,3.99,0.06,0,ppb,66.5
+TN,Dunlap,37327.0,Dunlap Water System,7296,Chloroform,18.5,0.4,0,ppb,46.25
+TN,Dunlap,37327.0,Dunlap Water System,7296,Dibromochloromethane,0.567,0.1,0,ppb,5.669999999999999
+TN,Dunlap,37327.0,Dunlap Water System,7296,Haloacetic acids (HAA5)†,27.8,0.1,60,ppb,278.0
+TN,Dunlap,37327.0,Dunlap Water System,7296,Nitrate,0.937,0.14,10,ppm,6.692857142857142
+TN,Dunlap,37327.0,Dunlap Water System,7296,Radium combined (-226 &amp; -228),0.33,0.05,5,pCi/L,6.6
+TN,Dunlap,37327.0,Dunlap Water System,7296,Total trihalomethanes (TTHMs)†,33.4,0.15,80,ppb,222.66666666666666
+TN,Signal Mountain,37327.0,Lone Oak Utility District,410,Haloacetic acids (HAA5)†,18.5,0.1,60,ppb,185.0
+TN,Signal Mountain,37327.0,Lone Oak Utility District,410,Total trihalomethanes (TTHMs)†,33.3,0.15,80,ppb,222.0
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Haloacetic acids (HAA5)†,8.6,0.1,60,ppb,85.99999999999999
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Nitrate,1.05,0.14,10,ppm,7.5
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Radium combined (-226 &amp; -228),1.13,0.05,5,pCi/L,22.599999999999998
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Total trihalomethanes (TTHMs)†,6.15,0.15,80,ppb,41.00000000000001
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Barium,67.5,700.0,2000,ppb,0.09642857142857143
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Chloroform,0.317,0.4,0,ppb,0.7925
+TN,Sweetwater,37329.0,Mountain Side Estates,100,Manganese,2.59,100.0,0,ppb,0.0259
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Bromodichloromethane,6.45,0.06,0,ppb,107.5
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Chloroform,17.2,0.4,0,ppb,42.99999999999999
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Chromium (hexavalent),0.0552,0.02,0,ppb,2.76
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Dibromochloromethane,1.63,0.1,0,ppb,16.299999999999997
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Haloacetic acids (HAA5)†,43.3,0.1,60,ppb,432.99999999999994
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Total trihalomethanes (TTHMs)†,64.7,0.15,80,ppb,431.33333333333337
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,14-Dioxane,0.275,0.35,0,ppb,0.7857142857142858
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Atrazine,0.11,0.1,3,ppb,1.0999999999999999
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Chlorate,411.1,210.0,0,ppb,1.9576190476190478
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Manganese,0.638,100.0,0,ppb,0.00638
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Nitrate,0.27,0.14,10,ppm,1.9285714285714286
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Strontium,0.0651,1500.0,0,ppb,4.3400000000000005e-05
+TN,Parsons,38311.0,North Utility District of Decatur/benton C,3257,Vanadium,0.443,21.0,0,ppb,0.021095238095238094

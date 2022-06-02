@@ -1,0 +1,425 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+29001,33.78528,-80.17338,Alcolu,SC,South Carolina,True,,1811.0,10.0,45027,Clarendon,"{""45027"": 89.1, ""45085"": 10.9}",Clarendon|Sumter,45027|45085,False,False,America/New_York
+29003,33.24135,-81.01838,Bamberg,SC,South Carolina,True,,6224.0,17.6,45009,Bamberg,"{""45009"": 100}",Bamberg,45009,False,False,America/New_York
+29006,33.87673,-81.55294,Batesburg,SC,South Carolina,True,,9887.0,27.6,45081,Saluda,"{""45081"": 40.41, ""45003"": 37.71, ""45063"": 21.88}",Saluda|Aiken|Lexington,45081|45003|45063,False,False,America/New_York
+29009,34.44097,-80.37642,Bethune,SC,South Carolina,True,,1999.0,6.9,45055,Kershaw,"{""45055"": 91.29, ""45025"": 6.14, ""45061"": 2.57}",Kershaw|Chesterfield|Lee,45055|45025|45061,False,False,America/New_York
+29010,34.21487,-80.26946,Bishopville,SC,South Carolina,True,,12017.0,23.3,45061,Lee,"{""45061"": 99.29, ""45055"": 0.71}",Lee|Kershaw,45061|45055,False,False,America/New_York
+29014,34.54368,-81.13553,Blackstock,SC,South Carolina,True,,1446.0,3.4,45039,Fairfield,"{""45039"": 58.08, ""45023"": 41.92}",Fairfield|Chester,45039|45023,False,False,America/New_York
+29015,34.4412,-81.33807,Blair,SC,South Carolina,True,,1883.0,6.2,45039,Fairfield,"{""45039"": 100}",Fairfield,45039,False,False,America/New_York
+29016,34.20367,-80.99296,Blythewood,SC,South Carolina,True,,24255.0,107.7,45079,Richland,"{""45079"": 90.46, ""45039"": 9.54}",Richland|Fairfield,45079|45039,False,False,America/New_York
+29018,33.34619,-80.64373,Bowman,SC,South Carolina,True,,3288.0,12.0,45075,Orangeburg,"{""45075"": 97.45, ""45035"": 2.55}",Orangeburg|Dorchester,45075|45035,False,False,America/New_York
+29020,34.31036,-80.59334,Camden,SC,South Carolina,True,,21443.0,35.6,45055,Kershaw,"{""45055"": 94.16, ""45061"": 5.84}",Kershaw|Lee,45055|45061,False,False,America/New_York
+29030,33.57917,-80.65441,Cameron,SC,South Carolina,True,,1772.0,7.2,45017,Calhoun,"{""45017"": 79.52, ""45075"": 20.48}",Calhoun|Orangeburg,45017|45075,False,False,America/New_York
+29031,34.60624,-81.42665,Carlisle,SC,South Carolina,True,,1574.0,4.7,45023,Chester,"{""45023"": 50.19, ""45087"": 44.11, ""45039"": 5.7}",Chester|Union|Fairfield,45023|45087|45039,False,False,America/New_York
+29032,34.34002,-80.44374,Cassatt,SC,South Carolina,True,,5669.0,27.7,45055,Kershaw,"{""45055"": 78.8, ""45061"": 21.2}",Kershaw|Lee,45055|45061,False,False,America/New_York
+29033,33.9552,-81.05691,Cayce,SC,South Carolina,True,,12430.0,479.0,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29036,34.13396,-81.33622,Chapin,SC,South Carolina,True,,23935.0,167.6,45063,Lexington,"{""45063"": 72.66, ""45079"": 23.69, ""45071"": 3.65}",Lexington|Richland|Newberry,45063|45079|45071,False,False,America/New_York
+29037,34.18961,-81.86868,Chappells,SC,South Carolina,True,,842.0,4.7,45071,Newberry,"{""45071"": 57.22, ""45081"": 37.88, ""45059"": 4.9}",Newberry|Saluda|Laurens,45071|45081|45059,False,False,America/New_York
+29038,33.37494,-80.98095,Cope,SC,South Carolina,True,,2280.0,10.4,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29039,33.41855,-80.90556,Cordova,SC,South Carolina,True,,3863.0,62.1,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29040,34.06253,-80.43455,Dalzell,SC,South Carolina,True,,10912.0,77.4,45085,Sumter,"{""45085"": 61.46, ""45061"": 38.54}",Sumter|Lee,45085|45061,False,False,America/New_York
+29042,33.30735,-81.14723,Denmark,SC,South Carolina,True,,4850.0,30.4,45009,Bamberg,"{""45009"": 100}",Bamberg,45009,False,False,America/New_York
+29044,33.93437,-80.69446,Eastover,SC,South Carolina,True,,5772.0,16.3,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29045,34.18389,-80.8141,Elgin,SC,South Carolina,True,,27751.0,157.8,45055,Kershaw,"{""45055"": 64.46, ""45079"": 33.6, ""45039"": 1.94}",Kershaw|Richland|Fairfield,45055|45079|45039,False,False,America/New_York
+29046,34.11252,-80.16131,Elliott,SC,South Carolina,True,,130.0,127.1,45061,Lee,"{""45061"": 100}",Lee,45061,False,False,America/New_York
+29047,33.53218,-80.57956,Elloree,SC,South Carolina,True,,3635.0,21.8,45017,Calhoun,"{""45017"": 51.15, ""45075"": 48.85}",Calhoun|Orangeburg,45017|45075,False,False,America/New_York
+29048,33.39057,-80.29702,Eutawville,SC,South Carolina,True,,5406.0,46.6,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29051,33.8669,-80.12231,Gable,SC,South Carolina,True,,1720.0,16.2,45027,Clarendon,"{""45027"": 53.03, ""45085"": 46.97}",Clarendon|Sumter,45027|45085,False,False,America/New_York
+29052,33.81036,-80.73832,Gadsden,SC,South Carolina,True,,1634.0,10.5,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29053,33.82734,-81.08646,Gaston,SC,South Carolina,True,,20028.0,96.2,45063,Lexington,"{""45063"": 70.99, ""45017"": 29.01}",Lexington|Calhoun,45063|45017,False,False,America/New_York
+29054,33.94834,-81.37875,Gilbert,SC,South Carolina,True,,9179.0,61.8,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29055,34.57248,-80.91753,Great Falls,SC,South Carolina,True,,3761.0,41.9,45023,Chester,"{""45023"": 68.09, ""45039"": 31.91}",Chester|Fairfield,45023|45039,False,False,America/New_York
+29056,33.60798,-79.99473,Greeleyville,SC,South Carolina,True,,2150.0,8.1,45089,Williamsburg,"{""45089"": 88.61, ""45027"": 11.39}",Williamsburg|Clarendon,45089|45027,False,False,America/New_York
+29058,34.56297,-80.73473,Heath Springs,SC,South Carolina,True,,4726.0,12.6,45057,Lancaster,"{""45057"": 90.05, ""45055"": 9.95}",Lancaster|Kershaw,45057|45055,False,False,America/New_York
+29059,33.32853,-80.41891,Holly Hill,SC,South Carolina,True,,5484.0,19.4,45075,Orangeburg,"{""45075"": 95.18, ""45015"": 4.82}",Orangeburg|Berkeley,45075|45015,False,False,America/New_York
+29061,33.89923,-80.84955,Hopkins,SC,South Carolina,True,,14295.0,62.5,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29062,33.99818,-80.60785,Horatio,SC,South Carolina,True,,127.0,4.0,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York
+29063,34.13948,-81.20457,Irmo,SC,South Carolina,True,,42194.0,406.1,45079,Richland,"{""45079"": 97.19, ""45063"": 2.81}",Richland|Lexington,45079|45063,False,False,America/New_York
+29065,34.29495,-81.29239,Jenkinsville,SC,South Carolina,True,,309.0,4.6,45039,Fairfield,"{""45039"": 100}",Fairfield,45039,False,False,America/New_York
+29067,34.54976,-80.53268,Kershaw,SC,South Carolina,True,,11223.0,22.8,45057,Lancaster,"{""45057"": 54.14, ""45055"": 45.86}",Lancaster|Kershaw,45057|45055,False,False,America/New_York
+29069,34.18798,-80.09654,Lamar,SC,South Carolina,True,,4681.0,23.0,45031,Darlington,"{""45031"": 78.45, ""45061"": 21.55}",Darlington|Lee,45031|45061,False,False,America/New_York
+29070,33.91742,-81.45517,Leesville,SC,South Carolina,True,,17208.0,40.5,45063,Lexington,"{""45063"": 77.96, ""45081"": 22.04}",Lexington|Saluda,45063|45081,False,False,America/New_York
+29072,33.9985,-81.27098,Lexington,SC,South Carolina,True,,64143.0,364.0,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29073,33.89299,-81.23774,Lexington,SC,South Carolina,True,,47694.0,225.0,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29074,34.4512,-80.8144,Liberty Hill,SC,South Carolina,True,,201.0,3.7,45055,Kershaw,"{""45055"": 100}",Kershaw,45055,False,False,America/New_York
+29075,34.19985,-81.37581,Little Mountain,SC,South Carolina,True,,2819.0,26.3,45071,Newberry,"{""45071"": 66.45, ""45079"": 26.93, ""45063"": 6.62}",Newberry|Richland|Lexington,45071|45079|45063,False,False,America/New_York
+29078,34.18162,-80.6994,Lugoff,SC,South Carolina,True,,16162.0,49.6,45055,Kershaw,"{""45055"": 88.54, ""45079"": 11.46}",Kershaw|Richland,45055|45079,False,False,America/New_York
+29079,34.289,-80.11318,Lydia,SC,South Carolina,True,,10.0,36.2,45031,Darlington,"{""45031"": 100}",Darlington,45031,False,False,America/New_York
+29080,34.01525,-80.08374,Lynchburg,SC,South Carolina,True,,2883.0,8.7,45061,Lee,"{""45061"": 55.63, ""45085"": 44.37}",Lee|Sumter,45061|45085,False,False,America/New_York
+29081,33.09161,-81.0426,Ehrhardt,SC,South Carolina,True,,1188.0,5.7,45009,Bamberg,"{""45009"": 85.44, ""45029"": 14.56}",Bamberg|Colleton,45009|45029,False,False,America/New_York
+29082,33.04012,-80.93868,Lodge,SC,South Carolina,True,,515.0,5.3,45029,Colleton,"{""45029"": 96.77, ""45009"": 3.23}",Colleton|Bamberg,45029|45009,False,False,America/New_York
+29101,34.47798,-80.24038,McBee,SC,South Carolina,True,,2991.0,9.4,45025,Chesterfield,"{""45025"": 87.28, ""45031"": 12.72}",Chesterfield|Darlington,45025|45031,False,False,America/New_York
+29102,33.6437,-80.19225,Manning,SC,South Carolina,True,,17245.0,27.4,45027,Clarendon,"{""45027"": 100}",Clarendon,45027,False,False,America/New_York
+29104,33.99524,-80.21373,Mayesville,SC,South Carolina,True,,1452.0,8.5,45061,Lee,"{""45061"": 51.67, ""45085"": 48.33}",Lee|Sumter,45061|45085,False,False,America/New_York
+29105,33.80764,-81.59047,Monetta,SC,South Carolina,True,,1274.0,16.1,45003,Aiken,"{""45003"": 76.06, ""45081"": 23.94}",Aiken|Saluda,45003|45081,False,False,America/New_York
+29107,33.52348,-81.11856,Neeses,SC,South Carolina,True,,3048.0,16.9,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29108,34.29805,-81.62433,Newberry,SC,South Carolina,True,,21235.0,39.0,45071,Newberry,"{""45071"": 100}",Newberry,45071,False,False,America/New_York
+29111,33.78648,-80.01433,New Zion,SC,South Carolina,True,,1825.0,10.8,45027,Clarendon,"{""45027"": 88.39, ""45089"": 11.61}",Clarendon|Williamsburg,45027|45089,False,False,America/New_York
+29112,33.62662,-81.0837,North,SC,South Carolina,True,,3907.0,12.5,45075,Orangeburg,"{""45075"": 88.15, ""45017"": 9.0, ""45063"": 2.85}",Orangeburg|Calhoun|Lexington,45075|45017|45063,False,False,America/New_York
+29113,33.43514,-81.13173,Norway,SC,South Carolina,True,,1687.0,15.7,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29114,33.95436,-79.93537,Olanta,SC,South Carolina,True,,1840.0,20.6,45041,Florence,"{""45041"": 58.79, ""45085"": 39.53, ""45027"": 1.68}",Florence|Sumter|Clarendon,45041|45085|45027,False,False,America/New_York
+29115,33.47673,-80.84758,Orangeburg,SC,South Carolina,True,,26893.0,83.3,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29117,33.49828,-80.85,Orangeburg,SC,South Carolina,True,,1134.0,4470.9,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29118,33.57056,-80.89501,Orangeburg,SC,South Carolina,True,,16771.0,84.5,45075,Orangeburg,"{""45075"": 92.88, ""45017"": 7.12}",Orangeburg|Calhoun,45075|45017,False,False,America/New_York
+29122,34.24015,-81.32532,Peak,SC,South Carolina,True,,51.0,45.3,45071,Newberry,"{""45071"": 100}",Newberry,45071,False,False,America/New_York
+29123,33.76563,-81.25844,Pelion,SC,South Carolina,True,,7195.0,40.8,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29125,33.70165,-80.47434,Pinewood,SC,South Carolina,True,,3017.0,10.1,45085,Sumter,"{""45085"": 53.33, ""45027"": 46.67}",Sumter|Clarendon,45085|45027,False,False,America/New_York
+29126,34.32195,-81.41932,Pomaria,SC,South Carolina,True,,2391.0,11.9,45071,Newberry,"{""45071"": 100}",Newberry,45071,False,False,America/New_York
+29127,34.16568,-81.51192,Prosperity,SC,South Carolina,True,,8386.0,32.3,45071,Newberry,"{""45071"": 93.54, ""45081"": 6.46}",Newberry|Saluda,45071|45081,False,False,America/New_York
+29128,34.0963,-80.53268,Rembert,SC,South Carolina,True,,4869.0,17.5,45085,Sumter,"{""45085"": 64.5, ""45055"": 23.99, ""45061"": 11.51}",Sumter|Kershaw|Lee,45085|45055|45061,False,False,America/New_York
+29129,33.79236,-81.66823,Ridge Spring,SC,South Carolina,True,,4492.0,20.8,45003,Aiken,"{""45003"": 55.01, ""45081"": 32.81, ""45037"": 12.18}",Aiken|Saluda|Edgefield,45003|45081|45037,False,False,America/New_York
+29130,34.32757,-80.89205,Ridgeway,SC,South Carolina,True,,7064.0,18.1,45039,Fairfield,"{""45039"": 83.45, ""45055"": 15.42, ""45079"": 1.13}",Fairfield|Kershaw|Richland,45039|45055|45079,False,False,America/New_York
+29133,33.35726,-80.80698,Rowesville,SC,South Carolina,True,,919.0,6.2,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29135,33.68834,-80.7875,Saint Matthews,SC,South Carolina,True,,8589.0,17.1,45017,Calhoun,"{""45017"": 98.93, ""45075"": 1.07}",Calhoun|Orangeburg,45017|45075,False,False,America/New_York
+29137,33.59626,-81.32226,Salley,SC,South Carolina,True,,2062.0,8.5,45003,Aiken,"{""45003"": 82.98, ""45075"": 17.02}",Aiken|Orangeburg,45003|45075,False,False,America/New_York
+29138,34.04491,-81.77152,Saluda,SC,South Carolina,True,,11040.0,19.3,45081,Saluda,"{""45081"": 97.02, ""45047"": 2.55, ""45037"": 0.43}",Saluda|Greenwood|Edgefield,45081|45047|45037,False,False,America/New_York
+29142,33.46491,-80.52329,Santee,SC,South Carolina,True,,5307.0,40.2,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29145,34.21905,-81.77453,Silverstreet,SC,South Carolina,True,,773.0,6.6,45071,Newberry,"{""45071"": 100}",Newberry,45071,False,False,America/New_York
+29146,33.50816,-81.29812,Springfield,SC,South Carolina,True,,1380.0,8.9,45075,Orangeburg,"{""45075"": 66.63, ""45003"": 33.37}",Orangeburg|Aiken,45075|45003,False,False,America/New_York
+29148,33.53731,-80.34386,Summerton,SC,South Carolina,True,,6526.0,24.1,45027,Clarendon,"{""45027"": 100}",Clarendon,45027,False,False,America/New_York
+29150,33.87621,-80.35609,Sumter,SC,South Carolina,True,,38203.0,336.0,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York
+29152,33.97517,-80.47019,Shaw Afb,SC,South Carolina,True,,2387.0,180.7,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York
+29153,33.96515,-80.30675,Sumter,SC,South Carolina,True,,15821.0,42.4,45085,Sumter,"{""45085"": 87.28, ""45061"": 12.72}",Sumter|Lee,45085|45061,False,False,America/New_York
+29154,33.88515,-80.47547,Sumter,SC,South Carolina,True,,27443.0,99.3,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York
+29160,33.74358,-81.04188,Swansea,SC,South Carolina,True,,6628.0,21.7,45063,Lexington,"{""45063"": 61.5, ""45017"": 38.07, ""45075"": 0.43}",Lexington|Calhoun|Orangeburg,45063|45017|45075,False,False,America/New_York
+29161,34.10532,-79.94143,Timmonsville,SC,South Carolina,True,,11537.0,32.9,45041,Florence,"{""45041"": 75.74, ""45031"": 24.26}",Florence|Darlington,45041|45031,False,False,America/New_York
+29162,33.88751,-80.00865,Turbeville,SC,South Carolina,True,,2859.0,32.7,45027,Clarendon,"{""45027"": 96.56, ""45085"": 3.44}",Clarendon|Sumter,45027|45085,False,False,America/New_York
+29163,33.42019,-80.43918,Vance,SC,South Carolina,True,,1665.0,20.1,45075,Orangeburg,"{""45075"": 100}",Orangeburg,45075,False,False,America/New_York
+29164,33.65699,-81.42586,Wagener,SC,South Carolina,True,,4979.0,17.9,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29166,33.90102,-81.71304,Ward,SC,South Carolina,True,,770.0,9.6,45081,Saluda,"{""45081"": 100}",Saluda,45081,False,False,America/New_York
+29168,33.84848,-80.54483,Wedgefield,SC,South Carolina,True,,4249.0,21.0,45085,Sumter,"{""45085"": 100}",Sumter,45085,False,False,America/New_York
+29169,33.9967,-81.09676,West Columbia,SC,South Carolina,True,,23100.0,767.6,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29170,33.93929,-81.14487,West Columbia,SC,South Carolina,True,,21839.0,344.8,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29172,33.90603,-81.07264,West Columbia,SC,South Carolina,True,,10901.0,176.3,45063,Lexington,"{""45063"": 100}",Lexington,45063,False,False,America/New_York
+29175,34.44266,-80.60666,Westville,SC,South Carolina,True,,456.0,21.6,45055,Kershaw,"{""45055"": 100}",Kershaw,45055,False,False,America/New_York
+29177,34.1405,-81.2675,White Rock,SC,South Carolina,True,,,,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29178,34.4992,-81.5961,Whitmire,SC,South Carolina,True,,3485.0,9.3,45071,Newberry,"{""45071"": 50.49, ""45087"": 36.6, ""45059"": 12.91}",Newberry|Union|Laurens,45071|45087|45059,False,False,America/New_York
+29180,34.36472,-81.09821,Winnsboro,SC,South Carolina,True,,13119.0,16.5,45039,Fairfield,"{""45039"": 95.55, ""45079"": 4.45}",Fairfield|Richland,45039|45079,False,False,America/New_York
+29201,33.98381,-81.02829,Columbia,SC,South Carolina,True,,20906.0,700.0,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29203,34.10198,-81.04009,Columbia,SC,South Carolina,True,,40638.0,252.0,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29204,34.02938,-81.00008,Columbia,SC,South Carolina,True,,17755.0,1077.0,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29205,33.99001,-80.99661,Columbia,SC,South Carolina,True,,23970.0,1433.4,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29206,34.02848,-80.95828,Columbia,SC,South Carolina,True,,18676.0,835.0,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29207,34.04306,-80.84208,Columbia,SC,South Carolina,True,,12797.0,75.4,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29208,33.99751,-81.02681,Columbia,SC,South Carolina,True,,766.0,2151.4,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29209,33.92442,-80.95284,Columbia,SC,South Carolina,True,,35206.0,257.4,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29210,34.04764,-81.10697,Columbia,SC,South Carolina,True,,40488.0,932.5,45079,Richland,"{""45079"": 70.56, ""45063"": 29.44}",Richland|Lexington,45079|45063,False,False,America/New_York
+29212,34.0777,-81.2022,Columbia,SC,South Carolina,True,,28234.0,510.0,45063,Lexington,"{""45063"": 77.73, ""45079"": 22.27}",Lexington|Richland,45063|45079,False,False,America/New_York
+29223,34.09243,-80.92153,Columbia,SC,South Carolina,True,,52895.0,806.9,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29225,33.99538,-81.03006,Columbia,SC,South Carolina,True,,,,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29229,34.14697,-80.89316,Columbia,SC,South Carolina,True,,50137.0,1060.0,45079,Richland,"{""45079"": 100}",Richland,45079,False,False,America/New_York
+29301,34.93516,-82.01301,Spartanburg,SC,South Carolina,True,,35585.0,499.0,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29302,34.89399,-81.84151,Spartanburg,SC,South Carolina,True,,16727.0,127.3,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29303,34.99424,-81.96883,Spartanburg,SC,South Carolina,True,,27575.0,328.2,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29306,34.89338,-81.92177,Spartanburg,SC,South Carolina,True,,17388.0,344.0,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29307,34.98381,-81.83146,Spartanburg,SC,South Carolina,True,,18583.0,160.4,45083,Spartanburg,"{""45083"": 89.27, ""45021"": 10.73}",Spartanburg|Cherokee,45083|45021,False,False,America/New_York
+29316,35.04179,-81.9766,Boiling Springs,SC,South Carolina,True,,27315.0,483.3,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29320,34.95847,-81.9922,Arcadia,SC,South Carolina,True,,459.0,286.9,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29321,34.71975,-81.74151,Buffalo,SC,South Carolina,True,,2821.0,27.7,45087,Union,"{""45087"": 100}",Union,45087,False,False,America/New_York
+29322,35.12254,-82.13157,Campobello,SC,South Carolina,True,,9177.0,61.2,45083,Spartanburg,"{""45083"": 97.74, ""45045"": 2.26}",Spartanburg|Greenville,45083|45045,False,False,America/New_York
+29323,35.12911,-81.90902,Chesnee,SC,South Carolina,True,,14649.0,79.7,45083,Spartanburg,"{""45083"": 87.16, ""45021"": 12.84}",Spartanburg|Cherokee,45083|45021,False,False,America/New_York
+29324,34.98944,-81.82523,Clifton,SC,South Carolina,True,,264.0,214.4,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29325,34.47682,-81.83973,Clinton,SC,South Carolina,True,,14763.0,36.2,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York
+29329,34.99262,-81.83682,Converse,SC,South Carolina,True,,214.0,269.3,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29330,35.05362,-81.80463,Cowpens,SC,South Carolina,True,,9316.0,100.4,45021,Cherokee,"{""45021"": 52.45, ""45083"": 47.55}",Cherokee|Spartanburg,45021|45083,False,False,America/New_York
+29331,34.64351,-81.85836,Cross Anchor,SC,South Carolina,True,,93.0,49.4,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29332,34.28329,-81.97292,Cross Hill,SC,South Carolina,True,,2925.0,24.2,45059,Laurens,"{""45059"": 96.7, ""45071"": 3.3}",Laurens|Newberry,45059|45071,False,False,America/New_York
+29333,34.97092,-81.91069,Drayton,SC,South Carolina,True,,416.0,396.6,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29334,34.90372,-82.12526,Duncan,SC,South Carolina,True,,14298.0,240.3,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29335,34.65714,-81.90035,Enoree,SC,South Carolina,True,,6028.0,24.3,45083,Spartanburg,"{""45083"": 66.79, ""45059"": 18.98, ""45087"": 14.23}",Spartanburg|Laurens|Union,45083|45059|45087,False,False,America/New_York
+29338,35.13444,-82.00172,Fingerville,SC,South Carolina,True,,31.0,76.6,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29340,34.98225,-81.59427,Gaffney,SC,South Carolina,True,,20327.0,48.0,45021,Cherokee,"{""45021"": 100}",Cherokee,45021,False,False,America/New_York
+29341,35.1184,-81.71321,Gaffney,SC,South Carolina,True,,21213.0,87.9,45021,Cherokee,"{""45021"": 100}",Cherokee,45021,False,False,America/New_York
+29346,34.94524,-81.83627,Glendale,SC,South Carolina,True,,312.0,596.1,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29349,35.07045,-82.0688,Inman,SC,South Carolina,True,,33134.0,166.4,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29351,34.42177,-81.80967,Joanna,SC,South Carolina,True,,1270.0,103.5,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York
+29353,34.83064,-81.65636,Jonesville,SC,South Carolina,True,,3793.0,16.0,45087,Union,"{""45087"": 100}",Union,45087,False,False,America/New_York
+29355,34.37012,-81.75894,Kinards,SC,South Carolina,True,,810.0,3.9,45071,Newberry,"{""45071"": 73.11, ""45059"": 26.89}",Newberry|Laurens,45071|45059,False,False,America/New_York
+29356,35.14411,-82.26187,Landrum,SC,South Carolina,True,,7722.0,36.3,45045,Greenville,"{""45045"": 75.99, ""45083"": 24.01}",Greenville|Spartanburg,45045|45083,False,False,America/New_York
+29360,34.49361,-82.04884,Laurens,SC,South Carolina,True,,21044.0,54.0,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York
+29364,34.78846,-81.46202,Lockhart,SC,South Carolina,True,,500.0,247.8,45087,Union,"{""45087"": 99.72, ""45023"": 0.28}",Union|Chester,45087|45023,False,False,America/New_York
+29365,34.98079,-82.16869,Lyman,SC,South Carolina,True,,11572.0,254.4,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29368,35.08262,-81.86281,Mayo,SC,South Carolina,True,,112.0,146.3,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29369,34.86535,-82.02207,Moore,SC,South Carolina,True,,14119.0,194.0,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29370,34.37315,-81.96816,Mountville,SC,South Carolina,True,,673.0,5.6,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York
+29372,34.9059,-81.70878,Pacolet,SC,South Carolina,True,,4709.0,42.7,45021,Cherokee,"{""45021"": 42.37, ""45083"": 31.87, ""45087"": 25.76}",Cherokee|Spartanburg|Union,45021|45083|45087,False,False,America/New_York
+29373,34.92442,-81.74276,Pacolet Mills,SC,South Carolina,True,,355.0,433.7,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29374,34.7861,-81.84854,Pauline,SC,South Carolina,True,,3209.0,25.4,45083,Spartanburg,"{""45083"": 90.26, ""45087"": 9.74}",Spartanburg|Union,45083|45087,False,False,America/New_York
+29375,34.86049,-82.11386,Reidville,SC,South Carolina,True,,95.0,299.0,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29376,34.81564,-81.94921,Roebuck,SC,South Carolina,True,,7760.0,77.7,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29377,34.93036,-82.0971,Startex,SC,South Carolina,True,,550.0,149.2,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29378,34.96684,-81.96857,Una,SC,South Carolina,True,,17.0,62.9,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29379,34.68772,-81.60403,Union,SC,South Carolina,True,,17438.0,27.7,45087,Union,"{""45087"": 100}",Union,45087,False,False,America/New_York
+29384,34.33976,-82.0904,Waterloo,SC,South Carolina,True,,3872.0,34.9,45059,Laurens,"{""45059"": 100}",Laurens,45059,False,False,America/New_York
+29385,34.97623,-82.1024,Wellford,SC,South Carolina,True,,8004.0,164.9,45083,Spartanburg,"{""45083"": 100}",Spartanburg,45083,False,False,America/New_York
+29388,34.76292,-82.04299,Woodruff,SC,South Carolina,True,,16000.0,63.5,45083,Spartanburg,"{""45083"": 94.23, ""45059"": 5.77}",Spartanburg|Laurens,45083|45059,False,False,America/New_York
+29401,32.77868,-79.9354,Charleston,SC,South Carolina,True,,9360.0,2355.3,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29403,32.80347,-79.94561,Charleston,SC,South Carolina,True,,22117.0,1582.0,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29404,32.89783,-80.05246,Charleston Afb,SC,South Carolina,True,,2150.0,164.3,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29405,32.85207,-79.97903,North Charleston,SC,South Carolina,True,,29620.0,779.0,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29406,32.93417,-80.03083,Charleston,SC,South Carolina,True,,36202.0,911.4,45019,Charleston,"{""45019"": 96.96, ""45015"": 3.04}",Charleston|Berkeley,45019|45015,False,False,America/New_York
+29407,32.79912,-79.99872,Charleston,SC,South Carolina,True,,35385.0,889.0,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29409,32.79662,-79.96072,Charleston,SC,South Carolina,True,,2500.0,6590.7,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29410,32.93258,-80.0056,Hanahan,SC,South Carolina,True,,25743.0,951.1,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29412,32.70979,-79.95115,Charleston,SC,South Carolina,True,,41049.0,404.3,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29414,32.84479,-80.10756,Charleston,SC,South Carolina,True,,39319.0,309.9,45019,Charleston,"{""45019"": 82.34, ""45035"": 17.66}",Charleston|Dorchester,45019|45035,False,False,America/New_York
+29418,32.88896,-80.0644,North Charleston,SC,South Carolina,True,,22088.0,644.7,45019,Charleston,"{""45019"": 77.53, ""45035"": 22.47}",Charleston|Dorchester,45019|45035,False,False,America/New_York
+29420,32.93202,-80.09938,North Charleston,SC,South Carolina,True,,22878.0,880.7,45035,Dorchester,"{""45035"": 59.87, ""45019"": 40.13}",Dorchester|Charleston,45035|45019,False,False,America/New_York
+29424,32.78494,-79.93778,Charleston,SC,South Carolina,True,,464.0,4704.8,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29425,32.78516,-79.94828,Charleston,SC,South Carolina,True,,,,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29426,32.79275,-80.37023,Adams Run,SC,South Carolina,True,,1635.0,8.0,45019,Charleston,"{""45019"": 83.53, ""45035"": 16.47}",Charleston|Dorchester,45019|45035,False,False,America/New_York
+29429,32.98699,-79.68011,Awendaw,SC,South Carolina,True,,4465.0,20.1,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29431,33.27708,-79.87711,Bonneau,SC,South Carolina,True,,7700.0,35.1,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29432,33.2294,-80.81428,Branchville,SC,South Carolina,True,,2816.0,9.0,45075,Orangeburg,"{""45075"": 60.51, ""45009"": 32.51, ""45035"": 6.98}",Orangeburg|Bamberg|Dorchester,45075|45009|45035,False,False,America/New_York
+29434,33.14027,-79.8453,Cordesville,SC,South Carolina,True,,542.0,3.9,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29435,32.9526,-80.4672,Cottageville,SC,South Carolina,True,,4429.0,22.7,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29436,33.31658,-80.18457,Cross,SC,South Carolina,True,,4352.0,19.6,45015,Berkeley,"{""45015"": 95.36, ""45075"": 4.64}",Berkeley|Orangeburg,45015|45075,False,False,America/New_York
+29437,33.13673,-80.42319,Dorchester,SC,South Carolina,True,,2347.0,10.8,45035,Dorchester,"{""45035"": 100}",Dorchester,45035,False,False,America/New_York
+29438,32.5722,-80.31893,Edisto Island,SC,South Carolina,True,,2638.0,13.6,45019,Charleston,"{""45019"": 91.95, ""45029"": 8.05}",Charleston|Colleton,45019|45029,False,False,America/New_York
+29439,32.66636,-79.92902,Folly Beach,SC,South Carolina,True,,2391.0,317.5,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29440,33.38229,-79.32908,Georgetown,SC,South Carolina,True,,26790.0,19.8,45043,Georgetown,"{""45043"": 99.47, ""45089"": 0.53}",Georgetown|Williamsburg,45043|45089,False,False,America/New_York
+29445,32.9976,-79.98757,Goose Creek,SC,South Carolina,True,,59233.0,398.4,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29446,32.6281,-80.54028,Green Pond,SC,South Carolina,True,,940.0,2.1,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29448,33.24062,-80.44639,Harleyville,SC,South Carolina,True,,1989.0,12.9,45035,Dorchester,"{""45035"": 100}",Dorchester,45035,False,False,America/New_York
+29449,32.70183,-80.28038,Hollywood,SC,South Carolina,True,,8005.0,41.0,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29450,33.08731,-79.77164,Huger,SC,South Carolina,True,,2539.0,6.0,45015,Berkeley,"{""45015"": 94.49, ""45019"": 5.51}",Berkeley|Charleston,45015|45019,False,False,America/New_York
+29451,32.81633,-79.75266,Isle Of Palms,SC,South Carolina,True,,4463.0,189.0,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29452,32.6997,-80.46998,Jacksonboro,SC,South Carolina,True,,169.0,1.2,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29453,33.21984,-79.61269,Jamestown,SC,South Carolina,True,,1183.0,3.8,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29455,32.68581,-80.08604,Johns Island,SC,South Carolina,True,,22492.0,86.6,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29456,32.98433,-80.11206,Ladson,SC,South Carolina,True,,33408.0,714.1,45019,Charleston,"{""45019"": 46.08, ""45015"": 28.72, ""45035"": 25.2}",Charleston|Berkeley|Dorchester,45019|45015|45035,False,False,America/New_York
+29458,33.11922,-79.4872,McClellanville,SC,South Carolina,True,,2860.0,9.8,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29461,33.17009,-80.00773,Moncks Corner,SC,South Carolina,True,,40696.0,95.7,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29464,32.82082,-79.85583,Mount Pleasant,SC,South Carolina,True,,53119.0,680.5,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29466,32.87486,-79.78785,Mount Pleasant,SC,South Carolina,True,,41466.0,548.7,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29468,33.42624,-80.06856,Pineville,SC,South Carolina,True,,2479.0,13.0,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29469,33.24366,-80.13106,Pinopolis,SC,South Carolina,True,,817.0,16.0,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29470,32.81904,-80.23855,Ravenel,SC,South Carolina,True,,4840.0,25.8,45019,Charleston,"{""45019"": 66.26, ""45035"": 33.74}",Charleston|Dorchester,45019|45035,False,False,America/New_York
+29471,33.18714,-80.66955,Reevesville,SC,South Carolina,True,,1490.0,13.4,45035,Dorchester,"{""45035"": 97.15, ""45075"": 2.85}",Dorchester|Orangeburg,45035|45075,False,False,America/New_York
+29472,33.05379,-80.31928,Ridgeville,SC,South Carolina,True,,10463.0,21.3,45035,Dorchester,"{""45035"": 59.63, ""45015"": 32.32, ""45029"": 8.05}",Dorchester|Berkeley|Colleton,45035|45015|45029,False,False,America/New_York
+29474,32.90833,-80.52448,Round O,SC,South Carolina,True,,2210.0,8.5,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29475,32.96687,-80.8189,Ruffin,SC,South Carolina,True,,2534.0,10.0,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29477,33.16626,-80.57176,Saint George,SC,South Carolina,True,,7903.0,27.7,45035,Dorchester,"{""45035"": 99.13, ""45075"": 0.87}",Dorchester|Orangeburg,45035|45075,False,False,America/New_York
+29479,33.3808,-79.89499,Saint Stephen,SC,South Carolina,True,,6940.0,29.5,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29481,33.11382,-80.80301,Smoaks,SC,South Carolina,True,,1482.0,6.5,45029,Colleton,"{""45029"": 84.61, ""45009"": 15.39}",Colleton|Bamberg,45029|45009,False,False,America/New_York
+29482,32.76845,-79.83556,Sullivans Island,SC,South Carolina,True,,2177.0,336.5,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29483,33.03126,-80.23205,Summerville,SC,South Carolina,True,,91630.0,663.2,45035,Dorchester,"{""45035"": 83.41, ""45015"": 16.28, ""45019"": 0.31}",Dorchester|Berkeley|Charleston,45035|45015|45019,False,False,America/New_York
+29485,32.94398,-80.19362,Summerville,SC,South Carolina,True,,60383.0,480.0,45035,Dorchester,"{""45035"": 93.59, ""45019"": 6.41}",Dorchester|Charleston,45035|45019,False,False,America/New_York
+29486,33.10744,-80.1458,Summerville,SC,South Carolina,True,,,,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29487,32.65691,-80.18476,Wadmalaw Island,SC,South Carolina,True,,2693.0,24.8,45019,Charleston,"{""45019"": 100}",Charleston,45019,False,False,America/New_York
+29488,32.90664,-80.67458,Walterboro,SC,South Carolina,True,,20792.0,33.8,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29492,32.91657,-79.87818,Charleston,SC,South Carolina,True,,14210.0,104.0,45015,Berkeley,"{""45015"": 100}",Berkeley,45015,False,False,America/New_York
+29493,33.04536,-80.84276,Williams,SC,South Carolina,True,,194.0,30.5,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29501,34.20414,-79.82654,Florence,SC,South Carolina,True,,46306.0,341.3,45041,Florence,"{""45041"": 85.45, ""45031"": 14.55}",Florence|Darlington,45041|45031,False,False,America/New_York
+29505,34.12348,-79.68974,Florence,SC,South Carolina,True,,24763.0,188.0,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York
+29506,34.2103,-79.64432,Florence,SC,South Carolina,True,,20304.0,64.9,45041,Florence,"{""45041"": 97.95, ""45031"": 2.05}",Florence|Darlington,45041|45031,False,False,America/New_York
+29510,33.45326,-79.61068,Andrews,SC,South Carolina,True,,9467.0,11.7,45089,Williamsburg,"{""45089"": 65.09, ""45043"": 34.91}",Williamsburg|Georgetown,45089|45043,False,False,America/New_York
+29511,33.97519,-79.11043,Aynor,SC,South Carolina,True,,5799.0,39.2,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29512,34.62733,-79.71091,Bennettsville,SC,South Carolina,True,,18233.0,32.5,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York
+29516,34.44323,-79.62414,Blenheim,SC,South Carolina,True,,929.0,3.5,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York
+29518,33.7892,-79.84851,Cades,SC,South Carolina,True,,938.0,7.7,45089,Williamsburg,"{""45089"": 99.51, ""45027"": 0.49}",Williamsburg|Clarendon,45089|45027,False,False,America/New_York
+29519,34.01622,-79.36048,Centenary,SC,South Carolina,True,,407.0,35.6,45067,Marion,"{""45067"": 100}",Marion,45067,False,False,America/New_York
+29520,34.68083,-79.92601,Cheraw,SC,South Carolina,True,,13447.0,39.4,45025,Chesterfield,"{""45025"": 99.83, ""45069"": 0.17}",Chesterfield|Marlboro,45025|45069,False,False,America/New_York
+29525,34.5722,-79.53327,Clio,SC,South Carolina,True,,1827.0,16.3,45069,Marlboro,"{""45069"": 94.61, ""45033"": 5.39}",Marlboro|Dillon,45069|45033,False,False,America/New_York
+29526,33.86696,-78.9718,Conway,SC,South Carolina,True,,50489.0,111.4,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29527,33.78271,-79.14715,Conway,SC,South Carolina,True,,26793.0,66.7,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29530,33.98984,-79.74222,Coward,SC,South Carolina,True,,2149.0,20.5,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York
+29532,34.28421,-79.85119,Darlington,SC,South Carolina,True,,20499.0,68.9,45031,Darlington,"{""45031"": 100}",Darlington,45031,False,False,America/New_York
+29536,34.41911,-79.37241,Dillon,SC,South Carolina,True,,16838.0,50.6,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York
+29540,34.38903,-79.85028,Darlington,SC,South Carolina,True,,4556.0,16.3,45031,Darlington,"{""45031"": 100}",Darlington,45031,False,False,America/New_York
+29541,34.0653,-79.74087,Effingham,SC,South Carolina,True,,9719.0,47.0,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York
+29543,34.28759,-79.26591,Fork,SC,South Carolina,True,,674.0,14.1,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York
+29544,34.00067,-79.21083,Galivants Ferry,SC,South Carolina,True,,5571.0,17.8,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29545,34.16175,-78.96635,Green Sea,SC,South Carolina,True,,1958.0,20.7,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29546,33.89001,-79.35151,Gresham,SC,South Carolina,True,,2914.0,7.9,45067,Marion,"{""45067"": 100}",Marion,45067,False,False,America/New_York
+29547,34.48684,-79.33243,Hamer,SC,South Carolina,True,,2496.0,24.0,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York
+29550,34.39309,-80.07595,Hartsville,SC,South Carolina,True,,32083.0,59.5,45031,Darlington,"{""45031"": 80.94, ""45025"": 16.83, ""45061"": 2.23}",Darlington|Chesterfield|Lee,45031|45025|45061,False,False,America/New_York
+29554,33.69879,-79.38816,Hemingway,SC,South Carolina,True,,9460.0,17.3,45043,Georgetown,"{""45043"": 51.82, ""45089"": 47.37, ""45041"": 0.81}",Georgetown|Williamsburg|Florence,45043|45089|45041,False,False,America/New_York
+29555,33.83864,-79.46191,Johnsonville,SC,South Carolina,True,,6146.0,25.0,45041,Florence,"{""45041"": 92.46, ""45089"": 7.54}",Florence|Williamsburg,45041|45089,False,False,America/New_York
+29556,33.66849,-79.76403,Kingstree,SC,South Carolina,True,,11687.0,26.1,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York
+29560,33.83535,-79.74747,Lake City,SC,South Carolina,True,,13557.0,31.7,45041,Florence,"{""45041"": 48.1, ""45089"": 42.0, ""45027"": 9.9}",Florence|Williamsburg|Clarendon,45041|45089|45027,False,False,America/New_York
+29563,34.35301,-79.2044,Lake View,SC,South Carolina,True,,2039.0,20.9,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York
+29564,33.47686,-79.85522,Lane,SC,South Carolina,True,,1106.0,8.3,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York
+29565,34.35841,-79.50457,Latta,SC,South Carolina,True,,7887.0,24.0,45033,Dillon,"{""45033"": 92.43, ""45067"": 4.43, ""45069"": 3.14}",Dillon|Marion|Marlboro,45033|45067|45069,False,False,America/New_York
+29566,33.8821,-78.65906,Little River,SC,South Carolina,True,,18269.0,217.7,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29567,34.55325,-79.42649,Little Rock,SC,South Carolina,True,,372.0,7.5,45033,Dillon,"{""45033"": 100}",Dillon,45033,False,False,America/New_York
+29568,33.90815,-78.75455,Longs,SC,South Carolina,True,,17153.0,74.0,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29569,34.0326,-78.90359,Loris,SC,South Carolina,True,,16470.0,37.3,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29570,34.67495,-79.5624,McColl,SC,South Carolina,True,,3172.0,25.4,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York
+29571,34.138,-79.42205,Marion,SC,South Carolina,True,,14185.0,27.1,45067,Marion,"{""45067"": 99.56, ""45033"": 0.44}",Marion|Dillon,45067|45033,False,False,America/New_York
+29572,33.76798,-78.79279,Myrtle Beach,SC,South Carolina,True,,10163.0,441.2,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29574,34.17134,-79.26695,Mullins,SC,South Carolina,True,,10471.0,41.1,45067,Marion,"{""45067"": 99.56, ""45033"": 0.44}",Marion|Dillon,45067|45033,False,False,America/New_York
+29575,33.628,-78.97369,Myrtle Beach,SC,South Carolina,True,,19673.0,743.8,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29576,33.56952,-79.05076,Murrells Inlet,SC,South Carolina,True,,33347.0,422.5,45051,Horry,"{""45051"": 52.78, ""45043"": 47.22}",Horry|Georgetown,45051|45043,False,False,America/New_York
+29577,33.69711,-78.90495,Myrtle Beach,SC,South Carolina,True,,32858.0,555.5,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29579,33.76052,-78.91463,Myrtle Beach,SC,South Carolina,True,,44037.0,321.0,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29580,33.65827,-79.56164,Nesmith,SC,South Carolina,True,,1479.0,7.5,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York
+29581,34.19864,-79.11295,Nichols,SC,South Carolina,True,,4626.0,10.8,45051,Horry,"{""45051"": 73.29, ""45033"": 15.84, ""45067"": 10.87}",Horry|Dillon|Marion,45051|45033|45067,False,False,America/New_York
+29582,33.83423,-78.66049,North Myrtle Beach,SC,South Carolina,True,,17356.0,305.9,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29583,33.9724,-79.57045,Pamplico,SC,South Carolina,True,,5406.0,20.1,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York
+29584,34.5764,-80.05419,Patrick,SC,South Carolina,True,,2070.0,6.9,45025,Chesterfield,"{""45025"": 100}",Chesterfield,45025,False,False,America/New_York
+29585,33.50537,-79.13557,Pawleys Island,SC,South Carolina,True,,15935.0,99.6,45043,Georgetown,"{""45043"": 100}",Georgetown,45043,False,False,America/New_York
+29588,33.67112,-79.02574,Myrtle Beach,SC,South Carolina,True,,51632.0,475.0,45051,Horry,"{""45051"": 100}",Horry,45051,False,False,America/New_York
+29589,34.10037,-79.32015,Rains,SC,South Carolina,True,,,,45067,Marion,"{""45067"": 100}",Marion,45067,False,False,America/New_York
+29590,33.55892,-79.84784,Salters,SC,South Carolina,True,,3543.0,13.0,45089,Williamsburg,"{""45089"": 100}",Williamsburg,45089,False,False,America/New_York
+29591,33.93894,-79.759,Scranton,SC,South Carolina,True,,4746.0,26.0,45041,Florence,"{""45041"": 100}",Florence,45041,False,False,America/New_York
+29592,34.26941,-79.47704,Sellers,SC,South Carolina,True,,623.0,7.0,45067,Marion,"{""45067"": 57.25, ""45033"": 42.75}",Marion|Dillon,45067|45033,False,False,America/New_York
+29593,34.49462,-79.85429,Society Hill,SC,South Carolina,True,,1987.0,10.1,45031,Darlington,"{""45031"": 64.33, ""45025"": 35.67}",Darlington|Chesterfield,45031|45025,False,False,America/New_York
+29594,34.64017,-79.57728,Tatum,SC,South Carolina,True,,351.0,59.1,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York
+29596,34.74456,-79.83978,Wallace,SC,South Carolina,True,,1852.0,11.1,45069,Marlboro,"{""45069"": 100}",Marlboro,45069,False,False,America/New_York
+29601,34.84744,-82.40257,Greenville,SC,South Carolina,True,,12785.0,1161.9,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29605,34.77693,-82.38064,Greenville,SC,South Carolina,True,,38808.0,603.4,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29607,34.80952,-82.33193,Greenville,SC,South Carolina,True,,40933.0,544.8,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29609,34.91209,-82.38928,Greenville,SC,South Carolina,True,,31127.0,494.6,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29611,34.83137,-82.45965,Greenville,SC,South Carolina,True,,31180.0,502.7,45045,Greenville,"{""45045"": 86.02, ""45007"": 11.65, ""45077"": 2.33}",Greenville|Anderson|Pickens,45045|45007|45077,False,False,America/New_York
+29613,34.9257,-82.4384,Greenville,SC,South Carolina,True,,2168.0,1326.7,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29614,34.87386,-82.36302,Greenville,SC,South Carolina,True,,1886.0,3832.2,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29615,34.85591,-82.29553,Greenville,SC,South Carolina,True,,37349.0,750.1,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29617,34.91262,-82.4666,Greenville,SC,South Carolina,True,,28936.0,498.8,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29620,34.1813,-82.42804,Abbeville,SC,South Carolina,True,,12413.0,19.4,45001,Abbeville,"{""45001"": 96.08, ""45065"": 3.92}",Abbeville|McCormick,45001|45065,False,False,America/New_York
+29621,34.50598,-82.60328,Anderson,SC,South Carolina,True,,42546.0,188.5,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29624,34.43778,-82.62553,Anderson,SC,South Carolina,True,,14926.0,204.5,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29625,34.55577,-82.76294,Anderson,SC,South Carolina,True,,27875.0,229.3,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29626,34.46004,-82.76057,Anderson,SC,South Carolina,True,,13847.0,103.3,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29627,34.51807,-82.47861,Belton,SC,South Carolina,True,,17445.0,56.7,45007,Anderson,"{""45007"": 82.88, ""45045"": 15.7, ""45001"": 1.42}",Anderson|Greenville|Abbeville,45007|45045|45001,False,False,America/New_York
+29628,34.09253,-82.55821,Calhoun Falls,SC,South Carolina,True,,2480.0,13.5,45001,Abbeville,"{""45001"": 77.88, ""45065"": 22.12}",Abbeville|McCormick,45001|45065,False,False,America/New_York
+29630,34.73882,-82.79646,Central,SC,South Carolina,True,,16212.0,101.7,45077,Pickens,"{""45077"": 88.02, ""45007"": 11.98}",Pickens|Anderson,45077|45007,False,False,America/New_York
+29631,34.68133,-82.81716,Clemson,SC,South Carolina,True,,15573.0,689.9,45077,Pickens,"{""45077"": 99.51, ""45007"": 0.49}",Pickens|Anderson,45077|45007,False,False,America/New_York
+29634,34.67517,-82.83978,Clemson,SC,South Carolina,True,,5329.0,1478.6,45077,Pickens,"{""45077"": 98.91, ""45073"": 1.09}",Pickens|Oconee,45077|45073,False,False,America/New_York
+29635,35.07754,-82.63152,Cleveland,SC,South Carolina,True,,1334.0,9.7,45045,Greenville,"{""45045"": 81.79, ""45077"": 18.21}",Greenville|Pickens,45045|45077,False,False,America/New_York
+29638,34.36087,-82.3346,Donalds,SC,South Carolina,True,,3546.0,23.5,45001,Abbeville,"{""45001"": 83.93, ""45047"": 16.07}",Abbeville|Greenwood,45001|45047,False,False,America/New_York
+29639,34.31402,-82.4205,Due West,SC,South Carolina,True,,1914.0,45.9,45001,Abbeville,"{""45001"": 100}",Abbeville,45001,False,False,America/New_York
+29640,34.88706,-82.57725,Easley,SC,South Carolina,True,,29766.0,134.2,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York
+29642,34.77487,-82.56538,Easley,SC,South Carolina,True,,33120.0,251.9,45007,Anderson,"{""45007"": 55.55, ""45077"": 44.45}",Anderson|Pickens,45007|45077,False,False,America/New_York
+29643,34.50506,-82.97441,Fair Play,SC,South Carolina,True,,2327.0,32.1,45073,Oconee,"{""45073"": 65.16, ""45007"": 34.84}",Oconee|Anderson,45073|45007,False,False,America/New_York
+29644,34.66864,-82.19714,Fountain Inn,SC,South Carolina,True,,21811.0,102.7,45045,Greenville,"{""45045"": 50.14, ""45059"": 49.86}",Greenville|Laurens,45045|45059,False,False,America/New_York
+29645,34.59453,-82.12375,Gray Court,SC,South Carolina,True,,10445.0,37.8,45059,Laurens,"{""45059"": 99.88, ""45045"": 0.12}",Laurens|Greenville,45059|45045,False,False,America/New_York
+29646,34.13995,-82.15032,Greenwood,SC,South Carolina,True,,28739.0,109.4,45047,Greenwood,"{""45047"": 96.05, ""45001"": 3.95}",Greenwood|Abbeville,45047|45001,False,False,America/New_York
+29649,34.24354,-82.13825,Greenwood,SC,South Carolina,True,,26440.0,190.4,45047,Greenwood,"{""45047"": 97.44, ""45001"": 2.56}",Greenwood|Abbeville,45047|45001,False,False,America/New_York
+29650,34.89805,-82.25826,Greer,SC,South Carolina,True,,35053.0,753.0,45045,Greenville,"{""45045"": 98.74, ""45083"": 1.26}",Greenville|Spartanburg,45045|45083,False,False,America/New_York
+29651,34.94653,-82.22649,Greer,SC,South Carolina,True,,51262.0,220.9,45045,Greenville,"{""45045"": 56.27, ""45083"": 43.73}",Greenville|Spartanburg,45045|45083,False,False,America/New_York
+29653,34.30028,-82.23173,Hodges,SC,South Carolina,True,,4310.0,23.5,45047,Greenwood,"{""45047"": 92.73, ""45001"": 7.27}",Greenwood|Abbeville,45047|45001,False,False,America/New_York
+29654,34.46621,-82.36354,Honea Path,SC,South Carolina,True,,9829.0,31.9,45007,Anderson,"{""45007"": 36.74, ""45001"": 29.51, ""45045"": 23.41, ""45059"": 10.33}",Anderson|Abbeville|Greenville|Laurens,45007|45001|45045|45059,False,False,America/New_York
+29655,34.267,-82.64032,Iva,SC,South Carolina,True,,6923.0,19.0,45001,Abbeville,"{""45001"": 54.97, ""45007"": 45.03}",Abbeville|Anderson,45001|45007,False,False,America/New_York
+29657,34.76713,-82.68941,Liberty,SC,South Carolina,True,,15847.0,96.6,45077,Pickens,"{""45077"": 76.19, ""45007"": 23.81}",Pickens|Anderson,45077|45007,False,False,America/New_York
+29658,34.76191,-83.29858,Long Creek,SC,South Carolina,True,,397.0,7.2,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29659,34.21167,-82.64535,Lowndesville,SC,South Carolina,True,,167.0,149.0,45001,Abbeville,"{""45001"": 100}",Abbeville,45001,False,False,America/New_York
+29661,35.06706,-82.53852,Marietta,SC,South Carolina,True,,5684.0,27.1,45045,Greenville,"{""45045"": 80.17, ""45077"": 19.83}",Greenville|Pickens,45045|45077,False,False,America/New_York
+29662,34.77837,-82.30557,Mauldin,SC,South Carolina,True,,16600.0,1163.1,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29664,34.86393,-83.15991,Mountain Rest,SC,South Carolina,True,,2162.0,8.5,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29665,34.72399,-82.91413,Newry,SC,South Carolina,True,,98.0,128.2,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29666,34.12345,-81.99121,Ninety Six,SC,South Carolina,True,,6436.0,20.3,45047,Greenwood,"{""45047"": 94.64, ""45081"": 5.36}",Greenwood|Saluda,45047|45081,False,False,America/New_York
+29667,34.76446,-82.75655,Norris,SC,South Carolina,True,,253.0,186.3,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York
+29669,34.6405,-82.41495,Pelzer,SC,South Carolina,True,,12624.0,79.0,45045,Greenville,"{""45045"": 72.14, ""45007"": 27.86}",Greenville|Anderson,45045|45007,False,False,America/New_York
+29670,34.64191,-82.72455,Pendleton,SC,South Carolina,True,,10232.0,70.5,45007,Anderson,"{""45007"": 95.25, ""45077"": 4.75}",Anderson|Pickens,45007|45077,False,False,America/New_York
+29671,34.94071,-82.72057,Pickens,SC,South Carolina,True,,18125.0,52.9,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York
+29672,34.75036,-82.94257,Seneca,SC,South Carolina,True,,12038.0,118.7,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29673,34.71901,-82.455,Piedmont,SC,South Carolina,True,,30704.0,168.0,45045,Greenville,"{""45045"": 53.9, ""45007"": 46.1}",Greenville|Anderson,45045|45007,False,False,America/New_York
+29676,34.93326,-82.96006,Salem,SC,South Carolina,True,,5748.0,30.8,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29678,34.63365,-82.93991,Seneca,SC,South Carolina,True,,23299.0,112.8,45073,Oconee,"{""45073"": 99.48, ""45077"": 0.52}",Oconee|Pickens,45073|45077,False,False,America/New_York
+29680,34.69011,-82.29073,Simpsonville,SC,South Carolina,True,,31913.0,424.0,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29681,34.76988,-82.22218,Simpsonville,SC,South Carolina,True,,64806.0,572.7,45045,Greenville,"{""45045"": 97.43, ""45059"": 2.57}",Greenville|Laurens,45045|45059,False,False,America/New_York
+29682,34.83295,-82.84701,Six Mile,SC,South Carolina,True,,3644.0,54.5,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York
+29683,35.03032,-82.49306,Slater,SC,South Carolina,True,,508.0,1333.9,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29684,34.3791,-82.72722,Starr,SC,South Carolina,True,,4809.0,31.5,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29685,34.98297,-82.84727,Sunset,SC,South Carolina,True,,1945.0,8.5,45077,Pickens,"{""45077"": 100}",Pickens,45077,False,False,America/New_York
+29686,34.92858,-83.04541,Tamassee,SC,South Carolina,True,,1019.0,12.3,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29687,34.9855,-82.32833,Taylors,SC,South Carolina,True,,41098.0,329.0,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29689,34.53624,-82.87658,Townville,SC,South Carolina,True,,4012.0,44.8,45007,Anderson,"{""45007"": 88.92, ""45073"": 11.08}",Anderson|Oconee,45007|45073,False,False,America/New_York
+29690,35.06008,-82.42136,Travelers Rest,SC,South Carolina,True,,24595.0,90.3,45045,Greenville,"{""45045"": 100}",Greenville,45045,False,False,America/New_York
+29691,34.78547,-83.07669,Walhalla,SC,South Carolina,True,,12141.0,75.4,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29692,34.42142,-82.22208,Ware Shoals,SC,South Carolina,True,,5483.0,43.6,45059,Laurens,"{""45059"": 80.02, ""45047"": 12.64, ""45001"": 7.34}",Laurens|Greenwood|Abbeville,45059|45047|45001,False,False,America/New_York
+29693,34.65641,-83.15284,Westminster,SC,South Carolina,True,,13747.0,30.6,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29696,34.77458,-83.00771,West Union,SC,South Carolina,True,,5435.0,95.8,45073,Oconee,"{""45073"": 100}",Oconee,45073,False,False,America/New_York
+29697,34.62887,-82.54786,Williamston,SC,South Carolina,True,,14421.0,141.9,45007,Anderson,"{""45007"": 100}",Anderson,45007,False,False,America/New_York
+29702,35.11674,-81.47884,Blacksburg,SC,South Carolina,True,,10209.0,42.2,45021,Cherokee,"{""45021"": 85.58, ""45091"": 14.42}",Cherokee|York,45021|45091,False,False,America/New_York
+29704,34.82293,-80.91592,Catawba,SC,South Carolina,True,,2930.0,43.1,45091,York,"{""45091"": 56.79, ""45023"": 43.21}",York|Chester,45091|45023,False,False,America/New_York
+29706,34.71773,-81.23055,Chester,SC,South Carolina,True,,19813.0,28.5,45023,Chester,"{""45023"": 99.72, ""45091"": 0.28}",Chester|York,45023|45091,False,False,America/New_York
+29707,34.98148,-80.85669,Fort Mill,SC,South Carolina,True,,34022.0,461.7,45057,Lancaster,"{""45057"": 100}",Lancaster,45057,False,False,America/New_York
+29708,35.04655,-80.98604,Fort Mill,SC,South Carolina,True,,38452.0,780.2,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29709,34.71882,-80.09752,Chesterfield,SC,South Carolina,True,,6578.0,25.4,45025,Chesterfield,"{""45025"": 100}",Chesterfield,45025,False,False,America/New_York
+29710,35.10598,-81.22209,Clover,SC,South Carolina,True,,37269.0,126.1,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29712,34.79439,-80.98398,Edgemoor,SC,South Carolina,True,,2199.0,29.5,45023,Chester,"{""45023"": 84.91, ""45091"": 15.09}",Chester|York,45023|45091,False,False,America/New_York
+29714,34.71171,-80.9145,Fort Lawn,SC,South Carolina,True,,3178.0,37.7,45023,Chester,"{""45023"": 100}",Chester,45023,False,False,America/New_York
+29715,35.01028,-80.92752,Fort Mill,SC,South Carolina,True,,36277.0,400.5,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29717,34.95119,-81.44304,Hickory Grove,SC,South Carolina,True,,1662.0,17.2,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29718,34.6291,-80.35469,Jefferson,SC,South Carolina,True,,4220.0,15.7,45025,Chesterfield,"{""45025"": 90.47, ""45055"": 6.96, ""45057"": 2.57}",Chesterfield|Kershaw|Lancaster,45025|45055|45057,False,False,America/New_York
+29720,34.74265,-80.73684,Lancaster,SC,South Carolina,True,,48641.0,65.9,45057,Lancaster,"{""45057"": 100}",Lancaster,45057,False,False,America/New_York
+29724,34.77503,-81.01248,Lando,SC,South Carolina,True,,0.0,0.0,45023,Chester,"{""45023"": 100}",Chester,45023,False,False,America/New_York
+29726,34.85738,-81.23223,McConnells,SC,South Carolina,True,,1537.0,14.7,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29727,34.71566,-80.2684,Mount Croghan,SC,South Carolina,True,,2189.0,16.7,45025,Chesterfield,"{""45025"": 100}",Chesterfield,45025,False,False,America/New_York
+29728,34.76831,-80.40445,Pageland,SC,South Carolina,True,,9616.0,39.0,45025,Chesterfield,"{""45025"": 100}",Chesterfield,45025,False,False,America/New_York
+29729,34.67716,-81.00528,Richburg,SC,South Carolina,True,,2215.0,12.3,45023,Chester,"{""45023"": 100}",Chester,45023,False,False,America/New_York
+29730,34.8878,-81.02116,Rock Hill,SC,South Carolina,True,,57174.0,184.9,45091,York,"{""45091"": 95.39, ""45023"": 4.61}",York|Chester,45091|45023,False,False,America/New_York
+29732,34.96979,-81.07963,Rock Hill,SC,South Carolina,True,,58351.0,426.7,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29733,34.93945,-81.03173,Rock Hill,SC,South Carolina,True,,1713.0,5173.8,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29741,34.72511,-80.20138,Ruby,SC,South Carolina,True,,2422.0,25.2,45025,Chesterfield,"{""45025"": 100}",Chesterfield,45025,False,False,America/New_York
+29742,34.86939,-81.38155,Sharon,SC,South Carolina,True,,2594.0,12.4,45091,York,"{""45091"": 83.94, ""45023"": 16.06}",York|Chester,45091|45023,False,False,America/New_York
+29743,35.02865,-81.40772,Smyrna,SC,South Carolina,True,,1438.0,14.9,45091,York,"{""45091"": 84.54, ""45021"": 15.46}",York|Cherokee,45091|45021,False,False,America/New_York
+29745,34.99549,-81.21573,York,SC,South Carolina,True,,34052.0,96.8,45091,York,"{""45091"": 100}",York,45091,False,False,America/New_York
+29801,33.58675,-81.69701,Aiken,SC,South Carolina,True,,28610.0,124.2,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29803,33.45889,-81.70076,Aiken,SC,South Carolina,True,,38735.0,117.3,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29805,33.6495,-81.61044,Aiken,SC,South Carolina,True,,5409.0,21.4,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29809,33.41653,-81.6889,New Ellenton,SC,South Carolina,True,,2729.0,195.3,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29810,32.99358,-81.3798,Allendale,SC,South Carolina,True,,4084.0,12.4,45005,Allendale,"{""45005"": 100}",Allendale,45005,False,False,America/New_York
+29812,33.21185,-81.37911,Barnwell,SC,South Carolina,True,,10969.0,24.4,45011,Barnwell,"{""45011"": 97.67, ""45005"": 2.33}",Barnwell|Allendale,45011|45005,False,False,America/New_York
+29816,33.50105,-81.87164,Bath,SC,South Carolina,True,,1171.0,757.7,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29817,33.36989,-81.27096,Blackville,SC,South Carolina,True,,4293.0,14.5,45011,Barnwell,"{""45011"": 83.85, ""45009"": 16.15}",Barnwell|Bamberg,45011|45009,False,False,America/New_York
+29819,34.04764,-82.22632,Bradley,SC,South Carolina,True,,1607.0,7.5,45047,Greenwood,"{""45047"": 83.16, ""45001"": 11.29, ""45065"": 5.55}",Greenwood|Abbeville|McCormick,45047|45001|45065,False,False,America/New_York
+29821,33.64242,-82.11667,Clarks Hill,SC,South Carolina,True,,1568.0,11.0,45037,Edgefield,"{""45037"": 51.62, ""45065"": 48.38}",Edgefield|McCormick,45037|45065,False,False,America/New_York
+29824,33.81647,-81.99666,Edgefield,SC,South Carolina,True,,8432.0,13.9,45037,Edgefield,"{""45037"": 98.26, ""45081"": 1.74}",Edgefield|Saluda,45037|45081,False,False,America/New_York
+29826,33.383,-81.36697,Elko,SC,South Carolina,True,,321.0,61.4,45011,Barnwell,"{""45011"": 100}",Barnwell,45011,False,False,America/New_York
+29827,32.96951,-81.24542,Fairfax,SC,South Carolina,True,,3982.0,14.7,45005,Allendale,"{""45005"": 96.18, ""45049"": 3.82}",Allendale|Hampton,45005|45049,False,False,America/New_York
+29828,33.52299,-81.82891,Gloverville,SC,South Carolina,True,,604.0,357.0,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29829,33.57715,-81.85537,Graniteville,SC,South Carolina,True,,11387.0,126.1,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29831,33.33657,-81.84293,Jackson,SC,South Carolina,True,,4270.0,25.7,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29832,33.83922,-81.80656,Johnston,SC,South Carolina,True,,5727.0,23.4,45037,Edgefield,"{""45037"": 66.76, ""45081"": 32.4, ""45003"": 0.84}",Edgefield|Saluda|Aiken,45037|45081|45003,False,False,America/New_York
+29834,33.5178,-81.84216,Langley,SC,South Carolina,True,,1889.0,4682.7,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29835,33.91779,-82.29559,McCormick,SC,South Carolina,True,,6119.0,13.9,45065,McCormick,"{""45065"": 85.41, ""45037"": 14.59}",McCormick|Edgefield,45065|45037,False,False,America/New_York
+29836,33.09046,-81.50026,Martin,SC,South Carolina,True,,254.0,1.0,45005,Allendale,"{""45005"": 83.09, ""45011"": 16.91}",Allendale|Barnwell,45005|45011,False,False,America/New_York
+29838,33.73452,-82.1667,Modoc,SC,South Carolina,True,,458.0,6.1,45037,Edgefield,"{""45037"": 60.52, ""45065"": 39.48}",Edgefield|McCormick,45037|45065,False,False,America/New_York
+29840,33.99797,-82.52749,Mount Carmel,SC,South Carolina,True,,281.0,3.5,45065,McCormick,"{""45065"": 100}",McCormick,45065,False,False,America/New_York
+29841,33.52508,-81.93954,North Augusta,SC,South Carolina,True,,32989.0,398.7,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29842,33.44559,-81.8645,Beech Island,SC,South Carolina,True,,7778.0,72.6,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29843,33.18385,-81.18218,Olar,SC,South Carolina,True,,1493.0,8.7,45009,Bamberg,"{""45009"": 81.29, ""45011"": 18.71}",Bamberg|Barnwell,45009|45011,False,False,America/New_York
+29844,33.78528,-82.2142,Parksville,SC,South Carolina,True,,136.0,50.3,45065,McCormick,"{""45065"": 100}",McCormick,45065,False,False,America/New_York
+29845,33.8231,-82.20788,Plum Branch,SC,South Carolina,True,,808.0,4.3,45065,McCormick,"{""45065"": 92.36, ""45037"": 7.64}",McCormick|Edgefield,45065|45037,False,False,America/New_York
+29847,33.69941,-81.84878,Trenton,SC,South Carolina,True,,4936.0,21.1,45037,Edgefield,"{""45037"": 75.66, ""45003"": 24.34}",Edgefield|Aiken,45037|45003,False,False,America/New_York
+29848,33.99616,-82.18304,Troy,SC,South Carolina,True,,881.0,3.7,45065,McCormick,"{""45065"": 53.03, ""45047"": 38.06, ""45081"": 8.91}",McCormick|Greenwood|Saluda,45065|45047|45081,False,False,America/New_York
+29849,33.10168,-81.23641,Ulmer,SC,South Carolina,True,,452.0,4.2,45005,Allendale,"{""45005"": 73.59, ""45011"": 26.41}",Allendale|Barnwell,45005|45011,False,False,America/New_York
+29851,33.51098,-81.81597,Warrenville,SC,South Carolina,True,,7743.0,135.6,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29853,33.39871,-81.43217,Williston,SC,South Carolina,True,,6139.0,19.5,45011,Barnwell,"{""45011"": 75.21, ""45003"": 24.79}",Barnwell|Aiken,45011|45003,False,False,America/New_York
+29856,33.48365,-81.51276,Windsor,SC,South Carolina,True,,3607.0,25.6,45003,Aiken,"{""45003"": 100}",Aiken,45003,False,False,America/New_York
+29860,33.60667,-81.97776,North Augusta,SC,South Carolina,True,,16483.0,117.1,45037,Edgefield,"{""45037"": 85.51, ""45003"": 14.49}",Edgefield|Aiken,45037|45003,False,False,America/New_York
+29899,33.92801,-82.25064,McCormick,SC,South Carolina,True,,1037.0,1061.1,45065,McCormick,"{""45065"": 100}",McCormick,45065,False,False,America/New_York
+29902,32.37426,-80.69438,Beaufort,SC,South Carolina,True,,16083.0,342.4,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29904,32.47899,-80.72198,Beaufort,SC,South Carolina,True,,,,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29905,32.35383,-80.69537,Parris Island,SC,South Carolina,True,,1494.0,203.5,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29906,32.44521,-80.75159,Beaufort,SC,South Carolina,True,,28205.0,242.2,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29907,32.45326,-80.60926,Beaufort,SC,South Carolina,True,,15524.0,141.8,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29909,32.34042,-80.85465,Okatie,SC,South Carolina,True,,20554.0,142.6,45013,Beaufort,"{""45013"": 98.38, ""45053"": 1.62}",Beaufort|Jasper,45013|45053,False,False,America/New_York
+29910,32.2204,-80.88277,Bluffton,SC,South Carolina,True,,43618.0,161.2,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29911,32.9327,-81.14536,Brunson,SC,South Carolina,True,,1436.0,6.9,45049,Hampton,"{""45049"": 99.89, ""45005"": 0.11}",Hampton|Allendale,45049|45005,False,False,America/New_York
+29912,32.58262,-80.93102,Coosawhatchie,SC,South Carolina,True,,0.0,0.0,45053,Jasper,"{""45053"": 100}",Jasper,45053,False,False,America/New_York
+29915,32.11464,-80.86892,Daufuskie Island,SC,South Carolina,True,,485.0,17.4,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29916,32.72863,-80.95708,Early Branch,SC,South Carolina,True,,2257.0,13.7,45049,Hampton,"{""45049"": 63.05, ""45053"": 36.95}",Hampton|Jasper,45049|45053,False,False,America/New_York
+29918,32.74461,-81.24899,Estill,SC,South Carolina,True,,5765.0,20.7,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York
+29920,32.36441,-80.54946,Saint Helena Island,SC,South Carolina,True,,11042.0,43.7,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29921,32.68664,-81.18011,Furman,SC,South Carolina,True,,552.0,41.4,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York
+29922,32.59632,-81.27407,Garnett,SC,South Carolina,True,,987.0,2.6,45049,Hampton,"{""45049"": 66.78, ""45053"": 33.22}",Hampton|Jasper,45049|45053,False,False,America/New_York
+29923,32.84821,-81.23856,Gifford,SC,South Carolina,True,,203.0,12.7,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York
+29924,32.87737,-81.10749,Hampton,SC,South Carolina,True,,4515.0,35.7,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York
+29926,32.22936,-80.74931,Hilton Head Island,SC,South Carolina,True,,27160.0,365.4,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29927,32.24343,-81.04971,Hardeeville,SC,South Carolina,True,,9644.0,18.6,45053,Jasper,"{""45053"": 99.67, ""45013"": 0.33}",Jasper|Beaufort,45053|45013,False,False,America/New_York
+29928,32.16214,-80.76274,Hilton Head Island,SC,South Carolina,True,,15553.0,290.0,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29929,32.93805,-80.9434,Islandton,SC,South Carolina,True,,872.0,4.3,45029,Colleton,"{""45029"": 100}",Colleton,45029,False,False,America/New_York
+29932,32.82529,-81.34853,Luray,SC,South Carolina,True,,175.0,1.0,45005,Allendale,"{""45005"": 88.73, ""45049"": 11.27}",Allendale|Hampton,45005|45049,False,False,America/New_York
+29934,32.59651,-81.11245,Pineland,SC,South Carolina,True,,629.0,3.2,45053,Jasper,"{""45053"": 87.4, ""45049"": 12.6}",Jasper|Hampton,45053|45049,False,False,America/New_York
+29935,32.38277,-80.6963,Port Royal,SC,South Carolina,True,,4515.0,747.4,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29936,32.48475,-80.96766,Ridgeland,SC,South Carolina,True,,14498.0,24.2,45053,Jasper,"{""45053"": 100}",Jasper,45053,False,False,America/New_York
+29939,32.68127,-81.24538,Scotia,SC,South Carolina,True,,289.0,32.7,45049,Hampton,"{""45049"": 100}",Hampton,45049,False,False,America/New_York
+29940,32.5524,-80.67511,Seabrook,SC,South Carolina,True,,4340.0,22.6,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29941,32.54357,-80.81509,Sheldon,SC,South Carolina,True,,538.0,13.8,45013,Beaufort,"{""45013"": 100}",Beaufort,45013,False,False,America/New_York
+29943,32.4821,-81.14952,Tillman,SC,South Carolina,True,,454.0,6.3,45053,Jasper,"{""45053"": 100}",Jasper,45053,False,False,America/New_York
+29944,32.79129,-81.03409,Varnville,SC,South Carolina,True,,3790.0,10.8,45049,Hampton,"{""45049"": 86.17, ""45053"": 13.83}",Hampton|Jasper,45049|45053,False,False,America/New_York
+29945,32.68694,-80.80912,Yemassee,SC,South Carolina,True,,5544.0,10.4,45029,Colleton,"{""45029"": 41.83, ""45013"": 27.05, ""45053"": 15.83, ""45049"": 15.29}",Colleton|Beaufort|Jasper|Hampton,45029|45013|45053|45049,False,False,America/New_York
